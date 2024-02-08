@@ -1,0 +1,886 @@
+[
+    {
+        "character": "䴚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䴚gǎng",
+                "rhyme_book": "《廣韻》各朗切，上蕩見。",
+                "meanings": [
+                    "盐泽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䴛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䴛xiāo",
+                "rhyme_book": "《廣韻》相邀切，平宵心。",
+                "meanings": [
+                    "盐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䴜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䴜wāi",
+                "rhyme_book": "《集韻》烏乖切，平皆影。",
+                "meanings": [
+                    "〔𪉸䴜〕见“𪉸”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䴝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chuài",
+                "rhyme_book": "《廣韻》楚夬切，去夬初。",
+                "meanings": [
+                    "盐",
+                    "酱"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䴞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䴞dí",
+                "rhyme_book": "《集韻》亭歷切，入錫定。",
+                "meanings": [
+                    "咸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "lǔ",
+                "rhyme_book": "《廣韻》郎古切，上姥來。魚部。",
+                "meanings": [
+                    "盐碱地",
+                    "古指盐",
+                    "卤素",
+                    "以食盐为基本原料加多种调味品对食品进行煮制",
+                    "饮料浓汁或食物汤羹",
+                    "粗率，鲁莽",
+                    "地名",
+                    "姓",
+                    "兵器",
+                    "顶部没有遮盖的望楼",
+                    "战车的一种",
+                    "比桨长大的划船工具",
+                    "俘获",
+                    "抢劫；掠夺",
+                    "战俘",
+                    "奴隶；仆人",
+                    "对敌人的蔑称",
+                    "古代南方人对北方人的蔑称",
+                    "嘉美",
+                    "迟钝，笨拙",
+                    "*周*代诸侯国名",
+                    "地区名",
+                    "*山东省*的简称"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lú",
+                "rhyme_book": "《字彙》龍都切。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jīn",
+                "rhyme_book": "《集韻》居陵切，平蒸見。",
+                "meanings": [
+                    "苦",
+                    "自矜，夸大",
+                    "哀怜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "鹷líng",
+                "rhyme_book": "《廣韻》郎丁切，平青來。",
+                "meanings": [
+                    "盐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": null,
+                "rhyme_book": null,
+                "meanings": [
+                    "〕《説文》：“鹹，銜也"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "xián",
+                "rhyme_book": "《廣韻》胡讒切，平咸匣。侵部。",
+                "meanings": [
+                    "像盐那样的味道",
+                    "苦",
+                    "古地名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiǎn",
+                "rhyme_book": "《本草綱目》音減。",
+                "meanings": [
+                    "卤水"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "cuó",
+                "rhyme_book": "《廣韻》昨何切，平歌從。",
+                "meanings": [
+                    "味咸",
+                    "盐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹻",
+        "variants": [],
+        "synonyms": [
+            "鹼",
+            "鹼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鹼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiǎn",
+                "rhyme_book": "《廣韻》古斬切，上豏見。又七廉切。談部。",
+                "meanings": [
+                    "盐卤",
+                    "含氢氧根的化合物的统称"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yán",
+                "rhyme_book": "《廣韻》余廉切，平鹽以。談部。",
+                "meanings": [
+                    "食盐",
+                    "由金属离子（包括铵离子）和酸根离子组成的化合物的通称",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yàn",
+                "rhyme_book": "《廣韻》以贍切，去豔以。",
+                "meanings": [
+                    "用盐腌",
+                    "古乐曲名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鹾",
+        "variants": [
+            "鹾“鹺”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠧸",
+        "variants": [],
+        "synonyms": [
+            "鹵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "𪉖lǔ",
+                "rhyme_book": "《玉篇》音魯。",
+                "meanings": [
+                    "沙"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉗",
+        "variants": [
+            "打猎。《字彙補·鹵部》：“𪉗，狩也。”一说“𠧵”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉘tóu",
+                "rhyme_book": "《集韻》徒侯切，平侯定。",
+                "meanings": [
+                    "卤地"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉙",
+        "variants": [],
+        "synonyms": [
+            "覃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉚jiē",
+                "rhyme_book": "《龍龕手鑑·鹵部》：“𪉚，音接。”",
+                "meanings": [
+                    "《字彙補·鹵部》：“𪉚，子聶切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉛",
+        "variants": [
+            "𪉛“䴚”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁵𪉜zhān",
+                "rhyme_book": "《廣韻》竹咸切，平咸知。又陟陷切。",
+                "meanings": [
+                    "咸味"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉝",
+        "variants": [
+            "𪉝“鹶”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉞",
+        "variants": [],
+        "synonyms": [
+            "覃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉟",
+        "variants": [],
+        "synonyms": [
+            "鹽"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉡",
+        "variants": [],
+        "synonyms": [
+            "䴚"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉢",
+        "variants": [],
+        "synonyms": [
+            "鹶"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁷𪉣lǔ",
+                "rhyme_book": "《集韻》籠五切，上姥來。",
+                "meanings": [
+                    "豆名",
+                    "𪉣lǔ　《直音篇》音魯"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉤",
+        "variants": [],
+        "synonyms": [
+            "鹺",
+            "鹺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiàn",
+                "rhyme_book": "《廣韻》公陷切，去陷見。",
+                "meanings": [
+                    "咸味"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiǎn",
+                "rhyme_book": "《集韻》古斬切，上豏見。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gàn",
+                "rhyme_book": "《集韻》古蹔切，去闞見。",
+                "meanings": [
+                    "〔𪉦𪊇〕无味"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉧tàn",
+                "rhyme_book": "《廣韻》吐濫切，去闞透。",
+                "meanings": [
+                    "〔𪉦𪉧〕也作“𪉦𪊇”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉨chāng",
+                "rhyme_book": "《玉篇》音昌。",
+                "meanings": [
+                    "卤渍"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉩",
+        "variants": [],
+        "synonyms": [
+            "鹽"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸𪉪cì",
+                "rhyme_book": "《改併四聲篇海·鹵部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𪉪，千力切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉫",
+        "variants": [],
+        "synonyms": [
+            "覃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉬",
+        "variants": [],
+        "synonyms": [
+            "鹺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉭wāi",
+                "rhyme_book": "《集韻》烏乖切，平皆影。",
+                "meanings": [
+                    "〔𪉸𪉭〕见“𪉸”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁹𪉮còu",
+                "rhyme_book": "《廣韻》倉奏切，去候清。",
+                "meanings": [
+                    "古代某些少数民族对盐的称呼"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉯kàn",
+                "rhyme_book": "《廣韻》苦紺切，去勘溪。",
+                "meanings": [
+                    "咸味浓厚"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉰",
+        "variants": [],
+        "synonyms": [
+            "𪉘"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉱biàn",
+                "rhyme_book": "《廣韻》薄泫切，上銑並。",
+                "meanings": [
+                    "盐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉲",
+        "variants": [],
+        "synonyms": [
+            "覃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉳",
+        "variants": [],
+        "synonyms": [
+            "鹹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉵",
+        "variants": [],
+        "synonyms": [
+            "鹺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉶",
+        "variants": [],
+        "synonyms": [
+            "盬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉷",
+        "variants": [],
+        "synonyms": [
+            "覃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉸wēn",
+                "rhyme_book": "《廣韻》烏渾切，平魂影。",
+                "meanings": [
+                    "〔𪉸𪊉〕也作“𪉸䴜”、“𪉸𪉭”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉹",
+        "variants": [],
+        "synonyms": [
+            "鹽"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉺",
+        "variants": [],
+        "synonyms": [
+            "䊲"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹¹𪉻qiān",
+                "rhyme_book": "《字彙補·鹵部》：“𪉻，此先切，音遷。義闕。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪉼",
+        "variants": [],
+        "synonyms": [
+            "䴝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪉿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪉿gàn",
+                "rhyme_book": "《廣韻》古蹔切，去闞見。又苦濫切。",
+                "meanings": [
+                    "〔𪉿𨡎〕味过咸而苦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊀",
+        "variants": [],
+        "synonyms": [
+            "䤎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪊂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹²𪊂huì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》禾桂切",
+                    "咸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊃",
+        "variants": [],
+        "synonyms": [
+            "𪊉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪊄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "gǎn",
+                "rhyme_book": "《集韻》古禫切，上感見。",
+                "meanings": [
+                    "咸味"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gàn",
+                "rhyme_book": "《集韻》古蹔切，去闞見。",
+                "meanings": [
+                    "无味"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪊆jì",
+                "rhyme_book": "《集韻》才詣切，去霽從。",
+                "meanings": [
+                    "咸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "gàn",
+                "rhyme_book": "《玉篇》工暫切。",
+                "meanings": [
+                    "咸；苦"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tàn",
+                "rhyme_book": "《廣韻》吐濫切，去闞透。",
+                "meanings": [
+                    "〔𪉦𪊇〕见“𪉦”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊈",
+        "variants": [],
+        "synonyms": [
+            "鹺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪊉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁶𪊉huái",
+                "rhyme_book": "《廣韻》户乖切，平皆匣。又",
+                "meanings": [
+                    "《集韻》烏乖切",
+                    "〔𪉸𪊉〕见“𪉸”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪊊",
+        "variants": [
+            "¹⁷𪊊“𪊉”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𫜊",
+        "variants": [
+            "𫜊“𪉸”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    }
+]

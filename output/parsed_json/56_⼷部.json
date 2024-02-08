@@ -1,0 +1,477 @@
+[
+    {
+        "character": "㢥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㢥dòng",
+                "rhyme_book": "《廣韻》徒弄切，去送定。",
+                "meanings": [
+                    "系船缆的大木"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㢦",
+        "variants": [
+            "㢦“𢎄”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "弋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yì",
+                "rhyme_book": "《廣韻》與職切，入職以。職部。",
+                "meanings": [
+                    "木桩",
+                    "系有绳子的短箭",
+                    "用带绳子的箭射猎",
+                    "猎取；获得",
+                    "禽鸟",
+                    "黑色",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "弌",
+        "variants": [],
+        "synonyms": [
+            "一"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "弍",
+        "variants": [],
+        "synonyms": [
+            "二"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "弎",
+        "variants": [],
+        "synonyms": [
+            "三"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "式",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shì",
+                "rhyme_book": "《廣韻》賞職切，入職書。職部。",
+                "meanings": [
+                    "榜样；模范",
+                    "法度；规矩",
+                    "规格；样式",
+                    "效法；仿效",
+                    "用",
+                    "仪式；典礼",
+                    "自然科学中表明某种规律的一组符号",
+                    "一种语法范畴，表示说话者对所说事情的主观态度",
+                    "古代车厢前面用来扶手的横木",
+                    "古代的一种礼仪",
+                    "古代占卜的用具，后世称星盘",
+                    "语气词",
+                    "*汉*县名，属*泰山郡*",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tè",
+                "rhyme_book": "《集韻》惕德切，入德透。職部。",
+                "meanings": [
+                    "恶；邪恶",
+                    "恶人；坏人",
+                    "灾害；祸患",
+                    "阴气",
+                    "瘴气蛊毒之类",
+                    "禁讳的语言",
+                    "变更",
+                    "差错",
+                    "疑惑",
+                    "邪恶",
+                    "副词",
+                    "象声词",
+                    "方言",
+                    "隐瞒实情掩盖过错"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "弐",
+        "variants": [],
+        "synonyms": [
+            "貳"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "弑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "shì",
+                "rhyme_book": "《廣韻》式吏切，去志書。之部。",
+                "meanings": [
+                    "古时臣子杀死君主或子女杀死父母称弑",
+                    "弒@@@LINK=弑\\n"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢍺",
+        "variants": [],
+        "synonyms": [
+            "弋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢍻",
+        "variants": [],
+        "synonyms": [
+            "戎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢍼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹𢍼lì",
+                "rhyme_book": "《字彙補·弋部》：“𢍼，六日切，音栗。見",
+                "meanings": [
+                    "《海篇》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢍽",
+        "variants": [],
+        "synonyms": [
+            "𥾐",
+            "𥾐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢍿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢍿zāng",
+                "rhyme_book": "《集韻》兹郎切，平唐精。",
+                "meanings": [
+                    "木桩"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢎀yì",
+                "rhyme_book": "《廣韻》與職切，入職以。",
+                "meanings": [
+                    "锁骨上窝"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎁",
+        "variants": [],
+        "synonyms": [
+            "武"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢎂zāi",
+                "rhyme_book": "《改併四聲篇海·弋部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𢎂，作孩切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢎃yì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《併了部頭》音弋",
+                    "能"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁵𢎄gē",
+                "rhyme_book": "《集韻》居何切，平歌見。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎅",
+        "variants": [],
+        "synonyms": [
+            "𢎄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎆",
+        "variants": [],
+        "synonyms": [
+            "㦶"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎇",
+        "variants": [],
+        "synonyms": [
+            "烖（災）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢎈zhī",
+                "rhyme_book": "《龍龕手鑑·弋部》：“𢎈，音脂。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎉",
+        "variants": [],
+        "synonyms": [
+            "𥫝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎊",
+        "variants": [],
+        "synonyms": [
+            "𢎓",
+            "𢎓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎋",
+        "variants": [],
+        "synonyms": [
+            "哉",
+            "哉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁷𢎌dài",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《併了部頭》音代",
+                    "甘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎍",
+        "variants": [],
+        "synonyms": [
+            "弑"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𢎎sù",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音素",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎏",
+        "variants": [],
+        "synonyms": [
+            "倆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎐",
+        "variants": [],
+        "synonyms": [
+            "二"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎑",
+        "variants": [],
+        "synonyms": [
+            "戴"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎒",
+        "variants": [],
+        "synonyms": [
+            "矰"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎓",
+        "variants": [],
+        "synonyms": [
+            "煞（殺）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𢎕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁵𢎕chèn",
+                "rhyme_book": "《改併四聲篇海·弋部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𢎕，初近切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𢎖",
+        "variants": [
+            "¹⁸𢎖“戵”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣦏",
+        "variants": [],
+        "synonyms": [
+            "越",
+            "越"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

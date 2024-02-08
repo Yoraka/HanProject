@@ -1,0 +1,222 @@
+[
+    {
+        "character": "㸦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hù",
+                "rhyme_book": "《廣韻》胡誤切，去暮匣。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jià",
+                "rhyme_book": "《越諺》各砑切。",
+                "meanings": [
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㸧",
+        "variants": [],
+        "synonyms": [
+            "齦（qiǎn）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "牙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yá",
+                "rhyme_book": "《廣韻》五加切，平麻疑。魚部。",
+                "meanings": [
+                    "大牙；臼齿",
+                    "泛指牙齿",
+                    "咬；啮",
+                    "特指象牙",
+                    "形状像牙齿的东西",
+                    "古称将军之旗",
+                    "古代军队主将住所的称呼",
+                    "古代官署之称",
+                    "草木发芽",
+                    "幼小",
+                    "古代对西北少数民族王庭的称呼",
+                    "牙板",
+                    "量词",
+                    "语倔强貌",
+                    "方言",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yà",
+                "rhyme_book": "《集韻》魚駕切，去禡疑。又語下切。魚部。",
+                "meanings": [
+                    "车辋，车轮的外周部分"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "chèng",
+                "rhyme_book": "《廣韻》他孟切（",
+                "meanings": [
+                    "斜柱",
+                    "桌椅等家具腿间的横木"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "chēng",
+                "rhyme_book": "《〈文選·長笛賦〉六臣本》丑耕切。",
+                "meanings": [
+                    "拨"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤘅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "yá",
+                "rhyme_book": "《集韻》牛加切，平麻疑。",
+                "meanings": [
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤘆",
+        "variants": [],
+        "synonyms": [
+            "牙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤘇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "zhān",
+                "rhyme_book": "《改併四聲篇海·牙部》引",
+                "meanings": [
+                    "《類篇》：“𤘇，竹咸切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤘈",
+        "variants": [],
+        "synonyms": [
+            "牙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤘉",
+        "variants": [],
+        "synonyms": [
+            "牙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤘊",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "yí",
+                "rhyme_book": "《改併四聲篇海·牙部》引",
+                "meanings": [
+                    "《俗字背篇》：“𤘊，夷、弟二音"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤘌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "qī",
+                "rhyme_book": "《廣韻》去奇切，平支溪。歌部。",
+                "meanings": [
+                    "门齿与臼齿间的锐齿"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤘐",
+        "variants": [],
+        "synonyms": [
+            "齲"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤘑",
+        "variants": [],
+        "synonyms": [
+            "䶣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𬌗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "hé",
+                "rhyme_book": null,
+                "meanings": [
+                    "牙齿咬合"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

@@ -1,0 +1,743 @@
+[
+    {
+        "character": "㸛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "sháo",
+                "rhyme_book": "《廣韻》市昭切，平宵禪。",
+                "meanings": [
+                    "床"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㸜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "kòng",
+                "rhyme_book": "《集韻》苦貢切，去送溪。",
+                "meanings": [
+                    "穿垣"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "爿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "qiáng",
+                "rhyme_book": "《五經文字》音牆。",
+                "meanings": [
+                    "劈木而成的木片",
+                    "殳"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "pán",
+                "rhyme_book": "《字彙》蒲閑切。",
+                "meanings": [
+                    "劈成片的竹木",
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chuáng",
+                "rhyme_book": "《廣韻》士莊切，平陽崇。陽部。",
+                "meanings": [
+                    "供人坐卧的器具",
+                    "放置器物的坐架",
+                    "井栏",
+                    "形状像床的器具",
+                    "底部",
+                    "量词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "kē",
+                "rhyme_book": "《廣韻》古俄切，平歌見。",
+                "meanings": [
+                    "系船的木桩"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zāng",
+                "rhyme_book": "《廣韻》則郎切，平唐精。陽部。",
+                "meanings": [
+                    "母羊",
+                    "茁壮；茂盛",
+                    "地名“牂牁”的简称"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "dié",
+                "rhyme_book": "《廣韻》徒協切，入怗定。",
+                "meanings": [
+                    "床板"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "qiāng",
+                "rhyme_book": "《廣韻》七羊切，平陽清。陽部。",
+                "meanings": [
+                    "鸟兽求食声"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "牅",
+        "variants": [],
+        "synonyms": [
+            "墉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "牆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "qiáng",
+                "rhyme_book": "《廣韻》在良切，平陽從。陽部。",
+                "meanings": [
+                    "用土筑或用砖石等砌成的屏障或外围",
+                    "藩蔽",
+                    "古代柩车饰件，即棺罩四周的帷幔",
+                    "宫廷女官名，位次于妃",
+                    "女子人名用字"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕪",
+        "variants": [],
+        "synonyms": [
+            "爿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕫",
+        "variants": [],
+        "synonyms": [
+            "疒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕬",
+        "variants": [],
+        "synonyms": [
+            "疾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕭",
+        "variants": [],
+        "synonyms": [
+            "將"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕮",
+        "variants": [],
+        "synonyms": [
+            "椸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiāng",
+                "rhyme_book": "《集韻》資良切，平陽精。陽部。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhuàng",
+                "rhyme_book": "《集韻》助亮切，去漾崇。",
+                "meanings": [
+                    "某物赖以生成的基址"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕰",
+        "variants": [],
+        "synonyms": [
+            "卯"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕱",
+        "variants": [],
+        "synonyms": [
+            "㼱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕲",
+        "variants": [],
+        "synonyms": [
+            "俎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕳",
+        "variants": [
+            "“胈”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕴",
+        "variants": [],
+        "synonyms": [
+            "椸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕵",
+        "variants": [],
+        "synonyms": [
+            "𤖦"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕶",
+        "variants": [],
+        "synonyms": [
+            "莊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "iào",
+                "rhyme_book": "《廣韻》徒了切，上篠定。",
+                "meanings": [
+                    "杠",
+                    "床板"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕺",
+        "variants": [],
+        "synonyms": [
+            "疾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕻",
+        "variants": [
+            "“牾”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕼",
+        "variants": [],
+        "synonyms": [
+            "疾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕽",
+        "variants": [],
+        "synonyms": [
+            "檣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiú",
+                "rhyme_book": "《集韻》渠尤切，平尤羣。",
+                "meanings": [
+                    "〔𤖘𤕾〕见“𤖘”"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "fǔ",
+                "rhyme_book": "《篇海類編》音府。",
+                "meanings": [
+                    "节乐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕿",
+        "variants": [],
+        "synonyms": [
+            "𤕷"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "fēng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《餘文》：“𤖀，音峯"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖄",
+        "variants": [],
+        "synonyms": [
+            "莊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖅",
+        "variants": [],
+        "synonyms": [
+            "漿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "zhàn",
+                "rhyme_book": "《集韻》仕限切，上産崇。",
+                "meanings": [
+                    "豢羊屋"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖇",
+        "variants": [],
+        "synonyms": [
+            "棵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖈",
+        "variants": [],
+        "synonyms": [
+            "莊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖉",
+        "variants": [],
+        "synonyms": [
+            "病"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖋",
+        "variants": [],
+        "synonyms": [
+            "藏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖌",
+        "variants": [],
+        "synonyms": [
+            "椸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖍",
+        "variants": [],
+        "synonyms": [
+            "逸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖏",
+        "variants": [],
+        "synonyms": [
+            "疾",
+            "疾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖐",
+        "variants": [],
+        "synonyms": [
+            "敗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "dié",
+                "rhyme_book": "《改併四聲篇海·牀部》引",
+                "meanings": [
+                    "《餘文》：“𤖒，徒葉切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖓",
+        "variants": [],
+        "synonyms": [
+            "簀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖕",
+        "variants": [],
+        "synonyms": [
+            "醬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "guāng",
+                "rhyme_book": "《集韻》姑黄切，平唐見。",
+                "meanings": [
+                    "床下横木"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "sè",
+                "rhyme_book": "《集韻》色入切，入緝生。",
+                "meanings": [
+                    "殳立貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "fèn",
+                "rhyme_book": "《集韻》父吻切，上吻奉。",
+                "meanings": [
+                    "床板"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "fén",
+                "rhyme_book": "《集韻》符分切，平文奉。",
+                "meanings": [
+                    "〔𤖘𤕾〕也作“橨梂”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖙",
+        "variants": [],
+        "synonyms": [
+            "𨡓（醬）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖚",
+        "variants": [],
+        "synonyms": [
+            "逸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jiǎng",
+                "rhyme_book": "《集韻》子㓪切，上蕩精。又",
+                "meanings": [
+                    "《字彙補》子兩切",
+                    "大"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖜",
+        "variants": [],
+        "synonyms": [
+            "𤖦"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖝",
+        "variants": [],
+        "synonyms": [
+            "檐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jí",
+                "rhyme_book": "《集韻》側立切，入緝莊。",
+                "meanings": [
+                    "殳立貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖠",
+        "variants": [],
+        "synonyms": [
+            "牆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "lì",
+                "rhyme_book": "《集韻》狼狄切，入錫來。",
+                "meanings": [
+                    "床箦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖣",
+        "variants": [],
+        "synonyms": [
+            "牆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖤",
+        "variants": [],
+        "synonyms": [
+            "備"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤖦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "íng",
+                "rhyme_book": "《集韻》郎丁切，平青來。",
+                "meanings": [
+                    "床箦",
+                    "床梯"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤖧",
+        "variants": [],
+        "synonyms": [
+            "牆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

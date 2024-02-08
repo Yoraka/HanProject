@@ -1,0 +1,400 @@
+[
+    {
+        "character": "䰗",
+        "variants": [],
+        "synonyms": [
+            "☀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䰘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "liú",
+                "rhyme_book": "《廣韻》力求切，平尤來。幽部。",
+                "meanings": [
+                    "绞杀"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiǎo",
+                "rhyme_book": "《篇海類編》吉了切。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "dòu",
+                "rhyme_book": "《廣韻》都豆切，去候端。侯部。",
+                "meanings": [
+                    "战斗；争斗",
+                    "比赛，争胜",
+                    "揭露；批判"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬦",
+        "variants": [],
+        "synonyms": [
+            "鬭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鬧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nào",
+                "rhyme_book": "《廣韻》奴教切，去效娘。宵部。",
+                "meanings": [
+                    "嘈杂；不静",
+                    "争吵",
+                    "扰乱",
+                    "繁茂；浓盛",
+                    "发生（疾病或灾害等）",
+                    "引起（冲突）或发泄（感情）",
+                    "搞；弄",
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "hòng",
+                "rhyme_book": "《廣韻》胡貢切，去送匣。又胡絳切。東部。",
+                "meanings": [
+                    "战斗；争斗",
+                    "喧闹"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xiàng",
+                "rhyme_book": "《廣韻》胡絳切，去絳匣。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xì",
+                "rhyme_book": "《廣韻》許激切，入錫曉。錫部。",
+                "meanings": [
+                    "相争，争吵"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hè",
+                "rhyme_book": "《集韻》郝格切，入陌曉。",
+                "meanings": [
+                    "〔脅鬩〕恐惧"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬪",
+        "variants": [],
+        "synonyms": [
+            "鬭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鬫",
+        "variants": [],
+        "synonyms": [
+            "闞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鬭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "dòu",
+                "rhyme_book": "《廣韻》都豆切，去候端。侯部。",
+                "meanings": [
+                    "遇合；拼合",
+                    "相对",
+                    "战斗；争斗",
+                    "竞赛；比赛",
+                    "古代天文用语",
+                    "纷乱",
+                    "喜乐；戏耍",
+                    "副词",
+                    "介词",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiū",
+                "rhyme_book": "《廣韻》居求切，平尤見。又居黝切。之部。",
+                "meanings": [
+                    "拈阄",
+                    "用来拈阄的东西"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰊",
+        "variants": [],
+        "synonyms": [
+            "丮"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰋",
+        "variants": [],
+        "synonyms": [
+            "𠨭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩰍biàn",
+                "rhyme_book": "《集韻》皮變切，去線並。",
+                "meanings": [
+                    "搏击"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "wēng",
+                "rhyme_book": "《廣韻》烏宏切，平耕影。元部。",
+                "meanings": [
+                    "试力士锤"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰏",
+        "variants": [],
+        "synonyms": [
+            "𩰟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰐",
+        "variants": [],
+        "synonyms": [
+            "𩰞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰑",
+        "variants": [],
+        "synonyms": [
+            "𩰒（鬭）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰒",
+        "variants": [],
+        "synonyms": [
+            "鬭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰓",
+        "variants": [],
+        "synonyms": [
+            "鬨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰔",
+        "variants": [],
+        "synonyms": [
+            "琴"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰕",
+        "variants": [],
+        "synonyms": [
+            "鬩",
+            "鬩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰖",
+        "variants": [],
+        "synonyms": [
+            "鬭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "bīn",
+                "rhyme_book": "《廣韻》匹賓切（",
+                "meanings": [
+                    "《集韻》紕民切），平真滂",
+                    "〔𩰗𩰟〕缤纷，繁多杂乱貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰙",
+        "variants": [],
+        "synonyms": [
+            "闟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰚",
+        "variants": [],
+        "synonyms": [
+            "鬥"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰜",
+        "variants": [
+            "𩰜“𩰟”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰝",
+        "variants": [],
+        "synonyms": [
+            "𩰗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nǐ",
+                "rhyme_book": "《廣韻》奴禮切，上薺泥。又綿婢切。脂部。",
+                "meanings": [
+                    "智少力劣",
+                    "软弱",
+                    "褊狭"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "fēn",
+                "rhyme_book": "《廣韻》撫文切，平文敷。諄部。",
+                "meanings": [
+                    "〔𩰗𩰟〕也作“繽紛”"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

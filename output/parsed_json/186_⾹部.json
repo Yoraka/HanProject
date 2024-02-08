@@ -1,0 +1,799 @@
+[
+    {
+        "character": "䭯",
+        "variants": [],
+        "synonyms": [
+            "馞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䭰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸䭰bèng",
+                "rhyme_book": "《集韻》蒲蠓切，上董並。",
+                "meanings": [
+                    "香气盛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䭱",
+        "variants": [],
+        "synonyms": [
+            "馝（苾）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䭲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䭲yǐ",
+                "rhyme_book": "《集韻》隱綺切，上紙影。",
+                "meanings": [
+                    "〔䭲馜〕香"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䭳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁷䭳wèi",
+                "rhyme_book": "《集韻》虞貴切，去未疑。",
+                "meanings": [
+                    "〔阿䭳〕也作阿魏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "香",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xiāng",
+                "rhyme_book": "《廣韻》許良切，平陽曉。陽部。",
+                "meanings": [
+                    "气味芬芳",
+                    "有香味的原料或制成品",
+                    "味美",
+                    "声色美",
+                    "赞美之词",
+                    "吃得有味道或睡得酣畅",
+                    "亲热；亲",
+                    "旧时诗文中用以形容女子的事物或作女子的代称",
+                    "旧时秘密结社的宗派称号",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馚fén",
+                "rhyme_book": "《廣韻》符分切，平文奉。",
+                "meanings": [
+                    "〔馚馧〕也作“馩馧”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "bó",
+                "rhyme_book": "《廣韻》蒲撥切，入末並。",
+                "meanings": [
+                    "〔馛馛〕香气浓烈貌",
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馜nǐ",
+                "rhyme_book": "《集韻》乃倚切，上紙泥。",
+                "meanings": [
+                    "香气浓厚"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馝",
+        "variants": [],
+        "synonyms": [
+            "苾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "馞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bó",
+                "rhyme_book": "《廣韻》蒲没切，入没並。",
+                "meanings": [
+                    "香气浓烈"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pò",
+                "rhyme_book": "《廣韻》普没切，入没滂。",
+                "meanings": [
+                    "香貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馟tú",
+                "rhyme_book": "《龍龕手鑑》陁胡反。",
+                "meanings": [
+                    "香"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hān",
+                "rhyme_book": "《廣韻》火含切，平覃曉。",
+                "meanings": [
+                    "香",
+                    "香味深",
+                    "微香"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馡",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馡fēi",
+                "rhyme_book": "《廣韻》甫微切，平微非。",
+                "meanings": [
+                    "〔馡馡〕也作“菲菲”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiān",
+                "rhyme_book": "《集韻》將先切，平先精。",
+                "meanings": [
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馣ān",
+                "rhyme_book": "《廣韻》烏含切，平覃影。",
+                "meanings": [
+                    "〔馣馤〕香；香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "馤ài",
+                "rhyme_book": "《廣韻》於蓋切，去泰影。",
+                "meanings": [
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "fù",
+                "rhyme_book": "《廣韻》房六切，入屋奉。又符逼切。沃部。",
+                "meanings": [
+                    "香气浓郁",
+                    "香气",
+                    "香气散发"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bì",
+                "rhyme_book": "《〈文選〉徐爰注》被逼切。",
+                "meanings": [
+                    "象声词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xiān",
+                "rhyme_book": "《廣韻》許兼切，平添曉。",
+                "meanings": [
+                    "〔馦馦〕香",
+                    "香味；香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yūn",
+                "rhyme_book": "《廣韻》於云切，平文影。",
+                "meanings": [
+                    "〔馧黁〕香"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wò",
+                "rhyme_book": "《廣韻》烏没切，入没影。",
+                "meanings": [
+                    "〔馧馞〕香气浓烈"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xīn",
+                "rhyme_book": "《廣韻》呼刑切，平青曉。耕部。",
+                "meanings": [
+                    "香气远闻",
+                    "香",
+                    "语助"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹²馩fén",
+                "rhyme_book": "《廣韻》符分切，平文奉。",
+                "meanings": [
+                    "〔馩馧〕香；香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁴馪pīn",
+                "rhyme_book": "《集韻》紕民切，平真滂。",
+                "meanings": [
+                    "香气盛貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "馫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xīn",
+                "rhyme_book": null,
+                "meanings": [
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥗶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥗶lèi",
+                "rhyme_book": "《改併四聲篇海·香部》引",
+                "meanings": [
+                    "《類篇》：“𥗶，音類"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩠻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bié",
+                "rhyme_book": "《玉篇》步結切。",
+                "meanings": [
+                    "骤香"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hān",
+                "rhyme_book": "《集韻》呼含切，平覃曉。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩠼",
+        "variants": [
+            "“香”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩠽",
+        "variants": [],
+        "synonyms": [
+            "檀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩠾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩠾hāng",
+                "rhyme_book": "《集韻》虚郎切，平唐曉。",
+                "meanings": [
+                    "气病"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩠿",
+        "variants": [],
+        "synonyms": [
+            "䭱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡀",
+        "variants": [],
+        "synonyms": [
+            "䭱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡃yú",
+                "rhyme_book": "《字彙補·香部》：“𩡃，以渠切，音諛。見",
+                "meanings": [
+                    "《藏經》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡄",
+        "variants": [],
+        "synonyms": [
+            "𩡝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡅",
+        "variants": [],
+        "synonyms": [
+            "𩠿",
+            "𩠿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡈",
+        "variants": [],
+        "synonyms": [
+            "䭱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡊",
+        "variants": [],
+        "synonyms": [
+            "馥"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡌xiāng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》火良切",
+                    "大香"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡍",
+        "variants": [
+            "“𥣣（馛）”的讹字。《字彙補·香部》：“𥣣，步囚切，音彪。《廣雅·釋器篇》：‘香也’。”按：《廣雅·釋器》作“𥣣”。*曹憲*音“步曷反”。当为“𥣣（馛）”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡎xiū",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》香幽切",
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡐",
+        "variants": [],
+        "synonyms": [
+            "𩡌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡑",
+        "variants": [],
+        "synonyms": [
+            "馥"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡒",
+        "variants": [],
+        "synonyms": [
+            "馞",
+            "馞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡓wěng",
+                "rhyme_book": "《集韻》鄔孔切，上董影。",
+                "meanings": [
+                    "香"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hài",
+                "rhyme_book": "《廣韻》呼蓋切，去泰曉。又許葛切。",
+                "meanings": [
+                    "香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡕péng",
+                "rhyme_book": "《廣韻》薄庚切，平庚並。",
+                "meanings": [
+                    "〔𩡕馞〕也作“馞𩡕”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡖",
+        "variants": [
+            "𩡖“𩡣”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡘",
+        "variants": [],
+        "synonyms": [
+            "馥"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡚",
+        "variants": [],
+        "synonyms": [
+            "馤",
+            "馤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡝tán",
+                "rhyme_book": "《廣韻》徒含切，平覃定。",
+                "meanings": [
+                    "〔馣𩡝〕香气"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𩡟bié",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔𩡟齊〕也作“䭱齊”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩡠",
+        "variants": [],
+        "synonyms": [
+            "香"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡡",
+        "variants": [],
+        "synonyms": [
+            "䭱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡢",
+        "variants": [],
+        "synonyms": [
+            "𩡠",
+            "𩡠"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡣",
+        "variants": [],
+        "synonyms": [
+            "靉靆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡤",
+        "variants": [],
+        "synonyms": [
+            "馤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡥",
+        "variants": [
+            "𩡥“𩡦”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩡦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁸𩡦piáo",
+                "rhyme_book": "《集韻》毗霄切，平宵並。",
+                "meanings": [
+                    "〔𩡦馛〕香貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

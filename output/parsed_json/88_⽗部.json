@@ -1,0 +1,258 @@
+[
+    {
+        "character": "㸖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "qū",
+                "rhyme_book": "《龍龕手鑑》七余反。",
+                "meanings": [
+                    "藏菜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㸗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "tóng",
+                "rhyme_book": "《五音集韻》徒紅切。",
+                "meanings": [
+                    "非生父"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㸘",
+        "variants": [],
+        "synonyms": [
+            "萬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㸙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hē",
+                "rhyme_book": "《廣韻》正奢切，平麻章。",
+                "meanings": [
+                    "方言",
+                    "古时对乳母丈夫的称呼"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "父",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "fù",
+                "rhyme_book": "《廣韻》扶雨切，上麌奉。魚部。",
+                "meanings": [
+                    "父亲",
+                    "对男性长辈的通称",
+                    "古代天子、诸侯对同姓亲族的称呼",
+                    "禽兽中的雄性"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "fǔ",
+                "rhyme_book": "《廣韻》方矩切，上麌非。魚部。",
+                "meanings": [
+                    "对老人的尊称",
+                    "古代对男子的美称",
+                    "从事某种行业的人的通称",
+                    "开始",
+                    "天",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "爷",
+        "variants": [
+            "“爺”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "爸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "à",
+                "rhyme_book": "《廣韻》捕可切，上果幫。又",
+                "meanings": [
+                    "父亲",
+                    "对老者的尊称，多叠用"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "爹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "iē",
+                "rhyme_book": "《廣韻》陟邪切，平麻知。又徒可切。",
+                "meanings": [
+                    "父亲",
+                    "对老者、长者的尊称",
+                    "方言",
+                    "旧时对官长的尊称"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "爺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yé",
+                "rhyme_book": "《玉篇》以遮切。",
+                "meanings": [
+                    "父亲",
+                    "方言",
+                    "对长一辈或年长男子的尊称",
+                    "旧时对主人、上官或尊贵者的称呼",
+                    "信仰某些宗教和迷信的人对神佛的称呼"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕐",
+        "variants": [],
+        "synonyms": [
+            "旴"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕑",
+        "variants": [
+            "“斧”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "gě",
+                "rhyme_book": "《篇海類編·人物類·父部》：“𤕒，古我切。”",
+                "meanings": [
+                    "《字彙補·父部》：“𤕒，音哿"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕓",
+        "variants": [],
+        "synonyms": [
+            "爺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕕",
+        "variants": [],
+        "synonyms": [
+            "爸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤕘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yū",
+                "rhyme_book": "《五音集韻》央居切。",
+                "meanings": [
+                    "叹词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wù",
+                "rhyme_book": "《改併四聲篇海·父部》引",
+                "meanings": [
+                    "《餘文》：“𤕘，音勿"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤕚huī",
+                "rhyme_book": "《玉篇》許維切。",
+                "meanings": [
+                    "恣肆；放纵"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤕛",
+        "variants": [],
+        "synonyms": [
+            "摰"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

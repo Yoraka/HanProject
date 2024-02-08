@@ -1,0 +1,392 @@
+[
+    {
+        "character": "㽍",
+        "variants": [],
+        "synonyms": [
+            "坩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㽎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tán",
+                "rhyme_book": "《廣韻》徒含切，平覃定。",
+                "meanings": [
+                    "〔㽎㽎〕宫室深邃貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xī",
+                "rhyme_book": "《廣韻》許金切，平侵曉。",
+                "meanings": [
+                    "火盛貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㽏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁹㽏gàn",
+                "rhyme_book": null,
+                "meanings": [
+                    "*㽏井沟*，地名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㽐",
+        "variants": [],
+        "synonyms": [
+            "馦"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㽑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹²㽑tán",
+                "rhyme_book": "《廣韻》徒含切，平覃定。",
+                "meanings": [
+                    "味道好"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gān",
+                "rhyme_book": "《廣韻》古三切，平談見。談部。",
+                "meanings": [
+                    "美味",
+                    "甜，五味之一",
+                    "觉得甜；觉得好吃",
+                    "美味的食物",
+                    "嗜，爱好某种食物",
+                    "美好",
+                    "情愿；乐意",
+                    "宽松",
+                    "（言语）动听",
+                    "古地名",
+                    "古邑名",
+                    "古州名",
+                    "水名",
+                    "*甘肃省*的简称",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hān",
+                "rhyme_book": "《集韻》胡甘切，平談匣。談部。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shèn",
+                "rhyme_book": "《廣韻》常枕切，上寑禪。侵部。",
+                "meanings": [
+                    "异常安乐",
+                    "表示程度深",
+                    "密集，浓",
+                    "胜，超过",
+                    "正好（是）；果真（是）",
+                    "代词",
+                    "副词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shén",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甛",
+        "variants": [],
+        "synonyms": [
+            "甜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "甜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "tián",
+                "rhyme_book": "《廣韻》徒兼切，平添定。談部。",
+                "meanings": [
+                    "像糖或蜜的味道",
+                    "酣睡，熟睡",
+                    "美好",
+                    "喻指美好的事物",
+                    "我国古代画论指称一种浓郁而软熟的画风"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hán",
+                "rhyme_book": "《廣韻》胡甘切，平談匣。談部。",
+                "meanings": [
+                    "白虎",
+                    "凶暴"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甞",
+        "variants": [],
+        "synonyms": [
+            "嘗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤮺",
+        "variants": [],
+        "synonyms": [
+            "甘"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤮻",
+        "variants": [],
+        "synonyms": [
+            "旨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤮼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "dài",
+                "rhyme_book": "《廣韻》徒耐切，去代定。",
+                "meanings": [
+                    "甜",
+                    "酤",
+                    "有机化合物的一类，广泛存在于植物体中，由糖通过它的还原性基团同某些有机化合物缩合而成"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤮽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "³𤮽gān",
+                "rhyme_book": "《集韻》沽三切，平談見。",
+                "meanings": [
+                    "〔𤮽𤯋〕即“甘蔗”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤯁",
+        "variants": [],
+        "synonyms": [
+            "𠯑"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯂",
+        "variants": [
+            "⁴𤯂“𡗾”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤯄shì",
+                "rhyme_book": "《改併四聲篇海·甘部》引",
+                "meanings": [
+                    "《玉篇》：“𤯄，音是"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤯅",
+        "variants": [],
+        "synonyms": [
+            "甚"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤯇yǎn",
+                "rhyme_book": "《集韻》以冉切，上琰以。",
+                "meanings": [
+                    "味甘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤯈",
+        "variants": [],
+        "synonyms": [
+            "蔗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯉",
+        "variants": [],
+        "synonyms": [
+            "耽"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯋",
+        "variants": [],
+        "synonyms": [
+            "蔗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "gān",
+                "rhyme_book": "《廣韻》古三切，平談見。又胡甘切，口含切。談部。",
+                "meanings": [
+                    "和"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤯍",
+        "variants": [],
+        "synonyms": [
+            "𤯌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯎",
+        "variants": [],
+        "synonyms": [
+            "𤯌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤯐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁶𤯐yán",
+                "rhyme_book": "《集韻》余廉切，平鹽以。",
+                "meanings": [
+                    "味甘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤯒",
+        "variants": [],
+        "synonyms": [
+            "馨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

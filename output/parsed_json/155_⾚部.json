@@ -1,0 +1,771 @@
+[
+    {
+        "character": "䞑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "³䞑hóng",
+                "rhyme_book": "《集韻》胡公切，平東匣。",
+                "meanings": [
+                    "皮肉红肿"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䞒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䞒dòng",
+                "rhyme_book": "《集韻》杜孔切，上董定。",
+                "meanings": [
+                    "赤色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䞓",
+        "variants": [],
+        "synonyms": [
+            "赬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䞔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䞔wěi",
+                "rhyme_book": "《廣韻》無匪切，上尾微。",
+                "meanings": [
+                    "赤色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䞕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "rú",
+                "rhyme_book": "《廣韻》人朱切，平虞日。",
+                "meanings": [
+                    "火色"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yú",
+                "rhyme_book": "《集韻》容朱切，平虞以。",
+                "meanings": [
+                    "褪色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "chì",
+                "rhyme_book": "説文》：“赤，南方色也。从大，从火。烾，古文从炎、土。”*徐鍇*繫傳：“南方之星，其中一者最赤，名大火。會意。”*饶炯*部首訂：“南方陽盛之區，其象昭著。火為之行，色赤。赤者，光明顯耀也。凡火皆有明著之象，然微則熒熒，大則赫赫，故赤从大、火，會意。”",
+                "meanings": [
+                    "红色",
+                    "空；尽；一无所有",
+                    "光着；裸露",
+                    "古以赤为南方之色，后因以赤指南方",
+                    "诛灭",
+                    "谶纬家谓*汉*以火德王，火色赤，后因以借指*汉*朝",
+                    "喻纯真",
+                    "“赤子”的简称",
+                    "用以象征革命或革命胜利",
+                    "*唐*、*宋*时县的等级名",
+                    "蒙古语中的附加成分的译音",
+                    "象声词",
+                    "姓",
+                    "驱逐；疏远",
+                    "推",
+                    "开拓",
+                    "侦察；探测",
+                    "指责；责骂",
+                    "指，点明",
+                    "多；众多",
+                    "大",
+                    "广；宽",
+                    "盐碱地",
+                    "泽崖",
+                    "除掉，扫除",
+                    "〔揮斥〕放纵；奔放",
+                    "〔斥山〕山名",
+                    "量词",
+                    "尺子，量长度的器具",
+                    "像尺一样的条状物",
+                    "喻法度或标准",
+                    "喻短小或狭小",
+                    "中医诊脉部位之一"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_single_meaing",
+                "pinyin": "chì",
+                "rhyme_book": "《集韻》七迹切，入昔清。鐸部。",
+                "meanings": [
+                    "除掉，扫除"
+                ]
+            },
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chì",
+                "rhyme_book": null,
+                "meanings": [
+                    "红色",
+                    "空；尽；一无所有",
+                    "光着；裸露",
+                    "古以赤为南方之色，后因以赤指南方",
+                    "诛灭",
+                    "谶纬家谓*汉*以火德王，火色赤，后因以借指*汉*朝",
+                    "喻纯真",
+                    "“赤子”的简称",
+                    "用以象征革命或革命胜利",
+                    "*唐*、*宋*时县的等级名",
+                    "蒙古语中的附加成分的译音",
+                    "象声词",
+                    "姓",
+                    "驱逐；疏远",
+                    "推",
+                    "开拓",
+                    "侦察；探测",
+                    "指责；责骂",
+                    "指，点明",
+                    "多；众多",
+                    "大",
+                    "广；宽",
+                    "盐碱地",
+                    "泽崖",
+                    "除掉，扫除",
+                    "〔揮斥〕放纵；奔放",
+                    "〔斥山〕山名",
+                    "量词",
+                    "尺子，量长度的器具",
+                    "像尺一样的条状物",
+                    "喻法度或标准",
+                    "喻短小或狭小",
+                    "中医诊脉部位之一"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xī",
+                "rhyme_book": "《廣韻》許激切，入錫曉。",
+                "meanings": [
+                    "笑貌；笑声",
+                    "赤"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shè",
+                "rhyme_book": "《廣韻》始夜切，去禡書。鐸部。",
+                "meanings": [
+                    "舍弃，放置",
+                    "释放",
+                    "宽免人的罪过",
+                    "减免租赋",
+                    "姓",
+                    "毒虫或毒蛇咬刺",
+                    "毒害；危害",
+                    "因恼怒而加害",
+                    "蝎的前螯"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cè",
+                "rhyme_book": "《集韻》測革切，入麥初。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nǎn",
+                "rhyme_book": "《廣韻》奴板切，上潸娘。元部。",
+                "meanings": [
+                    "因羞惭而面红；惭愧",
+                    "忧惧"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "tóng",
+                "rhyme_book": "《廣韻》徒冬切，平冬定。冬部。",
+                "meanings": [
+                    "赤色",
+                    "赤虫"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xióng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xì",
+                "rhyme_book": "《廣韻》許極切，入職曉。又",
+                "meanings": [
+                    "大赤色",
+                    "赤貌",
+                    "无草木貌",
+                    "青黑色",
+                    "怒貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赪",
+        "variants": [
+            "⁶赪“赬”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "赫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "hè",
+                "rhyme_book": "《廣韻》呼格切，入陌曉。鐸部。",
+                "meanings": [
+                    "赤貌",
+                    "明亮",
+                    "显，显赫",
+                    "盛貌",
+                    "怒",
+                    "分裂，肢解",
+                    "发",
+                    "旱",
+                    "物理学名词“赫兹”的简称",
+                    "姓",
+                    "怒叱声；用叱声表示拒绝",
+                    "怒貌",
+                    "张开",
+                    "笑声",
+                    "害怕；使人害怕"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shì",
+                "rhyme_book": "《韻會》施隻切。",
+                "meanings": [
+                    "毒虫或毒蛇咬刺",
+                    "毒害；危害",
+                    "因恼怒而加害",
+                    "蝎的前螯"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "chēng",
+                "rhyme_book": "《廣韻》丑貞切，平清徹。耕部。",
+                "meanings": [
+                    "浅红色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhě",
+                "rhyme_book": "《廣韻》章也切，上馬章。魚部。",
+                "meanings": [
+                    "赤土",
+                    "赤红如赭土的颜料，古人用以饰面",
+                    "紫赤色，赤褐色",
+                    "染成红色",
+                    "使呈赤色",
+                    "赤裸；光秃",
+                    "“赭衣”的简称",
+                    "山名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xiá",
+                "rhyme_book": "《廣韻》胡加切，平麻匣。魚部。",
+                "meanings": [
+                    "红色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "赯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "赯táng",
+                "rhyme_book": "《廣韻》徒郎切，平唐定。",
+                "meanings": [
+                    "赤色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹘",
+        "variants": [],
+        "synonyms": [
+            "赫",
+            "赫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹙",
+        "variants": [],
+        "synonyms": [
+            "赬",
+            "赬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹚",
+        "variants": [],
+        "synonyms": [
+            "赬",
+            "赬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁴𧹛zhī",
+                "rhyme_book": "《集韻》章移切，平支章。",
+                "meanings": [
+                    "〔𧹬𧹛〕见“𧹬”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹝",
+        "variants": [],
+        "synonyms": [
+            "赨",
+            "赨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nǎn",
+                "rhyme_book": "《集韻》乃版切，上潸娘。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "niǎn",
+                "rhyme_book": "《集韻》尼展切，上獼娘。",
+                "meanings": [
+                    "〔窴𧹞〕笛声缓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹠",
+        "variants": [],
+        "synonyms": [
+            "赧"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹢",
+        "variants": [],
+        "synonyms": [
+            "𧹬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹣hān",
+                "rhyme_book": "《集韻》呼含切，平覃曉。",
+                "meanings": [
+                    "赤色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹧",
+        "variants": [],
+        "synonyms": [
+            "䞔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹨xī",
+                "rhyme_book": "《改併四聲篇海·赤部》引",
+                "meanings": [
+                    "《餘文》：“𧹨，音昔"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹩",
+        "variants": [],
+        "synonyms": [
+            "𧹯（煉）",
+            "𧹯（煉）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹬yān",
+                "rhyme_book": "《集韻》因蓮切，平先影。",
+                "meanings": [
+                    "〔𧹬𧹛〕也作“胭脂”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁹𧹭xù",
+                "rhyme_book": "《廣韻》況逼切，入職曉。",
+                "meanings": [
+                    "赭色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹯",
+        "variants": [],
+        "synonyms": [
+            "煉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "hù",
+                "rhyme_book": "《廣韻》呼木切，入屋曉。屋部。",
+                "meanings": [
+                    "朝霞；朝霞貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "gàn",
+                "rhyme_book": "《廣韻》古案切，去翰見。元部。",
+                "meanings": [
+                    "赤色",
+                    "大赤",
+                    "浊"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xù",
+                "rhyme_book": "《龍龕手鑑》許六反。",
+                "meanings": [
+                    "绛"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "huò",
+                "rhyme_book": "《龍龕手鑑》火或反。",
+                "meanings": [
+                    "赤"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹶xì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》呼逼切",
+                    "赤色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹷",
+        "variants": [],
+        "synonyms": [
+            "𧹲"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹸",
+        "variants": [],
+        "synonyms": [
+            "䞕"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹹",
+        "variants": [],
+        "synonyms": [
+            "熾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹺cuì",
+                "rhyme_book": "《字彙補·赤部》：“𧹺，此碎切，音脆。見",
+                "meanings": [
+                    "《篇韻》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧹽",
+        "variants": [],
+        "synonyms": [
+            "𧹶",
+            "𧹶"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧹾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧹾hú",
+                "rhyme_book": "《改併四聲篇海·赤部》引",
+                "meanings": [
+                    "《類篇》：“𧹾，音縠"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧺄",
+        "variants": [],
+        "synonyms": [
+            "燈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧺅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧺅yān",
+                "rhyme_book": "《字彙補·赤部》：“𧺅，於軒切，音煙。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𫎭",
+        "variants": [
+            "𫎭“䞓”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    }
+]

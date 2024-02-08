@@ -1,0 +1,158 @@
+[
+    {
+        "character": "艮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gèn",
+                "rhyme_book": "《廣韻》古恨切，去恨見。諄部。",
+                "meanings": [
+                    "八卦之一，卦形为☶",
+                    "停止；静止",
+                    "艰难",
+                    "坚硬；坚固",
+                    "方位名",
+                    "时辰名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hén",
+                "rhyme_book": "《集韻》胡恩切，平痕匣。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gěn",
+                "rhyme_book": null,
+                "meanings": [
+                    "方言",
+                    "牙齿被硬物硌痛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "良",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "liáng",
+                "rhyme_book": "《廣韻》吕張切，平陽來。陽部。",
+                "meanings": [
+                    "善良",
+                    "贤明",
+                    "精善",
+                    "良好；美好",
+                    "和悦",
+                    "古时妇女对丈夫的称呼",
+                    "旧社会统治者按职业等分民为良贱两等：士农工商为良民，奴婢娼优隶卒为贱民",
+                    "能够",
+                    "历时久长",
+                    "先天具有或自然具备的",
+                    "年岁大",
+                    "首",
+                    "副词",
+                    "古地名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "liǎng",
+                "rhyme_book": "《集韻》里養切，上養來。陽部。",
+                "meanings": [
+                    "〔方良〕也作“罔兩”、“蛧蜽”、“蝄蜽”、“魍魎”"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "làng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "艰",
+        "variants": [
+            "²艰“艱”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "艱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiān",
+                "rhyme_book": "《廣韻》古閑切，平山見。諄部。",
+                "meanings": [
+                    "土难治",
+                    "艰难；不容易",
+                    "困苦",
+                    "险恶",
+                    "指父母之丧",
+                    "愚笨"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦫋",
+        "variants": [],
+        "synonyms": [
+            "氓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦫍",
+        "variants": [],
+        "synonyms": [
+            "剆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦫎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦫎gǔn",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音衮",
+                    "再耕"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦫒",
+        "variants": [],
+        "synonyms": [
+            "艱",
+            "艱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

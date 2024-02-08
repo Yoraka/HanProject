@@ -1,0 +1,425 @@
+[
+    {
+        "character": "䑑",
+        "variants": [],
+        "synonyms": [
+            "僕"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "臣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chén",
+                "rhyme_book": "《廣韻》植鄰切，平真禪。真部。",
+                "meanings": [
+                    "战俘",
+                    "奴仆",
+                    "国君所统属的众民",
+                    "君主制时的官吏",
+                    "古人自称",
+                    "泛指物的配属",
+                    "尽臣的本分",
+                    "役使；统属",
+                    "认罪",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiān",
+                "rhyme_book": "《廣韻》苦閑切，平山溪。又苦寒切，口耕切。真部。",
+                "meanings": [
+                    "坚固"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xián",
+                "rhyme_book": "《廣韻》胡田切，平先匣。又口閒切。真部。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qìn",
+                "rhyme_book": "《廣韻》去刃切，去震溪。",
+                "meanings": [
+                    "人名用字"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "wò",
+                "rhyme_book": "《廣韻》吾貨切，去過疑。歌部。",
+                "meanings": [
+                    "伏着休息",
+                    "眠，睡",
+                    "睡觉的地方",
+                    "停息",
+                    "隐居",
+                    "倒伏",
+                    "横陈着",
+                    "燠，暖"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "guàng",
+                "rhyme_book": "《廣韻》居況切，去漾見。陽部。",
+                "meanings": [
+                    "乖违；违背"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiǒng",
+                "rhyme_book": "《集韻》俱永切，上梗見。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zāng",
+                "rhyme_book": "《廣韻》則郎切，平唐精。陽部。",
+                "meanings": [
+                    "战争中被虏获为奴隶的人",
+                    "供人使役者的贱称",
+                    "以婢为妻及其所生之子",
+                    "流亡的奴仆",
+                    "成功",
+                    "善，好",
+                    "认为好；称许",
+                    "演奏管乐的一种指法",
+                    "厚",
+                    "赃物",
+                    "古地名",
+                    "姓",
+                    "掩埋尸体"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cáng",
+                "rhyme_book": "《集韻》慈郎切，平唐從。陽部。",
+                "meanings": [
+                    "隐藏；收存"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zàng",
+                "rhyme_book": "《字彙補》才浪切。",
+                "meanings": [
+                    "库藏，储存的东西",
+                    "内脏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "lín",
+                "rhyme_book": "《廣韻》力尋切，平侵來。侵部。",
+                "meanings": [
+                    "察视；居上视下",
+                    "降临，从上面到下面去",
+                    "统治；治理",
+                    "守卫",
+                    "进攻",
+                    "来到；到达",
+                    "接近；靠近",
+                    "面对",
+                    "照耀",
+                    "给予；加给",
+                    "照着字画模仿",
+                    "大",
+                    "古代战车名",
+                    "六十四卦之一",
+                    "副词",
+                    "古称两船相连",
+                    "地名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "lìn",
+                "rhyme_book": "《廣韻》良鴆切，去沁來。侵部。",
+                "meanings": [
+                    "哭吊死者",
+                    "偏向"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "臩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "guǎng",
+                "rhyme_book": "《廣韻》俱往切，上養見。又俱永切。陽部。",
+                "meanings": [
+                    "惊跑",
+                    "往来"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiǒng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣞",
+        "variants": [],
+        "synonyms": [
+            "頤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣠",
+        "variants": [],
+        "synonyms": [
+            "朢（望）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁴𦣢shuì",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣢，俗。所類、所律二反。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣢，所類切，音税"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣣",
+        "variants": [],
+        "synonyms": [
+            "臧"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦣥mì",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣥，音秘。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣥，邦未切，音秘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁶𦣦wáng",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣦，音王。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣦，余黄切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦣧cè",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣧，初革反。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣧，音策"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiān",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣨，音堅。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣨，古先切"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shèng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦣩wǎng",
+                "rhyme_book": "《龍龕手鑑》於往反。",
+                "meanings": [
+                    "违背"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣮",
+        "variants": [],
+        "synonyms": [
+            "孤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦣯jiā",
+                "rhyme_book": "《龍龕手鑑·臣部》：“𦣯，音加。”",
+                "meanings": [
+                    "《字彙補·臣部》：“𦣯，居牙切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣲",
+        "variants": [],
+        "synonyms": [
+            "臨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁵𦣴huán",
+                "rhyme_book": "《廣韻》户關切，平𠜂匣。",
+                "meanings": [
+                    "坚硬"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦣷",
+        "variants": [],
+        "synonyms": [
+            "臨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦣸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²⁶𦣸liàn",
+                "rhyme_book": "《集韻》力陷切，去陷來。",
+                "meanings": [
+                    "〔𦣸𩖌〕头长"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

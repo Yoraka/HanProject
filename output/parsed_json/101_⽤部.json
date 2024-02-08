@@ -1,0 +1,323 @@
+[
+    {
+        "character": "用",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "sào",
+                "rhyme_book": null,
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zā",
+                "rhyme_book": null,
+                "meanings": [
+                    "捆绑；缠束",
+                    "挽，卷",
+                    "量词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chǎo",
+                "rhyme_book": null,
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shào",
+                "rhyme_book": null,
+                "meanings": [
+                    "稍微向后倒退（多指骡马等）"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shuǎi",
+                "rhyme_book": null,
+                "meanings": [
+                    "挥动；摆动",
+                    "扔，丢",
+                    "抛开，使落在后边",
+                    "虫类下卵"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "lù",
+                "rhyme_book": "《篇海類編》盧谷切。",
+                "meanings": [
+                    "兽名",
+                    "兽角挺",
+                    "地名用字",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "fǔ",
+                "rhyme_book": "《廣韻》方矩切，上麌非。魚部。",
+                "meanings": [
+                    "古代对男子的美称",
+                    "大",
+                    "开始，起初",
+                    "我",
+                    "古国名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "pǔ（旧读bǔ）",
+                "rhyme_book": null,
+                "meanings": [
+                    "古地名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yǒng",
+                "rhyme_book": "《廣韻》余隴切，上腫以。東部。",
+                "meanings": [
+                    "古代钟柄名",
+                    "古斗斛一类量器",
+                    "古代两旁有墙垣遮蔽的通道",
+                    "花含苞欲放的样子",
+                    "水名",
+                    "地名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dòng",
+                "rhyme_book": "《集韻》杜孔切，上董定。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qì",
+                "rhyme_book": "《龍龕手鑑》音弃。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "béng",
+                "rhyme_book": null,
+                "meanings": [
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "甮fèng",
+                "rhyme_book": null,
+                "meanings": [
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "甯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nìng",
+                "rhyme_book": "《廣韻》乃定切，去徑泥。耕部。",
+                "meanings": [
+                    "古邑名",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠂵",
+        "variants": [],
+        "synonyms": [
+            "用"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠃰",
+        "variants": [],
+        "synonyms": [
+            "僃（備）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠳫",
+        "variants": [],
+        "synonyms": [
+            "𥦜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡶤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bēng",
+                "rhyme_book": null,
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yòng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤰅",
+        "variants": [
+            "具。《字彙·用部》：“𤰅，具也。”一说“☀”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰆",
+        "variants": [],
+        "synonyms": [
+            "用"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰇",
+        "variants": [],
+        "synonyms": [
+            "☀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰋",
+        "variants": [
+            "𤰋“𤲥（祗）”的讹字。《字彙·用部》：“𤰋，見《周宣王石鼓文》，*薛*作庸。*鄭*云，未詳音義。”按：《石鼓文》字作“𤲥”。“𤰋”为“𤲥”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹³𤰌chuán",
+                "rhyme_book": "《改併四聲篇海·用部》引",
+                "meanings": [
+                    "《併了部頭》：“𤰌，音傳"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤰎",
+        "variants": [],
+        "synonyms": [
+            "墉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰏",
+        "variants": [],
+        "synonyms": [
+            "川"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤰑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "pú",
+                "rhyme_book": "《字彙補》皮夫切。",
+                "meanings": [
+                    "〔𤰑𡳴〕螟蛉"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

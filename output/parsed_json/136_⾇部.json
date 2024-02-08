@@ -1,0 +1,172 @@
+[
+    {
+        "character": "䑝",
+        "variants": [],
+        "synonyms": [
+            "斝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䑞",
+        "variants": [],
+        "synonyms": [
+            "舜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䑟",
+        "variants": [],
+        "synonyms": [
+            "葟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "舛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chuǎn",
+                "rhyme_book": "《廣韻》昌兖切，上獮昌。元部。",
+                "meanings": [
+                    "两人相对而卧",
+                    "相违背；相矛盾",
+                    "错误；差错",
+                    "错杂；交错",
+                    "不顺利；不幸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "舜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shùn",
+                "rhyme_book": "《廣韻》舒閏切，去稕書。諄部。",
+                "meanings": [
+                    "一种蔓生植物",
+                    "木槿",
+                    "上古帝王名",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "舝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xiá",
+                "rhyme_book": "《廣韻》胡瞎切，入鎋匣。月部。",
+                "meanings": [
+                    "星名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "舞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "wǔ",
+                "rhyme_book": "《廣韻》文甫切，上麌微。魚部。",
+                "meanings": [
+                    "舞蹈，以经过组织和美化的人体动作来反映生活，表达思想感情的一门艺术",
+                    "表演舞蹈；跳舞",
+                    "挥动；摇动",
+                    "耍弄；玩弄",
+                    "方言",
+                    "鼓舞，振奋",
+                    "疾",
+                    "钟体的顶部",
+                    "戏弄",
+                    "姓",
+                    "古代堂下周围的屋子",
+                    "泛指房屋",
+                    "大屋",
+                    "廊",
+                    "屋檐",
+                    "田地荒废",
+                    "丛生的草",
+                    "繁杂",
+                    "丰盛",
+                    "泛指军事、技击、强力等事",
+                    "勇猛；刚健；威武",
+                    "士",
+                    "兵器",
+                    "金属打击乐器",
+                    "乐名",
+                    "足迹",
+                    "继承；继续",
+                    "古以六尺为步，半步为武",
+                    "冠卷，即古时冠上的结带",
+                    "古州名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦧿",
+        "variants": [
+            "𦧿“粼”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦨁",
+        "variants": [],
+        "synonyms": [
+            "葟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦨄",
+        "variants": [],
+        "synonyms": [
+            "𤯷（葟）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦨆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𦨆zūn",
+                "rhyme_book": "《五音集韻》將倫切。",
+                "meanings": [
+                    "古代打猎穿的皮裤"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

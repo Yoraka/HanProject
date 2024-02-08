@@ -1,0 +1,227 @@
+[
+    {
+        "character": "䵺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tǐng",
+                "rhyme_book": "《集韻》他頂切，上迥透。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dǐng",
+                "rhyme_book": "《集韻》都挺切，上迥端。",
+                "meanings": [
+                    "〔䵺墥〕蚁封，蚁穴外隆起的小土堆"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tiǎn",
+                "rhyme_book": "《集韻》他典切，上銑透。",
+                "meanings": [
+                    "〔䵺疃〕也作“町疃”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹¹䵻huì",
+                "rhyme_book": "《廣韻》祥歲切，去祭邪。",
+                "meanings": [
+                    "小鼎"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "shāng",
+                "rhyme_book": "《廣韻》式羊切，平陽書。陽部。",
+                "meanings": [
+                    "煮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鼎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "dǐng",
+                "rhyme_book": "《廣韻》都挺切，上迥端。耕部。",
+                "meanings": [
+                    "古器物",
+                    "喻三公、宰辅、重臣之位",
+                    "喻三方并立",
+                    "六十四卦之一，卦形为☀，巽下离上",
+                    "显赫；盛大",
+                    "最；顶",
+                    "副词",
+                    "抵拒",
+                    "系船之具",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhēn",
+                "rhyme_book": null,
+                "meanings": [
+                    "贞，问卜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鼏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiōng",
+                "rhyme_book": "《〈説文解字〉注》古熒切。",
+                "meanings": [
+                    "鼎盖",
+                    "古时盖酒尊的布巾"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鼐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "nài",
+                "rhyme_book": "《廣韻》奴代切，去代泥。又奴亥切。之部。",
+                "meanings": [
+                    "大鼎"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鼑",
+        "variants": [],
+        "synonyms": [
+            "鼎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鼒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "zī",
+                "rhyme_book": "《廣韻》子之切，平之精。又昨哉切。之部。",
+                "meanings": [
+                    "口小的鼎"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪔂",
+        "variants": [],
+        "synonyms": [
+            "鼎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪔄",
+        "variants": [],
+        "synonyms": [
+            "鼒",
+            "鼒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪔅",
+        "variants": [],
+        "synonyms": [
+            "員"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪔆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "³𪔆gān",
+                "rhyme_book": "《字彙補》古刊切。",
+                "meanings": [
+                    "鼎"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪔈",
+        "variants": [],
+        "synonyms": [
+            "妘"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪔉",
+        "variants": [],
+        "synonyms": [
+            "齍",
+            "齍"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪔊",
+        "variants": [],
+        "synonyms": [
+            "䵻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

@@ -1,0 +1,420 @@
+[
+    {
+        "character": "䏋",
+        "variants": [],
+        "synonyms": [
+            "肅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "聿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yù",
+                "rhyme_book": "《廣韻》餘律切，入術以。術部。",
+                "meanings": [
+                    "笔",
+                    "迅速",
+                    "循",
+                    "助词",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhào",
+                "rhyme_book": "《廣韻》治小切，上小澄。宵部。",
+                "meanings": [
+                    "刚开门",
+                    "开始",
+                    "谋",
+                    "事尚冥昧始宣发之",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "肂sì",
+                "rhyme_book": "《廣韻》息利切，去至心。脂部。",
+                "meanings": [
+                    "寄殡，暂时埋于路旁",
+                    "埋棺的坑"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肃",
+        "variants": [
+            "肃“肅”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "肄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yì",
+                "rhyme_book": "《廣韻》羊至切，去至以。脂部。",
+                "meanings": [
+                    "学习；练习",
+                    "检查；查验",
+                    "蘖；嫩条",
+                    "余",
+                    "劳苦"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "sì",
+                "rhyme_book": "《集韻》息利切，去至心。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "sù",
+                "rhyme_book": "《廣韻》息逐切，入屋心。沃部。",
+                "meanings": [
+                    "恭敬",
+                    "庄重；威严",
+                    "恭敬地引进",
+                    "揖拜",
+                    "整饬",
+                    "峻急；严峻",
+                    "萎缩；萧瑟",
+                    "清静；安静",
+                    "清除",
+                    "古州名",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "sì",
+                "rhyme_book": "《廣韻》息利切，去至心。微部。",
+                "meanings": [
+                    "古时处死刑后陈尸示众",
+                    "杀",
+                    "冲突；侵犯",
+                    "恣纵；放肆",
+                    "放佚，赦免",
+                    "踞",
+                    "集市贸易场所；商店",
+                    "手工业作坊",
+                    "止宿之处，房舍",
+                    "陈设；陈列",
+                    "扩展；张开",
+                    "操持",
+                    "尽力；勤奋",
+                    "疾，迅速",
+                    "延缓",
+                    "大",
+                    "长；常",
+                    "直，正",
+                    "弃；忘掉",
+                    "量",
+                    "巩固",
+                    "先例",
+                    "古代编悬乐器的单位，悬钟十六为肆",
+                    "今；现在",
+                    "数词",
+                    "副词",
+                    "连词",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "tī",
+                "rhyme_book": "《集韻》他歷切，入錫透。錫部。",
+                "meanings": [
+                    "古祭名",
+                    "分解骨肉；把肉从骨上刮下来",
+                    "剪削",
+                    "疏导；清除",
+                    "剜；从孔隙中往外挑出东西",
+                    "挑拣；搜寻",
+                    "弦乐弹奏指法之一，中指向外为剔",
+                    "挑，拨动",
+                    "骂",
+                    "赐；赏给",
+                    "疾视",
+                    "学习；练习",
+                    "检查；查验",
+                    "蘖；嫩条",
+                    "余",
+                    "劳苦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhào",
+                "rhyme_book": "《集韻》直紹切，上小澄。宵部。",
+                "meanings": [
+                    "打击",
+                    "开始",
+                    "引起；发生",
+                    "图谋",
+                    "矫正",
+                    "古代祭天时的神位",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "肈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhào",
+                "rhyme_book": "《廣韻》治小切，上小澄。宵部。",
+                "meanings": [
+                    "敏捷",
+                    "戟一类的武器",
+                    "长"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦘒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "niè",
+                "rhyme_book": "《集韻》呢輒切，入葉娘。盍部。",
+                "meanings": [
+                    "手巧",
+                    "竹𦘒"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦘓",
+        "variants": [],
+        "synonyms": [
+            "勩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jīn",
+                "rhyme_book": "《廣韻》將鄰切，平真精。真部。",
+                "meanings": [
+                    "笔饰",
+                    "赞叹；羡慕"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦘕",
+        "variants": [],
+        "synonyms": [
+            "畫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘖",
+        "variants": [],
+        "synonyms": [
+            "肂"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘗",
+        "variants": [],
+        "synonyms": [
+            "肄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘘",
+        "variants": [],
+        "synonyms": [
+            "晝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘙",
+        "variants": [],
+        "synonyms": [
+            "晝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘚",
+        "variants": [],
+        "synonyms": [
+            "畫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘜",
+        "variants": [],
+        "synonyms": [
+            "肅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘝",
+        "variants": [],
+        "synonyms": [
+            "肅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘞",
+        "variants": [],
+        "synonyms": [
+            "肄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘟",
+        "variants": [],
+        "synonyms": [
+            "肇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘠",
+        "variants": [],
+        "synonyms": [
+            "書"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘡",
+        "variants": [],
+        "synonyms": [
+            "肅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘣",
+        "variants": [],
+        "synonyms": [
+            "斲"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𦘤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁴𦘤xiāo",
+                "rhyme_book": null,
+                "meanings": [
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𦘨",
+        "variants": [],
+        "synonyms": [
+            "肆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

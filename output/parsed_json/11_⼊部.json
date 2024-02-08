@@ -1,0 +1,514 @@
+[
+    {
+        "character": "㒰",
+        "variants": [],
+        "synonyms": [
+            "全"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㒲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "rì",
+                "rhyme_book": null,
+                "meanings": [
+                    "发生性关系"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cái",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㒳",
+        "variants": [],
+        "synonyms": [
+            "兩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㒴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㒴gǔ",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《餘文》古忽切",
+                    "出"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "入",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "rù",
+                "rhyme_book": "《廣韻》人執切，入緝日。緝部。",
+                "meanings": [
+                    "由外到内",
+                    "接纳；采纳",
+                    "收入，进项",
+                    "参与；加入",
+                    "交；交纳",
+                    "合，契合",
+                    "古汉语四声之一"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "兦",
+        "variants": [],
+        "synonyms": [
+            "亡"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "全",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "quán",
+                "rhyme_book": "《廣韻》疾緣切，平仙從。元部。",
+                "meanings": [
+                    "纯玉",
+                    "纯；纯粹",
+                    "完整；完好",
+                    "保全",
+                    "完备；齐全",
+                    "整个；全体",
+                    "病愈",
+                    "副词",
+                    "古州名",
+                    "姓",
+                    "男孩的生殖器",
+                    "削减；收缩",
+                    "剥削",
+                    "汁少的羹",
+                    "做成少汁羹"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "兩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "liǎng",
+                "rhyme_book": "《廣韻》良奬切，上養來。陽部。",
+                "meanings": [
+                    "偶；并",
+                    "数词",
+                    "双方",
+                    "量词",
+                    "古代布匹两丈为一端，两端为一两（旧亦音liàng）",
+                    "古代重量单位",
+                    "古代军队编制单位，二十五人为两",
+                    "古代作战的一种阵名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "liàng",
+                "rhyme_book": "《廣韻》力讓切，去漾來。陽部。",
+                "meanings": [
+                    "量词",
+                    "兪@@@LINK=俞\\n"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "氽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "tǔn",
+                "rhyme_book": "《字彙》土墾切。",
+                "meanings": [
+                    "水推物；漂浮",
+                    "用油炸"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiú",
+                "rhyme_book": "《嶺外代答》音泅。",
+                "meanings": [
+                    "人浮水上"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠇒",
+        "variants": [],
+        "synonyms": [
+            "供"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠌆",
+        "variants": [],
+        "synonyms": [
+            "全"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓛",
+        "variants": [],
+        "synonyms": [
+            "亼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "liǎng",
+                "rhyme_book": "《集韻》里養切，上養來。陽部。",
+                "meanings": [
+                    "二入"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓝tāo",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音叨",
+                    "取"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²𠓞jí",
+                "rhyme_book": "《改併四聲篇海·入部》引",
+                "meanings": [
+                    "《川篇》：“𠓞，子入切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓟",
+        "variants": [],
+        "synonyms": [
+            "乏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓠",
+        "variants": [],
+        "synonyms": [
+            "鞭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓡",
+        "variants": [],
+        "synonyms": [
+            "矢"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓢jiè",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音介",
+                    "草巷"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓣zhá",
+                "rhyme_book": "《龍龕手鑑·入部》：“𠓣，宅甲反。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓤shī",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音施",
+                    "宜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓥",
+        "variants": [],
+        "synonyms": [
+            "鞭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓧",
+        "variants": [
+            "𠓧“𠓢”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓪",
+        "variants": [
+            "参差。《改併四聲篇海·入部》引《川篇》：“𠓪，參差也。”按：“𠓪”，疑为“𠁭”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓫biǎn",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音扁",
+                    "小"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓭lǎn",
+                "rhyme_book": "《集韻》盧感切，上感來。",
+                "meanings": [
+                    "悲愁的样子"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓮lǐn",
+                "rhyme_book": "《龍龕手鑑》力稔反。",
+                "meanings": [
+                    "火舒"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓱",
+        "variants": [],
+        "synonyms": [
+            "遇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓲",
+        "variants": [],
+        "synonyms": [
+            "乘"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓴",
+        "variants": [],
+        "synonyms": [
+            "全"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓶zhì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音制",
+                    "挥"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "biē",
+                "rhyme_book": "《字彙補》卑切切。",
+                "meanings": [
+                    "火"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chéng",
+                "rhyme_book": "《字彙補》神情切。",
+                "meanings": [
+                    "朋"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓸",
+        "variants": [],
+        "synonyms": [
+            "乘"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠓽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠓽shèng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音乘",
+                    "车乘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠓿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁸𠓿qín",
+                "rhyme_book": "《改併四聲篇海·入部》引",
+                "meanings": [
+                    "《川篇》：“𠓿，音琴"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

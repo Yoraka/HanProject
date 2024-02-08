@@ -1,0 +1,403 @@
+[
+    {
+        "character": "㐄",
+        "variants": [
+            "㐄“𡕒”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "丨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "gǔn",
+                "rhyme_book": "《廣韻》古本切，上混見。諄部。",
+                "meanings": [
+                    "上下相通"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jiū",
+                "rhyme_book": "《廣韻》居求切，平尤見。幽部。",
+                "meanings": [
+                    "相纠缠"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "个",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gè",
+                "rhyme_book": "《廣韻》古賀切，去箇見。歌部。",
+                "meanings": [
+                    "古指正堂两旁的侧室",
+                    "“個”的简化字"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "gàn",
+                "rhyme_book": "《集韻》居案切，去翰見。",
+                "meanings": [
+                    "箭靶左右伸出的部分"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yā",
+                "rhyme_book": "《廣韻》於加切，平麻影。",
+                "meanings": [
+                    "物体上端分叉的部分",
+                    "丫髻"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "中",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhōng",
+                "rhyme_book": "《廣韻》陟弓切，平東知。冬部。",
+                "meanings": [
+                    "内，里面",
+                    "方位在中央",
+                    "中等",
+                    "半，位置在两端之间的",
+                    "正，不偏不倚",
+                    "媒介；中介",
+                    "内心",
+                    "内脏",
+                    "身",
+                    "副词",
+                    "方言",
+                    "古代户役年龄",
+                    "簿书，案卷",
+                    "古代投壶时盛筹码的器皿",
+                    "*中国*的简称",
+                    "姓",
+                    "尽心竭力，忠诚无私",
+                    "厚",
+                    "恕",
+                    "正直",
+                    "古州名",
+                    "得当，恰当",
+                    "正对上；恰好合上",
+                    "受到，遭受",
+                    "陷害，中伤",
+                    "间隔",
+                    "满，足",
+                    "科举及第",
+                    "中；居中",
+                    "兄弟中排行第二的",
+                    "在中间介绍调停",
+                    "古乐器"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhòng",
+                "rhyme_book": "《廣韻》陟仲切，去送知。冬部。",
+                "meanings": [
+                    "得当，恰当",
+                    "正对上；恰好合上",
+                    "受到，遭受",
+                    "陷害，中伤",
+                    "间隔",
+                    "满，足",
+                    "科举及第",
+                    "中；居中",
+                    "兄弟中排行第二的",
+                    "在中间介绍调停",
+                    "古乐器",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jǐ",
+                "rhyme_book": "《廣韻》几劇切，入陌見。緝部。",
+                "meanings": [
+                    "握持"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jiè",
+                "rhyme_book": "《廣韻》古拜切，去怪見。月部。",
+                "meanings": [
+                    "草芥"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "fēng",
+                "rhyme_book": "《廣韻》敷容切，平鍾敷。東部。",
+                "meanings": [
+                    "草木茂盛",
+                    "丰满",
+                    "人的仪表举止",
+                    "阶梯",
+                    "“豐”的简化字"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "guàn",
+                "rhyme_book": "《廣韻》古患切，去諫見。",
+                "meanings": [
+                    "旧时儿童束发如两角之貌",
+                    "年幼"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "kuàng",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "串",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "guàn",
+                "rhyme_book": "《廣韻》古患切，去諫見。元部。",
+                "meanings": [
+                    "习惯；习俗",
+                    "指亲近的人"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "chuàn",
+                "rhyme_book": "《洪武正韻》樞絹切。",
+                "meanings": [
+                    "将物品连贯在一起",
+                    "量词",
+                    "到别人家走动",
+                    "串通；勾结",
+                    "指衔接错乱",
+                    "戏曲术语"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "丳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chǎn",
+                "rhyme_book": "《廣韻》初限切，上産初。",
+                "meanings": [
+                    "烤肉用的铁签"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "临",
+        "variants": [
+            "临“臨”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "丵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "zhuó",
+                "rhyme_book": "《廣韻》士角切，入覺崇。藥部。",
+                "meanings": [
+                    "丛生的草"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠁡",
+        "variants": [],
+        "synonyms": [
+            "卜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": [
+            "\n𠁣象声词。表拳击声等。《封神演義》第十三回：“拎起拳來，或上或下，𠁣𠁣𠃛𠃛，一氣打有一二十拳。”\n\n\n"
+        ]
+    },
+    {
+        "character": "𠁦",
+        "variants": [],
+        "synonyms": [
+            "中"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁧",
+        "variants": [],
+        "synonyms": [
+            "中"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁩",
+        "variants": [],
+        "synonyms": [
+            "中"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁬",
+        "variants": [],
+        "synonyms": [
+            "乖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠁭qí",
+                "rhyme_book": "《廣韻》巨支切，平支羣。",
+                "meanings": [
+                    "参差；不合"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠁮",
+        "variants": [],
+        "synonyms": [
+            "叔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁰",
+        "variants": [],
+        "synonyms": [
+            "乖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁱",
+        "variants": [],
+        "synonyms": [
+            "事"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠁴",
+        "variants": [],
+        "synonyms": [
+            "龜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

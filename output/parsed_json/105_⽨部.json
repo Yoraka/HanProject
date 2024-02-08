@@ -1,0 +1,529 @@
+[
+    {
+        "character": "癶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "bō",
+                "rhyme_book": "《廣韻》北末切，入末幫。月部。",
+                "meanings": [
+                    "两足分张不正，行而不顺"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "癸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "guǐ",
+                "rhyme_book": "《廣韻》居誄切，上旨見。脂部。",
+                "meanings": [
+                    "估量；揆度",
+                    "天干的末位，用以纪年、月、日",
+                    "序数第十的代称",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "癹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "bá",
+                "rhyme_book": "《廣韻》蒲撥切，入末並。又",
+                "meanings": [
+                    "《集韻》普活切",
+                    "用脚蹋除草"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "登",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "dēng",
+                "rhyme_book": "dēng　㊀《廣韻》都滕切，平登端。蒸部。",
+                "meanings": [
+                    "升；自下而上",
+                    "高",
+                    "升迁；提拔",
+                    "成熟",
+                    "实现；完成",
+                    "增加",
+                    "进献",
+                    "上册；登载",
+                    "科举考试中选",
+                    "捕取",
+                    "祭祀时盛肉食的礼器",
+                    "副词",
+                    "进入；放入",
+                    "呆；停留",
+                    "掂量",
+                    "姓"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "dēng",
+                "rhyme_book": "韻》丁鄧切，去嶝端。",
+                "meanings": [
+                    "踩；走过",
+                    "腿和脚向脚底的方向用力",
+                    "延长距离",
+                    "拉"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dé",
+                "rhyme_book": "《字彙補》東職切。",
+                "meanings": [
+                    "得到；获得",
+                    "贪得",
+                    "采用；采取",
+                    "相遇；遇到",
+                    "控制；驾驭",
+                    "便利；有利",
+                    "投合；投契",
+                    "适合；适当",
+                    "晓悟；了解",
+                    "完成",
+                    "足；满足",
+                    "及；到",
+                    "可；能够",
+                    "用于结束谈话的时候，表示同意或禁止",
+                    "副词",
+                    "升；登",
+                    "道德，品行、节操",
+                    "有道德的贤明之人",
+                    "恩惠；恩德",
+                    "感恩；感激",
+                    "德政；善教",
+                    "客观规律",
+                    "性质；属性",
+                    "心意",
+                    "五行说指四季的旺气",
+                    "始生；事物的开始",
+                    "凤凰头上的花纹",
+                    "福，喜庆的事",
+                    "国名",
+                    "星名",
+                    "水名",
+                    "姓",
+                    "正见",
+                    "不弯曲",
+                    "正，合乎正义的",
+                    "竖（与“横”相对）",
+                    "端正",
+                    "伸；挺直",
+                    "申雪（冤狱）",
+                    "遇，碰着",
+                    "代理",
+                    "值班；侍卫",
+                    "当，临",
+                    "值，价格",
+                    "相平，相当",
+                    "柄",
+                    "曲尺",
+                    "量词",
+                    "连词",
+                    "表示方位",
+                    "旧*直隶省*的简称",
+                    "识；记",
+                    "主宰；掌管",
+                    "职务；分内应做的事",
+                    "职业",
+                    "职责",
+                    "职能；功能",
+                    "职位；执行事务所处的一定地位",
+                    "旧时下属对上司的自称",
+                    "负责；承担",
+                    "赋税；贡品",
+                    "主要",
+                    "常；正常",
+                    "刚才；忽然",
+                    "旗帜",
+                    "标记",
+                    "巾",
+                    "小木桩",
+                    "门外闭时用以加锁的中立直木",
+                    "木柱",
+                    "棱",
+                    "刚强；刚直",
+                    "平直；笔直",
+                    "栽种",
+                    "生长",
+                    "植物",
+                    "树立",
+                    "行列",
+                    "扶植",
+                    "倚；拄",
+                    "将主；监督工事的主管人",
+                    "多",
+                    "搁置；放置",
+                    "脂膏放久而腐坏",
+                    "生长；繁殖",
+                    "经营；生财",
+                    "种植",
+                    "立；树立",
+                    "殖民主义的简称",
+                    "细腻的黄黏土",
+                    "土地",
+                    "植",
+                    "意念；心情",
+                    "志愿；志向",
+                    "神志",
+                    "德行",
+                    "向慕；期望",
+                    "微小",
+                    "专一",
+                    "箭靶的中心",
+                    "骨镞不剪羽的箭",
+                    "皮肤上生的斑痕",
+                    "方言",
+                    "加上标记",
+                    "记住",
+                    "记述；记载",
+                    "古代钟鼎上凸出的文字",
+                    "草名",
+                    "知道",
+                    "认识",
+                    "相知的朋友",
+                    "知识；见解",
+                    "思想或意识",
+                    "佛教用语",
+                    "记录",
+                    "记忆",
+                    "标志；记号",
+                    "记事的文章或书籍",
+                    "必须；应该",
+                    "助词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "發",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "fā",
+                "rhyme_book": "《廣韻》方伐切，入月非。月部。",
+                "meanings": [
+                    "发射",
+                    "离去；启行",
+                    "派遣",
+                    "送出；交付",
+                    "出；生",
+                    "发端；开始",
+                    "行；举事",
+                    "启动；震动",
+                    "开启；打开",
+                    "征召；征集",
+                    "启发；阐明",
+                    "发布；公布",
+                    "散发",
+                    "兴起；兴旺",
+                    "高扬",
+                    "张大；扩大",
+                    "揭露",
+                    "显现；呈现",
+                    "毁坏",
+                    "卸下；解开",
+                    "持举",
+                    "标示",
+                    "感到（多指不愉快的情况）",
+                    "中医学名词",
+                    "量词",
+                    "古代东方部族名，亦国名",
+                    "砍杀；击刺",
+                    "砍伐",
+                    "敲击",
+                    "攻打；征伐",
+                    "除去",
+                    "败坏；损伤",
+                    "功劳",
+                    "夸耀",
+                    "星名",
+                    "畎上高土",
+                    "姓",
+                    "过错；罪过",
+                    "处罚；惩治",
+                    "伐；杀",
+                    "出钱赎罪",
+                    "倾圮；坍塌",
+                    "败坏；变坏",
+                    "破灭；覆灭",
+                    "偃伏；慑伏",
+                    "坠落；跌下",
+                    "停止；中止",
+                    "无用的",
+                    "废黜；放逐",
+                    "废弃；废除",
+                    "荒废；荒芜",
+                    "断绝",
+                    "贻误",
+                    "懈怠；旷废",
+                    "沮丧",
+                    "杀害；丧失",
+                    "无足的（器物）",
+                    "不和顺",
+                    "犹“退”",
+                    "替",
+                    "变",
+                    "卖出",
+                    "放置",
+                    "大",
+                    "久病不愈；残疾",
+                    "废弃",
+                    "古代旐末镶以帛制的状如燕尾的垂旒",
+                    "泛指旌旗",
+                    "军前先驱车",
+                    "帘幕",
+                    "树梢",
+                    "泛指物的端、梢",
+                    "头",
+                    "肢体；四肢",
+                    "背脊",
+                    "偏远",
+                    "终了；末尾；最后",
+                    "衰，衰败",
+                    "老；晚年",
+                    "事物次要的、非根本的一面",
+                    "古指工商业，与农业相对",
+                    "卑微；浅薄",
+                    "细粉；碎屑",
+                    "遗余；留传",
+                    "减轻；抹灭",
+                    "涂；抹",
+                    "追逐",
+                    "传统戏曲角色名",
+                    "副词",
+                    "语气词",
+                    "车轼上的覆盖物"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bō",
+                "rhyme_book": "《集韻》北末切，入末幫。月部。",
+                "meanings": [
+                    "〔發發〕形容疾风或鱼跃的声音"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤼥",
+        "variants": [],
+        "synonyms": [
+            "躋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼦",
+        "variants": [],
+        "synonyms": [
+            "發"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼧",
+        "variants": [],
+        "synonyms": [
+            "癹",
+            "癹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼩",
+        "variants": [],
+        "synonyms": [
+            "癸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼪",
+        "variants": [],
+        "synonyms": [
+            "登"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼬",
+        "variants": [],
+        "synonyms": [
+            "班"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤼮guī",
+                "rhyme_book": "《字彙補·癶部》：“𤼮，公推切，音圭。義未詳。見",
+                "meanings": [
+                    "《海篇》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤼯",
+        "variants": [
+            "𤼯“癹”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼰",
+        "variants": [
+            "𤼰“𤼺”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼱",
+        "variants": [
+            "𤼱“𦲯”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼲",
+        "variants": [],
+        "synonyms": [
+            "發",
+            "發"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸𤼳jú",
+                "rhyme_book": "《龍龕手鑑》九六反。",
+                "meanings": [
+                    "两手托物"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤼴",
+        "variants": [],
+        "synonyms": [
+            "𤼳"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼵",
+        "variants": [],
+        "synonyms": [
+            "發"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁹𤼶dēng",
+                "rhyme_book": "《字彙補·癶部》：“𤼶，都騰切，音登。出",
+                "meanings": [
+                    "《金鏡》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤼷",
+        "variants": [],
+        "synonyms": [
+            "登"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼹",
+        "variants": [],
+        "synonyms": [
+            "𤼺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤼺fèi",
+                "rhyme_book": "《廣韻》方肺切，去廢非。",
+                "meanings": [
+                    "赋敛；征税"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

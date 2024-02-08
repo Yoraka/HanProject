@@ -1,0 +1,1775 @@
+[
+    {
+        "character": "㿪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿪huán",
+                "rhyme_book": "《廣韻》胡官切，平桓匣。",
+                "meanings": [
+                    "皮病"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿫bì",
+                "rhyme_book": "《篇海類編》兵媚切。",
+                "meanings": [
+                    "劈麻苧㿫头"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "bā",
+                "rhyme_book": "《廣韻》伯加切，平麻幫。",
+                "meanings": [
+                    "〔㿬皻〕鼻病"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chè",
+                "rhyme_book": "《集韻》耻格切，入陌徹。",
+                "meanings": [
+                    "皮肤皱裂"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lè",
+                "rhyme_book": "《集韻》力摘切，入麥來。",
+                "meanings": [
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yàng",
+                "rhyme_book": "《廣韻》於亮切，去漾影。又於驚切。",
+                "meanings": [
+                    "青貌",
+                    "面色青黑"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿯dá",
+                "rhyme_book": "《廣韻》都合切，入合端。",
+                "meanings": [
+                    "皮宽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "áo",
+                "rhyme_book": "《集韻》牛交切，平肴疑。",
+                "meanings": [
+                    "皮坚"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bì",
+                "rhyme_book": "《集韻》必歷切，入錫幫。",
+                "meanings": [
+                    "皮干声"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "㿱xué",
+                "rhyme_book": "《廣韻》寺絶切，入薛邪。",
+                "meanings": [
+                    "干枯",
+                    "撮取皮；剥刮",
+                    "乱"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿲",
+        "variants": [],
+        "synonyms": [
+            "欹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿴dā",
+                "rhyme_book": "《廣韻》都榼切，入盍端。",
+                "meanings": [
+                    "宽皮貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿵",
+        "variants": [],
+        "synonyms": [
+            "𥀭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿶",
+        "variants": [],
+        "synonyms": [
+            "幫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cuó",
+                "rhyme_book": "《廣韻》楚愧切，去至初。又",
+                "meanings": [
+                    "《集韻》才何切",
+                    "皮肤起粟粒"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cāo",
+                "rhyme_book": "《廣韻》七到切，去号清。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wǎn",
+                "rhyme_book": "《廣韻》無遠切，上阮微。又無販切。",
+                "meanings": [
+                    "皮脱离"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mán",
+                "rhyme_book": "《類篇》謨官切，平桓明。",
+                "meanings": [
+                    "皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿹tà",
+                "rhyme_book": "《集韻》他達切，入曷透。",
+                "meanings": [
+                    "表皮凸起"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿺",
+        "variants": [],
+        "synonyms": [
+            "𦢊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "pí",
+                "rhyme_book": "《廣韻》符羈切（",
+                "meanings": [
+                    "剥（皮）",
+                    "人或动植物体表面的一层组织",
+                    "皮革，指制过的去毛兽皮",
+                    "裘衣",
+                    "兽皮制成的箭靶",
+                    "制皮革的工匠",
+                    "物体的表层",
+                    "某些薄而平的片状物",
+                    "表面；从表面上；肤浅地",
+                    "有韧性；不松脆",
+                    "厚颜；讨嫌",
+                    "指我国某些戏曲的唱词或声腔",
+                    "橡胶质的",
+                    "方言",
+                    "姓",
+                    "代词",
+                    "斜",
+                    "〔匪匪〕也作“騑騑”",
+                    "覆盖",
+                    "用手把握之处",
+                    "量词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "gǎn",
+                "rhyme_book": "《廣韻》古旱切，上旱見。元部。",
+                "meanings": [
+                    "皮肤黧黑枯槁"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "pào",
+                "rhyme_book": "《廣韻》匹皃切，去效滂。又防教切。幽部。",
+                "meanings": [
+                    "面疮",
+                    "皮肤上起的像水泡的小疙瘩",
+                    "眼皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皱",
+        "variants": [
+            "皱“皺”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皲",
+        "variants": [
+            "皲“皸”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皳",
+        "variants": [],
+        "synonyms": [
+            "毬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "cūn",
+                "rhyme_book": "《廣韻》七倫切，平諄清。諄部。",
+                "meanings": [
+                    "皮肤皱裂",
+                    "物体表面粗糙、有皱褶",
+                    "打皱；皱缩",
+                    "中国画的一种技法，用淡干墨涂染以表现山石纹理，峰峦折痕及树身表皮的脉络、形态",
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "què",
+                "rhyme_book": "《廣韻》七雀切，入藥清。又七迹切。鐸部。",
+                "meanings": [
+                    "树皮粗糙而坼裂",
+                    "皮肤皴裂",
+                    "与人不睦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皶",
+        "variants": [],
+        "synonyms": [
+            "皻（齇）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皷",
+        "variants": [],
+        "synonyms": [
+            "鼓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jūn",
+                "rhyme_book": "《廣韻》舉云切，平文見。又居運切。諄部。",
+                "meanings": [
+                    "皮肤受冻而破裂"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皹",
+        "variants": [],
+        "synonyms": [
+            "皸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhòu",
+                "rhyme_book": "《廣韻》側救切，去宥莊。",
+                "meanings": [
+                    "皮肤因松弛而起的纹路",
+                    "蹙；收缩",
+                    "泛指物体表面紧缩和揉弄而形成的纹路"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhōu",
+                "rhyme_book": "《集韻》甾尤切，平尤莊。",
+                "meanings": [
+                    "栗蓬，栗子的外壳"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhā",
+                "rhyme_book": "《廣韻》側加切，平麻莊。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "cū",
+                "rhyme_book": "《集韻》忖五切，上姥清。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhāo",
+                "rhyme_book": "《廣韻》止遥切，平宵章。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhǎn",
+                "rhyme_book": "《廣韻》旨善切，上獼章。又知演切。",
+                "meanings": [
+                    "皮离"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dǎn",
+                "rhyme_book": "《集韻》黨旱切，上旱端。",
+                "meanings": [
+                    "面部皮肤病"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "dú",
+                "rhyme_book": "《廣韻》徒谷切，入屋定。",
+                "meanings": [
+                    "滑"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²𤿆zhěng",
+                "rhyme_book": "《集韻》張梗切，上梗知。",
+                "meanings": [
+                    "皮肤急貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿇",
+        "variants": [],
+        "synonyms": [
+            "㓟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿈",
+        "variants": [],
+        "synonyms": [
+            "𦣃（𦢊）",
+            "㿺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿉",
+        "variants": [],
+        "synonyms": [
+            "𤿈（𦢊）",
+            "𤿈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿊",
+        "variants": [],
+        "synonyms": [
+            "皯",
+            "皯"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿋què",
+                "rhyme_book": "《字彙補》七雀切。",
+                "meanings": [
+                    "皮皴"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿌",
+        "variants": [],
+        "synonyms": [
+            "皮",
+            "皮"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "pī",
+                "rhyme_book": "《廣韻》敷羈切（",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿏nàn",
+                "rhyme_book": "《集韻》奴紺切，去勘泥。",
+                "meanings": [
+                    "柔软的皮革"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "𤿐pī",
+                "rhyme_book": "《龍龕手鑑》普皮反。",
+                "meanings": [
+                    "〔𤿐䙹〕开口貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿑",
+        "variants": [],
+        "synonyms": [
+            "跛"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿒",
+        "variants": [],
+        "synonyms": [
+            "𤿏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿓fā",
+                "rhyme_book": "《字彙補·皮部》：“𤿓，夫八切，音發。義闕。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿔",
+        "variants": [],
+        "synonyms": [
+            "皰"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿕mǐn",
+                "rhyme_book": "《廣韻》武盡切（",
+                "meanings": [
+                    "《集韻》弭盡切），上軫明",
+                    "皮纹理细"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿖mò",
+                "rhyme_book": "《集韻》莫葛切，入末明。",
+                "meanings": [
+                    "皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿗",
+        "variants": [],
+        "synonyms": [
+            "韤（袜）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿘zhāo",
+                "rhyme_book": "《集韻》之遥切，平宵章。",
+                "meanings": [
+                    "皮肉上的薄膜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhì",
+                "rhyme_book": "《廣韻》争義切，去寘莊。又平義切。",
+                "meanings": [
+                    "〔𤿙皺〕皮不展"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pí",
+                "rhyme_book": "《越諺》音皮。",
+                "meanings": [
+                    "〔𤿙攋〕方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿚cū",
+                "rhyme_book": "《廣韻》倉胡切，平模清。又七與切，",
+                "meanings": [
+                    "《集韻》忖五切",
+                    "〔皴𤿚〕皮肤粗糙皴裂"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿛",
+        "variants": [],
+        "synonyms": [
+            "辜",
+            "辜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿜",
+        "variants": [],
+        "synonyms": [
+            "𧹞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿝",
+        "variants": [],
+        "synonyms": [
+            "皽"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿟xún",
+                "rhyme_book": "《集韻》須倫切，平諄心。",
+                "meanings": [
+                    "脚的皮肤裂开"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁶𤿠jí",
+                "rhyme_book": "《廣韻》居質切，入質見。",
+                "meanings": [
+                    "皮黑"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿡",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "guì",
+                "rhyme_book": "《顔氏家訓》原注引",
+                "meanings": [
+                    "《字苑》九偽切"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qí",
+                "rhyme_book": "《龍龕手鑑》去奇反。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿣chéng",
+                "rhyme_book": "《龍龕手鑑·皮部》：“𤿣，音成。”",
+                "meanings": [
+                    "《字彙補·皮部》：“𤿣，時平切，音成，義闕"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿤",
+        "variants": [],
+        "synonyms": [
+            "皮",
+            "皮"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿥",
+        "variants": [],
+        "synonyms": [
+            "皺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿧hàn",
+                "rhyme_book": "《廣韻》侯旰切，去翰匣。",
+                "meanings": [
+                    "古代射箭时套在左臂上的臂衣，多采用柔皮制成，如今之护袖，叫射𤿧或射韝"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿨",
+        "variants": [],
+        "synonyms": [
+            "韒（鞘）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿩què",
+                "rhyme_book": "《廣韻》苦角切，入覺溪。",
+                "meanings": [
+                    "〔𥀣𤿩〕见“𥀣”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿪",
+        "variants": [],
+        "synonyms": [
+            "𥀈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿫chuò",
+                "rhyme_book": "《廣韻》丑悦切，入薛徹。又",
+                "meanings": [
+                    "《玉篇》他活切",
+                    "表皮破损、剥落"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿭fǔ",
+                "rhyme_book": "《改併四聲篇海·皮部》引",
+                "meanings": [
+                    "《俗字背篇》：“𤿭，音甫"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿮",
+        "variants": [],
+        "synonyms": [
+            "皺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿯",
+        "variants": [],
+        "synonyms": [
+            "攲"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿳qǐn",
+                "rhyme_book": "《廣韻》弃忍切，上準溪。",
+                "meanings": [
+                    "皮厚貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿴lù",
+                "rhyme_book": "《集韻》盧谷切，入屋來。",
+                "meanings": [
+                    "〔𤿴瘯〕也作“𤿴癡”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿵què",
+                "rhyme_book": "《玉篇》七絶切。",
+                "meanings": [
+                    "皮断"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿶diǎn",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《俗字背篇》多殄切",
+                    "皮起"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿷qiān",
+                "rhyme_book": "《玉篇》口咸切。",
+                "meanings": [
+                    "不平貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿻",
+        "variants": [],
+        "synonyms": [
+            "𤿓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿼chǎng",
+                "rhyme_book": "《龍龕手鑑·皮部》：“𤿼，俗，昌兩反。”",
+                "meanings": [
+                    "《字彙補·皮部》：“𤿼，音敞"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿽",
+        "variants": [],
+        "synonyms": [
+            "㿴",
+            "㿴"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤿾bēi",
+                "rhyme_book": "《改併四聲篇海·皮部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤿾，音卑"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿿",
+        "variants": [],
+        "synonyms": [
+            "皺",
+            "皺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀀",
+        "variants": [],
+        "synonyms": [
+            "㿹",
+            "㿹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀁",
+        "variants": [],
+        "synonyms": [
+            "杜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "běng",
+                "rhyme_book": "《集韻》補孔切，上董幫。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bāng",
+                "rhyme_book": "《集韻》悲江切，平江幫。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀃hòu",
+                "rhyme_book": "《集韻》下遘切，去候匣。",
+                "meanings": [
+                    "石蜜膜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀄",
+        "variants": [],
+        "synonyms": [
+            "𥀃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀇",
+        "variants": [
+            "𥀇“𥀏”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀈zhǎ",
+                "rhyme_book": "《廣韻》側洽切，入洽莊。",
+                "meanings": [
+                    "〔皺𥀈〕皮肤老化"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhǎ",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "破𥀉皮毛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀊",
+        "variants": [],
+        "synonyms": [
+            "韋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀋",
+        "variants": [],
+        "synonyms": [
+            "𥀖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀍",
+        "variants": [],
+        "synonyms": [
+            "羆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀎",
+        "variants": [],
+        "synonyms": [
+            "㲉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀏má",
+                "rhyme_book": "《字彙》蜜沙切。",
+                "meanings": [
+                    "〔𥀏㗩〕闭口貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁰𥀐hán",
+                "rhyme_book": "《集韻》河干切，平寒匣。",
+                "meanings": [
+                    "膜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀒",
+        "variants": [],
+        "synonyms": [
+            "𥀖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀓",
+        "variants": [],
+        "synonyms": [
+            "瘤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀔lù",
+                "rhyme_book": "《集韻》盧谷切，入屋來。",
+                "meanings": [
+                    "兽皮有纹貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀕",
+        "variants": [],
+        "synonyms": [
+            "韠"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀖zī",
+                "rhyme_book": "《廣韻》側持切，平之莊。",
+                "meanings": [
+                    "手脚掌上所起的趼"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀗",
+        "variants": [],
+        "synonyms": [
+            "㿸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀘pǐ",
+                "rhyme_book": "《篇海類編》匹美切。",
+                "meanings": [
+                    "列名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀙",
+        "variants": [],
+        "synonyms": [
+            "皺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹¹𥀛zāo",
+                "rhyme_book": "《龍龕手鑑·皮部》：“𥀛，俗，音遭。”",
+                "meanings": [
+                    "《字彙補·皮部》：“𥀛，租刀切，音遭"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀜",
+        "variants": [
+            "𥀜“𥀒”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀝niǔ",
+                "rhyme_book": "《篇海類編·身體類·皮部》：“𥀝，女六切。”",
+                "meanings": [
+                    "《字彙補·皮部》：“𥀝，女六切，音忸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀞",
+        "variants": [
+            "𥀞同“㿷”。《龍龕手鑑·皮部》：“𥀞”，同“㿷”。一说“㿷”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀟",
+        "variants": [],
+        "synonyms": [
+            "皵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀠huì",
+                "rhyme_book": "《龍龕手鑑·皮部》：“𥀠，胡對反。”",
+                "meanings": [
+                    "《字彙補·皮部》：“𥀠，何對切，音惠"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀡",
+        "variants": [],
+        "synonyms": [
+            "羆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀢",
+        "variants": [],
+        "synonyms": [
+            "鼖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xué",
+                "rhyme_book": "《廣韻》胡覺切，入覺匣。",
+                "meanings": [
+                    "〔𥀣𤿩〕干"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiào",
+                "rhyme_book": "《越諺》音壳。",
+                "meanings": [
+                    "方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀤",
+        "variants": [],
+        "synonyms": [
+            "㿸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀥là",
+                "rhyme_book": "《類篇》力盍切，入盍來。",
+                "meanings": [
+                    "〔𥀥㿴〕也作“𥀰㿴”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀦",
+        "variants": [],
+        "synonyms": [
+            "羆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀧",
+        "variants": [],
+        "synonyms": [
+            "羆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀨",
+        "variants": [],
+        "synonyms": [
+            "孕"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀩",
+        "variants": [],
+        "synonyms": [
+            "𥀨（孕）",
+            "𥀨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nóu",
+                "rhyme_book": "《集韻》奴侯切，平侯泥。",
+                "meanings": [
+                    "柔革"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "rǎn",
+                "rhyme_book": "《篇海類編》人善切。",
+                "meanings": [
+                    "柔皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀭",
+        "variants": [],
+        "synonyms": [
+            "𡰫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀮nǎo",
+                "rhyme_book": "《改併四聲篇海·皮部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𥀮，音腦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀯",
+        "variants": [],
+        "synonyms": [
+            "袜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀰là",
+                "rhyme_book": "《廣韻》盧盍切，入盍來。",
+                "meanings": [
+                    "〔𥀰㿴〕1.皮瘦宽貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𥀱guǎng",
+                "rhyme_book": "《集韻》古晃切，上蕩見。",
+                "meanings": [
+                    "张大貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁵𥀲dú",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔𥀲丸〕也作“𥀲㿪”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𥀴",
+        "variants": [],
+        "synonyms": [
+            "欹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀵",
+        "variants": [
+            "离。《集韻·模韻》：“𥀵，《博雅》：‘離也。’”*方成珪*考正：“《廣雅》未見。”一说“㪭”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀶",
+        "variants": [
+            "𥀶“𣀮”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀸",
+        "variants": [],
+        "synonyms": [
+            "𥀝",
+            "𥀝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀹",
+        "variants": [],
+        "synonyms": [
+            "趼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𥀺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁹𥀺xiè",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《俗字背篇》先叶切",
+                    "和"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

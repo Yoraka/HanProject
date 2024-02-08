@@ -1,0 +1,260 @@
+[
+    {
+        "character": "㚅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "óng",
+                "rhyme_book": "《廣韻》力中切，平東來。",
+                "meanings": [
+                    "多㚅，礼天",
+                    "多"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "夂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhǐ",
+                "rhyme_book": "《廣韻》豬几切，上旨知。脂部。",
+                "meanings": [
+                    "从后至"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhōng",
+                "rhyme_book": "《集韻》之戎切，平東章。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "夃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "gǔ",
+                "rhyme_book": "《廣韻》公户切，上姥見。魚部。",
+                "meanings": [
+                    "买卖多得利"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yíng",
+                "rhyme_book": "《古今韻會舉要》怡成切。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "处",
+        "variants": [
+            "“處”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "夅",
+        "variants": [],
+        "synonyms": [
+            "降"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "夆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "féng",
+                "rhyme_book": "《廣韻》符容切，平鍾奉。東部。",
+                "meanings": [
+                    "啎；相逢",
+                    "豆器所盛丰满",
+                    "满；满足",
+                    "大",
+                    "增大；扩大",
+                    "厚，丰厚",
+                    "丰腴；丰满",
+                    "多；丰富",
+                    "富饶",
+                    "茂盛；茂密",
+                    "兴盛；昌盛",
+                    "古代礼器，形状像豆，用以承酒觶",
+                    "蒲草",
+                    "六十四卦之一，卦形为☀，离下震上",
+                    "地名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "páng",
+                "rhyme_book": "《字彙》薄江切。",
+                "meanings": [
+                    "在要害处设置障碍；砦",
+                    "地名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "备",
+        "variants": [
+            "“備”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "夈",
+        "variants": [],
+        "synonyms": [
+            "齋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠙚",
+        "variants": [],
+        "synonyms": [
+            "處"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕒",
+        "variants": [],
+        "synonyms": [
+            "跨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕓",
+        "variants": [],
+        "synonyms": [
+            "齊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕔",
+        "variants": [],
+        "synonyms": [
+            "夃（盈）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕕",
+        "variants": [],
+        "synonyms": [
+            "學"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jǔ",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《俗字背篇》音舉"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "féng",
+                "rhyme_book": "《篇海類編》音夆。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𡕘",
+        "variants": [],
+        "synonyms": [
+            "牢"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕚",
+        "variants": [],
+        "synonyms": [
+            "覺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕛",
+        "variants": [],
+        "synonyms": [
+            "黄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕜",
+        "variants": [],
+        "synonyms": [
+            "屈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𡕝",
+        "variants": [],
+        "synonyms": [
+            "徙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪌛",
+        "variants": [],
+        "synonyms": [
+            "鄰"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

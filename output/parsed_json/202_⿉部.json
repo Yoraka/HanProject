@@ -1,0 +1,913 @@
+[
+    {
+        "character": "䵑",
+        "variants": [],
+        "synonyms": [
+            "䵒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䵒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "nì",
+                "rhyme_book": "《廣韻》尼質切，入質娘。質部。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䵓lí",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔䵓鼠〕也作“犁鼠”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䵔dǒng",
+                "rhyme_book": "《廣韻》多動切，上董端。",
+                "meanings": [
+                    "〔攏䵔〕不上之意"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jù",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "黍",
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiàn",
+                "rhyme_book": "《廣韻》苦甸切，去霰溪。又牽繭切。",
+                "meanings": [
+                    "穄"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qīn",
+                "rhyme_book": "《集韻》乞鄰切，平真溪。",
+                "meanings": [
+                    "稔"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "bì",
+                "rhyme_book": "《廣韻》蒲北切，入德並。職部。",
+                "meanings": [
+                    "清除黍、禾、豆等作物下部枯黄腐烂的叶子",
+                    "黍豆"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_single_meaing",
+                "pinyin": "bì",
+                "rhyme_book": "bì　㊀《集韻》弼力切，入職並。",
+                "meanings": [
+                    "治黍豆"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_single_meaing",
+                "pinyin": "bì",
+                "rhyme_book": "《集韻》筆力切，入職幫。",
+                "meanings": [
+                    "粘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shài",
+                "rhyme_book": "《廣韻》所賣切，去卦生。",
+                "meanings": [
+                    "不黏之貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhā",
+                "rhyme_book": "《集韻》陟加切，平麻知。",
+                "meanings": [
+                    "〔䵙𪐀〕相黏着"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhǎ",
+                "rhyme_book": "《集韻》竹下切，上馬知。",
+                "meanings": [
+                    "〔䵙䵙〕黏貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䵚tǎo",
+                "rhyme_book": "《集韻》土晧切，上晧透。",
+                "meanings": [
+                    "〔䵚黍〕方言"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䵛",
+        "variants": [],
+        "synonyms": [
+            "䵖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䵜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nǒng",
+                "rhyme_book": "《玉篇》乃董切。",
+                "meanings": [
+                    "耕种",
+                    "果子名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shǔ",
+                "rhyme_book": "《廣韻》舒吕切，上語書。魚部。",
+                "meanings": [
+                    "古代专指一种子实叫黍子的一年生草本植物",
+                    "𪎭稷一类草本植物",
+                    "黍类的子实，即黍子的简称",
+                    "古时建立度量衡的依据",
+                    "古酒器的一种"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "lí",
+                "rhyme_book": "《廣韻》郎溪切，平齊來。脂部。",
+                "meanings": [
+                    "古时用黍米做糊，用以粘鞋子",
+                    "众；众多",
+                    "古*高辛*氏、*颛顼*氏的火官，亦谓阴官，即火神",
+                    "*殷*代诸侯国名，在今*山西省**长治市*西南",
+                    "氏族名",
+                    "地名",
+                    "姓",
+                    "深黑色的马",
+                    "黑色",
+                    "“驪龍”的简称",
+                    "山名",
+                    "古邑名",
+                    "成对的",
+                    "结伴而行",
+                    "经过",
+                    "跨越",
+                    "并排驾两匹牲口",
+                    "匹，品配",
+                    "附着",
+                    "施，加",
+                    "中，正着目标",
+                    "连接",
+                    "系；缠缚",
+                    "椽柱之类",
+                    "美好；美妙",
+                    "华丽",
+                    "光华",
+                    "书法用语",
+                    "思虑",
+                    "古县名",
+                    "〔魚麗〕也作“魚☀”",
+                    "古诸侯国名",
+                    "遭遇",
+                    "忧患；苦难",
+                    "数目",
+                    "〔驪靬〕古县名",
+                    "六十岁的老人",
+                    "长者；师傅",
+                    "强横",
+                    "厌恶；憎恨",
+                    "走兽的背脊",
+                    "中药名",
+                    "古国名",
+                    "徐行",
+                    "缓慢",
+                    "晚",
+                    "迟钝",
+                    "犹豫",
+                    "中医学脉象之一",
+                    "久",
+                    "古水名",
+                    "用鞭、杖或板子打",
+                    "古代用鞭子或竹板拷打的刑罚",
+                    "讼辞",
+                    "辩解，解说",
+                    "言词；文词",
+                    "借口，口实",
+                    "告，告诉",
+                    "推辞，辞谢",
+                    "辞却，辞退",
+                    "告别，离开",
+                    "遣去，去",
+                    "责备；斥责",
+                    "请，请求",
+                    "我国古代逻辑名词，指命题（判断）",
+                    "我国古代的一种文体",
+                    "*唐*代的一种呈文",
+                    "祭名",
+                    "得福谢神",
+                    "供奉鬼神、祖先或先贤的庙堂",
+                    "祠禄的省称",
+                    "整治；修治",
+                    "治理；统治",
+                    "修养；修饰",
+                    "有秩序；严整",
+                    "情况正常",
+                    "社会安定，太平（跟“乱”相对）",
+                    "政绩",
+                    "政治；法制",
+                    "司；主管",
+                    "为；作",
+                    "供办；备办",
+                    "制造；建造",
+                    "惩处",
+                    "诊疗",
+                    "对抗；较量",
+                    "征服；制服",
+                    "研究",
+                    "设置治所",
+                    "旧时王都或地方官署所在地",
+                    "奉道的靖室；道教的庙宇",
+                    "藜科"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nián",
+                "rhyme_book": "《廣韻》女廉切，平鹽娘。談部。",
+                "meanings": [
+                    "像糨糊、胶水等所具有的那种性质的东西附着在两物上，使相连接",
+                    "具有黏性的",
+                    "围棋术语",
+                    "诗句平仄协调"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chī（又读lí）",
+                "rhyme_book": null,
+                "meanings": [
+                    "木胶",
+                    "黏",
+                    "今*江**淮*间以麦屑和水舂捣，叫面筋黐，或称黐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪏮rǔ",
+                "rhyme_book": "《廣韻》人渚切，上語日。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏯",
+        "variants": [],
+        "synonyms": [
+            "黎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏰",
+        "variants": [],
+        "synonyms": [
+            "香"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏱",
+        "variants": [],
+        "synonyms": [
+            "𪏯（黎）",
+            "𪏯"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪏲niǔ",
+                "rhyme_book": "《集韻》女九切，上有娘。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "𪏳hù",
+                "rhyme_book": "《集韻》胡故切，去暮匣。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪏴jǐn",
+                "rhyme_book": "《廣韻》居隱切，上隱見。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》女乙切",
+                    "黏貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lí",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪏶bào",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《奚韻》北教切",
+                    "黍豉皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏷",
+        "variants": [],
+        "synonyms": [
+            "𪐀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "nǐ",
+                "rhyme_book": "《集韻》乃禮切，上薺泥。",
+                "meanings": [
+                    "黏",
+                    "方言"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chī",
+                "rhyme_book": "《説文繫傳》勅其反。",
+                "meanings": [
+                    "树脂，一种树木分泌出的黏性物质"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏹",
+        "variants": [],
+        "synonyms": [
+            "𪏻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏺",
+        "variants": [],
+        "synonyms": [
+            "苾"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hú",
+                "rhyme_book": "《廣韻》户吴切，平模匣。魚部。",
+                "meanings": [
+                    "黏",
+                    "煮米及面为粥"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪏼lí",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音犁",
+                    "恍"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪏽",
+        "variants": [],
+        "synonyms": [
+            "香"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪏿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁶𪏿zhū",
+                "rhyme_book": "《廣韻》陟輸切，平虞知。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪐀nǎ",
+                "rhyme_book": "《集韻》女下切，上馬娘。",
+                "meanings": [
+                    "〔䵙𪐀〕粘；黏着"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐁",
+        "variants": [],
+        "synonyms": [
+            "𪏼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "quǎn",
+                "rhyme_book": "《廣韻》去阮切，上阮溪。",
+                "meanings": [
+                    "黏𪐂"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸𪐃fěng",
+                "rhyme_book": "《玉篇》方奉切。",
+                "meanings": [
+                    "扬麦；扬场"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "bǐ",
+                "rhyme_book": "《廣韻》并弭切，上紙幫。又傍卦切。支部。",
+                "meanings": [
+                    "黍属"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪐅lí",
+                "rhyme_book": "《集韻》良脂切，平脂來。",
+                "meanings": [
+                    "饘"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐆",
+        "variants": [],
+        "synonyms": [
+            "馝"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐇",
+        "variants": [],
+        "synonyms": [
+            "𪐇",
+            "𪐇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "dǒng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "〔𪐈𪐖〕黏貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐉",
+        "variants": [],
+        "synonyms": [
+            "𪏻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪐋lián",
+                "rhyme_book": "《集韻》勒兼切，平添來。",
+                "meanings": [
+                    "禾黍疏貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁰𪐌nì",
+                "rhyme_book": "《集韻》昵力切，入職娘。",
+                "meanings": [
+                    "黏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪐍lián",
+                "rhyme_book": "《集韻》陵延切，平仙來。",
+                "meanings": [
+                    "轹禾"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪐎má",
+                "rhyme_book": "《集韻》謨加切，平麻明。",
+                "meanings": [
+                    "穄"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhé",
+                "rhyme_book": "《廣韻》陟格切，入陌知。",
+                "meanings": [
+                    "黏饭",
+                    "黏",
+                    "黏貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhí",
+                "rhyme_book": "《廣韻》竹益切，入昔知。",
+                "meanings": [
+                    "黏黐",
+                    "¹²𪐐以杖挑镫"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐑",
+        "variants": [],
+        "synonyms": [
+            "黐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐒",
+        "variants": [],
+        "synonyms": [
+            "馥"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪐓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁴𪐓jiā",
+                "rhyme_book": "《集韻》居牙切，平麻見。",
+                "meanings": [
+                    "〔𪐓支〕谷物名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁵𪐔yí",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音遺",
+                    "黏貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪐖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁶𪐖lǒng",
+                "rhyme_book": "《字彙》力董切。",
+                "meanings": [
+                    "〔𪐈𪐖〕黏貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

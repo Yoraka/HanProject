@@ -1,0 +1,355 @@
+[
+    {
+        "character": "㐨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㐨xù",
+                "rhyme_book": "《集韻》時忍切（",
+                "meanings": [
+                    "《字彙》象吕切），去震禪"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "亅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jué",
+                "rhyme_book": "《廣韻》其月切，入月羣。月部。",
+                "meanings": [
+                    "倒须钩"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "了",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "liǎo",
+                "rhyme_book": "《廣韻》盧鳥切，上篠來。宵部。",
+                "meanings": [
+                    "走路时足胫相交",
+                    "结束；了结",
+                    "决定；决断",
+                    "聪明",
+                    "明白，懂得",
+                    "清楚，明晰",
+                    "快",
+                    "悬挂",
+                    "副词",
+                    "“瞭”的简化字"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "le",
+                "rhyme_book": null,
+                "meanings": [
+                    "助词",
+                    "语气词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "予",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yǔ",
+                "rhyme_book": "《廣韻》余吕切，上語以。魚部。",
+                "meanings": [
+                    "授予；给予",
+                    "赞许，称许",
+                    "售，卖",
+                    "代词",
+                    "介词",
+                    "*汉*代乐名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yú",
+                "rhyme_book": "《廣韻》以諸切，平魚以。魚部。",
+                "meanings": [
+                    "代词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhù",
+                "rhyme_book": "《集韻》丈吕切，上語澄。",
+                "meanings": [
+                    "古帝王名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "争",
+        "variants": [],
+        "synonyms": [
+            "爭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "事",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shì",
+                "rhyme_book": "《廣韻》鉏吏切，去志崇。之部。",
+                "meanings": [
+                    "官职；职务",
+                    "职业",
+                    "事情",
+                    "事故；变故",
+                    "典故；故实",
+                    "勤劳",
+                    "表示关系或责任",
+                    "侍奉",
+                    "奉行；从事",
+                    "治理；办理",
+                    "任用",
+                    "役使",
+                    "量词",
+                    "姓",
+                    "古指未满二十岁的少年和未婚的青壮年男子",
+                    "我国古代社会阶层的名称",
+                    "诸侯的大夫对天子的自称",
+                    "对品德好、有学识或有技艺的人的美称",
+                    "古代称法官为士",
+                    "古军制，在车上者称士，也称“甲士”，以区别于步卒",
+                    "现代军衔的一级",
+                    "树立；建立",
+                    "插入；刺入",
+                    "学习政事，见习试用",
+                    "任职；做官",
+                    "察看；审察",
+                    "我国象棋棋子名称，红方的“士”写作“仕”"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zì",
+                "rhyme_book": "《廣韻》側吏切，去志莊。",
+                "meanings": [
+                    "树立；建立",
+                    "插入；刺入"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠀩",
+        "variants": [],
+        "synonyms": [
+            "𢆊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jué",
+                "rhyme_book": "《廣韻》居月切，入月見。月部。",
+                "meanings": [
+                    "用作标记的符号"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhuì",
+                "rhyme_book": "《集韻》株衛切，去祭知。",
+                "meanings": [
+                    "剑㦸貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠄍jié",
+                "rhyme_book": "《集韻》居謁切，入月見。",
+                "meanings": [
+                    "〔𡳾𠄍〕见“𡳾”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄎",
+        "variants": [],
+        "synonyms": [
+            "乃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "diǎo",
+                "rhyme_book": "《廣韻》都上切，上篠端。",
+                "meanings": [
+                    "悬挂",
+                    "男性生殖器"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chuí",
+                "rhyme_book": null,
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shā",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄓",
+        "variants": [],
+        "synonyms": [
+            "州"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄔",
+        "variants": [],
+        "synonyms": [
+            "幻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄕",
+        "variants": [],
+        "synonyms": [
+            "乃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠄖líng",
+                "rhyme_book": "《廣韻》郎丁切，平青來。",
+                "meanings": [
+                    "撞"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄗",
+        "variants": [],
+        "synonyms": [
+            "周"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄙",
+        "variants": [],
+        "synonyms": [
+            "争"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁴𠄚tīng",
+                "rhyme_book": "《五音集韻》他丁切。",
+                "meanings": [
+                    "评议"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠄛",
+        "variants": [],
+        "synonyms": [
+            "豫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𠄝",
+        "variants": [],
+        "synonyms": [
+            "豫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

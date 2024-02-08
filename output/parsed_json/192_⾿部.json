@@ -1,0 +1,189 @@
+[
+    {
+        "character": "鬯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "x☀象中秬及鬱形。”",
+                "rhyme_book": "《廣韻》丑亮切，去漾徹。陽部。",
+                "meanings": [
+                    "古代祭祀、宴饮用的香酒，用郁金草合黑黍酿成",
+                    "香草名，即郁金草",
+                    "弓袋",
+                    "藏弓于弓袋",
+                    "通；达",
+                    "长",
+                    "舒展；表达",
+                    "充，充实",
+                    "旺盛",
+                    "舒适；欢快",
+                    "尽情",
+                    "副词",
+                    "琴曲名",
+                    "姓",
+                    "盛满酒的酒杯",
+                    "向人敬酒或自饮",
+                    "烹煮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "鬰",
+        "variants": [],
+        "synonyms": [
+            "鬱"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "鬱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yù",
+                "rhyme_book": "《廣韻》紆物切，入物影。術部。",
+                "meanings": [
+                    "繁茂",
+                    "盛貌",
+                    "幽深",
+                    "阻滞；闭塞",
+                    "忧愁；忧郁",
+                    "怨恨",
+                    "暴怒",
+                    "热气",
+                    "果名",
+                    "神名",
+                    "高大",
+                    "腐臭",
+                    "郁金香草",
+                    "水名",
+                    "古郡名",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰠",
+        "variants": [],
+        "synonyms": [
+            "糈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰡",
+        "variants": [],
+        "synonyms": [
+            "𩰢"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "shǐ",
+                "rhyme_book": "説文》：“𩰢，列也。从鬯，吏聲。讀若迅。”",
+                "meanings": [
+                    "酒气酷烈",
+                    "迅疾"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_single_meaing",
+                "pinyin": "shǐ",
+                "rhyme_book": "《廣韻》疎士切，上止生。",
+                "meanings": [
+                    "优质香料"
+                ]
+            },
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shǐ",
+                "rhyme_book": null,
+                "meanings": [
+                    "酒气酷烈",
+                    "迅疾"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𩰣",
+        "variants": [
+            "“𩰥（爵）”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰤",
+        "variants": [],
+        "synonyms": [
+            "秬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰥",
+        "variants": [],
+        "synonyms": [
+            "爵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰧",
+        "variants": [],
+        "synonyms": [
+            "爵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰨",
+        "variants": [],
+        "synonyms": [
+            "爵",
+            "爵"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𩰪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yù",
+                "rhyme_book": "《集韻》紆勿切，入物影。術部。",
+                "meanings": [
+                    "郁金香草",
+                    "古郡名"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

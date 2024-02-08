@@ -1,0 +1,849 @@
+[
+    {
+        "character": "䘏",
+        "variants": [],
+        "synonyms": [
+            "恤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䘐",
+        "variants": [],
+        "synonyms": [
+            "衄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䘑",
+        "variants": [],
+        "synonyms": [
+            "脈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䘒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䘒zuī",
+                "rhyme_book": "《廣韻》臧回切，平灰精。之部。",
+                "meanings": [
+                    "男孩的生殖器"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䘓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "kàn",
+                "rhyme_book": "《廣韻》苦紺切，去勘溪。談部。",
+                "meanings": [
+                    "血羹"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䘔",
+        "variants": [],
+        "synonyms": [
+            "喀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "血",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "xuè",
+                "rhyme_book": "《廣韻》呼決切，入屑曉。質部。",
+                "meanings": [
+                    "古代作祭品用的牲畜的血",
+                    "血液",
+                    "指妇女月经",
+                    "用鲜血涂沾",
+                    "染，涂",
+                    "有血统关系的",
+                    "悲痛的泪水",
+                    "红色，像血一样的颜色",
+                    "比喻刚强、热烈",
+                    "忧虑"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xiě",
+                "rhyme_book": null,
+                "meanings": [
+                    "“血”的口语读音"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "huāng",
+                "rhyme_book": "《廣韻》呼光切，平唐曉。陽部。",
+                "meanings": [
+                    "血液",
+                    "蟹黄"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衂",
+        "variants": [],
+        "synonyms": [
+            "衄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "衃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "pēi",
+                "rhyme_book": "《廣韻》芳杯切，平灰滂。又匹尤切。之部。",
+                "meanings": [
+                    "赤黑色的淤血"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "fǒu",
+                "rhyme_book": "《集韻》俯九切，上有非。",
+                "meanings": [
+                    "〔蚍衃〕锦葵"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nǜ",
+                "rhyme_book": "《廣韻》女六切，入屋娘。又如六切。屋部。",
+                "meanings": [
+                    "鼻出血",
+                    "泛指（人体各部位的）出血",
+                    "挫败，损伤",
+                    "畏缩",
+                    "侮辱；耻辱"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衅",
+        "variants": [
+            "⁵衅同“釁”。《玉篇·血部》：“衅，牲血塗器祭也。亦作釁。”《禮記·樂記》：“車甲衅而藏之府庫，而弗復用。”*鄭玄*注：“衅，釁字也。”*宋**陸游*《書志》：“鑄為上方劍，衅以佞臣血。”*鲁迅*《书信·致郑振铎（一九三四年六月二十一日）》：“但另有一种脾气，是专做小题，与并非真正之敌寻衅。”按：今为“釁”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "衆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhòng",
+                "rhyme_book": "《廣韻》之仲切，去送章。冬部。",
+                "meanings": [
+                    "大家，许多人",
+                    "*殷*、*周*从事农业生产的奴隶，或管理奴隶的人",
+                    "多，盛多",
+                    "许多",
+                    "普通；一般",
+                    "佛家语",
+                    "久（雨）",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zhōng",
+                "rhyme_book": "《廣韻》職戎切，平東章。冬部。",
+                "meanings": [
+                    "谷类的一种，即秫"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衇",
+        "variants": [],
+        "synonyms": [
+            "脈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "衈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "衈èr",
+                "rhyme_book": "《廣韻》仍吏切，去志日。之部。",
+                "meanings": [
+                    "古代祭礼前杀牲取血以涂器物",
+                    "古代祭名，杀羽牲以祭",
+                    "中医指眼耳出血"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "衉kā",
+                "rhyme_book": "《正字通》乞格切。",
+                "meanings": [
+                    "呕；吐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衊",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "miè",
+                "rhyme_book": "《廣韻》莫結切，入屑明。月部。",
+                "meanings": [
+                    "污血",
+                    "涂染",
+                    "诬毁，造谣破坏别人的名誉",
+                    "鼻出血"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "衋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "xì",
+                "rhyme_book": "《廣韻》許極切，入職曉。職部。",
+                "meanings": [
+                    "悲伤痛苦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖧",
+        "variants": [
+            "²𧖧“𧖨”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "tíng",
+                "rhyme_book": "《廣韻》特丁切，平青定。耕部。",
+                "meanings": [
+                    "安定，停息"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖩",
+        "variants": [],
+        "synonyms": [
+            "衂（衄）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "³𧖪qíng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》巨靈切",
+                    "见定"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖫",
+        "variants": [
+            "𧖫“𥁍”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁴𧖬huāng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音荒",
+                    "血上心"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖭",
+        "variants": [],
+        "synonyms": [
+            "衁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧖮àn",
+                "rhyme_book": "《改併四聲篇海·血部》引",
+                "meanings": [
+                    "《類篇》：“𧖮，音暗"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖯",
+        "variants": [],
+        "synonyms": [
+            "衃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖳",
+        "variants": [
+            "𧖳“圖”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖴",
+        "variants": [],
+        "synonyms": [
+            "脈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧖵mǎn",
+                "rhyme_book": "《集韻》母伴切，上緩明。",
+                "meanings": [
+                    "用血涂地"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖶",
+        "variants": [],
+        "synonyms": [
+            "𧖺（醓）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nì",
+                "rhyme_book": "《廣韻》奴歷切，入錫泥。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nǜ",
+                "rhyme_book": "《龍龕手鑑》女六反。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖸",
+        "variants": [],
+        "synonyms": [
+            "盟（盟）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖹",
+        "variants": [],
+        "synonyms": [
+            "衇（脈）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖺",
+        "variants": [],
+        "synonyms": [
+            "醓",
+            "醓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸𧖻guó",
+                "rhyme_book": "《廣韻》古獲切，入麥見。",
+                "meanings": [
+                    "狗血"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧖼",
+        "variants": [],
+        "synonyms": [
+            "歐（嘔）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖽",
+        "variants": [],
+        "synonyms": [
+            "盟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖾",
+        "variants": [],
+        "synonyms": [
+            "𧗀（䘓）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧖿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧖿xiàng",
+                "rhyme_book": "《改併四聲篇海·血部》引",
+                "meanings": [
+                    "《類篇》：“𧖿，音項"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗀",
+        "variants": [],
+        "synonyms": [
+            "䘓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jīn",
+                "rhyme_book": "《集韻》資辛切，平真精。真部。",
+                "meanings": [
+                    "有机体的体液"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗂",
+        "variants": [],
+        "synonyms": [
+            "惄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗃",
+        "variants": [],
+        "synonyms": [
+            "𧗁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗄",
+        "variants": [],
+        "synonyms": [
+            "監"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧗆zhēng",
+                "rhyme_book": "《集韻》諸仍切，平蒸章。",
+                "meanings": [
+                    "用肉制成的酱"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗇",
+        "variants": [],
+        "synonyms": [
+            "𧗒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁰𧗈nú",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》乃伏切",
+                    "汗，由身体毛孔里排出来的液体"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗉",
+        "variants": [],
+        "synonyms": [
+            "餔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗊",
+        "variants": [],
+        "synonyms": [
+            "𧗁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧗋sàn",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》息濫切",
+                    "抵𧗋"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧗌hù",
+                "rhyme_book": "《集韻》荒故切，去暮曉。",
+                "meanings": [
+                    "血污"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗎",
+        "variants": [],
+        "synonyms": [
+            "菹"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧗏huǐ",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音悔",
+                    "血面"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗐",
+        "variants": [],
+        "synonyms": [
+            "䘓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗑",
+        "variants": [],
+        "synonyms": [
+            "盩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jī",
+                "rhyme_book": "《廣韻》居依切，平微見。微部。",
+                "meanings": [
+                    "古代的一种祭祀仪式"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗓",
+        "variants": [],
+        "synonyms": [
+            "𧗒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗔",
+        "variants": [],
+        "synonyms": [
+            "䘒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗕",
+        "variants": [],
+        "synonyms": [
+            "膿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧗖yè",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》於叶切",
+                    "血"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧗗",
+        "variants": [],
+        "synonyms": [
+            "衄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗘",
+        "variants": [],
+        "synonyms": [
+            "𧗎"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗙",
+        "variants": [],
+        "synonyms": [
+            "衋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗛",
+        "variants": [],
+        "synonyms": [
+            "䘓",
+            "䘓",
+            "䘓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧗜",
+        "variants": [],
+        "synonyms": [
+            "䘓",
+            "䘓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

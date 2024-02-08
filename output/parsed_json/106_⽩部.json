@@ -1,0 +1,2312 @@
+[
+    {
+        "character": "㿝",
+        "variants": [],
+        "synonyms": [
+            "香"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿞",
+        "variants": [],
+        "synonyms": [
+            "耄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿟",
+        "variants": [],
+        "synonyms": [
+            "白"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿠huàng",
+                "rhyme_book": null,
+                "meanings": [
+                    "面部因气血虚少而发白的病色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿡",
+        "variants": [
+            "㿡“兜”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿢",
+        "variants": [],
+        "synonyms": [
+            "耀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿣hè",
+                "rhyme_book": "《廣韻》許葛切，入曷曉。",
+                "meanings": [
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁹㿤chǔn",
+                "rhyme_book": "《玉篇》昌尹切。",
+                "meanings": [
+                    "白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hé",
+                "rhyme_book": "《廣韻》胡沃切，入沃匣。又胡覺切，",
+                "meanings": [
+                    "羽毛光泽洁白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "㿦nìng",
+                "rhyme_book": "《集韻》乃定切，去徑泥。",
+                "meanings": [
+                    "告"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chóu",
+                "rhyme_book": "《集韻》陳留切，平尤澄。",
+                "meanings": [
+                    "父没名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "㿨",
+        "variants": [],
+        "synonyms": [
+            "皪"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "㿩",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "⁰㿩tǎng",
+                "rhyme_book": "《廣韻》他朗切，上蕩透。",
+                "meanings": [
+                    "明"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "白",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "bái",
+                "rhyme_book": "《廣韻》傍陌切，入陌並。鐸部。",
+                "meanings": [
+                    "像霜雪一样的颜色",
+                    "古代丧服的颜色，后因以为丧事的代称",
+                    "洁净",
+                    "亮，明亮",
+                    "彰明；显赫",
+                    "清楚；明白",
+                    "表明；陈述",
+                    "禀告；报告",
+                    "上告，控告",
+                    "特指戏曲中的说白",
+                    "徒然，平白地",
+                    "指没有功名，没有官职",
+                    "空白；空无所有",
+                    "无代价，无报偿",
+                    "假，没有根据",
+                    "西方的代称",
+                    "古代罚酒用的酒杯",
+                    "古代祭祀、朝宴时献用的炒米",
+                    "白发",
+                    "（用白眼看人）表示鄙薄厌恶",
+                    "葱、蒜的茎和根",
+                    "银子的代称",
+                    "道破；揭穿",
+                    "单，只",
+                    "指白话，跟“文言”相对",
+                    "（字形或字音）错误",
+                    "地方话",
+                    "象征反动，与“红”相对",
+                    "我国少数民族名",
+                    "*白渠*的省称，即今*泾惠渠*，古代关中平原的人工灌溉渠道",
+                    "*春秋*时*楚国*地名",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "bó",
+                "rhyme_book": "《集韻》博陌切，入陌幫。",
+                "meanings": [
+                    "丝织物的总称",
+                    "币帛；束帛",
+                    "指帛书",
+                    "草名",
+                    "星名",
+                    "姓",
+                    "像霜雪一样的颜色",
+                    "古代丧服的颜色，后因以为丧事的代称",
+                    "洁净",
+                    "亮，明亮",
+                    "彰明；显赫",
+                    "清楚；明白",
+                    "表明；陈述",
+                    "禀告；报告",
+                    "上告，控告",
+                    "特指戏曲中的说白",
+                    "徒然，平白地",
+                    "指没有功名，没有官职",
+                    "空白；空无所有",
+                    "无代价，无报偿",
+                    "假，没有根据",
+                    "西方的代称",
+                    "古代罚酒用的酒杯",
+                    "古代祭祀、朝宴时献用的炒米",
+                    "白发",
+                    "（用白眼看人）表示鄙薄厌恶",
+                    "葱、蒜的茎和根",
+                    "银子的代称",
+                    "道破；揭穿",
+                    "单，只",
+                    "指白话，跟“文言”相对",
+                    "（字形或字音）错误",
+                    "地方话",
+                    "象征反动，与“红”相对",
+                    "我国少数民族名",
+                    "*白渠*的省称，即今*泾惠渠*，古代关中平原的人工灌溉渠道",
+                    "*春秋*时*楚国*地名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "zì",
+                "rhyme_book": "《集韻》疾二切，去至從。脂部。",
+                "meanings": [
+                    "白；白貌",
+                    "白；白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "百",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "bǎi",
+                "rhyme_book": "《廣韻》博陌切，入陌幫。鐸部。",
+                "meanings": [
+                    "数词",
+                    "概数",
+                    "百倍",
+                    "凡",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bó",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔百色〕市名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mò",
+                "rhyme_book": null,
+                "meanings": [
+                    "勉力"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "癿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "qié",
+                "rhyme_book": "《字彙補》具遮切。",
+                "meanings": [
+                    "*宋*代以来西北少数民族地名用字",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jí（又读xiāng）",
+                "rhyme_book": null,
+                "meanings": [
+                    "稻谷的香气"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bī",
+                "rhyme_book": "《廣韻》彼側切，入職幫。職部。",
+                "meanings": [
+                    "一粒；粒"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zào",
+                "rhyme_book": "《廣韻》昨早切，上晧從。幽部。",
+                "meanings": [
+                    "皁斗的略称，指栎实、柞实等，其壳斗煮汁，可以染黑",
+                    "黑色",
+                    "黑色的丝织品",
+                    "差役，古代士以下的一种服劳役的身份",
+                    "古称马十二匹为皁",
+                    "喂牛马的食槽",
+                    "马栏",
+                    "谷壳已经结成，但还未坚实",
+                    "旧时用皁荚去垢"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皂",
+        "variants": [],
+        "synonyms": [
+            "皁",
+            "皁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皃",
+        "variants": [],
+        "synonyms": [
+            "貌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "的",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "dì",
+                "rhyme_book": "《廣韻》都歷切，入錫端。藥部。",
+                "meanings": [
+                    "明；鲜明",
+                    "白色",
+                    "箭靶的中心",
+                    "古代妇女用朱色点在面部的装饰",
+                    "琴徽，琴上指示音阶的标志",
+                    "尖耸的山峰",
+                    "远"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dí",
+                "rhyme_book": null,
+                "meanings": [
+                    "副词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "de",
+                "rhyme_book": null,
+                "meanings": [
+                    "助词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pā",
+                "rhyme_book": "《集韻》披巴切，平麻滂。魚部。",
+                "meanings": [
+                    "草花白"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bà",
+                "rhyme_book": "《集韻》步化切，去禡並。",
+                "meanings": [
+                    "色不真"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiē",
+                "rhyme_book": "《廣韻》古諧切，平皆見。脂部。",
+                "meanings": [
+                    "都，俱",
+                    "普遍",
+                    "同",
+                    "比，比拟",
+                    "嘉",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "huáng",
+                "rhyme_book": "《廣韻》胡光切，平唐匣。陽部。",
+                "meanings": [
+                    "大",
+                    "天",
+                    "君主",
+                    "古时对封建王朝的敬称",
+                    "对先代或亡亲的敬称",
+                    "辉煌；庄盛",
+                    "美",
+                    "赞美；嘉许",
+                    "四面无壁的室或堂",
+                    "黄白色",
+                    "冠名，上面画有羽饰",
+                    "植物名",
+                    "鸟名",
+                    "草木之花",
+                    "古地名",
+                    "姓",
+                    "恐惧",
+                    "迷惑",
+                    "慌忙",
+                    "空闲；闲暇",
+                    "急迫；匆促不安",
+                    "何，怎能",
+                    "古代盛饭用具",
+                    "方正；端正",
+                    "扶正；纠正",
+                    "救助；辅助",
+                    "匡床",
+                    "框廓",
+                    "眼眶",
+                    "（器物因久用）歪斜损坏；亏损",
+                    "*春秋*时*齐国*简册名",
+                    "螃蟹的背壳",
+                    "料想",
+                    "山名",
+                    "〔滄況〕寒凉貌",
+                    "比，比拟",
+                    "情形；状况",
+                    "副词",
+                    "连词",
+                    "象声词",
+                    "兄长",
+                    "赐给，赐予",
+                    "赐赠之物",
+                    "水名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wǎng",
+                "rhyme_book": "《集韻》羽兩切，上養云。",
+                "meanings": [
+                    "〔皇皇〕祭祀时心所向往貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皈",
+        "variants": [],
+        "synonyms": [
+            "歸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皉",
+        "variants": [],
+        "synonyms": [
+            "玼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皊",
+        "variants": [],
+        "synonyms": [
+            "𤿅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "gāo",
+                "rhyme_book": "《廣韻》古劳切，平豪見。幽部。",
+                "meanings": [
+                    "岸，水边地",
+                    "沼泽",
+                    "水田",
+                    "农历五月的别名",
+                    "缓慢；延缓",
+                    "姓",
+                    "由下至上距离大；离地面远",
+                    "高度",
+                    "加高；提高",
+                    "高处",
+                    "山陵",
+                    "尊贵，地位显要",
+                    "在一般标准或平均程度之上",
+                    "岁数大",
+                    "宗族中在最上之称",
+                    "敬仰；敬重",
+                    "推崇；崇尚",
+                    "高尚；清高",
+                    "声音高昂，激越",
+                    "大",
+                    "热烈；盛大",
+                    "远",
+                    "浓；重",
+                    "深",
+                    "风格超然或风韵切畅",
+                    "中医学术语",
+                    "养",
+                    "肥",
+                    "油脂",
+                    "油脂和香料制成的化妆品",
+                    "浓稠的膏状物",
+                    "肥沃",
+                    "恩泽",
+                    "甘美",
+                    "物的精华",
+                    "古代医学称人的心脏下部",
+                    "人的尿上白沫",
+                    "滋润",
+                    "注油使其润滑",
+                    "蘸",
+                    "城市周围的地区",
+                    "祭祀名",
+                    "古地名",
+                    "少狗，少壮的狗",
+                    "古代*匈奴*地域产的一种狗",
+                    "传说中的兽名",
+                    "年少而美",
+                    "强健",
+                    "狡猾；奸诈",
+                    "狂暴；凶猛",
+                    "急促",
+                    "戾；错乱",
+                    "容貌美好",
+                    "妖媚",
+                    "侮辱",
+                    "淫乱",
+                    "土壤坚硬贫瘠",
+                    "石地",
+                    "丈量高度",
+                    "高",
+                    "高；高貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "háo",
+                "rhyme_book": "《集韻》乎刀切，平豪匣。幽部。",
+                "meanings": [
+                    "吼叫",
+                    "呼叫",
+                    "动物鸣叫",
+                    "风发出声音",
+                    "大声哭",
+                    "兽颔下垂肉",
+                    "颈；喉咙",
+                    "戈上下垂如胡的部分",
+                    "戟",
+                    "下；下垂",
+                    "大",
+                    "老，长寿",
+                    "遐；远",
+                    "任意乱来",
+                    "黑",
+                    "代词",
+                    "副词",
+                    "祭器",
+                    "古代称北方和西方的少数民族",
+                    "古国名",
+                    "姓",
+                    "“鬍”的简化字",
+                    "召唤；呼唤",
+                    "号令；命令",
+                    "发令",
+                    "扬言；宣称",
+                    "称谓；给以称号",
+                    "名称",
+                    "别号，名字以外的别名",
+                    "旧指商店",
+                    "标志；记号",
+                    "做记号；登记",
+                    "用来识别敌我的口令、暗语",
+                    "某种处所",
+                    "乐器名",
+                    "种；类（含贬义）",
+                    "排定的次序或等级",
+                    "中医术语",
+                    "量词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "gū",
+                "rhyme_book": "《集韻》攻乎切，平模見。",
+                "meanings": [
+                    "〔橐皋〕*春秋*时*吴*地，*汉*置县，故地在今*安徽省**巢湖市*西北的*拓皋镇*"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁵皌mò",
+                "rhyme_book": "《集韻》莫葛切，入末明。",
+                "meanings": [
+                    "〔𤽌皌〕见“𤽌”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皍",
+        "variants": [],
+        "synonyms": [
+            "即"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiǎo",
+                "rhyme_book": "《廣韻》古了切，上篠見。宵部。",
+                "meanings": [
+                    "月光洁白而明亮",
+                    "明亮；光明",
+                    "白；洁白",
+                    "清楚；明白",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "皏pěng",
+                "rhyme_book": "《廣韻》普幸切，上耿滂。",
+                "meanings": [
+                    "浅白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皐",
+        "variants": [],
+        "synonyms": [
+            "皋",
+            "皋"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皑",
+        "variants": [
+            "皑“皚”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "皒é",
+                "rhyme_book": "《集韻》牛河切，平歌疑。",
+                "meanings": [
+                    "〔皒皒〕白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "hào",
+                "rhyme_book": "《集韻》下老切，上晧匣。又古老切。幽部。",
+                "meanings": [
+                    "光明；明亮",
+                    "白；白貌",
+                    "老翁",
+                    "善；美妙",
+                    "姓",
+                    "天"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "huī",
+                "rhyme_book": "《集韻》呼回切，平灰曉。",
+                "meanings": [
+                    "头发白落"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "皔hàn",
+                "rhyme_book": "《廣韻》胡笴切，上旱匣。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "bì",
+                "rhyme_book": "《廣韻》彼側切，入職幫。職部。",
+                "meanings": [
+                    "二百"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "huàn",
+                "rhyme_book": "《廣韻》户板切，上潸匣。",
+                "meanings": [
+                    "明星",
+                    "白净"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "wǎn",
+                "rhyme_book": "《集韻》胡官切，平桓匣。",
+                "meanings": [
+                    "*春秋*时国名，*汉*置县",
+                    "*安徽省*的简称"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chóu",
+                "rhyme_book": "《玉篇》直流切。",
+                "meanings": [
+                    "明",
+                    "缯白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁸皘qiàn",
+                "rhyme_book": "《集韻》倉甸切，去霰清。",
+                "meanings": [
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xī",
+                "rhyme_book": "《廣韻》先擊切，入錫心。錫部。",
+                "meanings": [
+                    "肤色洁白",
+                    "白色",
+                    "枣的一种"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "ái",
+                "rhyme_book": "《廣韻》五來切，平咍疑。微部。",
+                "meanings": [
+                    "霜雪洁白貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "xiào（又读jiǎo）",
+                "rhyme_book": null,
+                "meanings": [
+                    "明；明亮",
+                    "洁白"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pāi",
+                "rhyme_book": "《廣韻》普伯切，入陌滂。",
+                "meanings": [
+                    "拍打"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皜",
+        "variants": [],
+        "synonyms": [
+            "皓",
+            "皓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁰皝huàng",
+                "rhyme_book": "《廣韻》胡廣切，上蕩匣。",
+                "meanings": [
+                    "人名用字"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hào",
+                "rhyme_book": null,
+                "meanings": [
+                    "洁白明亮貌",
+                    "舒畅貌",
+                    "姓",
+                    "天"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "¹皟zé",
+                "rhyme_book": "《廣韻》楚革切，入麥初。又",
+                "meanings": [
+                    "洁净",
+                    "深白色",
+                    "瘠薄"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "cuǐ",
+                "rhyme_book": "《廣韻》七罪切，上賄清。",
+                "meanings": [
+                    "高峻貌",
+                    "洁白",
+                    "霜雪白状"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皡",
+        "variants": [],
+        "synonyms": [
+            "皞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皢",
+        "variants": [],
+        "synonyms": [
+            "曉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yè",
+                "rhyme_book": "《廣韻》筠輒切，入葉云。盍部。",
+                "meanings": [
+                    "草木白花貌",
+                    "明"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "pó",
+                "rhyme_book": "《廣韻》薄波切，平戈並。又博禾切。歌部。",
+                "meanings": [
+                    "老人白首貌",
+                    "白色",
+                    "大腹貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pán",
+                "rhyme_book": "《集韻》蒲官切，平桓並。",
+                "meanings": [
+                    "马作足横行"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皥",
+        "variants": [],
+        "synonyms": [
+            "皞"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiǎo",
+                "rhyme_book": "《廣韻》古了切，上篠見。宵部。",
+                "meanings": [
+                    "玉石洁白貌",
+                    "分明；清晰",
+                    "清白",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "ài",
+                "rhyme_book": "《集韻》於代切，去代影。",
+                "meanings": [
+                    "净",
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皨",
+        "variants": [],
+        "synonyms": [
+            "星",
+            "星",
+            "星"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皩",
+        "variants": [
+            "¹⁴皩“皝”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "皪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lì",
+                "rhyme_book": "《廣韻》郎擊切，入錫來。",
+                "meanings": [
+                    "〔的皪〕1.白貌"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "luò",
+                "rhyme_book": "《集韻》歷各切，入鐸來。",
+                "meanings": [
+                    "白色"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bō",
+                "rhyme_book": "《集韻》北角切，入覺幫。",
+                "meanings": [
+                    "〔皪犖〕杂色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "piǎo",
+                "rhyme_book": "《廣韻》敷沼切，上小滂，宵部。",
+                "meanings": [
+                    "白色",
+                    "鸟的毛色暗淡没有光泽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "hé",
+                "rhyme_book": "《集韻》曷各切，入鐸匣。",
+                "meanings": [
+                    "白",
+                    "白而不纯"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "皭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "jiào",
+                "rhyme_book": "《廣韻》子肖切，去笑精。又在爵切。",
+                "meanings": [
+                    "白色",
+                    "洁净"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𠌟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𠌟sǒu",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《類篇》：“𠌟，音叟"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤼽",
+        "variants": [],
+        "synonyms": [
+            "白"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼾",
+        "variants": [],
+        "synonyms": [
+            "癿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤼿",
+        "variants": [],
+        "synonyms": [
+            "皀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²𤽁zhī",
+                "rhyme_book": "《字彙補》照基切。",
+                "meanings": [
+                    "白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽂",
+        "variants": [],
+        "synonyms": [
+            "皔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽃mèi",
+                "rhyme_book": "《集韻》彌蔽切，去祭明。",
+                "meanings": [
+                    "布帛幅边"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽅huàn",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤽅，胡貫切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽆",
+        "variants": [],
+        "synonyms": [
+            "𤽁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽇",
+        "variants": [],
+        "synonyms": [
+            "泉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽈",
+        "variants": [
+            "𤽈“㚖”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽉pā",
+                "rhyme_book": "《字彙》普巴切。",
+                "meanings": [
+                    "分明貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽊",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽊bǐ",
+                "rhyme_book": "《廣韻》補米切，上薺幫。",
+                "meanings": [
+                    "明白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽋",
+        "variants": [],
+        "synonyms": [
+            "豆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽌pō",
+                "rhyme_book": "《集韻》普活切，入末滂。",
+                "meanings": [
+                    "〔𤽌皌〕浅白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽍",
+        "variants": [],
+        "synonyms": [
+            "氣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽎",
+        "variants": [],
+        "synonyms": [
+            "隂（陰）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽓",
+        "variants": [],
+        "synonyms": [
+            "☀（貌）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽔",
+        "variants": [
+            "𤽔“𤽋（豆）”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽕huàn",
+                "rhyme_book": "《字彙補·白部》：“𤽕，呼貫切，音唤。出",
+                "meanings": [
+                    "《海篇》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽖",
+        "variants": [
+            "𤽖“㣎”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽘",
+        "variants": [],
+        "synonyms": [
+            "終"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽙",
+        "variants": [],
+        "synonyms": [
+            "皇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽚",
+        "variants": [],
+        "synonyms": [
+            "皇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽛",
+        "variants": [],
+        "synonyms": [
+            "星"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽢",
+        "variants": [],
+        "synonyms": [
+            "皇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽣chàng",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤽣，音暢"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "luò",
+                "rhyme_book": "《廣韻》盧各切，入鐸來。",
+                "meanings": [
+                    "大貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽦fǒu",
+                "rhyme_book": "《集韻》俯九切，上有非。",
+                "meanings": [
+                    "白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽧",
+        "variants": [],
+        "synonyms": [
+            "皇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽫",
+        "variants": [],
+        "synonyms": [
+            "𤽬（終）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽬",
+        "variants": [],
+        "synonyms": [
+            "終"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽰",
+        "variants": [],
+        "synonyms": [
+            "籸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽱zú",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤽱，足、拍二音"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽲nán",
+                "rhyme_book": "《龍龕手鑑·白部》：“𤽲，音男。”",
+                "meanings": [
+                    "《字彙補·白部》：“𤽲，乃凡切，音男"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽳xiǎo",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤽳，音曉"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽹bài",
+                "rhyme_book": "《集韻》旁卦切，去卦並。",
+                "meanings": [
+                    "白皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽺lù",
+                "rhyme_book": "《廣韻》盧谷切，入屋來。",
+                "meanings": [
+                    "白兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽻",
+        "variants": [],
+        "synonyms": [
+            "皤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "luò",
+                "rhyme_book": "《廣韻》盧各切，入鐸來。",
+                "meanings": [
+                    "白；大白",
+                    "大貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤽽",
+        "variants": [],
+        "synonyms": [
+            "𤾕（替）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤽾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": [
+            "\n𤽾人名用字。《康熙字典·白部》：“𤽾，《宋史·宗室表》人名，*必𤽾*。音未詳。”\n\n\n"
+        ]
+    },
+    {
+        "character": "𤽿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤽿niàn",
+                "rhyme_book": "《字彙補》乃店切。",
+                "meanings": [
+                    "船木"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾀",
+        "variants": [
+            "𤾀“皟”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾄zhù",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《類篇》：“𤾄，音柱"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾅hú",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《龍龕手鑑》：“𤾅，胡谷切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾆",
+        "variants": [],
+        "synonyms": [
+            "兜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾇",
+        "variants": [],
+        "synonyms": [
+            "𤾆（兜）",
+            "𤾆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾈huī",
+                "rhyme_book": "《龍龕手鑑》音暉。",
+                "meanings": [
+                    "白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾉tǎng",
+                "rhyme_book": "《集韻》坦朗切，上蕩透。",
+                "meanings": [
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾊",
+        "variants": [],
+        "synonyms": [
+            "疇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾐",
+        "variants": [],
+        "synonyms": [
+            "辠（罪）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾑huáng",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤾑，音皇"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾒dōu",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤾒，音兜"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾕",
+        "variants": [],
+        "synonyms": [
+            "替"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾙",
+        "variants": [],
+        "synonyms": [
+            "艙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾛miào",
+                "rhyme_book": "《集韻》彌笑切，去笑明。又",
+                "meanings": [
+                    "《玉篇》毗照切",
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾜",
+        "variants": [
+            "𤾜“𦤝”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾝bó",
+                "rhyme_book": "《玉篇》傍伯切。",
+                "meanings": [
+                    "麻白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾞",
+        "variants": [],
+        "synonyms": [
+            "智"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾠",
+        "variants": [],
+        "synonyms": [
+            "的"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾡",
+        "variants": [],
+        "synonyms": [
+            "☀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾢děng",
+                "rhyme_book": "《集韻》得肯切，上等端。",
+                "meanings": [
+                    "白",
+                    "¹³𤾮船底木"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾣pū",
+                "rhyme_book": "《集韻》普木切，入屋滂。",
+                "meanings": [
+                    "物气蒸白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾤",
+        "variants": [],
+        "synonyms": [
+            "歸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾥sōng",
+                "rhyme_book": "《集韻》蘇叢切，平東心。",
+                "meanings": [
+                    "素白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾦",
+        "variants": [],
+        "synonyms": [
+            "疇"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾧",
+        "variants": [],
+        "synonyms": [
+            "皣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾨",
+        "variants": [],
+        "synonyms": [
+            "𤿅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾪",
+        "variants": [],
+        "synonyms": [
+            "星"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾫yào",
+                "rhyme_book": "《集韻》弋笑切，去笑以。",
+                "meanings": [
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾬měng",
+                "rhyme_book": "《廣韻》莫孔切，上董明。又",
+                "meanings": [
+                    "《集韻》謨蓬切",
+                    "物上白醭"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾭lóng",
+                "rhyme_book": "《字彙補》盧窮切。",
+                "meanings": [
+                    "〔𤾭歷〕古代宫庭内左右小门名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾲",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾲lián",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音廉",
+                    "白光"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾳",
+        "variants": [],
+        "synonyms": [
+            "𤾭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾴",
+        "variants": [],
+        "synonyms": [
+            "皣",
+            "皣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾵bié",
+                "rhyme_book": "《龍龕手鑑·白部》并滅反。",
+                "meanings": [
+                    "莹白"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾶",
+        "variants": [
+            "𤾶“𤿀”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾸",
+        "variants": [],
+        "synonyms": [
+            "☀"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁶𤾺lǚ",
+                "rhyme_book": "《改併四聲篇海·白部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𤾺，力拒切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤾻",
+        "variants": [],
+        "synonyms": [
+            "𤿅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾼",
+        "variants": [],
+        "synonyms": [
+            "皣"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾾",
+        "variants": [],
+        "synonyms": [
+            "皪"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤾿",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤾿sè",
+                "rhyme_book": "《字彙補·白部》：“𤾿，山責切，音色。見",
+                "meanings": [
+                    "《金鏡》"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁹𤿀zā",
+                "rhyme_book": "《集韻》子末切，入末精。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤿃",
+        "variants": [],
+        "synonyms": [
+            "皭"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤿅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²⁴𤿅líng",
+                "rhyme_book": "《集韻》郎丁切，平青來。",
+                "meanings": [
+                    "白色"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

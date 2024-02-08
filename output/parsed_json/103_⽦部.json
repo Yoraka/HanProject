@@ -1,0 +1,417 @@
+[
+    {
+        "character": "㽰",
+        "variants": [
+            "㽰“𤴙”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "疋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shū",
+                "rhyme_book": "《廣韻》所葅切，平魚生。又踈舉切。魚部。",
+                "meanings": [
+                    "脚",
+                    "疏记",
+                    "小吏"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yǎ",
+                "rhyme_book": "《廣韻》五下切，上馬疑。魚部。",
+                "meanings": [
+                    "正",
+                    "平素；向来",
+                    "待"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "pǐ",
+                "rhyme_book": "《廣韻》譬吉切，入質滂。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "疌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jié",
+                "rhyme_book": "《廣韻》疾葉切，入葉從。盍部。",
+                "meanings": [
+                    "迅速"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiè",
+                "rhyme_book": "《集韻》七接切，入葉清。",
+                "meanings": [
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "疍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁵疍dàn",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔疍户〕水上居民，古代主要分布在*长江*和东南沿海一带，后集中在两*广*和*福建*沿海"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "疎",
+        "variants": [],
+        "synonyms": [
+            "疏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "疏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "shū",
+                "rhyme_book": "説文》：“疏，通也。从㐬，从疋，疋亦聲。”*朱駿聲*通訓定聲：“㐬者，子生也；疋者，破包足動也。孕則塞，生則通，因轉注為開通分遠之誼。”",
+                "meanings": [
+                    "疏导；开通",
+                    "通",
+                    "分布；陈列",
+                    "分散；分开",
+                    "分赐；给予",
+                    "稀；阔",
+                    "疏远；不亲近",
+                    "距事理远，不切实际",
+                    "粗略；不细密",
+                    "粗糙",
+                    "蔬菜",
+                    "空虚；浅薄",
+                    "不熟悉，不熟练",
+                    "清除；排除",
+                    "撤退",
+                    "雕刻；画饰",
+                    "窗",
+                    "姓",
+                    "脚",
+                    "疏记",
+                    "小吏",
+                    "聚；集",
+                    "求；寻求",
+                    "搜索；搜查",
+                    "检查；检点",
+                    "选择",
+                    "掏；挖",
+                    "象声词",
+                    "〔獿獀〕犬名",
+                    "〔搜搜〕也作“叟叟”",
+                    "人名用字",
+                    "〔搜攪〕也作“攪搜”"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "shū",
+                "rhyme_book": "韻》所去切，去御生。魚部。",
+                "meanings": [
+                    "分条记录或分条陈述",
+                    "奏章",
+                    "指为古书旧注所作的阐释或进一步发挥的文字",
+                    "书信",
+                    "僧道拜忏时所焚化的祝告文"
+                ]
+            },
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "shū",
+                "rhyme_book": null,
+                "meanings": [
+                    "疏导；开通",
+                    "通",
+                    "分布；陈列",
+                    "分散；分开",
+                    "分赐；给予",
+                    "稀；阔",
+                    "疏远；不亲近",
+                    "距事理远，不切实际",
+                    "粗略；不细密",
+                    "粗糙",
+                    "蔬菜",
+                    "空虚；浅薄",
+                    "不熟悉，不熟练",
+                    "清除；排除",
+                    "撤退",
+                    "雕刻；画饰",
+                    "窗",
+                    "姓",
+                    "分条记录或分条陈述",
+                    "奏章",
+                    "指为古书旧注所作的阐释或进一步发挥的文字",
+                    "书信",
+                    "僧道拜忏时所焚化的祝告文",
+                    "脚",
+                    "疏记",
+                    "小吏",
+                    "聚；集",
+                    "求；寻求",
+                    "搜索；搜查",
+                    "检查；检点",
+                    "选择",
+                    "掏；挖",
+                    "象声词",
+                    "〔獿獀〕犬名",
+                    "〔搜搜〕也作“叟叟”",
+                    "人名用字",
+                    "〔搜攪〕也作“攪搜”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "疐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhì",
+                "rhyme_book": "《廣韻》陟利切，去至知。脂部。",
+                "meanings": [
+                    "停滞；阻碍",
+                    "颠踬；倒仆"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "dì",
+                "rhyme_book": "《廣韻》都計切，去霽端。脂部。",
+                "meanings": [
+                    "打喷嚏"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "疑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yí",
+                "rhyme_book": "《廣韻》語其切，平之疑。之部。",
+                "meanings": [
+                    "迷惑；不明白",
+                    "疑问",
+                    "怀疑",
+                    "犹豫；不果断",
+                    "疑忌；猜忌",
+                    "估量；猜度",
+                    "似；好像",
+                    "怪；怪异",
+                    "恐惧；害怕",
+                    "古代官名",
+                    "揣度；推测",
+                    "模仿；效法",
+                    "比；类似；相比",
+                    "指向；比划",
+                    "计划；准备",
+                    "拟定",
+                    "起草，编写",
+                    "止息；安定",
+                    "凝聚；集结"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "níng",
+                "rhyme_book": "《古今韻會舉要》疑陵切。",
+                "meanings": [
+                    "止息；安定",
+                    "凝聚；集结"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤴓yǎ",
+                "rhyme_book": "《字彙》語下切。",
+                "meanings": [
+                    "正"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴗",
+        "variants": [],
+        "synonyms": [
+            "疌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴘",
+        "variants": [],
+        "synonyms": [
+            "疌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "shū",
+                "rhyme_book": "《集韻》山於切，平魚生。魚部。",
+                "meanings": [
+                    "门上雕刻的窗格",
+                    "窗格稀疏的窗子"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xū",
+                "rhyme_book": "《集韻》新於切，平魚心。",
+                "meanings": [
+                    "滤酒的器具"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴛",
+        "variants": [],
+        "synonyms": [
+            "疐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴞",
+        "variants": [],
+        "synonyms": [
+            "夏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𤴟zhì",
+                "rhyme_book": "《玉篇》之世切。",
+                "meanings": [
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴠",
+        "variants": [],
+        "synonyms": [
+            "𨄚"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴡",
+        "variants": [],
+        "synonyms": [
+            "疐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𤴢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹¹𤴢zhì",
+                "rhyme_book": "《龍龕手鑑·疋部》：“𤴢，音智。”",
+                "meanings": [
+                    "《字彙補·疋部》：“𤴢，支義切，音智"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹³𤴣pǐ",
+                "rhyme_book": "《龍龕手鑑·疋部》：“𤴣，疋覓反。”",
+                "meanings": [
+                    "《字彙補·疋部》：“𤴣，音匹"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𤴤",
+        "variants": [],
+        "synonyms": [
+            "靈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

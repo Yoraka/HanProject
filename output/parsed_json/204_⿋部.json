@@ -1,0 +1,147 @@
+[
+    {
+        "character": "黹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhǐ",
+                "rhyme_book": "《廣韻》豬几切，上旨知。脂部。",
+                "meanings": [
+                    "用针线绣成的花纹",
+                    "缝纫，刺绣"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "xiàn",
+                "rhyme_book": "《篇海類編》胡簡切。",
+                "meanings": [
+                    "以饰悬钟鼓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "fěn",
+                "rhyme_book": "《廣韻》方吻切，上吻非。諄部。",
+                "meanings": [
+                    "彩色花纹"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "fú",
+                "rhyme_book": "《廣韻》分勿切，入物非。術部。",
+                "meanings": [
+                    "古代礼服上绣的黑与青相间如☀形的花纹",
+                    "古代祭祀所着的蔽膝，用皮革或缯帛制成",
+                    "姓",
+                    "系官印的丝带",
+                    "蔽膝，缝于长衣之前，为祭服的服饰"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "黼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "fǔ",
+                "rhyme_book": "《廣韻》方矩切，上麌非。魚部。",
+                "meanings": [
+                    "古代礼服、礼器上所绘、绣的黑白相间的斧形花纹",
+                    "古代有黑白相间斧形花纹的礼服",
+                    "绣"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪓋",
+        "variants": [],
+        "synonyms": [
+            "䋛"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪓌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "zuì",
+                "rhyme_book": "《廣韻》子對切，去隊精。微部。",
+                "meanings": [
+                    "会集有五彩的缯帛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪓍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𪓍biān",
+                "rhyme_book": "《集韻》卑眠切，平先幫。",
+                "meanings": [
+                    "缝"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𪓎",
+        "variants": [],
+        "synonyms": [
+            "𣝜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𪓐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "chǔ",
+                "rhyme_book": "《廣韻》創舉切，上語初。魚部。",
+                "meanings": [
+                    "鲜明整洁貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
+]

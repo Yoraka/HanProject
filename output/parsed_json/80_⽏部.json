@@ -1,0 +1,351 @@
+[
+    {
+        "character": "毋",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "wú",
+                "rhyme_book": "《廣韻》武夫切，平虞微。魚部。",
+                "meanings": [
+                    "副词",
+                    "助词",
+                    "代词",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "móu",
+                "rhyme_book": "《集韻》迷浮切，平侯明。",
+                "meanings": [
+                    "〔毋追〕也作“牟追”、“毋頧”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "毌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "guàn",
+                "rhyme_book": "《廣韻》古玩切，去换見。又古丸切。元部。",
+                "meanings": [
+                    "贯穿",
+                    "古地名",
+                    "姓",
+                    "开弓",
+                    "曲，不直",
+                    "折，使弯曲",
+                    "拐（进）",
+                    "弯曲的地方",
+                    "停泊",
+                    "量词"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "母",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mǔ",
+                "rhyme_book": "《廣韻》莫厚切，上厚明。之部。",
+                "meanings": [
+                    "母亲",
+                    "养育；哺育",
+                    "家族或亲戚中的长辈女子",
+                    "老妇的通称",
+                    "禽兽雌性的或草木结实的",
+                    "指能有所滋生的事物",
+                    "根本；根源",
+                    "古代称货币大的重的为母",
+                    "用以经商或借贷的本钱",
+                    "指一凸一凹（或一大一小）配套的两件东西里的凹的（或大的）一件",
+                    "数学名词",
+                    "方言",
+                    "姓",
+                    "欺凌；欺侮",
+                    "轻慢；轻视",
+                    "古时对奴婢的蔑称",
+                    "戏弄",
+                    "手脚的大指"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mú",
+                "rhyme_book": "《集韻》蒙晡切，平模明。",
+                "meanings": [
+                    "〔淳母〕熬饵"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wǔ",
+                "rhyme_book": "《集韻》罔甫切，上麌微。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wú",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "每",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "měi",
+                "rhyme_book": "《廣韻》武罪切，上賄明。又莫佩切。之部。",
+                "meanings": [
+                    "草盛的样子",
+                    "逐个；各个",
+                    "副词",
+                    "连词",
+                    "*宋**元*时口语",
+                    "姓",
+                    "考虑；谋划",
+                    "计谋；策略",
+                    "咨询",
+                    "商议",
+                    "审察",
+                    "图谋，营求",
+                    "会合；接触",
+                    "晦昧，不清楚"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "毐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "ǎi",
+                "rhyme_book": "《廣韻》於改切，上海影。又烏開切。之部。",
+                "meanings": [
+                    "男子品行不端称毐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "毑",
+        "variants": [],
+        "synonyms": [
+            "姐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "毒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "dú",
+                "rhyme_book": "《廣韻》徒沃切，入沃定。沃部。",
+                "meanings": [
+                    "毒物",
+                    "喻指对思想意识有害的事物",
+                    "特指鸦片、吗啡、海洛因等毒品",
+                    "有毒素的，气性酷烈的",
+                    "恶；罪恶",
+                    "害；毒害；祸害",
+                    "危害；伤害",
+                    "苦，苦痛",
+                    "酷烈；狠毒；厉害",
+                    "狠心；毒手",
+                    "放毒",
+                    "毒杀",
+                    "有毒腺的昆虫、爬虫刺咬",
+                    "憎恶；憎恨",
+                    "厚；厚重",
+                    "姓",
+                    "察视",
+                    "督促",
+                    "理；料理；整理",
+                    "责；责罚",
+                    "劝",
+                    "正；矫正",
+                    "中；中央",
+                    "中医学名词",
+                    "指军帅或执监督权的官",
+                    "率；领",
+                    "目痛",
+                    "方言",
+                    "拾取",
+                    "马行顿迟",
+                    "（病势）沉重",
+                    "坚实；牢固",
+                    "专一；忠诚",
+                    "真切；允当",
+                    "丰厚；深厚",
+                    "敦厚",
+                    "甚；深",
+                    "象声词"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dài",
+                "rhyme_book": "《集韻》待戴切，去代定。",
+                "meanings": [
+                    "〔毒冒〕即“瑇瑁”、“玳瑁”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "毓",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yù",
+                "rhyme_book": "《廣韻》余六切，入屋以。沃部。",
+                "meanings": [
+                    "生养；养育",
+                    "稚",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𣫬",
+        "variants": [
+            "蒙。《字彙補·毋部》：“𣫬，與蒙義同。”一说“毋”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫭",
+        "variants": [],
+        "synonyms": [
+            "每"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫯",
+        "variants": [],
+        "synonyms": [
+            "蹯"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫰",
+        "variants": [
+            "“毑”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫳",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "jiǎng",
+                "rhyme_book": "《字彙補·毋部》：“𣫳，講、溝二音。義未詳。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𣫴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "xié",
+                "rhyme_book": "《廣韻》户圭切，平齊匣。",
+                "meanings": [
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𣫵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": [
+            "\n“大毒”二字的合文。《字彙補·毌部》：“𣫵，音未詳，《歸藏易》‘大畜’卦作‘𣫵畜’。”*于省吾*《雙劍誃諸子新證·易經二》：“《西谿易説》引《歸藏》‘大畜’作‘大毒畜’，‘小畜’作‘小毒畜’。*黄宗炎*曰：‘大畜、小畜為𣫵畜、𣫶畜，毒取亭毒之義。’按：𣫵、𣫶均合文也。甲骨文及金文合文之例習見……《説文》：‘毒，厚也。’毒、篤古通。《書·微子》‘天毒降災荒*殷*邦’，《史記·宋微子世家》作‘天篤下菑亡*殷*國。’《詩·椒聊》‘實大且篤’傳：‘篤，厚也’，釋文：‘畜，積也。’‘小毒畜’即‘小厚積’，‘大毒畜’即‘大厚積’也。”\n\n\n"
+        ]
+    },
+    {
+        "character": "𣫶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": [
+            "\n“小毒”二字的合文。《字彙補·毌部》：“𣫶，音未詳。《歸藏易》‘小畜’卦作‘𣫶畜’。”参见“𣫵”。\n\n\n"
+        ]
+    },
+    {
+        "character": "𣫹",
+        "variants": [],
+        "synonyms": [
+            "瑇瑁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫺",
+        "variants": [],
+        "synonyms": [
+            "育"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𣫻",
+        "variants": [],
+        "synonyms": [
+            "婁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]

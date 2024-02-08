@@ -1,0 +1,2397 @@
+[
+    {
+        "character": "䝖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhǎo",
+                "rhyme_book": "《廣韻》側絞切，上巧莊。",
+                "meanings": [
+                    "豸",
+                    "䝖獠"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝗",
+        "variants": [],
+        "synonyms": [
+            "貅",
+            "貅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝘",
+        "variants": [],
+        "synonyms": [
+            "毅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝙",
+        "variants": [
+            "䝙“貙”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝚ní",
+                "rhyme_book": "《廣韻》女夷切，平脂娘。",
+                "meanings": [
+                    "兽名，毛皮可做衣"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝛bō",
+                "rhyme_book": "《龍龕手鑑·豸部》：“䝛，俗音波。”",
+                "meanings": [
+                    "《字彙補·豸部》：“䝛，邦多切，音波"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝜suān",
+                "rhyme_book": "《廣韻》素官切，平桓心。",
+                "meanings": [
+                    "〔䝜貎〕也作“狻猊”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝝",
+        "variants": [],
+        "synonyms": [
+            "猗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝞hào",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔禺䝞〕也作“禺號”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝟",
+        "variants": [],
+        "synonyms": [
+            "䝟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝠",
+        "variants": [],
+        "synonyms": [
+            "獂（豲）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝡",
+        "variants": [],
+        "synonyms": [
+            "獌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "màn",
+                "rhyme_book": "《廣韻》莫半切，去换明。",
+                "meanings": [
+                    "貙的别名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝣qú",
+                "rhyme_book": "《廣韻》强魚切，平魚羣。",
+                "meanings": [
+                    "〔䝣𧳶〕也作“䝣獀”、“渠叟”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lǎo",
+                "rhyme_book": "《廣韻》盧晧切，上晧來。又張絞切。",
+                "meanings": [
+                    "古代对西南少数民族的蔑称"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "liáo",
+                "rhyme_book": "《集韻》憐蕭切，平蕭來。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "䝥",
+        "variants": [],
+        "synonyms": [
+            "嘷（嗥）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "䝦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "䝦zhōng",
+                "rhyme_book": "《廣韻》職戎切，平東章。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhì",
+                "rhyme_book": "《廣韻》池爾切，上紙澄。又宅買切。脂部。",
+                "meanings": [
+                    "长脊兽，如猫、虎之类",
+                    "无脚的虫，如蚯蚓之类",
+                    "制止，解决",
+                    "獬豸，古代传说中的神兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "bào",
+                "rhyme_book": "《廣韻》北教切，去效幫。宵部。",
+                "meanings": [
+                    "兽名",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "chái",
+                "rhyme_book": "《廣韻》士皆切，平皆崇。之部。",
+                "meanings": [
+                    "兽名，俗称豺狗"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "àn",
+                "rhyme_book": "《廣韻》五旰切，去翰疑。又俄寒切，侯旰切，可顔切。元部。",
+                "meanings": [
+                    "古时北方的一种野狗",
+                    "古时乡亭的牢狱，引申为狱讼之事",
+                    "猿属"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豼",
+        "variants": [],
+        "synonyms": [
+            "貔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "豽",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "nà",
+                "rhyme_book": "《廣韻》女滑切，入黠娘。",
+                "meanings": [
+                    "兽名，猴属"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豾",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "豾pī",
+                "rhyme_book": "《廣韻》敷悲切，平脂滂。",
+                "meanings": [
+                    "狸子"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "豿",
+        "variants": [],
+        "synonyms": [
+            "狗"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nà",
+                "rhyme_book": "《廣韻》女滑切，入黠娘。術部。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "duò",
+                "rhyme_book": "《集韻》當没切，入没端。",
+                "meanings": [
+                    "〔𧳸貀〕见“𧳸”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "yòu",
+                "rhyme_book": "《廣韻》余救切，去宥以。侯部。",
+                "meanings": [
+                    "鼬鼠之类的动物，能捕鼠"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "diāo",
+                "rhyme_book": "《廣韻》都聊切，平蕭端。宵部。",
+                "meanings": [
+                    "小兽",
+                    "姓"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貃",
+        "variants": [],
+        "synonyms": [
+            "貊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貄",
+        "variants": [],
+        "synonyms": [
+            "𧳙"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xiū",
+                "rhyme_book": "《廣韻》許尤切，平尤曉。",
+                "meanings": [
+                    "传说中的猛兽名",
+                    "借喻为勇猛的军队"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "huán",
+                "rhyme_book": "《廣韻》胡官切，平桓匣。又況袁切。元部。",
+                "meanings": [
+                    "貉属兽",
+                    "貉之子",
+                    "豪猪"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "huān",
+                "rhyme_book": "《廣韻》呼官切，平桓曉。元部。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "kūn",
+                "rhyme_book": "《集韻》枯昆切，平魂溪。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mào",
+                "rhyme_book": null,
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "kěn",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貈",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hé",
+                "rhyme_book": "《廣韻》下各切，入鐸匣。鐸部。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mò",
+                "rhyme_book": "《五經文字》莫白反。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mò",
+                "rhyme_book": "《廣韻》莫白切，入陌明。鐸部。",
+                "meanings": [
+                    "静，安静",
+                    "纶绳",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "hé",
+                "rhyme_book": "《廣韻》下各切，入鐸匣。鐸部。",
+                "meanings": [
+                    "兽名，属犬科",
+                    "恶"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mà",
+                "rhyme_book": "《集韻》莫駕切，去禡明。魚部。",
+                "meanings": [
+                    "军中祭名",
+                    "马上祭"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "háo",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔貉绒〕拔去硬毛的貉子皮，质地轻软"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貊",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mò",
+                "rhyme_book": "《廣韻》莫白切，入陌明。鐸部。",
+                "meanings": [
+                    "古代对北方部族的蔑称",
+                    "古国名",
+                    "兽名",
+                    "安定，安静",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "má",
+                "rhyme_book": "《集韻》莫轄切，入鎋明。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貋",
+        "variants": [],
+        "synonyms": [
+            "豻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mào",
+                "rhyme_book": "《廣韻》莫教切，去效明。宵部。",
+                "meanings": [
+                    "面容；相貌",
+                    "外表，外观",
+                    "容色，姿态",
+                    "相似；像似",
+                    "礼貌",
+                    "巧，治",
+                    "无实",
+                    "古书注解用字，相当于今之“……样子”",
+                    "传说中的兽名",
+                    "表面上",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "mò",
+                "rhyme_book": "《洪武正韻》末各切。",
+                "meanings": [
+                    "描绘",
+                    "远",
+                    "离去；乖离",
+                    "渺茫；模糊不清",
+                    "超过",
+                    "姓",
+                    "小，幼小",
+                    "小看；轻视",
+                    "广阔；遥远",
+                    "美好"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "lí",
+                "rhyme_book": "《廣韻》里之切，平之來。之部。",
+                "meanings": [
+                    "灵猫之一种",
+                    "古地名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "mái",
+                "rhyme_book": "《集韻》謨皆切，平皆明。之部。",
+                "meanings": [
+                    "把东西放在坑里用土盖上",
+                    "古代特指简陋不依礼制而落葬",
+                    "藏；掩盖",
+                    "泯灭；隐没",
+                    "低",
+                    "尘",
+                    "〔埋怨〕也作“埋冤”"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yù",
+                "rhyme_book": "《集韻》紆勿切，入迄影。術部。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貎",
+        "variants": [],
+        "synonyms": [
+            "猊"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "貏bǐ",
+                "rhyme_book": "《集韻》補靡切，上紙幫。",
+                "meanings": [
+                    "〔貏豸〕山势渐平貌"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "yǔ",
+                "rhyme_book": "《廣韻》以主切，上麌以。侯部。",
+                "meanings": [
+                    "〔䝟貐〕见“䝟”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貑",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "貑jiā",
+                "rhyme_book": "《廣韻》古牙切，平麻見。",
+                "meanings": [
+                    "〔貑羆〕熊的一种"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貒",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "tuān",
+                "rhyme_book": "《廣韻》他端切，平桓透。元部。",
+                "meanings": [
+                    "猪獾"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tuàn",
+                "rhyme_book": "《廣韻》通貫切，去换透。",
+                "meanings": [
+                    "野猪"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貓",
+        "variants": [],
+        "synonyms": [
+            "猫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貔",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "pí",
+                "rhyme_book": "《廣韻》房脂切，平脂並。脂部。",
+                "meanings": [
+                    "猛兽名",
+                    "狸的别名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貕",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "xī",
+                "rhyme_book": "《廣韻》胡雞切，平齊匣。",
+                "meanings": [
+                    "小猪",
+                    "古泽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貖",
+        "variants": [],
+        "synonyms": [
+            "𪕶"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "貗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jù",
+                "rhyme_book": "《廣韻》其矩切，上麌羣。又",
+                "meanings": [
+                    "《集韻》龍珠切",
+                    "貒之子"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lóu",
+                "rhyme_book": "《集韻》容朱切，平虞以。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貘",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "mò",
+                "rhyme_book": "《廣韻》莫白切，入陌明。鐸韻。",
+                "meanings": [
+                    "兽名",
+                    "一种形似犀，但鼻端无角，较矮小的兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_rhyme_single_meaing",
+                "pinyin": "chū",
+                "rhyme_book": "",
+                "meanings": [
+                    "chū　㊀《廣韻》敕俱切，平虞徹",
+                    "虎属猛兽，似貍而大"
+                ]
+            },
+            {
+                "type": "single_sound_multi_rhyme_multi_meaning",
+                "pinyin": "chū",
+                "rhyme_book": "韻》敕居切，平魚徹。",
+                "meanings": [
+                    "虎之大者",
+                    "蠢"
+                ]
+            },
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "chū",
+                "rhyme_book": null,
+                "meanings": [
+                    "虎之大者",
+                    "蠢"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "tán",
+                "rhyme_book": "《廣韻》徒干切，平寒定。又徒年切。元部。",
+                "meanings": [
+                    "〔貙貚〕兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "huān",
+                "rhyme_book": "《廣韻》呼官切，平桓曉。元部。",
+                "meanings": [
+                    "兽名",
+                    "雄性的狼"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "貜",
+        "variants": [],
+        "synonyms": [
+            "玃"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲡",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "²𧲡lì",
+                "rhyme_book": "《廣韻》林直切，入職來。",
+                "meanings": [
+                    "*辽东*犬名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲢zhé",
+                "rhyme_book": "《集韻》陟格切，入陌知。",
+                "meanings": [
+                    "〔𧲢𩢷〕兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲤",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲤yóng",
+                "rhyme_book": "《玉篇》魚容切。",
+                "meanings": [
+                    "兽，似豕"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲥",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲥hú",
+                "rhyme_book": "《玉篇》音鶻。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "wán",
+                "rhyme_book": "《集韻》吾官切，平桓疑。",
+                "meanings": [
+                    "貉类动物"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "hé",
+                "rhyme_book": "《集韻》曷各切，入鐸匣。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "bā",
+                "rhyme_book": "《集韻》邦加切，平麻幫。",
+                "meanings": [
+                    "兽丑状"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲨",
+        "variants": [],
+        "synonyms": [
+            "豜"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲩",
+        "variants": [],
+        "synonyms": [
+            "貈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲪",
+        "variants": [],
+        "synonyms": [
+            "貉",
+            "貉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲬",
+        "variants": [],
+        "synonyms": [
+            "𧳅",
+            "𧳅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲭",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲭zuǒ",
+                "rhyme_book": "《玉篇》作可切。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲮zhǎn",
+                "rhyme_book": "《玉篇》中板切。",
+                "meanings": [
+                    "豸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲯",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲯bō",
+                "rhyme_book": "《玉篇》博末切。",
+                "meanings": [
+                    "豸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲰",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiū",
+                "rhyme_book": "《玉篇》音丘。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "chū",
+                "rhyme_book": null,
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲱",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲱yāng",
+                "rhyme_book": "《廣韻》烏郎切，平唐影。",
+                "meanings": [
+                    "狸类动物名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲲",
+        "variants": [],
+        "synonyms": [
+            "狐"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲳",
+        "variants": [],
+        "synonyms": [
+            "𧳄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲴",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲴dōng",
+                "rhyme_book": "《廣韻》都宗切，平冬端。",
+                "meanings": [
+                    "兽名，似豹有角"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲵",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲵qú",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音渠",
+                    "猛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲶",
+        "variants": [],
+        "synonyms": [
+            "𧳂"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲷",
+        "variants": [
+            "⁵𧲷“䝗（貅）”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲺",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲺pí",
+                "rhyme_book": "《改併四聲篇海·豸部》引",
+                "meanings": [
+                    "《川篇》：“𧲺，音皮"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲻",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧲻zhǎi",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》側買切",
+                    "豹犬"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧲾",
+        "variants": [],
+        "synonyms": [
+            "㹪"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧲿",
+        "variants": [],
+        "synonyms": [
+            "豿（狗）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳀",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "biào",
+                "rhyme_book": "《玉篇》平表切。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "nǎo",
+                "rhyme_book": "《龍龕手鑑》音惱。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳁",
+        "variants": [],
+        "synonyms": [
+            "𤝻"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳂fú",
+                "rhyme_book": "《篇海類編》房六切。",
+                "meanings": [
+                    "狐"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳃chóng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》直弓切",
+                    "虫，豸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳄xìn",
+                "rhyme_book": "《集韻》思晋切，去震心。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shì",
+                "rhyme_book": "《廣韻》疎吏切，去志生。",
+                "meanings": [
+                    "狸类动物名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "shǐ",
+                "rhyme_book": "《集韻》爽士切，上止生。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳆",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tōng",
+                "rhyme_book": "《廣韻》他紅切，平東透。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "tóng",
+                "rhyme_book": "《集韻》徒東切，平東定。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳇",
+        "variants": [],
+        "synonyms": [
+            "貈（貉）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳉",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳉dīng",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》丁林切",
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳊",
+        "variants": [],
+        "synonyms": [
+            "獬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳋",
+        "variants": [],
+        "synonyms": [
+            "𢊁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳌tū",
+                "rhyme_book": "《玉篇》音秃。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳍",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳍xiāo",
+                "rhyme_book": "《玉篇》相邀切。",
+                "meanings": [
+                    "山魈"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳎",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁷𧳎wú",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音吾",
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳏",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳏péi",
+                "rhyme_book": "《集韻》貧悲切，平脂並。",
+                "meanings": [
+                    "貔"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳐",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "huī",
+                "rhyme_book": "《集韻》呼乖切，平皆曉。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "xī",
+                "rhyme_book": "《五方元音》音希。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳑",
+        "variants": [],
+        "synonyms": [
+            "𧱓"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳒",
+        "variants": [],
+        "synonyms": [
+            "貌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳔",
+        "variants": [],
+        "synonyms": [
+            "貆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳕",
+        "variants": [],
+        "synonyms": [
+            "𧳟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳖",
+        "variants": [],
+        "synonyms": [
+            "貌"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳙",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳙sì",
+                "rhyme_book": "《廣韻》息利切，去至心。又渠記切。",
+                "meanings": [
+                    "貍子"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳚cuǐ",
+                "rhyme_book": "《玉篇》此觜切。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳛",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳛shà",
+                "rhyme_book": "《廣韻》山洽切，入洽生。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳜",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳜zhǒu",
+                "rhyme_book": "《廣韻》之九切，上有章。",
+                "meanings": [
+                    "传说中的兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳝",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳝zhào",
+                "rhyme_book": "《玉篇》張皃切。",
+                "meanings": [
+                    "豸"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳞",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳞wéi",
+                "rhyme_book": "《玉篇》音惟。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳟",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳟lái",
+                "rhyme_book": "《廣韻》落哀切，平咍來。又",
+                "meanings": [
+                    "《集韻》陵之切",
+                    "貍别名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bì",
+                "rhyme_book": "《玉篇》皮寄切。",
+                "meanings": [
+                    "兽名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "bǐ",
+                "rhyme_book": "《字彙》部比切。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳡",
+        "variants": [],
+        "synonyms": [
+            "𧳅",
+            "𧳅"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳣",
+        "variants": [],
+        "synonyms": [
+            "湩"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳥",
+        "variants": [],
+        "synonyms": [
+            "猍（𧳟）",
+            "𧳟"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳦",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳦nǎo",
+                "rhyme_book": "《集韻》乃老切，上皓泥。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳧",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳧xiē",
+                "rhyme_book": "《集韻》休皆切，平皆曉。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳨",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳨rǎo",
+                "rhyme_book": "《廣韻》而沼切，上小日。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳩",
+        "variants": [],
+        "synonyms": [
+            "貒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳪",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳪wèi",
+                "rhyme_book": "《集韻》于貴切，去未云。",
+                "meanings": [
+                    "有毛刺似毫猪的兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳫",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yóu",
+                "rhyme_book": "《集韻》夷周切，平尤以。",
+                "meanings": []
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "jiū",
+                "rhyme_book": "《集韻》將由切，平尤精。",
+                "meanings": [
+                    "犬名"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "qiú",
+                "rhyme_book": "《集韻》字秋切，平尤從。",
+                "meanings": [
+                    "良犬"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yòu",
+                "rhyme_book": "《集韻》余救切，去宥以。",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳬",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳬méi",
+                "rhyme_book": "《字彙補》命皮切，音眉。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳭",
+        "variants": [],
+        "synonyms": [
+            "猿"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳮",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "zhòng",
+                "rhyme_book": "《龍龕手鑑》竹用反。",
+                "meanings": [
+                    "乳",
+                    "一种似豹的兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳯",
+        "variants": [],
+        "synonyms": [
+            "豬"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳲",
+        "variants": [],
+        "synonyms": [
+            "貒"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳴",
+        "variants": [],
+        "synonyms": [
+            "貏",
+            "貏"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳵",
+        "variants": [],
+        "synonyms": [
+            "猼"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳶sōu",
+                "rhyme_book": "《集韻》踈鳩切，平尤生。",
+                "meanings": [
+                    "〔䝣𧳶〕见“䝣”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳷",
+        "variants": [],
+        "synonyms": [
+            "𤠔（猿）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳸gǔ",
+                "rhyme_book": "《集韻》古忽切，入没見。",
+                "meanings": [
+                    "〔𧳸貀〕兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳹shào",
+                "rhyme_book": "《玉篇》市照切。又音鄒。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳺",
+        "variants": [],
+        "synonyms": [
+            "𧳦"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳻",
+        "variants": [],
+        "synonyms": [
+            "䝤"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧳼",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧳼pí",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音毗",
+                    "猛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧳿",
+        "variants": [],
+        "synonyms": [
+            "𠄉（湩）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴀",
+        "variants": [],
+        "synonyms": [
+            "貔"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴁",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴁chī",
+                "rhyme_book": "《類篇》抽知切，平支徹。",
+                "meanings": [
+                    "猛兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴂péng",
+                "rhyme_book": "《玉篇》步紅切。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴃",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴃chán",
+                "rhyme_book": null,
+                "meanings": [
+                    "〔𧴃胡〕也作“獑猢”"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴄",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "yōng",
+                "rhyme_book": "《廣韻》餘封切，平鐘以。東部。",
+                "meanings": [
+                    "一种野牛，即犎牛"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴅",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴅shuǎng",
+                "rhyme_book": "《字彙》疏兩切。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴆",
+        "variants": [],
+        "synonyms": [
+            "魖"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴇",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴇wǔ",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音伍",
+                    "兽"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴊",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴊huàn",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《類篇》音患",
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴌",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴌fú",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》孚玉切",
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴍",
+        "variants": [],
+        "synonyms": [
+            "豶"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴎",
+        "variants": [],
+        "synonyms": [
+            "𧳦"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴏",
+        "variants": [],
+        "synonyms": [
+            "貈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴐",
+        "variants": [],
+        "synonyms": [
+            "𤡢"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴓",
+        "variants": [],
+        "synonyms": [
+            "𤡤（儂）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴔",
+        "variants": [],
+        "synonyms": [
+            "貍"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴕",
+        "variants": [],
+        "synonyms": [
+            "𧴎（𧳦）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴖",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴖wèi",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》音獩",
+                    "古时对少数民族的蔑称"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴗",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴗yōng",
+                "rhyme_book": "《廣韻》於容切，平鍾影。",
+                "meanings": [
+                    "兽名，猿属"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴘",
+        "variants": [],
+        "synonyms": [
+            "貉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴙",
+        "variants": [],
+        "synonyms": [
+            "貉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴚",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴚guài",
+                "rhyme_book": "《龍龕手鑑》古快反。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴝",
+        "variants": [],
+        "synonyms": [
+            "䝢"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴞",
+        "variants": [],
+        "synonyms": [
+            "貉"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴟",
+        "variants": [],
+        "synonyms": [
+            "𧴂"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴠",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴠lì",
+                "rhyme_book": "《集韻》狼狄切，入錫來。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴡",
+        "variants": [],
+        "synonyms": [
+            "獺"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𧴢",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "𧴢xìn",
+                "rhyme_book": "《字彙補·豸部》：“𧴢，香靳切，音釁。義闕。”",
+                "meanings": []
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𧴣",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹⁹𧴣yán",
+                "rhyme_book": "《玉篇》音嚴。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𫎌",
+        "variants": [
+            "𫎌“貗”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𬥈",
+        "variants": [
+            "𬥈“䫉”"
+        ],
+        "synonyms": [],
+        "definitions": [],
+        "special_entries": []
+    }
+]

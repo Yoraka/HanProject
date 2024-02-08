@@ -1,0 +1,234 @@
+[
+    {
+        "character": "隶",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "dài",
+                "rhyme_book": "《廣韻》羊至切，去至以。又音代。微部。",
+                "meanings": [
+                    "及；捕获",
+                    "本",
+                    "与"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "yì",
+                "rhyme_book": "《集韻》神至切，去至船。",
+                "meanings": [
+                    "树木再生的嫩条"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "dì",
+                "rhyme_book": "《集韻》大計切，去霽定。",
+                "meanings": [
+                    "狐子"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lì",
+                "rhyme_book": null,
+                "meanings": [
+                    "“隸”的简化字"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "隷",
+        "variants": [],
+        "synonyms": [
+            "隸",
+            "隸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "隸",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_multi_meaning",
+                "pinyin": "lì",
+                "rhyme_book": "《廣韻》郎計切，去霽來。脂部。",
+                "meanings": [
+                    "古代奴隶",
+                    "附属；隶属",
+                    "汉字字体的一种，即隶书",
+                    "察看",
+                    "姓",
+                    "学习；练习",
+                    "检查；查验",
+                    "蘖；嫩条",
+                    "余",
+                    "劳苦"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𨽶",
+        "variants": [],
+        "synonyms": [
+            "畫"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽷",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "⁶𨽷lián",
+                "rhyme_book": "《改併四聲篇海·隶部》引",
+                "meanings": [
+                    "《搜真玉鏡》：“𨽷，良賢切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𨽸",
+        "variants": [],
+        "synonyms": [
+            "肆"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽹",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "yì",
+                "rhyme_book": "《類篇》羊至切，去至以。",
+                "meanings": [
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_single_meaning",
+                "pinyin": "lì",
+                "rhyme_book": "《改併四聲篇海》引",
+                "meanings": [
+                    "《川篇》郎計切"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𨽻",
+        "variants": [],
+        "synonyms": [
+            "隸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽼",
+        "variants": [],
+        "synonyms": [
+            "㣈"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽽",
+        "variants": [],
+        "synonyms": [
+            "肄"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽾",
+        "variants": [],
+        "synonyms": [
+            "隷（隸）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨽿",
+        "variants": [],
+        "synonyms": [
+            "迨"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨾀",
+        "variants": [],
+        "synonyms": [
+            "隸"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨾁",
+        "variants": [],
+        "synonyms": [
+            "𨽾（隸）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨾂",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "single_sound_single_meaning",
+                "pinyin": "¹¹𨾂wèi",
+                "rhyme_book": "《廣韻》于貴切，去未云。",
+                "meanings": [
+                    "兽名"
+                ]
+            }
+        ],
+        "special_entries": []
+    },
+    {
+        "character": "𨾃",
+        "variants": [],
+        "synonyms": [
+            "𨽿（迨）"
+        ],
+        "definitions": [],
+        "special_entries": []
+    },
+    {
+        "character": "𨾄",
+        "variants": [],
+        "synonyms": [
+            "𪓁"
+        ],
+        "definitions": [],
+        "special_entries": []
+    }
+]
