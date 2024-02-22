@@ -5,7 +5,7 @@ import os
 formatted_output = []
 
 # 指定特定路径
-specific_path = "M:/XZS/hanpro/output"
+specific_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), "output")
 
 # 在特定路径中创建新文件夹
 new_folder_name = "_本义"
