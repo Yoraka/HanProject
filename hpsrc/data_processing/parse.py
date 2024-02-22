@@ -42,6 +42,31 @@ class DictionaryEntry:
 def load_index_from_file(file_path):
     with open(file_path, 'rb') as file:
         return pickle.load(file)
+    
+def process_synonyms(meaning, recursion_count):
+    # 检查递归深度
+    if recursion_count >= 10:
+        # 记录达到递归深度限制的同义词
+        with open('loop_synonym.txt', 'a') as f:
+            f.write( + '\n')
+        return [], recursion_count
+
+    pattern_optional_pinyin = r'通“([^”]*?)(?:\（([^）]*)\）)?”。([^。]*。)'
+
+    # Use re.findall to accurately extract matches, now correctly handling optional pinyin
+    all_matches_optional_pinyin = re.findall(pattern_optional_pinyin, meaning)
+
+    # Prepare a more accurate result that includes the term, its pinyin (if provided), and the explanation
+    results_with_optional_pinyin = [{"term": match[0], "pinyin": match[1] if match[1] else "None", "explanation": match[2]} for match in all_matches_optional_pinyin]
+
+    for result in results_with_optional_pinyin:
+        # 检查每个结果的'explanation'字段是否存在特定字符
+        if "《" in result['explanation'] or "》" in result['explanation'] or "*" in result['explanation']:
+            # 如果存在，则将'explanation'设置为空字符串
+            result['explanation'] = None
+
+    return result['explanation'], recursion_count
+
 
 def meanings_process(meanings, index):
     # 通过一个全局计数来限制递归
@@ -83,38 +108,40 @@ def meanings_process(meanings, index):
             return synonyms, pinyin
         return [], None
 
-    # 修改meanings列表
     i = 0
     while i < len(meanings):
-        # 解决通“某字”的问题
-        synonyms, pinyin = extract_synonyms(meanings[i])
+        synonyms, pinyin = extract_synonyms(meanings[i])  # 这个函数能提取同义词和拼音
         if synonyms:
+            # 对于每个通，尝试找到并处理其解释
             for synonym in synonyms:
-                # 递归调用，直到找到没有同“某字”的条目
-                # 从索引中获取同“某字”的条目
-                entry_text = index.get(synonym)
-                if entry_text is not None:
-                    if recursion_count < 10:
-                        recursion_count += 1
-                        entry = parse_dictionary_entry(entry_text, index)
-                        recursion_count -= 1
-                    else:
-                        #print(f"Error: Recursion limit reached for synonym: {synonym}")
-                        # 将该通字写入一个txt中
-                        with open('.\output\checkpoint\loop_synonym.txt', 'a') as f:
-                            f.write(synonym + '\n')
-                        continue
-                    if pinyin:
-                        synonym_meanings = [m for d in entry.definitions if d['pinyin'] == pinyin for m in d['meanings']]
-                    else:
-                        synonym_meanings = [m for d in entry.definitions for m in d['meanings']]
-
-                    meanings.extend(synonym_meanings)
+                valid_explanations, recursion_count = process_synonyms(meanings[i], recursion_count)
+                if valid_explanations is not None:
+                    meanings.extend(valid_explanations)
                 else:
-                    print(f"Error: Failed to find entry for synonym: {synonym}")
+                    # 递归调用，直到找到没有同“某字”的条目
+                    # 从索引中获取通“某字”的条目
+                    entry_text = index.get(synonym)
+                    if entry_text is not None:
+                        if recursion_count < 10:
+                            recursion_count += 1
+                            entry = parse_dictionary_entry(entry_text, index)
+                            recursion_count -= 1
+                        else:
+                            #print(f"Error: Recursion limit reached for synonym: {synonym}")
+                            # 将该通字写入一个txt中
+                            with open('.\output\checkpoint\loop_synonym.txt', 'a') as f:
+                                f.write(synonym + '\n')
+                            continue
+                        if pinyin:
+                            synonym_meanings = [m for d in entry.definitions if d['pinyin'] == pinyin for m in d['meanings']]
+                        else:
+                            synonym_meanings = [m for d in entry.definitions for m in d['meanings']]
+
+                        meanings.extend(synonym_meanings)
+                    else:
+                        print(f"Error: Failed to find entry for synonym: {synonym}")
             meanings.pop(i)
-        else:
-            i += 1
+        i += 1  # 移动到下一个meaning处理
 
 def parse_multiple_entries(text, index):
     # 每个条目由两个井号（##）分隔
