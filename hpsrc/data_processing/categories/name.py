@@ -52,7 +52,7 @@ def main():
 
     # 设置关键词列表
     end_keywords = []
-    keywords = ["名"]
+    keywords = ["名","用语","术语","佛家语","梵语","谚语","客套语"]
     exclude_keywords = ["得名", "名字", "名声", "闻名"]
 
     # 定义JSON文件和输出文件名的映射

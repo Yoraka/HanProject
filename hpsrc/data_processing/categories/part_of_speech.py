@@ -52,8 +52,8 @@ def main():
 
     # 设置关键词列表
     end_keywords = ["词"]
-    keywords = ["词，", "词。", "词,"]
-    exclude_keywords = ["名词"]
+    keywords = ["词，", "词。", "词,","补语"]
+    exclude_keywords = ["名词","言词","讼词","供词","誓词","唱词","之词"]
 
     # 定义JSON文件和输出文件名的映射
     files_mapping = {
