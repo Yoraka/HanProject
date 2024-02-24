@@ -158,6 +158,7 @@ def parse_multiple_entries(text, index):
 
     return entries
 
+
 def parse_dictionary_entry(text, index):
     # 分割条目头和条目体 错误处理
     try:
@@ -205,6 +206,8 @@ def parse_synonym(entry, body, index):
     synonym_matches = re.findall(r'同“(.*?)”', body)
     for match in synonym_matches:
         entry.synonyms.append(match)
+        # 按要求, 将同“某字”的definition直接写入到此entry的definition中
+        entry.definitions = parse_dictionary_entry(index.get(match), index).definitions
 
 '''
 有时候会有单音, 但多古音, 可以套函数调用 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉
