@@ -20,7 +20,6 @@
         "character": "䝗",
         "variants": [],
         "synonyms": [
-            "貅",
             "貅"
         ],
         "definitions": [],
@@ -533,10 +532,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "mà",
                 "rhyme_book": "《集韻》莫駕切，去禡明。魚部。",
-                "meanings": [
-                    "军中祭名",
-                    "马上祭"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -613,15 +609,7 @@
                 "rhyme_book": "《洪武正韻》末各切。",
                 "meanings": [
                     "描绘",
-                    "远",
-                    "离去；乖离",
-                    "渺茫；模糊不清",
-                    "超过",
-                    "姓",
-                    "小，幼小",
-                    "小看；轻视",
-                    "广阔；遥远",
-                    "美好"
+                    "通“藐（miǎo）”"
                 ]
             }
         ],
@@ -645,15 +633,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "mái",
                 "rhyme_book": "《集韻》謨皆切，平皆明。之部。",
-                "meanings": [
-                    "把东西放在坑里用土盖上",
-                    "古代特指简陋不依礼制而落葬",
-                    "藏；掩盖",
-                    "泯灭；隐没",
-                    "低",
-                    "尘",
-                    "〔埋怨〕也作“埋冤”"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1038,7 +1018,6 @@
         "character": "𧲪",
         "variants": [],
         "synonyms": [
-            "貉",
             "貉"
         ],
         "definitions": [],
@@ -1048,7 +1027,6 @@
         "character": "𧲬",
         "variants": [],
         "synonyms": [
-            "𧳅",
             "𧳅"
         ],
         "definitions": [],
@@ -1701,7 +1679,6 @@
         "character": "𧳡",
         "variants": [],
         "synonyms": [
-            "𧳅",
             "𧳅"
         ],
         "definitions": [],
@@ -1720,8 +1697,7 @@
         "character": "𧳥",
         "variants": [],
         "synonyms": [
-            "猍（𧳟）",
-            "𧳟"
+            "猍（𧳟）"
         ],
         "definitions": [],
         "special_entries": []
@@ -1899,7 +1875,6 @@
         "character": "𧳴",
         "variants": [],
         "synonyms": [
-            "貏",
             "貏"
         ],
         "definitions": [],

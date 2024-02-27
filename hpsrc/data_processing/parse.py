@@ -59,13 +59,17 @@ def process_synonyms(meaning, recursion_count):
     # Prepare a more accurate result that includes the term, its pinyin (if provided), and the explanation
     results_with_optional_pinyin = [{"term": match[0], "pinyin": match[1] if match[1] else "None", "explanation": match[2]} for match in all_matches_optional_pinyin]
 
+    ret_result = {}
+
     for result in results_with_optional_pinyin:
         # 检查每个结果的'explanation'字段是否存在特定字符
         if "《" in result['explanation'] or "》" in result['explanation'] or "*" in result['explanation']:
             # 如果存在，则将'explanation'设置为空字符串
             result['explanation'] = None
 
-    return result['explanation'], recursion_count
+        ret_result = result['explanation']
+
+    return ret_result, recursion_count
 
 
 def meanings_process(meanings, index):
@@ -207,7 +211,13 @@ def parse_synonym(entry, body, index):
     for match in synonym_matches:
         entry.synonyms.append(match)
         # 按要求, 将同“某字”的definition直接写入到此entry的definition中
-        entry.definitions = parse_dictionary_entry(index.get(match), index).definitions
+        entry_text = index.get(match)
+        #print(type(entry_text))
+        if print(type(entry_text)) is not None:
+            entry.definitions = parse_dictionary_entry(entry_text, index).definitions
+        else:
+            # 放弃
+            return
 
 '''
 有时候会有单音, 但多古音, 可以套函数调用 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉
@@ -427,6 +437,8 @@ def run(argv):
     root = tk.Tk()
     root.withdraw()
 
+    print("请选取文件, 如果一次处理多个文件请多选, 一般情况下请选择radicals_docx文件夹内的所有文件")
+
     if len(argv) > 1:
         print("Parsing...")
         # 获取文件路径
@@ -455,7 +467,7 @@ def run(argv):
     else:
         root.deiconify()
         # 打开文件选取窗口
-        file_path = filedialog.askopenfilenames(initialdir='./data', title='Select File', filetypes=[('Word Document', '*.docx')])
+        file_path = filedialog.askopenfilenames(initialdir='./data', title='Select File', filetypes=[('Word Document', '*.docx'),('Any', '*.*')])
         root.withdraw()
         print("Parsing...")
         if file_path:

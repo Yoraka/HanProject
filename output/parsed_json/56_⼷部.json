@@ -103,22 +103,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tè",
                 "rhyme_book": "《集韻》惕德切，入德透。職部。",
-                "meanings": [
-                    "恶；邪恶",
-                    "恶人；坏人",
-                    "灾害；祸患",
-                    "阴气",
-                    "瘴气蛊毒之类",
-                    "禁讳的语言",
-                    "变更",
-                    "差错",
-                    "疑惑",
-                    "邪恶",
-                    "副词",
-                    "象声词",
-                    "方言",
-                    "隐瞒实情掩盖过错"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -187,7 +172,6 @@
         "character": "𢍽",
         "variants": [],
         "synonyms": [
-            "𥾐",
             "𥾐"
         ],
         "definitions": [],
@@ -335,7 +319,6 @@
         "character": "𢎊",
         "variants": [],
         "synonyms": [
-            "𢎓",
             "𢎓"
         ],
         "definitions": [],
@@ -345,7 +328,6 @@
         "character": "𢎋",
         "variants": [],
         "synonyms": [
-            "哉",
             "哉"
         ],
         "definitions": [],
@@ -468,7 +450,6 @@
         "character": "𣦏",
         "variants": [],
         "synonyms": [
-            "越",
             "越"
         ],
         "definitions": [],

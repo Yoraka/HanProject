@@ -306,24 +306,7 @@
                 "pinyin": "yú",
                 "rhyme_book": "《廣韻》羊朱切，平虞以。又度侯切，持遇切。侯部。",
                 "meanings": [
-                    "筑墙时用于两端的短板",
-                    "门边像圭形的小洞",
-                    "空；挖空",
-                    "凿穿（墙壁）",
-                    "受粪便的木桶、木槽",
-                    "越过",
-                    "度，过渡",
-                    "超过",
-                    "胜过",
-                    "行",
-                    "远",
-                    "长",
-                    "飘荡",
-                    "疾行",
-                    "淫逸",
-                    "逍遥",
-                    "〔跇踰〕兽走貌",
-                    "〔𨄅窬〕深下"
+                    "筑墙时用于两端的短板"
                 ]
             }
         ],
@@ -394,12 +377,7 @@
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "bǎng",
                 "rhyme_book": "《廣韻》北朗切，上蕩幫。",
-                "meanings": [
-                    "损害",
-                    "阻碍；妨碍",
-                    "中止",
-                    "俗称相克"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_multi_meaning",
@@ -448,12 +426,7 @@
                 "rhyme_book": "《廣韻》與久切，上有以。幽部。",
                 "meanings": [
                     "木窗",
-                    "姓",
-                    "引导；教导；劝导",
-                    "引诱；诱惑",
-                    "前导，在前面引路的人",
-                    "感触；感动",
-                    "美称之词"
+                    "姓"
                 ]
             }
         ],
@@ -716,7 +689,6 @@
         "character": "𤖾",
         "variants": [],
         "synonyms": [
-            "𤖽",
             "𤖽"
         ],
         "definitions": [],
@@ -726,8 +698,7 @@
         "character": "𤖿",
         "variants": [],
         "synonyms": [
-            "𤗚（𤖼）",
-            "𤗚"
+            "𤗚（𤖼）"
         ],
         "definitions": [],
         "special_entries": []
@@ -853,7 +824,6 @@
         "character": "𤗊",
         "variants": [],
         "synonyms": [
-            "牒",
             "牒"
         ],
         "definitions": [],
@@ -872,7 +842,6 @@
         "character": "𤗌",
         "variants": [],
         "synonyms": [
-            "㸢",
             "㸢"
         ],
         "definitions": [],
@@ -965,7 +934,6 @@
         "character": "𤗕",
         "variants": [],
         "synonyms": [
-            "𤗭",
             "𤗭"
         ],
         "definitions": [],
@@ -975,8 +943,7 @@
         "character": "𤗗",
         "variants": [],
         "synonyms": [
-            "棟",
-            "𤗛"
+            "棟"
         ],
         "definitions": [],
         "special_entries": []

@@ -31,7 +31,6 @@
         "character": "䩑",
         "variants": [],
         "synonyms": [
-            "鞃",
             "鞃"
         ],
         "definitions": [],
@@ -518,8 +517,7 @@
         "character": "䩭",
         "variants": [],
         "synonyms": [
-            "羈",
-            "鞿"
+            "羈"
         ],
         "definitions": [],
         "special_entries": []
@@ -748,7 +746,6 @@
         "character": "䩻",
         "variants": [],
         "synonyms": [
-            "䩗",
             "䩗"
         ],
         "definitions": [],
@@ -1057,13 +1054,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "jí",
                 "rhyme_book": "《集韻》竭億切，入職羣。",
-                "meanings": [
-                    "副词",
-                    "急躁",
-                    "紧迫；紧急",
-                    "肃敬",
-                    "爱"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1400,13 +1391,7 @@
                 "meanings": [
                     "柔软的皮革",
                     "治革使柔",
-                    "皮绳",
-                    "痛苦；忧伤",
-                    "畏惧；惊恐",
-                    "恐吓",
-                    "惊动",
-                    "憎恶",
-                    "〔悍怛〕勇力"
+                    "皮绳"
                 ]
             }
         ],
@@ -1499,7 +1484,6 @@
         "character": "鞂",
         "variants": [],
         "synonyms": [
-            "稭",
             "稭"
         ],
         "definitions": [],
@@ -1532,10 +1516,7 @@
                 "rhyme_book": "《廣韻》薄交切，平肴並。又薄巧切，防教切，匹角切。幽部。",
                 "meanings": [
                     "治革的工人",
-                    "姓",
-                    "鼓槌",
-                    "〔枹薊〕草名，即白术，菊科",
-                    "〔枹罕〕古郡县名"
+                    "姓"
                 ]
             }
         ],
@@ -1553,11 +1534,7 @@
                 "meanings": [
                     "套在牛马颈上的皮带",
                     "羁绊",
-                    "姓",
-                    "不服；不满",
-                    "勉强；泥求",
-                    "惆怅",
-                    "自大"
+                    "姓"
                 ]
             },
             {
@@ -1614,10 +1591,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tà",
                 "rhyme_book": "《集韻》託合切，入合透。",
-                "meanings": [
-                    "《集韻》達合切",
-                    "象声词"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1747,11 +1721,7 @@
                     "烘焙",
                     "*春秋*时国名",
                     "地名",
-                    "姓",
-                    "畏惧；害怕",
-                    "恐吓；使害怕",
-                    "恐怕，担心",
-                    "使人畏惧之事"
+                    "姓"
                 ]
             }
         ],
@@ -1814,10 +1784,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "mèn",
                 "rhyme_book": "《集韻》母本切，上混明。元部。",
-                "meanings": [
-                    "烦闷",
-                    "愤慨"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1831,19 +1798,7 @@
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "yìng",
                 "rhyme_book": "《廣韻》五諍切，去諍疑。",
-                "meanings": [
-                    "鱼骨；鱼刺",
-                    "骨、刺卡喉中",
-                    "阻塞",
-                    "害，祸患",
-                    "直，正直",
-                    "因哀痛而语塞",
-                    "食物不能下咽；噎住",
-                    "阻塞；堵住",
-                    "咽声",
-                    "叹词",
-                    "象声词"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1867,7 +1822,6 @@
         "character": "鞗",
         "variants": [],
         "synonyms": [
-            "䩦",
             "䩦"
         ],
         "definitions": [],
@@ -2012,10 +1966,7 @@
                 "type": "single_sound_multi_rhyme_single_meaing",
                 "pinyin": "pí",
                 "rhyme_book": "pí　㊀《廣韻》部迷切，平齊並。",
-                "meanings": [
-                    "骑鼓，古代军中所用的一种小鼓",
-                    "小鼓"
-                ]
+                "meanings": []
             },
             {
                 "type": "single_sound_multi_rhyme_single_meaing",
@@ -2072,13 +2023,8 @@
                     "告诫",
                     "高貌",
                     "星名",
-                    "姓",
-                    "穷究，审问",
-                    "穷尽",
-                    "穷困",
-                    "水涯的尽头",
-                    "〔大菊〕即“瞿麥”",
-                    "菊花"
+                    "通“菊（jú）”",
+                    "姓"
                 ]
             },
             {
@@ -2086,10 +2032,7 @@
                 "pinyin": "qū",
                 "rhyme_book": "《廣韻》驅匊切，入屋溪。",
                 "meanings": [
-                    "果菜",
-                    "推辨",
-                    "〕qū　《集韻》丘六切，入屋溪",
-                    "姓"
+                    "果菜"
                 ]
             },
             {
@@ -2887,7 +2830,6 @@
         "character": "𩉞",
         "variants": [],
         "synonyms": [
-            "䩒",
             "䩒"
         ],
         "definitions": [],
@@ -3427,8 +3369,7 @@
         "character": "𩊉",
         "variants": [],
         "synonyms": [
-            "𩉩（鼓）",
-            "𩉩"
+            "𩉩（鼓）"
         ],
         "definitions": [],
         "special_entries": []
@@ -4373,7 +4314,6 @@
         "character": "𩋖",
         "variants": [],
         "synonyms": [
-            "靴",
             "靴"
         ],
         "definitions": [],
@@ -4915,8 +4855,7 @@
         "character": "𩌀",
         "variants": [],
         "synonyms": [
-            "𪔨（鼓）",
-            "𪔨"
+            "𪔨（鼓）"
         ],
         "definitions": [],
         "special_entries": []
@@ -5634,8 +5573,6 @@
         "character": "𩍀",
         "variants": [],
         "synonyms": [
-            "𩌆",
-            "𩌆",
             "𩌆"
         ],
         "definitions": [],
@@ -5820,7 +5757,6 @@
         "character": "𩍑",
         "variants": [],
         "synonyms": [
-            "𩌰",
             "𩌰"
         ],
         "definitions": [],
@@ -6349,7 +6285,6 @@
         "character": "𩎅",
         "variants": [],
         "synonyms": [
-            "鞬",
             "鞬"
         ],
         "definitions": [],

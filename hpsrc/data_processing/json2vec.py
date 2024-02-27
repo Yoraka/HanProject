@@ -22,10 +22,10 @@ def get_sentence_vector(words, model):
 
 def process_meanings(meanings, tok, model, stopwords):
     cleaned_meanings = []
-    for meaning in meanings:
-        words = tok(meaning)
-        cleaned_words = [word for word in words if word not in stopwords]
-        cleaned_meanings.append(get_sentence_vector(cleaned_words, model))
+    meaning = ' '.join(meanings)
+    words = tok(meaning)
+    cleaned_words = [word for word in words if word not in stopwords]
+    cleaned_meanings.append(get_sentence_vector(cleaned_words, model))
     return cleaned_meanings
 
 def process_json_file(json_file, tok, ft_model, stopwords):
@@ -34,19 +34,28 @@ def process_json_file(json_file, tok, ft_model, stopwords):
     
     all_meanings_vec = []
     all_characters = []
+    empty_meanings = []
     
     for entry in data:
         character = entry['character']
         definitions = entry.get('definitions', [])
-        for definition in definitions:
-            meanings = definition.get('meanings', [])
-            meanings_vec_list = process_meanings(meanings, tok, ft_model, stopwords)
-            all_meanings_vec.extend(meanings_vec_list)
-            if meanings_vec_list:
-                character_vec = np.mean(np.array(meanings_vec_list), axis=0)
-            else:
-                character_vec = np.zeros(ft_model.vector_size)
-            all_characters.append({'character': character, 'meanings_vec_average': character_vec})
+        if len(definitions) != 0:
+            for definition in definitions:
+                meanings = definition.get('meanings', [])
+                meanings_vec_list = process_meanings(meanings, tok, ft_model, stopwords)
+                all_meanings_vec.extend(meanings_vec_list)
+                if meanings_vec_list:
+                    character_vec = np.mean(np.array(meanings_vec_list), axis=0)
+                else:
+                    character_vec = np.zeros(ft_model.vector_size)
+                all_characters.append({'character': character, 'meanings_vec_average': character_vec})
+        else:
+            empty_meanings.append(character)
+
+    with open('./output/empty_meanings.txt', 'w', encoding='utf-8') as file:
+        for character in empty_meanings:
+            file.write(character + '\n')
+        print(f'Empty meanings for {len(empty_meanings)} characters, output to ./output/empty_meanings.txt')
 
     return all_meanings_vec, all_characters
 
