@@ -12,23 +12,22 @@ def extract_info(json_file, output_file, keywords, exclude_keywords, end_keyword
     # 提取信息
     for entry in data:
         character = entry["character"]
-        has_valid_entry = False
         pinyin_info = []
+        has_valid_entry = False
         for definition in entry["definitions"]:
             pinyin = definition.get("pinyin", "...")
-            # 检查meanings中的条件
+            meanings = []
+            # 检查meanings中的关键词
             for meaning in definition["meanings"][1:]:
-                if ((any(keyword in meaning for keyword in keywords) or
-                     not any(exclude_keyword in meaning for exclude_keyword in exclude_keywords)) and
-                    not meaning.endswith(tuple(end_keywords))):
-                    pinyin_info.append({"pinyin": pinyin, "meanings": [meaning]})
+                if (any(keyword in meaning for keyword in keywords) or meaning.endswith(tuple(end_keywords))) and not any(exclude_keyword in meaning for exclude_keyword in exclude_keywords):
+                    meanings.append(meaning)
                     has_valid_entry = True
-        # 检查variants中的条件
+            if meanings:
+                pinyin_info.append({"pinyin": pinyin, "meanings": meanings})
+        # 检查variants中的关键词
         for variant in entry["variants"]:
-            if ((any(keyword in variant for keyword in keywords) or
-                 not any(exclude_keyword in variant for exclude_keyword in exclude_keywords)) and
-                not variant.endswith(tuple(end_keywords))):
-                pinyin_info.append({"pinyin": pinyin, "meanings": [variant]})
+            if (any(keyword in variant for keyword in keywords) or variant.endswith(tuple(end_keywords))) and not any(exclude_keyword in variant for exclude_keyword in exclude_keywords):
+                pinyin_info.append({"pinyin": "...", "meanings": [variant]})
                 has_valid_entry = True
         if has_valid_entry:
             extracted_info.append({"character": character, "definitions": pinyin_info})
@@ -39,23 +38,23 @@ def extract_info(json_file, output_file, keywords, exclude_keywords, end_keyword
 
 def main():
     # 指定特定路径和其他参数
-    specific_path = "output"
-    new_folder_name = "_引申义json"
+    specific_path = "output/_五大类json"
+    new_folder_name = "_词性json"
     new_folder_path = os.path.join(specific_path, new_folder_name)
     os.makedirs(new_folder_path, exist_ok=True)
 
     # 设置关键词列表
     end_keywords = ["词"]
-    keywords = ["名词","言词","讼词","供词","誓词","唱词","之词", "得名", "名字", "名声", "闻名"]
-    exclude_keywords = ["词，", "词。", "词,", "补语", "名", "用语", "术语", "佛家语", "梵语", "谚语", "客套语", "同“", "通“"]
+    keywords = ["词，", "词。", "词,", "补语"]
+    exclude_keywords = ["名词", "言词", "讼词", "供词", "誓词", "唱词", "之词"]
 
     # 定义JSON文件和输出文件名的映射
     files_mapping = {
-        'a9_⼈部.json': '_人_引申义.json',
-        'a30_⼝部.json': '_口_引申义.json',
-        'a61_⼼部.json': '_心_引申义.json',
-        'a76_⽋部.json': '_欠_引申义.json',
-        'a149_⾔部.json': '_言_引申义.json'
+        'a9_⼈部.json': '_人_词性.json',
+        'a30_⼝部.json': '_口_词性.json',
+        'a61_⼼部.json': '_心_词性.json',
+        'a76_⽋部.json': '_欠_词性.json',
+        'a149_⾔部.json': '_言_词性.json'
     }
 
     # 提取并保存信息

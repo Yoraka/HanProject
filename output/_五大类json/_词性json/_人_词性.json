@@ -1,0 +1,499 @@
+[
+    {
+        "character": "今",
+        "definitions": [
+            {
+                "pinyin": "jī",
+                "meanings": [
+                    "代词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "介",
+        "definitions": [
+            {
+                "pinyin": "jiè",
+                "meanings": [
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "仍",
+        "definitions": [
+            {
+                "pinyin": "réng",
+                "meanings": [
+                    "副词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "他",
+        "definitions": [
+            {
+                "pinyin": "tā",
+                "meanings": [
+                    "代词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "令",
+        "definitions": [
+            {
+                "pinyin": "lìng",
+                "meanings": [
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "以",
+        "definitions": [
+            {
+                "pinyin": "yǐ",
+                "meanings": [
+                    "代词",
+                    "副词",
+                    "介词",
+                    "连词",
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "件",
+        "definitions": [
+            {
+                "pinyin": "jiàn",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "任",
+        "definitions": [
+            {
+                "pinyin": "rèn",
+                "meanings": [
+                    "量词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "份",
+        "definitions": [
+            {
+                "pinyin": "fèn",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "伊",
+        "definitions": [
+            {
+                "pinyin": "yī",
+                "meanings": [
+                    "代词",
+                    "连词",
+                    "语气词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "伏",
+        "definitions": [
+            {
+                "pinyin": "fú",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "休",
+        "definitions": [
+            {
+                "pinyin": "xiū",
+                "meanings": [
+                    "副词",
+                    "语气词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "伙",
+        "definitions": [
+            {
+                "pinyin": "huǒ",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "似",
+        "definitions": [
+            {
+                "pinyin": "sì",
+                "meanings": [
+                    "介词",
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "但",
+        "definitions": [
+            {
+                "pinyin": "dàn",
+                "meanings": [
+                    "副词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "位",
+        "definitions": [
+            {
+                "pinyin": "wèi",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "住",
+        "definitions": [
+            {
+                "pinyin": "zhù",
+                "meanings": [
+                    "做动词的补语"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "何",
+        "definitions": [
+            {
+                "pinyin": "hé",
+                "meanings": [
+                    "代词",
+                    "副词",
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "余",
+        "definitions": [
+            {
+                "pinyin": "yú",
+                "meanings": [
+                    "代词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "作",
+        "definitions": [
+            {
+                "pinyin": "zuò",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "佰",
+        "definitions": [
+            {
+                "pinyin": "bǎi",
+                "meanings": [
+                    "数词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "併",
+        "definitions": [
+            {
+                "pinyin": "bìng",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "使",
+        "definitions": [
+            {
+                "pinyin": "shǐ",
+                "meanings": [
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "來",
+        "definitions": [
+            {
+                "pinyin": "lái",
+                "meanings": [
+                    "助词",
+                    "语气词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "侯",
+        "definitions": [
+            {
+                "pinyin": "hóu",
+                "meanings": [
+                    "代词",
+                    "连词",
+                    "助词，用于句首",
+                    "语气词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "便",
+        "definitions": [
+            {
+                "pinyin": "biàn",
+                "meanings": [
+                    "副词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "俞",
+        "definitions": [
+            {
+                "pinyin": "yù",
+                "meanings": [
+                    "叹词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "俱",
+        "definitions": [
+            {
+                "pinyin": "jù（又读jū）",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "倈",
+        "definitions": [
+            {
+                "pinyin": "lái",
+                "meanings": [
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "個",
+        "definitions": [
+            {
+                "pinyin": "gè",
+                "meanings": [
+                    "量词",
+                    "代词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "們",
+        "definitions": [
+            {
+                "pinyin": "men（旧读mén）",
+                "meanings": [
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "倒",
+        "definitions": [
+            {
+                "pinyin": "dào",
+                "meanings": [
+                    "副词",
+                    "助词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "倘",
+        "definitions": [
+            {
+                "pinyin": "tǎng",
+                "meanings": [
+                    "连词",
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "值",
+        "definitions": [
+            {
+                "pinyin": "zhí",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "假",
+        "definitions": [
+            {
+                "pinyin": "jiǎ",
+                "meanings": [
+                    "连词",
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "偏",
+        "definitions": [
+            {
+                "pinyin": "piān",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "備",
+        "definitions": [
+            {
+                "pinyin": "bèi",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "億",
+        "definitions": [
+            {
+                "pinyin": "yì",
+                "meanings": [
+                    "数词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "儔",
+        "definitions": [
+            {
+                "pinyin": "chóu",
+                "meanings": [
+                    "代词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "儘",
+        "definitions": [
+            {
+                "pinyin": "jǐn",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "儜",
+        "definitions": [
+            {
+                "pinyin": "níng",
+                "meanings": [
+                    "代词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "儻",
+        "definitions": [
+            {
+                "pinyin": "tǎng",
+                "meanings": [
+                    "副词",
+                    "连词"
+                ]
+            }
+        ]
+    },
+    {
+        "character": "儼",
+        "definitions": [
+            {
+                "pinyin": "yǎn",
+                "meanings": [
+                    "副词"
+                ]
+            }
+        ]
+    }
+]
