@@ -3,7 +3,7 @@ import os
 
 def extract_info(json_file, output_file, keywords, exclude_keywords, end_keywords):
     # 初始化提取结果
-    extracted_info = {}
+    extracted_info = []
 
     # 加载JSON数据
     with open(json_file, 'r', encoding='utf-8') as file:
@@ -13,41 +13,32 @@ def extract_info(json_file, output_file, keywords, exclude_keywords, end_keyword
     for entry in data:
         character = entry["character"]
         has_valid_entry = False
-        pinyin_info = {}
+        definitions = []
         for definition in entry["definitions"]:
             pinyin = definition.get("pinyin", "...")
+            meanings = []
             # 检查meanings中的条件
             for meaning in definition["meanings"][1:]:
                 if ((any(keyword in meaning for keyword in keywords) or
                      not any(exclude_keyword in meaning for exclude_keyword in exclude_keywords)) and
                     not meaning.endswith(tuple(end_keywords))):
-                    if pinyin not in pinyin_info:
-                        pinyin_info[pinyin] = []
-                    pinyin_info[pinyin].append(meaning)
+                    meanings.append(meaning)
                     has_valid_entry = True
+            if meanings:
+                definitions.append({"character": character, "pinyin": pinyin, "meanings": meanings})
         # 检查variants中的条件
         for variant in entry["variants"]:
             if ((any(keyword in variant for keyword in keywords) or
                  not any(exclude_keyword in variant for exclude_keyword in exclude_keywords)) and
                 not variant.endswith(tuple(end_keywords))):
-                if pinyin not in pinyin_info:
-                    pinyin_info[pinyin] = []
-                pinyin_info[pinyin].append(variant)
+                definitions.append({"character": character, "pinyin": pinyin, "meanings": [variant]})
                 has_valid_entry = True
         if has_valid_entry:
-            extracted_info[character] = pinyin_info
+            extracted_info.extend(definitions)
 
     # 保存提取结果到新文件
     with open(output_file, 'w', encoding='utf-8') as file:
-        for character, pinyins in extracted_info.items():
-            file.write(f"{character}:\n")
-            for pinyin, meanings in pinyins.items():
-                file.write(f"  {pinyin}: ")
-                for i, meaning in enumerate(meanings):
-                    if i == 0:
-                        file.write(f"{meaning}\n")
-                    else:
-                        file.write(f"      {meaning}\n")
+        json.dump(extracted_info, file, ensure_ascii=False, indent=4)
 
 def main():
     # 指定特定路径和其他参数
@@ -63,11 +54,11 @@ def main():
 
     # 定义JSON文件和输出文件名的映射
     files_mapping = {
-        'a9_⼈部.json': '_人_引申义.txt',
-        'a30_⼝部.json': '_口_引申义.txt',
-        'a61_⼼部.json': '_心_引申义.txt',
-        'a76_⽋部.json': '_欠_引申义.txt',
-        'a149_⾔部.json': '_言_引申义.txt'
+        'a9_⼈部.json': '_人_引申义.json',
+        'a30_⼝部.json': '_口_引申义.json',
+        'a61_⼼部.json': '_心_引申义.json',
+        'a76_⽋部.json': '_欠_引申义.json',
+        'a149_⾔部.json': '_言_引申义.json'
     }
 
     # 提取并保存信息

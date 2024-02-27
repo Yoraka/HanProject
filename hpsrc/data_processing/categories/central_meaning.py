@@ -12,31 +12,24 @@ def extract_info(json_file, output_file):
     # 提取信息
     for entry in data:
         character = entry["character"]
-        has_valid_entry = False
         pinyin_info = {}
         for definition in entry["definitions"]:
-            pinyin = definition.get("pinyin", "...")
-            meaning = definition["meanings"][0] if definition["meanings"] else "..."
-            if pinyin not in pinyin_info:
-                pinyin_info[pinyin] = []
-            pinyin_info[pinyin].append(meaning)
-            has_valid_entry = True
-        if has_valid_entry:
+            pinyin = definition.get("pinyin", None)
+            if pinyin and definition["meanings"]:
+                meaning = definition["meanings"][0]
+                pinyin_info[pinyin] = meaning
+        if pinyin_info:
             extracted_info[character] = pinyin_info
         else:
-            extracted_info[character] = {"...": ["..."]}
+            continue  # 跳过没有有效拼音和含义的字符
 
     # 保存提取结果到新文件
     with open(output_file, 'w', encoding='utf-8') as file:
         for character, pinyins in extracted_info.items():
             file.write(f"{character}:\n")
-            for pinyin, meanings in pinyins.items():
-                file.write(f"  {pinyin}: ")
-                for i, meaning in enumerate(meanings):
-                    if i == 0:
-                        file.write(f"{meaning}\n")
-                    else:
-                        file.write(f"      {meaning}\n")
+            for pinyin, meaning in pinyins.items():
+                file.write(f"  {pinyin}: {meaning}\n")
+
 
 def main():
     # 指定特定路径和其他参数
