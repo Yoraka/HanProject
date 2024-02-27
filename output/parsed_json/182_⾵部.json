@@ -592,7 +592,6 @@
         "character": "䬙",
         "variants": [],
         "synonyms": [
-            "颻",
             "颻"
         ],
         "definitions": [],
@@ -732,11 +731,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "fěng（旧读fèng）",
                 "rhyme_book": null,
-                "meanings": [
-                    "背诵；朗读；传诵",
-                    "用委婉的语言暗示、劝告或指责",
-                    "讽刺；讥讽"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -773,7 +768,6 @@
         "character": "颫",
         "variants": [],
         "synonyms": [
-            "𩖬",
             "𩖬"
         ],
         "definitions": [],
@@ -1541,7 +1535,6 @@
         "character": "𩖜",
         "variants": [],
         "synonyms": [
-            "𩖛",
             "𩖛"
         ],
         "definitions": [],
@@ -2029,7 +2022,6 @@
         "character": "𩗆",
         "variants": [],
         "synonyms": [
-            "颼",
             "颼"
         ],
         "definitions": [],
@@ -2301,7 +2293,6 @@
         "character": "𩗛",
         "variants": [],
         "synonyms": [
-            "䬍",
             "䬍"
         ],
         "definitions": [],
@@ -2857,7 +2848,6 @@
         "character": "𩘌",
         "variants": [],
         "synonyms": [
-            "颼",
             "颼"
         ],
         "definitions": [],
@@ -3052,7 +3042,6 @@
         "character": "𩘛",
         "variants": [],
         "synonyms": [
-            "颲",
             "颲"
         ],
         "definitions": [],
@@ -3154,7 +3143,6 @@
         "character": "𩘥",
         "variants": [],
         "synonyms": [
-            "颽",
             "颽"
         ],
         "definitions": [],
@@ -3164,7 +3152,6 @@
         "character": "𩘦",
         "variants": [],
         "synonyms": [
-            "颼",
             "颼"
         ],
         "definitions": [],
@@ -3295,7 +3282,6 @@
         "character": "𩘴",
         "variants": [],
         "synonyms": [
-            "飁",
             "飁"
         ],
         "definitions": [],
@@ -3314,7 +3300,6 @@
         "character": "𩘷",
         "variants": [],
         "synonyms": [
-            "飂",
             "飂"
         ],
         "definitions": [],
@@ -3553,8 +3538,7 @@
         "character": "𩙐",
         "variants": [],
         "synonyms": [
-            "檒（風）",
-            "風"
+            "檒（風）"
         ],
         "definitions": [],
         "special_entries": []

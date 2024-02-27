@@ -1,23 +1,81 @@
-import re
-text = '通“奠”。祭奠。*清**段玉裁*《説文解字注·尸部》：“㞟，《太玄》假為天地奠位之奠。”按：今本《太玄·玄攡》作“天地奠位”。'
-# Correct the regular expression to accurately handle cases with and without pinyin
-pattern_correct_optional_pinyin = r'通“([^”]*?)(?:\（([^）]*)\）)?”。([^。]*。)'
+import hanlp
+from gensim import models as keyedvectors
+import numpy as np
+# test data
+text =  {
+        "character": "主",
+        "variants": [],
+        "synonyms": [],
+        "definitions": [
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhǔ",
+                "rhyme_book": "《廣韻》之庾切，上麌章。侯部。",
+                "meanings": [
+                    "灯心",
+                    "家长",
+                    "主人",
+                    "首领，为首的人",
+                    "君主",
+                    "公卿大夫及其正妻",
+                    "物主",
+                    "当事人",
+                    "事物的根本",
+                    "死人的牌位",
+                    "公主的简称",
+                    "掌管，主持",
+                    "主张",
+                    "守",
+                    "主象，预示（吉凶祸福、自然变化等）",
+                    "主婚",
+                    "中医术语，主治",
+                    "专一",
+                    "从自身出发的",
+                    "基督教徒对*耶稣*、伊斯兰教教徒对*真主*的称呼",
+                    "姓"
+                ]
+            },
+            {
+                "type": "multi_sound_multi_meaning",
+                "pinyin": "zhù",
+                "rhyme_book": "《集韻》朱戍切，去遇章。侯部。",
+                "meanings": [
+                    "量词"
+                ]
+            }
+        ],
+        "special_entries": []
+    }
 
-# Use re.findall to accurately extract matches, now correctly handling optional pinyin
-correct_all_matches_optional_pinyin = re.findall(pattern_correct_optional_pinyin, text)
+def load_models_and_data():
+    tok = hanlp.load(hanlp.pretrained.tok.COARSE_ELECTRA_SMALL_ZH)
+    ft_model = keyedvectors.KeyedVectors.load_word2vec_format('E:/traditionalChineseDl/cc.zh.300.vec.gz')
+    with open('data/stopwords.txt', 'r', encoding='utf-8') as file:
+        stopwords = file.read().splitlines()
+    return tok, ft_model, stopwords
 
-# Prepare a more accurate result that includes the term, its pinyin (if provided), and the explanation
-results_with_optional_pinyin = [{"term": match[0], "pinyin": match[1] if match[1] else "None", "explanation": match[2]} for match in correct_all_matches_optional_pinyin]
-
-for result in results_with_optional_pinyin:
-    # 检查每个结果的'explanation'字段是否存在特定字符
-    if "《" in result['explanation'] or "》" in result['explanation'] or "*" in result['explanation']:
-        # 如果存在，则将'explanation'设置为空字符串
-        result['explanation'] = None
-# Print the results
-for result in results_with_optional_pinyin:
-    if result['explanation'] is not None:
-        print(result)
+def get_sentence_vector(words, model):
+    vecs = [model[word] for word in words if word in model]
+    if vecs:
+        vecs = np.array(vecs)
+        return np.mean(vecs, axis=0)
     else:
-        print('None')
-print(results_with_optional_pinyin)
+        return np.zeros(model.vector_size)
+    
+if __name__ == "__main__":
+    tok, ft_model, _ = load_models_and_data()
+    print('begin')
+    #将text中的meanings元素合成为一个str
+    meanings1 = text['definitions'][0]['meanings']
+    meanings_str1 = ' '.join(meanings1)
+    ret1 = get_sentence_vector(tok(meanings_str1), ft_model)
+    meanings2 = text['definitions'][1]['meanings']
+    meanings_str2 = ' '.join(meanings2)
+    ret2 = get_sentence_vector(tok(meanings_str2), ft_model)
+    # 打印结果
+    print(ret1)
+    print(ret2)
+    # 计算余弦相似度
+    sim = np.dot(ret1, ret2) / (np.linalg.norm(ret1) * np.linalg.norm(ret2))
+    print(sim)
+    print('end')

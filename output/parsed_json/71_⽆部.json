@@ -48,14 +48,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xì",
                 "rhyme_book": "《集韻》許既切，去未曉。",
-                "meanings": [
-                    "赠送人的粮食",
-                    "赠送",
-                    "活的牲口",
-                    "给养；俸禄",
-                    "饲料",
-                    "饱"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -73,7 +66,6 @@
         "character": "旤",
         "variants": [],
         "synonyms": [
-            "𣄸",
             "𣄸"
         ],
         "definitions": [],
@@ -83,7 +75,6 @@
         "character": "𣄭",
         "variants": [],
         "synonyms": [
-            "次",
             "次"
         ],
         "definitions": [],
@@ -109,7 +100,6 @@
         "character": "𣄯",
         "variants": [],
         "synonyms": [
-            "𠘻",
             "𠘻"
         ],
         "definitions": [],
@@ -176,9 +166,7 @@
         "character": "𣄵",
         "variants": [],
         "synonyms": [
-            "𣄴",
-            "𣄶（𣄵）",
-            "𣄶"
+            "𣄴"
         ],
         "definitions": [],
         "special_entries": []

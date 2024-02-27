@@ -80,9 +80,9 @@ def run():
     print('log3')
 
     # 使用力导向布局
-    pos = nx.spring_layout(G, k=0.3, iterations=200)
+    pos = nx.spring_layout(G, k=0.25, iterations=150)
 
-    nx.draw_networkx_nodes(G, pos, node_size=300, node_color=[G.nodes[n]['fillcolor'] for n in G.nodes()], edgecolors=[G.nodes[n]['edgecolor'] for n in G.nodes()])
+    nx.draw_networkx_nodes(G, pos, node_size=200, node_color=[G.nodes[n]['fillcolor'] for n in G.nodes()], edgecolors=[G.nodes[n]['edgecolor'] for n in G.nodes()])
 
     print('log4')
 

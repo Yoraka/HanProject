@@ -1561,7 +1561,6 @@
         "character": "䘇",
         "variants": [],
         "synonyms": [
-            "蚊",
             "蚊"
         ],
         "definitions": [],
@@ -1904,9 +1903,7 @@
                 "rhyme_book": "《廣韻》户公切，平東匣。又古巷切。東部。",
                 "meanings": [
                     "雨后或日出、日没之际，天空中出现的彩色圆弧",
-                    "喻指桥",
-                    "溃乱",
-                    "争扰"
+                    "喻指桥"
                 ]
             },
             {
@@ -2611,16 +2608,7 @@
                 "pinyin": "fén",
                 "rhyme_book": "《集韻》符分切，平文奉。諄部。",
                 "meanings": [
-                    "通“憤（fèn）",
-                    "封上隆起的墓",
-                    "堤岸；高地",
-                    "顺从",
-                    "大",
-                    "划分",
-                    "指三坟（即*伏羲*、*神农*、*黄帝*之书）",
-                    "姓",
-                    "肥土",
-                    "隆起"
+                    "通“憤（fèn）"
                 ]
             }
         ],
@@ -2686,40 +2674,14 @@
                 "rhyme_book": "《廣韻》子晧切，上晧精。幽部。",
                 "meanings": [
                     "跳蚤",
-                    "车轮内缘（辋）与支柱（辐）相连接处的榫头",
-                    "早晨",
-                    "初时，时间在先的",
-                    "比一定的时间靠前（跟“迟”、“晚”相对）",
-                    "何时，何日",
-                    "副词",
-                    "姓",
-                    "栎实或柞实",
-                    "草本植物的总称",
-                    "割草",
-                    "荒野",
-                    "粗劣；草率；简略",
-                    "微贱",
-                    "创始；起稿",
-                    "底稿；稿子",
-                    "文字书写形式的名称",
-                    "雌性的（家畜）"
+                    "车轮内缘（辋）与支柱（辐）相连接处的榫头"
                 ]
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "zhǎo",
                 "rhyme_book": "《集韻》側絞切，上巧莊。幽部。",
-                "meanings": [
-                    "鸟兽的脚趾或趾甲",
-                    "人的指甲、趾甲",
-                    "古代送终的一种礼制，为死者修剪手脚指甲",
-                    "龟",
-                    "像爪的东西",
-                    "抓；掐",
-                    "寻找",
-                    "古契丹语音译字",
-                    "鸟兽的脚爪"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2807,9 +2769,7 @@
                     "欺侮",
                     "悖乱",
                     "传说中的一种海兽",
-                    "姓",
-                    "讥笑",
-                    "象声词"
+                    "姓"
                 ]
             }
         ],
@@ -3797,9 +3757,7 @@
                 "rhyme_book": "《廣韻》古肴切，平肴見。宵部。",
                 "meanings": [
                     "传说中能兴云雨、发洪水的龙",
-                    "鳖、鳄之类",
-                    "海中沙鱼",
-                    "传说中的龙"
+                    "鳖、鳄之类"
                 ]
             }
         ],
@@ -4084,9 +4042,7 @@
                 "rhyme_book": "《廣韻》之日切，入質章。又丁悉切，丁結切。質部。",
                 "meanings": [
                     "蚂蟥",
-                    "姓",
-                    "蚁冢",
-                    "小山丘"
+                    "姓"
                 ]
             }
         ],
@@ -4300,11 +4256,7 @@
                     "昆虫",
                     "蛾眉的省称",
                     "某些寄生植物",
-                    "姓",
-                    "瞬间；极短暂的时间",
-                    "倾斜",
-                    "上扬，高扬",
-                    "国名"
+                    "姓"
                 ]
             }
         ],
@@ -4625,56 +4577,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xuān",
                 "rhyme_book": "《集韻》隳緣切，平仙曉。",
-                "meanings": [
-                    "轻轻地飞",
-                    "飞鸟",
-                    "疾，快速",
-                    "轻薄；小聪明",
-                    "奸；佞",
-                    "敏捷；迅速",
-                    "舞貌",
-                    "环绕",
-                    "返回",
-                    "恢复；还原",
-                    "交还，归还",
-                    "顾，回头",
-                    "偿还；回击",
-                    "还债；交纳（赋税）",
-                    "后退",
-                    "积聚",
-                    "连词",
-                    "姓",
-                    "四围垒土而居",
-                    "军垒；军营",
-                    "扎立营寨",
-                    "区域",
-                    "古代部曲",
-                    "现代军队编制单位，团下连上的一级",
-                    "建造；建设",
-                    "经营；管理",
-                    "耕作",
-                    "谋求",
-                    "获得",
-                    "谋虑；思虑",
-                    "度量；测度",
-                    "从东到西的方向、横路或横线",
-                    "卫护；看护",
-                    "上",
-                    "虚",
-                    "中医学指营气，即人体中饮食水谷化生的精气，有营养滋濡作用",
-                    "魂",
-                    "地名",
-                    "迷惑",
-                    "清洁",
-                    "目光明净貌",
-                    "辩解",
-                    "旋转",
-                    "迅速，立刻",
-                    "敏捷",
-                    "短少，淡薄",
-                    "副词",
-                    "古国名"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4892,46 +4795,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "fēi",
                 "rhyme_book": "《廣韻》甫微切，平微非。微部。",
-                "meanings": [
-                    "鸟在空中拍翅行动",
-                    "动物飞翔",
-                    "禽鸟和有翅的小虫",
-                    "物体在空中飘荡或流动",
-                    "非常迅速",
-                    "奔驰的马",
-                    "突然的；意外的",
-                    "无根据的",
-                    "高",
-                    "上扬",
-                    "向上翘或往上升",
-                    "飞星，流星的一种",
-                    "书法用语，指“飞白”",
-                    "矿物药或颜料研成细末，置水中以漂去其浮于水面的粗屑",
-                    "副词",
-                    "五色相错；文采",
-                    "地名",
-                    "姓",
-                    "违，违背",
-                    "错误；邪恶",
-                    "不真实",
-                    "责怪；反对",
-                    "仇恨；怨恨",
-                    "讥刺",
-                    "下",
-                    "隐",
-                    "闲",
-                    "无，没有",
-                    "方言",
-                    "用于疑问句末，表示是非问，相当于“否”",
-                    "*非洲*的简称",
-                    "回避；躲避",
-                    "去，离开",
-                    "辞让",
-                    "避免，防止",
-                    "违背",
-                    "从旁指责过失",
-                    "毁谤"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -5336,8 +5200,7 @@
         "character": "蜯",
         "variants": [],
         "synonyms": [
-            "蚌",
-            "蜯"
+            "蚌"
         ],
         "definitions": [],
         "special_entries": []
@@ -6353,8 +6216,7 @@
                 "rhyme_book": "《集韻》虚加切，平麻曉。",
                 "meanings": [
                     "节肢动物",
-                    "官名",
-                    "红色"
+                    "官名"
                 ]
             },
             {
@@ -6625,7 +6487,6 @@
         "character": "蝵",
         "variants": [],
         "synonyms": [
-            "蟗",
             "蟗"
         ],
         "definitions": [],
@@ -7370,8 +7231,7 @@
         "character": "螡",
         "variants": [],
         "synonyms": [
-            "蚉（蚊）",
-            "蚉"
+            "蚉（蚊）"
         ],
         "definitions": [],
         "special_entries": []
@@ -9663,7 +9523,6 @@
         "character": "蠧",
         "variants": [],
         "synonyms": [
-            "蠹",
             "蠹"
         ],
         "definitions": [],
@@ -9777,17 +9636,7 @@
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "fēng",
                 "rhyme_book": "《廣韻》敷容切，平鍾敷。東部。",
-                "meanings": [
-                    "刀、剑等兵器的尖端",
-                    "器物的尖端",
-                    "军队的前列",
-                    "锐势；势头",
-                    "尖锐；锐利",
-                    "古农具",
-                    "用锋翻地",
-                    "地球物理学名词",
-                    "喻成群"
-                ]
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -10311,7 +10160,6 @@
         "character": "𧈬",
         "variants": [],
         "synonyms": [
-            "虹",
             "虹"
         ],
         "definitions": [],
@@ -11015,7 +10863,6 @@
         "character": "𧉯",
         "variants": [],
         "synonyms": [
-            "䱕",
             "䱕"
         ],
         "definitions": [],
@@ -11061,7 +10908,6 @@
         "character": "𧉴",
         "variants": [],
         "synonyms": [
-            "蜜",
             "蜜"
         ],
         "definitions": [],
@@ -11071,7 +10917,6 @@
         "character": "𧉵",
         "variants": [],
         "synonyms": [
-            "蚅",
             "蚅"
         ],
         "definitions": [],
@@ -11081,7 +10926,6 @@
         "character": "𧉶",
         "variants": [],
         "synonyms": [
-            "蛀",
             "蛀"
         ],
         "definitions": [],
@@ -11373,7 +11217,6 @@
         "character": "𧊝",
         "variants": [],
         "synonyms": [
-            "蠚",
             "蠚"
         ],
         "definitions": [],
@@ -11544,8 +11387,7 @@
         "character": "𧊩",
         "variants": [],
         "synonyms": [
-            "䗬（蜂）",
-            "䗬"
+            "䗬（蜂）"
         ],
         "definitions": [],
         "special_entries": []
@@ -11554,7 +11396,6 @@
         "character": "𧊪",
         "variants": [],
         "synonyms": [
-            "𧈦",
             "𧈦"
         ],
         "definitions": [],
@@ -11928,7 +11769,6 @@
         "character": "𧋗",
         "variants": [],
         "synonyms": [
-            "蚳",
             "蚳"
         ],
         "definitions": [],
@@ -11990,7 +11830,6 @@
         "character": "𧋝",
         "variants": [],
         "synonyms": [
-            "蝶",
             "蝶"
         ],
         "definitions": [],
@@ -12000,7 +11839,6 @@
         "character": "𧋞",
         "variants": [],
         "synonyms": [
-            "蝶",
             "蝶"
         ],
         "definitions": [],
@@ -12010,7 +11848,6 @@
         "character": "𧋟",
         "variants": [],
         "synonyms": [
-            "䗋",
             "䗋"
         ],
         "definitions": [],
@@ -12368,7 +12205,6 @@
         "character": "𧌒",
         "variants": [],
         "synonyms": [
-            "蜮",
             "蜮"
         ],
         "definitions": [],
@@ -12624,7 +12460,6 @@
         "character": "𧌥",
         "variants": [],
         "synonyms": [
-            "蜥",
             "蜥"
         ],
         "definitions": [],
@@ -12909,8 +12744,7 @@
         "character": "𧍗",
         "variants": [],
         "synonyms": [
-            "蠚",
-            "𧍗"
+            "蠚"
         ],
         "definitions": [],
         "special_entries": []
@@ -12953,7 +12787,6 @@
         "character": "𧍛",
         "variants": [],
         "synonyms": [
-            "蛹",
             "蛹"
         ],
         "definitions": [],
@@ -12995,8 +12828,7 @@
         "character": "𧍞",
         "variants": [],
         "synonyms": [
-            "☀（鰐）",
-            "☀"
+            "☀（鰐）"
         ],
         "definitions": [],
         "special_entries": []
@@ -13078,7 +12910,6 @@
         "character": "𧍤",
         "variants": [],
         "synonyms": [
-            "蛓",
             "蛓"
         ],
         "definitions": [],
@@ -13369,7 +13200,6 @@
         "character": "𧍻",
         "variants": [],
         "synonyms": [
-            "𧍲",
             "𧍲"
         ],
         "definitions": [],
@@ -13388,7 +13218,6 @@
         "character": "𧍽",
         "variants": [],
         "synonyms": [
-            "蟻",
             "蟻"
         ],
         "definitions": [],
@@ -13663,7 +13492,6 @@
         "character": "𧎦",
         "variants": [],
         "synonyms": [
-            "蛬",
             "蛬"
         ],
         "definitions": [],
@@ -14081,7 +13909,6 @@
         "character": "𧏅",
         "variants": [],
         "synonyms": [
-            "螫",
             "螫"
         ],
         "definitions": [],
@@ -14107,7 +13934,6 @@
         "character": "𧏇",
         "variants": [],
         "synonyms": [
-            "蠫",
             "蠫"
         ],
         "definitions": [],
@@ -14160,8 +13986,7 @@
         "character": "𧏍",
         "variants": [],
         "synonyms": [
-            "螄",
-            "𧏍"
+            "螄"
         ],
         "definitions": [],
         "special_entries": []
@@ -14349,7 +14174,6 @@
         "character": "𧏨",
         "variants": [],
         "synonyms": [
-            "𧎵",
             "𧎵"
         ],
         "definitions": [],
@@ -14393,7 +14217,6 @@
         "character": "𧏬",
         "variants": [],
         "synonyms": [
-            "嗤",
             "嗤"
         ],
         "definitions": [],
@@ -14624,7 +14447,6 @@
         "character": "𧐇",
         "variants": [],
         "synonyms": [
-            "螱",
             "螱"
         ],
         "definitions": [],
@@ -15132,8 +14954,7 @@
         "character": "𧑅",
         "variants": [],
         "synonyms": [
-            "蚎（蚏）",
-            "蚎"
+            "蚎（蚏）"
         ],
         "definitions": [],
         "special_entries": []
@@ -15558,7 +15379,6 @@
         "character": "𧑢",
         "variants": [],
         "synonyms": [
-            "蟻",
             "蟻"
         ],
         "definitions": [],
@@ -15712,7 +15532,6 @@
         "character": "𧑮",
         "variants": [],
         "synonyms": [
-            "蠕",
             "蠕"
         ],
         "definitions": [],
@@ -15722,7 +15541,6 @@
         "character": "𧑯",
         "variants": [],
         "synonyms": [
-            "蠶",
             "蠶"
         ],
         "definitions": [],
@@ -15732,7 +15550,6 @@
         "character": "𧑰",
         "variants": [],
         "synonyms": [
-            "蟘",
             "蟘"
         ],
         "definitions": [],
@@ -15912,8 +15729,7 @@
         "character": "𧒒",
         "variants": [],
         "synonyms": [
-            "蠭（蜂）",
-            "蠭"
+            "蠭（蜂）"
         ],
         "definitions": [],
         "special_entries": []
@@ -16101,9 +15917,7 @@
         "character": "𧒤",
         "variants": [],
         "synonyms": [
-            "𧔄（蝎）",
-            "𧔄",
-            "蝎"
+            "𧔄（蝎）"
         ],
         "definitions": [],
         "special_entries": []
@@ -16112,7 +15926,6 @@
         "character": "𧒥",
         "variants": [],
         "synonyms": [
-            "螯",
             "螯"
         ],
         "definitions": [],
@@ -16218,7 +16031,6 @@
         "character": "𧒾",
         "variants": [],
         "synonyms": [
-            "蟷",
             "蟷"
         ],
         "definitions": [],
@@ -16335,7 +16147,6 @@
         "character": "𧓌",
         "variants": [],
         "synonyms": [
-            "螢",
             "螢"
         ],
         "definitions": [],
@@ -16525,7 +16336,6 @@
         "character": "𧓛",
         "variants": [],
         "synonyms": [
-            "蟥",
             "蟥"
         ],
         "definitions": [],
@@ -16766,7 +16576,6 @@
         "character": "𧓼",
         "variants": [],
         "synonyms": [
-            "蟱",
             "蟱"
         ],
         "definitions": [],
@@ -16821,7 +16630,6 @@
         "character": "𧔀",
         "variants": [],
         "synonyms": [
-            "蝡",
             "蝡"
         ],
         "definitions": [],
@@ -16899,7 +16707,6 @@
         "character": "𧔇",
         "variants": [],
         "synonyms": [
-            "蠕",
             "蠕"
         ],
         "definitions": [],
@@ -17009,8 +16816,7 @@
         "character": "𧔠",
         "variants": [],
         "synonyms": [
-            "𣟵",
-            "𧔠"
+            "𣟵"
         ],
         "definitions": [],
         "special_entries": []
@@ -17398,7 +17204,6 @@
         "character": "𧕈",
         "variants": [],
         "synonyms": [
-            "螱",
             "螱"
         ],
         "definitions": [],
@@ -17542,7 +17347,6 @@
         "character": "𧕕",
         "variants": [],
         "synonyms": [
-            "蝱",
             "蝱"
         ],
         "definitions": [],
@@ -17908,7 +17712,6 @@
         "character": "𧕹",
         "variants": [],
         "synonyms": [
-            "蠢",
             "蠢"
         ],
         "definitions": [],

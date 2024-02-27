@@ -346,14 +346,7 @@
                 "type": "multi_sound_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "《字彙》莫報切。",
-                "meanings": [
-                    "眼睛昏浊，看不清楚",
-                    "昏愦；惑乱",
-                    "年老；高龄",
-                    "年老昏乱",
-                    "守义不进",
-                    "美好"
-                ]
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -893,7 +886,6 @@
         "character": "𦓨",
         "variants": [],
         "synonyms": [
-            "耜",
             "耜"
         ],
         "definitions": [],
@@ -1330,7 +1322,6 @@
         "character": "𦔐",
         "variants": [],
         "synonyms": [
-            "耘",
             "耘"
         ],
         "definitions": [],
@@ -1507,7 +1498,6 @@
         "character": "𦔡",
         "variants": [],
         "synonyms": [
-            "耤",
             "耤"
         ],
         "definitions": [],
