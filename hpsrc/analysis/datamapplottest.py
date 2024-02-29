@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
 from sklearn.cluster import DBSCAN
+from sklearn.manifold import TSNE
 import umap
 import hdbscan
 import numpy as np
@@ -98,13 +98,13 @@ labels = dbscan.fit_predict(vectors)"""
 vectors = [item["vector"] for item in structured_data]
 vectors = np.squeeze(vectors)
 
-# 降维
-umap_reducer1 = umap.UMAP(n_neighbors=50, min_dist=0.25, n_components=100, random_state=43)
-reduced_vectors = umap_reducer1.fit_transform(vectors)
+# t-SNE降维
+tsne = TSNE(n_components=3, random_state=43)
+reduced_vectors_tsne = tsne.fit_transform(vectors)
 
-# 应用HDBSCAN算法进行聚类
-clusterer = hdbscan.HDBSCAN(min_cluster_size=34)
-labels = clusterer.fit_predict(reduced_vectors)
+# DBSCAN聚类
+dbscan = DBSCAN(eps=0.6, min_samples=30)
+labels = dbscan.fit_predict(reduced_vectors_tsne)
 #将聚类结果映射到character
 for idx, label in enumerate(labels):
     character = list(data.keys())[idx]
@@ -171,16 +171,16 @@ for radical, members in new_clusters.items():
         print(f"Error calculating centroid for radical {radical}, vectors: {vectors}")
 
 # 对部首向量进行UMAP降维
-umap_reducer = umap.UMAP(n_neighbors=120, min_dist=0.3, n_components=2, random_state=24)
-reduced_centroids = umap_reducer.fit_transform(list(centroids.values()))
+#umap_reducer = umap.UMAP(n_neighbors=120, min_dist=0.3, n_components=2, random_state=24)
+#reduced_centroids = umap_reducer.fit_transform(list(centroids.values()))
 
 # 确保 data 字典中的每个值都是一个一维数组
 for character in data:
     character_vector = [np.array(vector) if not isinstance(vector, np.ndarray) else vector for vector in data[character]]
     data[character] = np.squeeze(character_vector)
 
-# 对所有汉字向量进行UMAP降维
-all_reduced_vectors = umap_reducer.fit_transform(list(data.values()))
+# 对所有汉字向量进行t-SNE降维
+all_reduced_vectors = tsne.fit_transform(list(data.values()))
 
 # 为每个字符生成原始标签
 original_labels = []
@@ -203,9 +203,9 @@ data_map_labels['label'] = original_labels
 labels = [f"{radical}{len(new_clusters[radical])}" for radical in new_clusters.keys()]
 
 # 第二次聚类，将降维后的数据聚类为10个类
-kmeans = KMeans(n_clusters=10)
-second_labels = kmeans.fit_predict(reduced_centroids)
-second_labels = [chr(65 + label) for label in second_labels]  # 将数字标签转换为字母标签
+#kmeans = KMeans(n_clusters=10)
+#second_labels = kmeans.fit_predict(reduced_centroids)
+#second_labels = [chr(65 + label) for label in second_labels]  # 将数字标签转换为字母标签
 
 # 生成第二次聚类的标签,
 # 将每个字符的原始标签映射到第二次聚类的标签，对齐

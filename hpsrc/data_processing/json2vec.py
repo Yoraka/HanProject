@@ -4,6 +4,12 @@ import pandas as pd
 import numpy as np
 from gensim.models import keyedvectors
 import hanlp
+import re
+
+def remove_enclosed_text(sentence):
+    # 使用正则表达式匹配并去除被《》或〔〕包围的内容
+    cleaned_sentence = re.sub(r'《[^》]*》|〔[^〕]*〕', '', sentence)
+    return cleaned_sentence
 
 def load_models_and_data():
     tok = hanlp.load(hanlp.pretrained.tok.COARSE_ELECTRA_SMALL_ZH)
@@ -22,10 +28,11 @@ def get_sentence_vector(words, model):
 
 def process_meanings(meanings, tok, model, stopwords):
     cleaned_meanings = []
-    meaning = ' '.join(meanings)
-    words = tok(meaning)
-    cleaned_words = [word for word in words if word not in stopwords]
-    cleaned_meanings.append(get_sentence_vector(cleaned_words, model))
+    for meaning in meanings:
+        meaning = remove_enclosed_text(meaning)
+        words = tok(meaning)
+        cleaned_words = [word for word in words if word not in stopwords]
+        cleaned_meanings.append(get_sentence_vector(cleaned_words, model))
     return cleaned_meanings
 
 def process_json_file(json_file, tok, ft_model, stopwords):
