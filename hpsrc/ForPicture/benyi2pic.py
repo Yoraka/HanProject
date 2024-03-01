@@ -1,95 +1,119 @@
-import os
 import json
+import os
 import numpy as np
-import matplotlib.colors as mcolors
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import networkx as nx
-from sklearn.manifold import TSNE
+import time
+from matplotlib.font_manager import FontProperties
 
-def load_data(file_paths):
-    """加载数据，并为每个释义生成向量"""
-    data = []
-    all_words = set()  # 用于收集所有的单词
-    for file_path in file_paths:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            json_data = json.load(file)
-            for entry in json_data:
-                if isinstance(entry, dict):
-                    character = entry.get("character", "")  # 获取字典中的字符键值，如果不存在则使用空字符串
-                    definitions = entry.get("definitions", [])
-                    for definition in definitions:
-                        if isinstance(definition, dict):
-                            pinyin = definition.get("pinyin", "")
-                            meanings = definition.get("meanings", [])
-                            for meaning in meanings:
-                                data.append((character, pinyin, meaning, file_path))
-                                all_words.update(meaning.split())  # 更新单词集合
-    feature_names = list(all_words)  # 将集合转换为列表
-    return data, feature_names
-
-
-def calculate_vectors(data, feature_names):
-    """为每个释义计算向量"""
-    vectors = []
-    for meaning, _ in data:
-        vector = np.zeros(len(feature_names))
-        for word in meaning.split():
-            if word in feature_names:
-                vector[feature_names.index(word)] += 1
-        vectors.append(vector)
-    return np.array(vectors)
+# 设置字体为支持中文的字体
+font_path = "C:/Windows/Fonts/MSYH.TTC"
+chinese_font = FontProperties(fname=font_path)
 
 def reduce_dimensions(vectors, n_components=2, random_state=None):
-    """使用TSNE降维"""
     tsne = TSNE(n_components=n_components, random_state=random_state)
     reduced_vectors = tsne.fit_transform(vectors)
     return reduced_vectors
 
-def plot_graph(vectors, labels, file_paths):
-    """绘制图形，不包含边"""
-    # 为每个文件创建颜色映射
-    colors = ['red', 'green', 'blue', 'orange', 'purple']
-    color_map = {file_path: color for file_path, color in zip(file_paths, colors)}
+def load_vectors_and_meanings(json_file):
+    vectors = []
+    meanings = []
+    with open(json_file, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        for entry in data:
+            for definition in entry['definitions']:
+                for meaning, vec in zip(definition['meanings'], definition['vec']):
+                    vectors.append(np.array(vec.split(','), dtype=float))
+                    meanings.append(f"{entry['character']}: {meaning}")
+    return np.array(vectors), meanings
 
-    # 根据其标签为每个向量创建颜色列表
-    vector_colors = [color_map[label] for label in labels]
 
-    # 调整颜色的透明度
-    vector_colors = [(mcolors.to_rgba(color)[:3] + (0.5,)) for color in vector_colors]
 
-    # 创建网络图
+def plot_graph(vectors, labels, meanings):
     G = nx.Graph()
-
-    # 添加节点及其属性
     for i, vector in enumerate(vectors):
-        G.add_node(i, pos=vector, label=labels[i], color=vector_colors[i])
+        G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
 
-    # 不绘制边地绘制图形
-    nx.draw(G, nx.get_node_attributes(G, 'pos'), with_labels=False, node_color=[data['color'] for _, data in G.nodes(data=True)], node_size=50)
+    pos = nx.get_node_attributes(G, 'pos')
+    fig, ax = plt.subplots()
+    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=80)
+
+    annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
+                        bbox=dict(boxstyle="round", fc="w"),
+                        arrowprops=dict(arrowstyle="->"))
+    annot.set_visible(False)
+
+    def update_annot(node):
+        x, y = pos[node]
+        annot.xy = (x, y)
+        text = G.nodes[node]['label']
+        annot.set_text(text)
+        annot.get_bbox_patch().set_alpha(0.4)
+        annot.set_fontproperties(chinese_font)
+
+    def hover(event):
+        vis = annot.get_visible()
+        if event.inaxes == ax:
+            for node in G.nodes:
+                cont = G.nodes[node]['label']
+                if cont and ax.contains_point((event.x, event.y)):
+                    update_annot(node)
+                    annot.set_visible(True)
+                    fig.canvas.draw_idle()
+                    return
+        if vis:
+            annot.set_visible(False)
+            fig.canvas.draw_idle()
+
+    fig.canvas.mpl_connect("motion_notify_event", hover)
     plt.show()
 
-
 def main():
-    file_paths = [
-        'output\_五大类25小类json\_本义json\_口_本义.json',
-        'output\_五大类25小类json\_本义json\_欠_本义.json',
-        'output\_五大类25小类json\_本义json\_人_本义.json',
-        'output\_五大类25小类json\_本义json\_心_本义.json',
-        'output\_五大类25小类json\_本义json\_言_本义.json'
-    ]
+    start_time = time.time()
+    json_directory = 'output/_五大类25小类json/_本义json'
+    color_mapping = {
+        'kou': 'red',
+        'qian': 'green',
+        'ren': 'blue',
+        'xin': 'orange',
+        'yan': 'purple'
+    }
 
-    data, feature_names = load_data(file_paths)
+    all_vectors = []
+    all_labels = []
+    all_meanings = []
 
-    # 假设我们已经有了一个特征名称列表
-    if not feature_names:
-        feature_names = [...]  # 需要填充这个列表
+    for json_file in os.listdir(json_directory):
+     if json_file.endswith('.json'):
+        json_path = os.path.join(json_directory, json_file)
+        prefix = json_file.split('_')[0]  # Extract prefix from filename
+        color = color_mapping.get(prefix, 'gray')  # Default to gray if prefix not found in mapping
+        vectors, meanings = load_vectors_and_meanings(json_path)
+        all_vectors.append(vectors)
+        all_labels.extend([color] * len(vectors))
+        all_meanings.extend(meanings)
 
-    vectors = calculate_vectors(data, feature_names)
+
+    print("Loading vectors completed.")
+    load_end = time.time()
+    print(f"Loading vectors took {load_end - start_time} seconds.")
+
+    print("Reducing dimensions...")
+    reduction_start = time.time()
+    vectors = np.concatenate(all_vectors, axis=0)
     reduced_vectors = reduce_dimensions(vectors)
+    reduction_end = time.time()
+    print(f"Dimensionality reduction took {reduction_end - reduction_start} seconds.")
 
-    labels = [label for _, _, _, label in data]
+    print("Plotting graph...")
+    plot_start = time.time()
+    plot_graph(reduced_vectors, all_labels, all_meanings)
+    plot_end = time.time()
+    print(f"Plotting took {plot_end - plot_start} seconds.")
 
-    plot_graph(reduced_vectors, labels, file_paths)
+    end_time = time.time()
+    print(f"Total program runtime: {end_time - start_time} seconds.")
 
 if __name__ == '__main__':
     main()

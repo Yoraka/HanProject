@@ -13,7 +13,7 @@ def extract_info(json_file, output_file):
     for entry in data:
         character = entry["character"]
         pinyin_info = []
-        for definition in entry["definitions"]:
+        for definition in entry["pinyins"]:
             pinyin = definition.get("pinyin", None)
             if pinyin and definition["meanings"]:
                 meaning = definition["meanings"][0]
@@ -28,7 +28,7 @@ def extract_info(json_file, output_file):
 
 def main():
     # 指定特定路径和其他参数
-    specific_path = "output"
+    specific_path = "output/_五大类json"
     new_folder_name = "_本义json"
     new_folder_path = os.path.join(specific_path, new_folder_name)
     os.makedirs(new_folder_path, exist_ok=True)
