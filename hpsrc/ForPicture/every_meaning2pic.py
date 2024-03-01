@@ -20,6 +20,14 @@ def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100)
 import numpy as np
 
 def load_vectors_and_meanings(json_path):
+   
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except json.JSONDecodeError:
+        print(f"Error reading or parsing {json_path}")
+        return [], []
+
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
@@ -89,49 +97,57 @@ def plot_graph(vectors, labels, meanings):
 
 def main():
     start_time = time.time()
-    json_directory = 'output\五大类json'
-    color_mapping = {
-        'kou': 'red',
-        'qian': 'green',
-        'ren': 'blue',
-        'xin': 'orange',
-        'yan': 'purple'
-    }
+    json_directory = 'output/_五大类25小类json'
+    
+    # 生成从'一'到'龥'的前缀列表
+    prefixes = [chr(i) for i in range(ord('一'), ord('龥')+1)]
+    
+    # 生成颜色列表，重复5次以满足需求
+    colors = ['red', 'green', 'blue', 'orange', 'purple'] * 5  
+    
+    # 创建从前缀到颜色的映射
+    color_mapping = dict(zip(prefixes, colors))  
 
     all_vectors = []
     all_labels = []
     all_meanings = []
 
-    for json_file in os.listdir(json_directory):
-     if json_file.endswith('.json'):
-        json_path = os.path.join(json_directory, json_file)
-        prefix = json_file.split('_')[0]  # Extract prefix from filename
-        color = color_mapping.get(prefix, 'gray')  # Default to gray if prefix not found in mapping
-        vectors, meanings = load_vectors_and_meanings(json_path)
-        all_vectors.append(vectors)
-        all_labels.extend([color] * len(vectors))
-        all_meanings.extend(meanings)
+    # 遍历json_directory及其所有子目录，并处理所有的JSON文件
+    for root, dirs, files in os.walk(json_directory):
+        for file in files:
+            if file.endswith('.json'):
+                json_path = os.path.join(root, file)
+                
+                # 从文件名提取前缀，这里取的是第二个字符
+                prefix = file[1]  
+                
+                # 查找颜色映射，如果前缀未在映射中找到，则默认为灰色
+                color = color_mapping.get(prefix, 'gray')  
+                
+                vectors, meanings = load_vectors_and_meanings(json_path)
+                all_vectors.append(vectors)
+                all_labels.extend([color] * len(vectors))
+                all_meanings.extend(meanings)
 
-
-    print("Loading vectors completed.")
+    print("完成向量加载。")
     load_end = time.time()
-    print(f"Loading vectors took {load_end - start_time} seconds.")
+    print(f"加载向量耗时 {load_end - start_time} 秒。")
 
-    print("Reducing dimensions...")
+    print("正在降维...")
     reduction_start = time.time()
     vectors = np.concatenate(all_vectors, axis=0)
     reduced_vectors = reduce_dimensions(vectors)
     reduction_end = time.time()
-    print(f"Dimensionality reduction took {reduction_end - reduction_start} seconds.")
+    print(f"降维耗时 {reduction_end - reduction_start} 秒。")
 
-    print("Plotting graph...")
+    print("正在绘制图形...")
     plot_start = time.time()
     plot_graph(reduced_vectors, all_labels, all_meanings)
     plot_end = time.time()
-    print(f"Plotting took {plot_end - plot_start} seconds.")
+    print(f"绘图耗时 {plot_end - plot_start} 秒。")
 
     end_time = time.time()
-    print(f"Total program runtime: {end_time - start_time} seconds.")
+    print(f"程序总运行时间： {end_time - start_time} 秒。")
 
 if __name__ == '__main__':
     main()
