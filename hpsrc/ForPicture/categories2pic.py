@@ -1,52 +1,55 @@
+import json
 import os
-import pandas as pd
 import numpy as np
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import networkx as nx
-from sklearn.manifold import TSNE
-import matplotlib.colors as mcolors
-from scipy.spatial.distance import cosine
+import time
+from matplotlib.font_manager import FontProperties
+import matplotlib.path as mpath
 
-def reduce_dimensions(vectors, method='tsne', n_components=2, random_state=None):
-    if method == 'tsne':
-        tsne = TSNE(n_components=n_components, random_state=random_state)
-        reduced_vectors = tsne.fit_transform(vectors)
-    else:
-        raise ValueError("Unsupported dimensionality reduction method: {}".format(method))
+
+# 设置字体为支持中文的字体
+font_path = "C:/Windows/Fonts/MSYH.TTC"
+chinese_font = FontProperties(fname=font_path)
+
+def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100):
+    tsne = TSNE(n_components=n_components, random_state=random_state,perplexity=perplexity)
+    reduced_vectors = tsne.fit_transform(vectors)
     return reduced_vectors
+import numpy as np
 
-def load_vectors_from_csv(file_paths):
-    """加载向量数据从 CSV 文件"""
-    data = []
-    for file_path in file_paths:
-        df = pd.read_csv(file_path)
-        vectors = df.to_numpy()
-        data.append(vectors)
-    return np.concatenate(data, axis=0)
+def load_vectors_and_meanings(json_path):
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-def plot_graph(vectors, labels, file_paths, meanings):
-    """绘制图形，鼠标悬停时显示节点标签"""
-    # 为每个文件创建颜色映射
-    colors = ['red', 'green', 'blue', 'orange', 'purple']
-    color_map = {file_path: color for file_path, color in zip(file_paths, colors)}
+    vectors = []
+    display_texts = []
+    for item in data:
+        character = item['character']
+        for definition in item['definitions']:
+            meanings = definition['meanings']
+            vec_strs = definition['vec']
+            for meaning, vec_str in zip(meanings, vec_strs):
+                display_text = f"{character}:{meaning}"
+                display_texts.append(display_text)
+                vec = [float(x) for x in vec_str.split(',')]
+                vectors.append(vec)
 
-    # 根据其标签为每个向量创建颜色列表
-    vector_colors = [color_map[label] for label in labels]
-    # 调整颜色的透明度
-    vector_colors = [(mcolors.to_rgba(color)[:3] + (0.25,)) for color in vector_colors]
-    # 创建网络图
+    # Convert list of lists to a numpy array
+    vectors = np.array(vectors)
+
+    return vectors, display_texts
+
+def plot_graph(vectors, labels, meanings):
     G = nx.Graph()
-
-    # 添加节点及其属性
     for i, vector in enumerate(vectors):
-        G.add_node(i, pos=vector, label=meanings[i], color=vector_colors[i])
+        G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
 
-    # 绘制图形，不包含节点标签
     pos = nx.get_node_attributes(G, 'pos')
-    fig, ax = plt.subplots()  # 创建一个新的图形窗口
-    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[data['color'] for _, data in G.nodes(data=True)], node_size=50)
+    fig, ax = plt.subplots(figsize=(50, 50))
+    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=10)
 
-    # 为每个节点添加交互式注释
     annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
                         bbox=dict(boxstyle="round", fc="w"),
                         arrowprops=dict(arrowstyle="->"))
@@ -55,51 +58,87 @@ def plot_graph(vectors, labels, file_paths, meanings):
     def update_annot(node):
         x, y = pos[node]
         annot.xy = (x, y)
-        text = f"{G.nodes[node]['label']}"
+        text = G.nodes[node]['label']
         annot.set_text(text)
         annot.get_bbox_patch().set_alpha(0.4)
+        annot.set_fontproperties(chinese_font)
+        annot.set_position((0,10))  # Change this to control the position of the annotation box
+        print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
 
     def hover(event):
         vis = annot.get_visible()
         if event.inaxes == ax:
+            print('Hovering')  # For debugging
             for node in G.nodes:
-                cont, ind = G.nodes[node]['label'], None
-                if cont:
+                x, y = pos[node]
+                dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
+                if dist < 1:  # Adjust this value as needed
                     update_annot(node)
                     annot.set_visible(True)
                     fig.canvas.draw_idle()
                     return
-        if vis:
-            annot.set_visible(False)
-            fig.canvas.draw_idle()
+                if vis:
+                    annot.set_visible(False)
+                    fig.canvas.draw_idle()
+
 
     fig.canvas.mpl_connect("motion_notify_event", hover)
-
+    fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
 
 
 def main():
-    base_directory = 'output/vec_for_pic'
-    subdirectories = [os.path.join(base_directory, subdir) for subdir in os.listdir(base_directory) if os.path.isdir(os.path.join(base_directory, subdir))]
-    colors = ['red', 'green', 'blue', 'orange', 'purple']  # 为每个子文件夹分配一个颜色
-    # 为每个子目录创建颜色映射
-    color_map = {subdir: colors[idx] for idx, subdir in enumerate(subdirectories)}
-    assert len(subdirectories) <= len(colors), "Number of subdirectories exceeds number of available colors."
+    start_time = time.time()
+    json_directory = 'output\_五大类25小类json'
+    
+    # 创建从子文件夹名到颜色的映射
+    color_mapping = {
+        'benyi_json': 'red',
+        'cixing_json': 'green',
+        'tongjia_json': 'blue',
+        'yinshen_json': 'orange',
+        'zhuanyong_json': 'purple'
+    }
 
-    vectors = []
-    labels = []
-    meanings = []
-    for idx, subdir in enumerate(subdirectories):
-        file_paths = [os.path.join(subdir, file) for file in os.listdir(subdir) if file.endswith('.csv')]
-        subdir_vectors = load_vectors_from_csv(file_paths)
-        vectors.append(subdir_vectors)
-        labels.extend([subdir] * len(subdir_vectors))  # Use subdir as the label instead of color
-        meanings.extend([os.path.basename(file).replace('vec_for_pic.csv', '') for file in file_paths for _ in range(len(pd.read_csv(file)))])
+    all_vectors = []
+    all_labels = []
+    all_meanings = []
 
-    vectors = np.concatenate(vectors, axis=0)
-    reduced_vectors = reduce_dimensions(vectors, method='tsne')
+    # 遍历json_directory及其所有子目录，并处理所有的JSON文件
+    for root, dirs, files in os.walk(json_directory):
+        for file in files:
+            if file.endswith('.json'):
+                json_path = os.path.join(root, file)
+                
+                # 根据当前子文件夹的名称来决定颜色
+                folder_name = os.path.basename(root)
+                color = color_mapping.get(folder_name, 'gray')  # 默认为灰色，如果子文件夹名未在映射中找到
+                
+                vectors, meanings = load_vectors_and_meanings(json_path)
+                all_vectors.append(vectors)
+                all_labels.extend([color] * len(vectors))
+                all_meanings.extend(meanings)
 
-    plot_graph(reduced_vectors, labels, color_map, meanings)
+    print("完成向量加载。")
+    load_end = time.time()
+    print(f"加载向量耗时 {load_end - start_time} 秒。")
+
+    print("正在降维...")
+    reduction_start = time.time()
+    vectors = np.concatenate(all_vectors, axis=0)
+    reduced_vectors = reduce_dimensions(vectors)
+    reduction_end = time.time()
+    print(f"降维耗时 {reduction_end - reduction_start} 秒。")
+
+    print("正在绘制图形...")
+    plot_start = time.time()
+    plot_graph(reduced_vectors, all_labels, all_meanings)
+    plot_end = time.time()
+    print(f"绘图耗时 {plot_end - plot_start} 秒。")
+
+    end_time = time.time()
+    print(f"程序总运行时间： {end_time - start_time} 秒。")
 
 if __name__ == '__main__':
     main()
+
