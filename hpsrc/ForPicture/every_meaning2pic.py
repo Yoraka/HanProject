@@ -97,10 +97,10 @@ def plot_graph(vectors, labels, meanings):
 
 def main():
     start_time = time.time()
-    json_directory = 'output/_五大类25小类json'
+    json_directory = 'output\_五大类25小类json'
     
-    # 生成从'一'到'龥'的前缀列表
-    prefixes = [chr(i) for i in range(ord('一'), ord('龥')+1)]
+    # 生成从'a'到'z'的前缀列表
+    prefixes = [chr(i) for i in range(ord('a'), ord('z')+1)]
     
     # 生成颜色列表，重复5次以满足需求
     colors = ['red', 'green', 'blue', 'orange', 'purple'] * 5  
@@ -118,8 +118,8 @@ def main():
             if file.endswith('.json'):
                 json_path = os.path.join(root, file)
                 
-                # 从文件名提取前缀，这里取的是第二个字符
-                prefix = file[1]  
+                # 从文件名提取前缀，这里取的是第一个字符
+                prefix = file[0]  
                 
                 # 查找颜色映射，如果前缀未在映射中找到，则默认为灰色
                 color = color_mapping.get(prefix, 'gray')  

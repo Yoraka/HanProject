@@ -113,25 +113,25 @@ def main():
         all_meanings.extend(meanings)
 
 
-    print("Loading vectors completed.")
+    print("完成向量加载。")
     load_end = time.time()
-    print(f"Loading vectors took {load_end - start_time} seconds.")
+    print(f"加载向量耗时 {load_end - start_time} 秒。")
 
-    print("Reducing dimensions...")
+    print("正在降维...")
     reduction_start = time.time()
     vectors = np.concatenate(all_vectors, axis=0)
     reduced_vectors = reduce_dimensions(vectors)
     reduction_end = time.time()
-    print(f"Dimensionality reduction took {reduction_end - reduction_start} seconds.")
+    print(f"降维耗时 {reduction_end - reduction_start} 秒。")
 
-    print("Plotting graph...")
+    print("正在绘制图形...")
     plot_start = time.time()
     plot_graph(reduced_vectors, all_labels, all_meanings)
     plot_end = time.time()
-    print(f"Plotting took {plot_end - plot_start} seconds.")
+    print(f"绘图耗时 {plot_end - plot_start} 秒。")
 
     end_time = time.time()
-    print(f"Total program runtime: {end_time - start_time} seconds.")
+    print(f"程序总运行时间： {end_time - start_time} 秒。")
 
 if __name__ == '__main__':
     main()
