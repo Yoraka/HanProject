@@ -6,29 +6,40 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import time
 from matplotlib.font_manager import FontProperties
+import matplotlib.path as mpath
+
 
 # 设置字体为支持中文的字体
 font_path = "C:/Windows/Fonts/MSYH.TTC"
 chinese_font = FontProperties(fname=font_path)
 
-def reduce_dimensions(vectors, n_components=2, random_state=None):
-    tsne = TSNE(n_components=n_components, random_state=random_state)
+def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100):
+    tsne = TSNE(n_components=n_components, random_state=random_state,perplexity=perplexity)
     reduced_vectors = tsne.fit_transform(vectors)
     return reduced_vectors
+import numpy as np
 
-def load_vectors_and_meanings(json_file):
+def load_vectors_and_meanings(json_path):
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
     vectors = []
-    meanings = []
-    with open(json_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-        for entry in data:
-            for definition in entry['definitions']:
-                for meaning, vec in zip(definition['meanings'], definition['vec']):
-                    vectors.append(np.array(vec.split(','), dtype=float))
-                    meanings.append(f"{entry['character']}: {meaning}")
-    return np.array(vectors), meanings
+    display_texts = []
+    for item in data:
+        character = item['character']
+        for definition in item['definitions']:
+            meanings = definition['meanings']
+            vec_strs = definition['vec']
+            for meaning, vec_str in zip(meanings, vec_strs):
+                display_text = f"{character}:{meaning}"
+                display_texts.append(display_text)
+                vec = [float(x) for x in vec_str.split(',')]
+                vectors.append(vec)
 
+    # Convert list of lists to a numpy array
+    vectors = np.array(vectors)
 
+    return vectors, display_texts
 
 def plot_graph(vectors, labels, meanings):
     G = nx.Graph()
@@ -36,8 +47,8 @@ def plot_graph(vectors, labels, meanings):
         G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
 
     pos = nx.get_node_attributes(G, 'pos')
-    fig, ax = plt.subplots()
-    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=80)
+    fig, ax = plt.subplots(figsize=(50, 50))
+    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=10)
 
     annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
                         bbox=dict(boxstyle="round", fc="w"),
@@ -51,23 +62,30 @@ def plot_graph(vectors, labels, meanings):
         annot.set_text(text)
         annot.get_bbox_patch().set_alpha(0.4)
         annot.set_fontproperties(chinese_font)
+        annot.set_position((0,10))  # Change this to control the position of the annotation box
+        print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
 
     def hover(event):
         vis = annot.get_visible()
         if event.inaxes == ax:
+            print('Hovering')  # For debugging
             for node in G.nodes:
-                cont = G.nodes[node]['label']
-                if cont and ax.contains_point((event.x, event.y)):
+                x, y = pos[node]
+                dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
+                if dist < 1:  # Adjust this value as needed
                     update_annot(node)
                     annot.set_visible(True)
                     fig.canvas.draw_idle()
                     return
-        if vis:
-            annot.set_visible(False)
-            fig.canvas.draw_idle()
+                if vis:
+                    annot.set_visible(False)
+                    fig.canvas.draw_idle()
+
 
     fig.canvas.mpl_connect("motion_notify_event", hover)
+    fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
+
 
 def main():
     start_time = time.time()
