@@ -89,15 +89,15 @@ def plot_graph(vectors, labels, meanings):
 
 def main():
     start_time = time.time()
-    json_directory = 'output\_五大类25小类json'
+    json_directory = 'output\_五大类25小类json_with_vec'
     
     # 创建从子文件夹名到颜色的映射
     color_mapping = {
-        'benyi_json': 'red',
-        'cixing_json': 'green',
-        'tongjia_json': 'blue',
-        'yinshen_json': 'orange',
-        'zhuanyong_json': 'purple'
+        'benyi_json_with_vec': 'red',
+        'cixing_json_with_vec': 'green',
+        'tongjia_json_with_vec': 'blue',
+        'yinshen_json_with_vec': 'orange',
+        'zhuanyong_json_with_vec': 'purple'
     }
 
     all_vectors = []

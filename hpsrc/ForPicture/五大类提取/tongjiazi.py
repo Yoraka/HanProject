@@ -35,10 +35,10 @@ def extract_info(json_file, output_file, keywords):
 
 def main():
     # 指定特定路径
-    specific_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), "output/_五大类json")
+    specific_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), "output/_五大类25小类json")
 
     # 在特定路径中创建新文件夹
-    new_folder_name = "_通假字json"
+    new_folder_name = "tongjia_json"
     new_folder_path = os.path.join(specific_path, new_folder_name)
     os.makedirs(new_folder_path, exist_ok=True)
 
@@ -47,11 +47,11 @@ def main():
 
     # 定义JSON文件和输出文件名的映射
     files_mapping = {
-        'a9_⼈部.json': '_人_通假字.json',
-        'a30_⼝部.json': '_口_通假字.json',
-        'a61_⼼部.json': '_心_通假字.json',
-        'a76_⽋部.json': '_欠_通假字.json',
-        'a149_⾔部.json': '_言_通假字.json'
+        'a9_⼈部.json': 'ren_通假字.json',
+        'a30_⼝部.json': 'kou_通假字.json',
+        'a61_⼼部.json': 'xin_通假字.json',
+        'a76_⽋部.json': 'qian_通假字.json',
+        'a149_⾔部.json': 'yan_通假字.json'
     }
 
     # 提取并保存信息

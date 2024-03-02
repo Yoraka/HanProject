@@ -38,8 +38,8 @@ def extract_info(json_file, output_file, keywords, exclude_keywords, end_keyword
 
 def main():
     # 指定特定路径和其他参数
-    specific_path = "output/_五大类json"
-    new_folder_name = "_词性json"
+    specific_path = "output/_五大类25小类json"
+    new_folder_name = "cixing_json"
     new_folder_path = os.path.join(specific_path, new_folder_name)
     os.makedirs(new_folder_path, exist_ok=True)
 
@@ -50,11 +50,11 @@ def main():
 
     # 定义JSON文件和输出文件名的映射
     files_mapping = {
-        'a9_⼈部.json': '_人_词性.json',
-        'a30_⼝部.json': '_口_词性.json',
-        'a61_⼼部.json': '_心_词性.json',
-        'a76_⽋部.json': '_欠_词性.json',
-        'a149_⾔部.json': '_言_词性.json'
+        'a9_⼈部.json': 'ren_词性.json',
+        'a30_⼝部.json': 'kou_词性.json',
+        'a61_⼼部.json': 'xin_词性.json',
+        'a76_⽋部.json': 'qian_词性.json',
+        'a149_⾔部.json': 'yan_词性.json'
     }
 
     # 提取并保存信息

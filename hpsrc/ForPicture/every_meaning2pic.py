@@ -97,7 +97,7 @@ def plot_graph(vectors, labels, meanings):
 
 def main():
     start_time = time.time()
-    json_directory = 'output\_五大类25小类json'
+    json_directory = 'output\_五大类25小类json_with_vec'
     
     # 生成从'a'到'z'的前缀列表
     prefixes = [chr(i) for i in range(ord('a'), ord('z')+1)]
