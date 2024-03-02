@@ -1,0 +1,7076 @@
+{
+    "definitions": [
+        {
+            "character": "䚮",
+            "pinyins": [
+                {
+                    "pinyin": "réng",
+                    "meanings": [
+                        "厚"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚳",
+            "pinyins": [
+                {
+                    "pinyin": "zhì",
+                    "meanings": [
+                        "不知"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚴",
+            "pinyins": [
+                {
+                    "pinyin": "wà",
+                    "meanings": [
+                        "怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚵",
+            "pinyins": [
+                {
+                    "pinyin": "䚵tǒu",
+                    "meanings": [
+                        "引诱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚶",
+            "pinyins": [
+                {
+                    "pinyin": "䚶tiān",
+                    "meanings": [
+                        "大声呵斥"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚷",
+            "pinyins": [
+                {
+                    "pinyin": "yī",
+                    "meanings": [
+                        "诚言"
+                    ]
+                },
+                {
+                    "pinyin": "yǐ",
+                    "meanings": [
+                        "应答声"
+                    ]
+                },
+                {
+                    "pinyin": "xì",
+                    "meanings": [
+                        "戏谑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚸",
+            "pinyins": [
+                {
+                    "pinyin": "䚸xiè",
+                    "meanings": [
+                        "言善"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚻",
+            "pinyins": [
+                {
+                    "pinyin": "yóu",
+                    "meanings": [
+                        "从"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚽",
+            "pinyins": [
+                {
+                    "pinyin": "䚽hào",
+                    "meanings": [
+                        "消息，音信"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䚿",
+            "pinyins": [
+                {
+                    "pinyin": "yìn",
+                    "meanings": [
+                        "啼不止"
+                    ]
+                },
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "欠而言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛀",
+            "pinyins": [
+                {
+                    "pinyin": "fǎn",
+                    "meanings": [
+                        "权言合道"
+                    ]
+                },
+                {
+                    "pinyin": "fàn",
+                    "meanings": [
+                        "詉"
+                    ]
+                },
+                {
+                    "pinyin": "bàn",
+                    "meanings": [
+                        "〔䛀諺〕自矜"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛁",
+            "pinyins": [
+                {
+                    "pinyin": "nán",
+                    "meanings": [
+                        "〔䛁䛁〕低语声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛃",
+            "pinyins": [
+                {
+                    "pinyin": "䛃wàn",
+                    "meanings": [
+                        "人名用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛄",
+            "pinyins": [
+                {
+                    "pinyin": "yuǎn",
+                    "meanings": [
+                        "安慰"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛅",
+            "pinyins": [
+                {
+                    "pinyin": "䛅xiá",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛈",
+            "pinyins": [
+                {
+                    "pinyin": "䛈shì",
+                    "meanings": [
+                        "䛈志，发誓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛉",
+            "pinyins": [
+                {
+                    "pinyin": "䛉miàn",
+                    "meanings": [
+                        "诱言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛊",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "喜笑不止貌"
+                    ]
+                },
+                {
+                    "pinyin": "zhī",
+                    "meanings": [
+                        "谓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛋",
+            "pinyins": [
+                {
+                    "pinyin": "䛋jì",
+                    "meanings": [
+                        "谋"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛌",
+            "pinyins": [
+                {
+                    "pinyin": "páo",
+                    "meanings": [
+                        "〔䛌䜊〕乱语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛍",
+            "pinyins": [
+                {
+                    "pinyin": "fèi",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛎",
+            "pinyins": [
+                {
+                    "pinyin": "䛎xuè",
+                    "meanings": [
+                        "怒呵"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛏",
+            "pinyins": [
+                {
+                    "pinyin": "ní",
+                    "meanings": [
+                        "呼人"
+                    ]
+                },
+                {
+                    "pinyin": "nǐ",
+                    "meanings": [
+                        "言以示人"
+                    ]
+                },
+                {
+                    "pinyin": "nì",
+                    "meanings": [
+                        "言不通"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛔",
+            "pinyins": [
+                {
+                    "pinyin": "ná",
+                    "meanings": [
+                        "拿"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛗",
+            "pinyins": [
+                {
+                    "pinyin": "zhǐ",
+                    "meanings": [
+                        "斥责别人的过失；揭发别人的隐私"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛘",
+            "pinyins": [
+                {
+                    "pinyin": "rén",
+                    "meanings": [
+                        "信"
+                    ]
+                },
+                {
+                    "pinyin": "nín",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛙",
+            "pinyins": [
+                {
+                    "pinyin": "䛙xù",
+                    "meanings": [
+                        "〔䜡䛙〕闻香貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛚",
+            "pinyins": [
+                {
+                    "pinyin": "䛚lüè",
+                    "meanings": [
+                        "赞美"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛝",
+            "pinyins": [
+                {
+                    "pinyin": "náo",
+                    "meanings": [
+                        "欢喜"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛞",
+            "pinyins": [
+                {
+                    "pinyin": "hàn",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛠",
+            "pinyins": [
+                {
+                    "pinyin": "䛠dòu",
+                    "meanings": [
+                        "〔䛠譳〕不能言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛢",
+            "pinyins": [
+                {
+                    "pinyin": "䛢tū",
+                    "meanings": [
+                        "〔詆䛢〕狡猾"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛣",
+            "pinyins": [
+                {
+                    "pinyin": "pīng",
+                    "meanings": [
+                        "言"
+                    ]
+                },
+                {
+                    "pinyin": "chōu",
+                    "meanings": [
+                        "〔䛣譠〕不决"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛤",
+            "pinyins": [
+                {
+                    "pinyin": "cù",
+                    "meanings": [
+                        "心急促"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛥",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "〔䛥䛥〕语"
+                    ]
+                },
+                {
+                    "pinyin": "xì",
+                    "meanings": [
+                        "语气"
+                    ]
+                },
+                {
+                    "pinyin": "xīn",
+                    "meanings": [
+                        "大语；大言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛩",
+            "pinyins": [
+                {
+                    "pinyin": "wù",
+                    "meanings": [
+                        "说人坏话"
+                    ]
+                },
+                {
+                    "pinyin": "qià",
+                    "meanings": [
+                        "〔䛩訝〕言不正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛪",
+            "pinyins": [
+                {
+                    "pinyin": "qióng",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛫",
+            "pinyins": [
+                {
+                    "pinyin": "zhāng",
+                    "meanings": [
+                        "〔譸䛫〕也作“譸張”"
+                    ]
+                },
+                {
+                    "pinyin": "zhèng",
+                    "meanings": [
+                        "𧩗人名用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛬",
+            "pinyins": [
+                {
+                    "pinyin": "táo",
+                    "meanings": [
+                        "往来言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛭",
+            "pinyins": [
+                {
+                    "pinyin": "䛭xìng",
+                    "meanings": [
+                        "言"
+                    ]
+                },
+                {
+                    "pinyin": "䛭xìng",
+                    "meanings": [
+                        "言狠"
+                    ]
+                },
+                {
+                    "pinyin": "xìng",
+                    "meanings": [
+                        "言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛮",
+            "pinyins": [
+                {
+                    "pinyin": "jiù",
+                    "meanings": [
+                        "毁"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛯",
+            "pinyins": [
+                {
+                    "pinyin": "䛯jù",
+                    "meanings": [
+                        "言有则"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛰",
+            "pinyins": [
+                {
+                    "pinyin": "hùn",
+                    "meanings": [
+                        "谋䛰"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛱",
+            "pinyins": [
+                {
+                    "pinyin": "䛱tí",
+                    "meanings": [
+                        "《類篇》徒私切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛳",
+            "pinyins": [
+                {
+                    "pinyin": "yàn",
+                    "meanings": [
+                        "诬谤"
+                    ]
+                },
+                {
+                    "pinyin": "yān",
+                    "meanings": [
+                        "〔䛳消〕克当"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛴",
+            "pinyins": [
+                {
+                    "pinyin": "jī",
+                    "meanings": [
+                        "语相戏"
+                    ]
+                },
+                {
+                    "pinyin": "qǐ",
+                    "meanings": [
+                        "妄语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛷",
+            "pinyins": [
+                {
+                    "pinyin": "wǎn",
+                    "meanings": [
+                        "慰"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛹",
+            "pinyins": [
+                {
+                    "pinyin": "qiàn",
+                    "meanings": [
+                        "䛹散"
+                    ]
+                },
+                {
+                    "pinyin": "xuàn",
+                    "meanings": [
+                        "相责；指责"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛽",
+            "pinyins": [
+                {
+                    "pinyin": "zhǎ",
+                    "meanings": [
+                        "〔䜞䛽〕多言"
+                    ]
+                },
+                {
+                    "pinyin": "chā",
+                    "meanings": [
+                        "儳言，插话"
+                    ]
+                },
+                {
+                    "pinyin": "shà",
+                    "meanings": [
+                        "〔䛽𧬬〕言不定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䛿",
+            "pinyins": [
+                {
+                    "pinyin": "gé",
+                    "meanings": [
+                        "慧；狡猾"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜃",
+            "pinyins": [
+                {
+                    "pinyin": "duī",
+                    "meanings": [
+                        "谪"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜅",
+            "pinyins": [
+                {
+                    "pinyin": "wéi",
+                    "meanings": [
+                        "就；依就"
+                    ]
+                },
+                {
+                    "pinyin": "chuī",
+                    "meanings": [
+                        "责；指斥"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜆",
+            "pinyins": [
+                {
+                    "pinyin": "zhé",
+                    "meanings": [
+                        "言疾"
+                    ]
+                },
+                {
+                    "pinyin": "mò",
+                    "meanings": [
+                        "以大对小之言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜊",
+            "pinyins": [
+                {
+                    "pinyin": "zāo",
+                    "meanings": [
+                        "〔䛌䜊〕见“䛌”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜋",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "中止"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜍",
+            "pinyins": [
+                {
+                    "pinyin": "䜍liáo",
+                    "meanings": [
+                        "〔䜍讈〕1.巧言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜎",
+            "pinyins": [
+                {
+                    "pinyin": "láo",
+                    "meanings": [
+                        "声"
+                    ]
+                },
+                {
+                    "pinyin": "lào",
+                    "meanings": [
+                        "声多"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜏",
+            "pinyins": [
+                {
+                    "pinyin": "tuō",
+                    "meanings": [
+                        "退言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜐",
+            "pinyins": [
+                {
+                    "pinyin": "huī",
+                    "meanings": [
+                        "毁谤"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜒",
+            "pinyins": [
+                {
+                    "pinyin": "ào",
+                    "meanings": [
+                        "语；告"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜓",
+            "pinyins": [
+                {
+                    "pinyin": "䜓shè",
+                    "meanings": [
+                        "〔讋䜓〕言失"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜔",
+            "pinyins": [
+                {
+                    "pinyin": "䜔suí",
+                    "meanings": [
+                        "顺着他人的意思说话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜕",
+            "pinyins": [
+                {
+                    "pinyin": "mài",
+                    "meanings": [
+                        "夸大"
+                    ]
+                },
+                {
+                    "pinyin": "hài",
+                    "meanings": [
+                        "〔譀䜕〕争骂怒貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜗",
+            "pinyins": [
+                {
+                    "pinyin": "xìn",
+                    "meanings": [
+                        "〔䜗𧥸〕怒言"
+                    ]
+                },
+                {
+                    "pinyin": "hàn",
+                    "meanings": [
+                        "〔𧫿䜗〕见“𧫿”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜙",
+            "pinyins": [
+                {
+                    "pinyin": "án",
+                    "meanings": [
+                        "不慧"
+                    ]
+                },
+                {
+                    "pinyin": "è",
+                    "meanings": [
+                        "〔𧨵䜙〕见“𧨵”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜚",
+            "pinyins": [
+                {
+                    "pinyin": "tà",
+                    "meanings": [
+                        "〔䜚誻〕语相及"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜝",
+            "pinyins": [
+                {
+                    "pinyin": "䜝tuǎn",
+                    "meanings": [
+                        "〔𧨩䜝〕见“𧨩”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜡",
+            "pinyins": [
+                {
+                    "pinyin": "䜡yù",
+                    "meanings": [
+                        "〔䜡䛙〕闻香貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "䜢",
+            "pinyins": [
+                {
+                    "pinyin": "䜢xiǎn",
+                    "meanings": [
+                        "〔䜢搏〕凶暴，狠毒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "言",
+            "pinyins": [
+                {
+                    "pinyin": "yán",
+                    "meanings": [
+                        "说，说话"
+                    ]
+                },
+                {
+                    "pinyin": "yàn",
+                    "meanings": [
+                        "诉讼"
+                    ]
+                },
+                {
+                    "pinyin": "yín",
+                    "meanings": [
+                        "〔言言〕和敬貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訂",
+            "pinyins": [
+                {
+                    "pinyin": "dìng",
+                    "meanings": [
+                        "评议；评定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訃",
+            "pinyins": [
+                {
+                    "pinyin": "fù",
+                    "meanings": [
+                        "报丧"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訄",
+            "pinyins": [
+                {
+                    "pinyin": "qiú",
+                    "meanings": [
+                        "逼迫"
+                    ]
+                },
+                {
+                    "pinyin": "kāo",
+                    "meanings": [
+                        "戏言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訅",
+            "pinyins": [
+                {
+                    "pinyin": "qiú",
+                    "meanings": [
+                        "安"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訆",
+            "pinyins": [
+                {
+                    "pinyin": "jiào",
+                    "meanings": [
+                        "鸣叫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訇",
+            "pinyins": [
+                {
+                    "pinyin": "hōng",
+                    "meanings": [
+                        "骇言声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "計",
+            "pinyins": [
+                {
+                    "pinyin": "jì",
+                    "meanings": [
+                        "总计"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訉",
+            "pinyins": [
+                {
+                    "pinyin": "訉fàn",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訊",
+            "pinyins": [
+                {
+                    "pinyin": "xùn",
+                    "meanings": [
+                        "询问"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訋",
+            "pinyins": [
+                {
+                    "pinyin": "diào",
+                    "meanings": [
+                        "挐"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訌",
+            "pinyins": [
+                {
+                    "pinyin": "hòng",
+                    "meanings": [
+                        "溃乱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訍",
+            "pinyins": [
+                {
+                    "pinyin": "chài",
+                    "meanings": [
+                        "疑心"
+                    ]
+                },
+                {
+                    "pinyin": "chā",
+                    "meanings": [
+                        "揭发别人的阴私"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "討",
+            "pinyins": [
+                {
+                    "pinyin": "tǎo",
+                    "meanings": [
+                        "治理；整治"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訏",
+            "pinyins": [
+                {
+                    "pinyin": "xū",
+                    "meanings": [
+                        "诡讹"
+                    ]
+                },
+                {
+                    "pinyin": "xǔ",
+                    "meanings": [
+                        "〔訏訏〕广大貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訐",
+            "pinyins": [
+                {
+                    "pinyin": "jié",
+                    "meanings": [
+                        "攻击别人的短处；揭发别人的阴私"
+                    ]
+                },
+                {
+                    "pinyin": "jì",
+                    "meanings": [
+                        "直言不讳"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訑",
+            "pinyins": [
+                {
+                    "pinyin": "yí",
+                    "meanings": [
+                        "〔訑訑〕自满；自得貌"
+                    ]
+                },
+                {
+                    "pinyin": "tuǒ",
+                    "meanings": [
+                        "言不正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訒",
+            "pinyins": [
+                {
+                    "pinyin": "rèn",
+                    "meanings": [
+                        "出言缓慢谨慎"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訓",
+            "pinyins": [
+                {
+                    "pinyin": "xùn",
+                    "meanings": [
+                        "教导；教诲"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訔",
+            "pinyins": [
+                {
+                    "pinyin": "yín",
+                    "meanings": [
+                        "〔訔訔〕争辩貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訕",
+            "pinyins": [
+                {
+                    "pinyin": "shàn",
+                    "meanings": [
+                        "诽谤；讥刺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訖",
+            "pinyins": [
+                {
+                    "pinyin": "qì",
+                    "meanings": [
+                        "停止；终止"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "託",
+            "pinyins": [
+                {
+                    "pinyin": "tuō",
+                    "meanings": [
+                        "寄托"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "記",
+            "pinyins": [
+                {
+                    "pinyin": "jì",
+                    "meanings": [
+                        "记载；记录"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訛",
+            "pinyins": [
+                {
+                    "pinyin": "é",
+                    "meanings": [
+                        "讹误；差错"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訜",
+            "pinyins": [
+                {
+                    "pinyin": "訜（一）fēn",
+                    "meanings": [
+                        "〔訜𧥼〕言语不定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訝",
+            "pinyins": [
+                {
+                    "pinyin": "yà",
+                    "meanings": [
+                        "惊奇，诧异"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訞",
+            "pinyins": [
+                {
+                    "pinyin": "āo",
+                    "meanings": [
+                        "巧言貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訟",
+            "pinyins": [
+                {
+                    "pinyin": "sòng",
+                    "meanings": [
+                        "争论，争辩"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訢",
+            "pinyins": [
+                {
+                    "pinyin": "xīn",
+                    "meanings": [
+                        "姓"
+                    ]
+                },
+                {
+                    "pinyin": "yín",
+                    "meanings": [
+                        "〔訢訢〕谨敬戒慎貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訣",
+            "pinyins": [
+                {
+                    "pinyin": "jué",
+                    "meanings": [
+                        "将远离而相告别"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訥",
+            "pinyins": [
+                {
+                    "pinyin": "nè",
+                    "meanings": [
+                        "言语迟钝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訦",
+            "pinyins": [
+                {
+                    "pinyin": "chén",
+                    "meanings": [
+                        "诚实不欺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訩",
+            "pinyins": [
+                {
+                    "pinyin": "xiōng",
+                    "meanings": [
+                        "争辩"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訪",
+            "pinyins": [
+                {
+                    "pinyin": "fǎng",
+                    "meanings": [
+                        "咨询；征求意见"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訬",
+            "pinyins": [
+                {
+                    "pinyin": "chāo",
+                    "meanings": [
+                        "吵闹；烦扰"
+                    ]
+                },
+                {
+                    "pinyin": "miǎo",
+                    "meanings": [
+                        "高"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "設",
+            "pinyins": [
+                {
+                    "pinyin": "shè",
+                    "meanings": [
+                        "陈列；安置"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訮",
+            "pinyins": [
+                {
+                    "pinyin": "yán",
+                    "meanings": [
+                        "易怒而好与人争论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訯",
+            "pinyins": [
+                {
+                    "pinyin": "sǎ",
+                    "meanings": [
+                        "《龍龕手鑑》所瓦切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訰",
+            "pinyins": [
+                {
+                    "pinyin": "zhùn",
+                    "meanings": [
+                        "〔訰訰〕杂乱"
+                    ]
+                },
+                {
+                    "pinyin": "zhūn",
+                    "meanings": [
+                        "乱言貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "許",
+            "pinyins": [
+                {
+                    "pinyin": "xǔ",
+                    "meanings": [
+                        "应允；认可"
+                    ]
+                },
+                {
+                    "pinyin": "hǔ",
+                    "meanings": [
+                        "〔許許〕也作“所所”、“滸滸”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訴",
+            "pinyins": [
+                {
+                    "pinyin": "sù",
+                    "meanings": [
+                        "告诉；诉说"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訵",
+            "pinyins": [
+                {
+                    "pinyin": "chī",
+                    "meanings": [
+                        "暗中窥察"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訶",
+            "pinyins": [
+                {
+                    "pinyin": "hē",
+                    "meanings": [
+                        "大声斥责；责难；责备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訷",
+            "pinyins": [
+                {
+                    "pinyin": "訷shēn",
+                    "meanings": [
+                        "申说"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訹",
+            "pinyins": [
+                {
+                    "pinyin": "xù",
+                    "meanings": [
+                        "受迷惑；引诱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "診",
+            "pinyins": [
+                {
+                    "pinyin": "zhěn",
+                    "meanings": [
+                        "省视；查考"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "註",
+            "pinyins": [
+                {
+                    "pinyin": "hù",
+                    "meanings": [
+                        "用文字来解释词句"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "証",
+            "pinyins": [
+                {
+                    "pinyin": "zhèng",
+                    "meanings": [
+                        "谏正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "訾",
+            "pinyins": [
+                {
+                    "pinyin": "zǐ",
+                    "meanings": [
+                        "不想使其上级满意"
+                    ]
+                },
+                {
+                    "pinyin": "zī",
+                    "meanings": [
+                        "衡量；计量"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詀",
+            "pinyins": [
+                {
+                    "pinyin": "zhān",
+                    "meanings": [
+                        "多言"
+                    ]
+                },
+                {
+                    "pinyin": "chè",
+                    "meanings": [
+                        "〔詀讘〕低声细语"
+                    ]
+                },
+                {
+                    "pinyin": "diān",
+                    "meanings": [
+                        "巧言"
+                    ]
+                },
+                {
+                    "pinyin": "zhàn",
+                    "meanings": [
+                        "被诳，受骗"
+                    ]
+                },
+                {
+                    "pinyin": "tiē",
+                    "meanings": [
+                        "妄言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詁",
+            "pinyins": [
+                {
+                    "pinyin": "gǔ",
+                    "meanings": [
+                        "用今语解释古语或用通语解释方言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詂",
+            "pinyins": [
+                {
+                    "pinyin": "詂fù",
+                    "meanings": [
+                        "言有所依"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詃",
+            "pinyins": [
+                {
+                    "pinyin": "詃juǎn",
+                    "meanings": [
+                        "诱骗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詄",
+            "pinyins": [
+                {
+                    "pinyin": "dié",
+                    "meanings": [
+                        "遗忘"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詅",
+            "pinyins": [
+                {
+                    "pinyin": "詅líng",
+                    "meanings": [
+                        "叫卖"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詆",
+            "pinyins": [
+                {
+                    "pinyin": "dǐ",
+                    "meanings": [
+                        "谴责；骂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詇",
+            "pinyins": [
+                {
+                    "pinyin": "yàng",
+                    "meanings": [
+                        "早知，预知"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詉",
+            "pinyins": [
+                {
+                    "pinyin": "ná",
+                    "meanings": [
+                        "〔譇詉〕见“譇”"
+                    ]
+                },
+                {
+                    "pinyin": "nù",
+                    "meanings": [
+                        "恶言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詊",
+            "pinyins": [
+                {
+                    "pinyin": "詊pàn",
+                    "meanings": [
+                        "巧言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詌",
+            "pinyins": [
+                {
+                    "pinyin": "gàn",
+                    "meanings": [
+                        "口闭"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詍",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詎",
+            "pinyins": [
+                {
+                    "pinyin": "jù",
+                    "meanings": [
+                        "副词"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詏",
+            "pinyins": [
+                {
+                    "pinyin": "yào",
+                    "meanings": [
+                        "言逆，说拗话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詐",
+            "pinyins": [
+                {
+                    "pinyin": "zhà",
+                    "meanings": [
+                        "欺骗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詑",
+            "pinyins": [
+                {
+                    "pinyin": "tuó",
+                    "meanings": [
+                        "《集韻》待可切"
+                    ]
+                },
+                {
+                    "pinyin": "duò",
+                    "meanings": [
+                        "轻"
+                    ]
+                },
+                {
+                    "pinyin": "yī",
+                    "meanings": [
+                        "〔詑詑〕自得貌"
+                    ]
+                },
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "自多貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詒",
+            "pinyins": [
+                {
+                    "pinyin": "yí",
+                    "meanings": [
+                        "留传；赠送"
+                    ]
+                },
+                {
+                    "pinyin": "dài",
+                    "meanings": [
+                        "欺骗"
+                    ]
+                },
+                {
+                    "pinyin": "tái",
+                    "meanings": [
+                        "懈倦貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詓",
+            "pinyins": [
+                {
+                    "pinyin": "qǔ",
+                    "meanings": [
+                        "象声词"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詔",
+            "pinyins": [
+                {
+                    "pinyin": "zhào",
+                    "meanings": [
+                        "告诉；启示"
+                    ]
+                },
+                {
+                    "pinyin": "zhāo",
+                    "meanings": [
+                        "言诱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "評",
+            "pinyins": [
+                {
+                    "pinyin": "píng",
+                    "meanings": [
+                        "评议；评定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詖",
+            "pinyins": [
+                {
+                    "pinyin": "bì",
+                    "meanings": [
+                        "辩论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詗",
+            "pinyins": [
+                {
+                    "pinyin": "xiòng",
+                    "meanings": [
+                        "密告；侦察，探听"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詘",
+            "pinyins": [
+                {
+                    "pinyin": "qū",
+                    "meanings": [
+                        "言语钝诎"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詙",
+            "pinyins": [
+                {
+                    "pinyin": "bá",
+                    "meanings": [
+                        "人名用字"
+                    ]
+                },
+                {
+                    "pinyin": "bó",
+                    "meanings": [
+                        "〔評詙〕评论；估量"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詚",
+            "pinyins": [
+                {
+                    "pinyin": "詚dá",
+                    "meanings": [
+                        "〔兜詚〕不静"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詛",
+            "pinyins": [
+                {
+                    "pinyin": "zǔ",
+                    "meanings": [
+                        "求神加祸于人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詜",
+            "pinyins": [
+                {
+                    "pinyin": "tāo",
+                    "meanings": [
+                        "〔詜䛬〕言不节"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詝",
+            "pinyins": [
+                {
+                    "pinyin": "詝zhǔ",
+                    "meanings": [
+                        "《集韻》展吕切），上語知"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詞",
+            "pinyins": [
+                {
+                    "pinyin": "cí",
+                    "meanings": [
+                        "语言中最小的可以自由运用的独立音义单位"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詠",
+            "pinyins": [
+                {
+                    "pinyin": "yǒng",
+                    "meanings": [
+                        "歌唱；曼声长吟"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詡",
+            "pinyins": [
+                {
+                    "pinyin": "xǔ",
+                    "meanings": [
+                        "夸耀；说大话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詢",
+            "pinyins": [
+                {
+                    "pinyin": "xún",
+                    "meanings": [
+                        "询问；求教"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詣",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "候至，古代到朝廷或上级、尊长处去之称"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詤",
+            "pinyins": [
+                {
+                    "pinyin": "huǎng",
+                    "meanings": [
+                        "梦言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詥",
+            "pinyins": [
+                {
+                    "pinyin": "hé",
+                    "meanings": [
+                        "谐"
+                    ]
+                },
+                {
+                    "pinyin": "gé",
+                    "meanings": [
+                        "会言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "試",
+            "pinyins": [
+                {
+                    "pinyin": "shì",
+                    "meanings": [
+                        "使用"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詨",
+            "pinyins": [
+                {
+                    "pinyin": "iào",
+                    "meanings": [
+                        "呼唤；大叫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詩",
+            "pinyins": [
+                {
+                    "pinyin": "shī",
+                    "meanings": [
+                        "文学的一种体裁"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詫",
+            "pinyins": [
+                {
+                    "pinyin": "chà",
+                    "meanings": [
+                        "夸耀"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詬",
+            "pinyins": [
+                {
+                    "pinyin": "gòu",
+                    "meanings": [
+                        "耻辱"
+                    ]
+                },
+                {
+                    "pinyin": "hòu",
+                    "meanings": [
+                        "愤怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詭",
+            "pinyins": [
+                {
+                    "pinyin": "guǐ",
+                    "meanings": [
+                        "责成；要求"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詮",
+            "pinyins": [
+                {
+                    "pinyin": "quán",
+                    "meanings": [
+                        "详细解释，阐明事理"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詯",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "胆气满，声在人上"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詰",
+            "pinyins": [
+                {
+                    "pinyin": "jié",
+                    "meanings": [
+                        "问，细问"
+                    ]
+                },
+                {
+                    "pinyin": "jí",
+                    "meanings": [
+                        "弯曲"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "話",
+            "pinyins": [
+                {
+                    "pinyin": "huà",
+                    "meanings": [
+                        "话语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "該",
+            "pinyins": [
+                {
+                    "pinyin": "gāi",
+                    "meanings": [
+                        "军中戒约"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詳",
+            "pinyins": [
+                {
+                    "pinyin": "xiáng",
+                    "meanings": [
+                        "审察；审理"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詴",
+            "pinyins": [
+                {
+                    "pinyin": "詴wēi",
+                    "meanings": [
+                        "呼声；呼人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詵",
+            "pinyins": [
+                {
+                    "pinyin": "shēn",
+                    "meanings": [
+                        "众人言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詷",
+            "pinyins": [
+                {
+                    "pinyin": "tóng",
+                    "meanings": [
+                        "共同"
+                    ]
+                },
+                {
+                    "pinyin": "dòng",
+                    "meanings": [
+                        "说大话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詹",
+            "pinyins": [
+                {
+                    "pinyin": "zhān",
+                    "meanings": [
+                        "话多"
+                    ]
+                },
+                {
+                    "pinyin": "dàn",
+                    "meanings": [
+                        "足够"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詺",
+            "pinyins": [
+                {
+                    "pinyin": "mìng",
+                    "meanings": [
+                        "辨别物名"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詻",
+            "pinyins": [
+                {
+                    "pinyin": "lüè",
+                    "meanings": [
+                        "声音"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詼",
+            "pinyins": [
+                {
+                    "pinyin": "huī",
+                    "meanings": [
+                        "戏谑；诙谐"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "詿",
+            "pinyins": [
+                {
+                    "pinyin": "guà",
+                    "meanings": [
+                        "误；搞坏"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誀",
+            "pinyins": [
+                {
+                    "pinyin": "èr",
+                    "meanings": [
+                        "引诱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誁",
+            "pinyins": [
+                {
+                    "pinyin": "bìng",
+                    "meanings": [
+                        "说"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誂",
+            "pinyins": [
+                {
+                    "pinyin": "tiǎo",
+                    "meanings": [
+                        "逗引；诱惑"
+                    ]
+                },
+                {
+                    "pinyin": "diào",
+                    "meanings": [
+                        "仓猝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誄",
+            "pinyins": [
+                {
+                    "pinyin": "lěi",
+                    "meanings": [
+                        "古时累述死者功德以示哀悼并以此定谥"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誅",
+            "pinyins": [
+                {
+                    "pinyin": "zhū",
+                    "meanings": [
+                        "指责；责备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誆",
+            "pinyins": [
+                {
+                    "pinyin": "kuāng",
+                    "meanings": [
+                        "狂言；谬言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誇",
+            "pinyins": [
+                {
+                    "pinyin": "kuā",
+                    "meanings": [
+                        "夸大；夸耀"
+                    ]
+                },
+                {
+                    "pinyin": "qù",
+                    "meanings": [
+                        "歌唱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誌",
+            "pinyins": [
+                {
+                    "pinyin": "zhì",
+                    "meanings": [
+                        "记录"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "認",
+            "pinyins": [
+                {
+                    "pinyin": "rèn",
+                    "meanings": [
+                        "识别；辨明"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誎",
+            "pinyins": [
+                {
+                    "pinyin": "cù",
+                    "meanings": [
+                        "促"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誏",
+            "pinyins": [
+                {
+                    "pinyin": "lǎng",
+                    "meanings": [
+                        "言之明"
+                    ]
+                },
+                {
+                    "pinyin": "làng",
+                    "meanings": [
+                        "闲言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誐",
+            "pinyins": [
+                {
+                    "pinyin": "é",
+                    "meanings": [
+                        "嘉善"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誑",
+            "pinyins": [
+                {
+                    "pinyin": "kuáng",
+                    "meanings": [
+                        "欺骗；谎话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誒",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "叹词"
+                    ]
+                },
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "可恶声"
+                    ]
+                },
+                {
+                    "pinyin": "éi）",
+                    "meanings": [
+                        "叹词"
+                    ]
+                },
+                {
+                    "pinyin": "ěi）",
+                    "meanings": [
+                        "叹词"
+                    ]
+                },
+                {
+                    "pinyin": "èi）",
+                    "meanings": [
+                        "叹词"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誓",
+            "pinyins": [
+                {
+                    "pinyin": "shì",
+                    "meanings": [
+                        "古代军中告诫、约束将士的言辞"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誔",
+            "pinyins": [
+                {
+                    "pinyin": "誔tǐng",
+                    "meanings": [
+                        "《集韻》徒徑切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誕",
+            "pinyins": [
+                {
+                    "pinyin": "dàn",
+                    "meanings": [
+                        "说大话；虚妄不实的言论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誖",
+            "pinyins": [
+                {
+                    "pinyin": "bèi",
+                    "meanings": [
+                        "惛惑；糊涂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誗",
+            "pinyins": [
+                {
+                    "pinyin": "誗chán",
+                    "meanings": [
+                        "话讲得漂亮"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誘",
+            "pinyins": [
+                {
+                    "pinyin": "yòu",
+                    "meanings": [
+                        "引导；教导；劝导"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誙",
+            "pinyins": [
+                {
+                    "pinyin": "kēng",
+                    "meanings": [
+                        "〔誙誙〕奔竞之貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誚",
+            "pinyins": [
+                {
+                    "pinyin": "qiào",
+                    "meanings": [
+                        "责备；呵斥"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誛",
+            "pinyins": [
+                {
+                    "pinyin": "qīn",
+                    "meanings": [
+                        "私语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "語",
+            "pinyins": [
+                {
+                    "pinyin": "yǔ",
+                    "meanings": [
+                        "议论；谈论；辩论"
+                    ]
+                },
+                {
+                    "pinyin": "yù",
+                    "meanings": [
+                        "告诉"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誠",
+            "pinyins": [
+                {
+                    "pinyin": "chéng",
+                    "meanings": [
+                        "真心诚意"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誡",
+            "pinyins": [
+                {
+                    "pinyin": "jiè",
+                    "meanings": [
+                        "告诫；规劝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誢",
+            "pinyins": [
+                {
+                    "pinyin": "誢xiàn",
+                    "meanings": [
+                        "诤语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誣",
+            "pinyins": [
+                {
+                    "pinyin": "wū",
+                    "meanings": [
+                        "说话虚妄不实"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誤",
+            "pinyins": [
+                {
+                    "pinyin": "wù",
+                    "meanings": [
+                        "错误"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誥",
+            "pinyins": [
+                {
+                    "pinyin": "gào",
+                    "meanings": [
+                        "告，特指上告下"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誦",
+            "pinyins": [
+                {
+                    "pinyin": "sòng",
+                    "meanings": [
+                        "朗诵；念读"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誧",
+            "pinyins": [
+                {
+                    "pinyin": "bū",
+                    "meanings": [
+                        "大言"
+                    ]
+                },
+                {
+                    "pinyin": "bū",
+                    "meanings": [
+                        "谋"
+                    ]
+                },
+                {
+                    "pinyin": "bū",
+                    "meanings": [
+                        "大言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誨",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "教导"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誩",
+            "pinyins": [
+                {
+                    "pinyin": "jìng",
+                    "meanings": [
+                        "争论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "説",
+            "pinyins": [
+                {
+                    "pinyin": "shuō",
+                    "meanings": [
+                        "讲述"
+                    ]
+                },
+                {
+                    "pinyin": "shuì",
+                    "meanings": [
+                        "劝说别人，使之听从自己的意见"
+                    ]
+                },
+                {
+                    "pinyin": "yuè",
+                    "meanings": [
+                        "姓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誰",
+            "pinyins": [
+                {
+                    "pinyin": "shéi（又读shuí）",
+                    "meanings": [
+                        "代词"
+                    ]
+                },
+                {
+                    "pinyin": "shuí",
+                    "meanings": [
+                        "姓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誱",
+            "pinyins": [
+                {
+                    "pinyin": "jié",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "課",
+            "pinyins": [
+                {
+                    "pinyin": "kè",
+                    "meanings": [
+                        "考核；考试"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誴",
+            "pinyins": [
+                {
+                    "pinyin": "誴cóng",
+                    "meanings": [
+                        "〔謀誴〕快乐"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誵",
+            "pinyins": [
+                {
+                    "pinyin": "誵xiáo",
+                    "meanings": [
+                        "言不恭谨"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誶",
+            "pinyins": [
+                {
+                    "pinyin": "suì",
+                    "meanings": [
+                        "责让；责骂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誷",
+            "pinyins": [
+                {
+                    "pinyin": "誷wǎng",
+                    "meanings": [
+                        "欺罔；诬罔"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誸",
+            "pinyins": [
+                {
+                    "pinyin": "xián",
+                    "meanings": [
+                        "急迫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誹",
+            "pinyins": [
+                {
+                    "pinyin": "fěi",
+                    "meanings": [
+                        "从旁指责过失"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誺",
+            "pinyins": [
+                {
+                    "pinyin": "chī",
+                    "meanings": [
+                        "不知"
+                    ]
+                },
+                {
+                    "pinyin": "lài",
+                    "meanings": [
+                        "误"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誻",
+            "pinyins": [
+                {
+                    "pinyin": "tà",
+                    "meanings": [
+                        "〔誻誻〕语多貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誼",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "交情"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誽",
+            "pinyins": [
+                {
+                    "pinyin": "nì",
+                    "meanings": [
+                        "刺探"
+                    ]
+                },
+                {
+                    "pinyin": "ná",
+                    "meanings": [
+                        "言不正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "誾",
+            "pinyins": [
+                {
+                    "pinyin": "yín",
+                    "meanings": [
+                        "和悦而正直地争辩"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "調",
+            "pinyins": [
+                {
+                    "pinyin": "tiáo",
+                    "meanings": [
+                        "和谐；协调；适合"
+                    ]
+                },
+                {
+                    "pinyin": "diào",
+                    "meanings": [
+                        "选拔或提拔官吏"
+                    ]
+                },
+                {
+                    "pinyin": "zhōu",
+                    "meanings": [
+                        "早晨"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諀",
+            "pinyins": [
+                {
+                    "pinyin": "pǐ",
+                    "meanings": [
+                        "诽谤"
+                    ]
+                },
+                {
+                    "pinyin": "bēi",
+                    "meanings": [
+                        "〔諀訾〕好说人是非"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諁",
+            "pinyins": [
+                {
+                    "pinyin": "諁zhuó",
+                    "meanings": [
+                        "多言不止"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諂",
+            "pinyins": [
+                {
+                    "pinyin": "chǎn",
+                    "meanings": [
+                        "奉承；献媚"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諃",
+            "pinyins": [
+                {
+                    "pinyin": "諃chēn",
+                    "meanings": [
+                        "善言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諄",
+            "pinyins": [
+                {
+                    "pinyin": "zhūn",
+                    "meanings": [
+                        "教诲不倦貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諅",
+            "pinyins": [
+                {
+                    "pinyin": "jì",
+                    "meanings": [
+                        "志"
+                    ]
+                },
+                {
+                    "pinyin": "jī",
+                    "meanings": [
+                        "谋"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諆",
+            "pinyins": [
+                {
+                    "pinyin": "qī",
+                    "meanings": [
+                        "欺骗；谩言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "談",
+            "pinyins": [
+                {
+                    "pinyin": "tán",
+                    "meanings": [
+                        "对话；谈论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諈",
+            "pinyins": [
+                {
+                    "pinyin": "zhuì",
+                    "meanings": [
+                        "〔諈諉〕1.嘱托"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諉",
+            "pinyins": [
+                {
+                    "pinyin": "wěi",
+                    "meanings": [
+                        "累；烦劳"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "請",
+            "pinyins": [
+                {
+                    "pinyin": "qǐng",
+                    "meanings": [
+                        "谒见"
+                    ]
+                },
+                {
+                    "pinyin": "qìng",
+                    "meanings": [
+                        "古代朝会名"
+                    ]
+                },
+                {
+                    "pinyin": "qíng",
+                    "meanings": [
+                        "领受；取得"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諍",
+            "pinyins": [
+                {
+                    "pinyin": "zhèng（又读zhēng）",
+                    "meanings": [
+                        "直言规劝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諎",
+            "pinyins": [
+                {
+                    "pinyin": "zé",
+                    "meanings": [
+                        "大声"
+                    ]
+                },
+                {
+                    "pinyin": "cuò",
+                    "meanings": [
+                        "言疾，说话快"
+                    ]
+                },
+                {
+                    "pinyin": "zuò",
+                    "meanings": [
+                        "酬言"
+                    ]
+                },
+                {
+                    "pinyin": "zhǎ",
+                    "meanings": [
+                        "诱言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諏",
+            "pinyins": [
+                {
+                    "pinyin": "zōu",
+                    "meanings": [
+                        "咨询；询问"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諑",
+            "pinyins": [
+                {
+                    "pinyin": "zhuó",
+                    "meanings": [
+                        "毁谤；进谗言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諒",
+            "pinyins": [
+                {
+                    "pinyin": "liàng",
+                    "meanings": [
+                        "诚信"
+                    ]
+                },
+                {
+                    "pinyin": "liáng",
+                    "meanings": [
+                        "古州名"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諓",
+            "pinyins": [
+                {
+                    "pinyin": "jiàn",
+                    "meanings": [
+                        "〔諓諓〕1.巧辩之言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諔",
+            "pinyins": [
+                {
+                    "pinyin": "chù",
+                    "meanings": [
+                        "〔諔詭〕奇异"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諕",
+            "pinyins": [
+                {
+                    "pinyin": "xià",
+                    "meanings": [
+                        "欺骗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "論",
+            "pinyins": [
+                {
+                    "pinyin": "lùn",
+                    "meanings": [
+                        "分析，说明事理"
+                    ]
+                },
+                {
+                    "pinyin": "lún",
+                    "meanings": [
+                        "《論語》的简称"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諗",
+            "pinyins": [
+                {
+                    "pinyin": "shěn",
+                    "meanings": [
+                        "规谏；劝告"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諘",
+            "pinyins": [
+                {
+                    "pinyin": "諘biǎo",
+                    "meanings": [
+                        "称扬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諛",
+            "pinyins": [
+                {
+                    "pinyin": "yú",
+                    "meanings": [
+                        "谄媚；用甜言蜜语奉承"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諜",
+            "pinyins": [
+                {
+                    "pinyin": "dié",
+                    "meanings": [
+                        "间谍，侦探"
+                    ]
+                },
+                {
+                    "pinyin": "xiè",
+                    "meanings": [
+                        "言相次"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諝",
+            "pinyins": [
+                {
+                    "pinyin": "xū",
+                    "meanings": [
+                        "才智"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諞",
+            "pinyins": [
+                {
+                    "pinyin": "pián",
+                    "meanings": [
+                        "花言巧语"
+                    ]
+                },
+                {
+                    "pinyin": "piǎn",
+                    "meanings": [
+                        "方言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諟",
+            "pinyins": [
+                {
+                    "pinyin": "shì",
+                    "meanings": [
+                        "是；正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諢",
+            "pinyins": [
+                {
+                    "pinyin": "hùn",
+                    "meanings": [
+                        "逗趣的话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諣",
+            "pinyins": [
+                {
+                    "pinyin": "huà",
+                    "meanings": [
+                        "疾言"
+                    ]
+                },
+                {
+                    "pinyin": "guā",
+                    "meanings": [
+                        "懒；懈怠"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諤",
+            "pinyins": [
+                {
+                    "pinyin": "è",
+                    "meanings": [
+                        "〔諤諤〕1.正直貌；直言争辩貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諥",
+            "pinyins": [
+                {
+                    "pinyin": "zhòng",
+                    "meanings": [
+                        "言相触"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諦",
+            "pinyins": [
+                {
+                    "pinyin": "dì",
+                    "meanings": [
+                        "细察；详审"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諧",
+            "pinyins": [
+                {
+                    "pinyin": "xié",
+                    "meanings": [
+                        "和谐；协调"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諨",
+            "pinyins": [
+                {
+                    "pinyin": "諨fú",
+                    "meanings": [
+                        "言备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諪",
+            "pinyins": [
+                {
+                    "pinyin": "諪tíng",
+                    "meanings": [
+                        "调停"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諫",
+            "pinyins": [
+                {
+                    "pinyin": "jiàn",
+                    "meanings": [
+                        "直言规劝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諭",
+            "pinyins": [
+                {
+                    "pinyin": "yù",
+                    "meanings": [
+                        "明白；理解"
+                    ]
+                },
+                {
+                    "pinyin": "tǒu",
+                    "meanings": [
+                        "诱导；引诱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諯",
+            "pinyins": [
+                {
+                    "pinyin": "zhuān",
+                    "meanings": [
+                        "数责；责备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諰",
+            "pinyins": [
+                {
+                    "pinyin": "xǐ",
+                    "meanings": [
+                        "言且思"
+                    ]
+                },
+                {
+                    "pinyin": "shāi",
+                    "meanings": [
+                        "语失"
+                    ]
+                },
+                {
+                    "pinyin": "āi",
+                    "meanings": [
+                        "呼人之称"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諱",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "避忌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諲",
+            "pinyins": [
+                {
+                    "pinyin": "yīn",
+                    "meanings": [
+                        "敬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諳",
+            "pinyins": [
+                {
+                    "pinyin": "ān",
+                    "meanings": [
+                        "熟悉；知晓"
+                    ]
+                },
+                {
+                    "pinyin": "tǒu",
+                    "meanings": [
+                        "言悉"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諴",
+            "pinyins": [
+                {
+                    "pinyin": "xián",
+                    "meanings": [
+                        "和；和洽"
+                    ]
+                },
+                {
+                    "pinyin": "gān",
+                    "meanings": [
+                        "嗤"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諵",
+            "pinyins": [
+                {
+                    "pinyin": "nàn",
+                    "meanings": [
+                        "〔諵謏〕怒言；私下责骂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諶",
+            "pinyins": [
+                {
+                    "pinyin": "chén",
+                    "meanings": [
+                        "相信"
+                    ]
+                },
+                {
+                    "pinyin": "shèn",
+                    "meanings": [
+                        "姓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諷",
+            "pinyins": [
+                {
+                    "pinyin": "fěng（旧读fèng）",
+                    "meanings": [
+                        "背诵；朗读；传诵"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諸",
+            "pinyins": [
+                {
+                    "pinyin": "zhū",
+                    "meanings": [
+                        "区别之词，相当于“者”"
+                    ]
+                },
+                {
+                    "pinyin": "chú",
+                    "meanings": [
+                        "〔詹諸〕蟾蜍，即虾蟆"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諹",
+            "pinyins": [
+                {
+                    "pinyin": "yáng",
+                    "meanings": [
+                        "名誉；赞扬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諺",
+            "pinyins": [
+                {
+                    "pinyin": "yàn",
+                    "meanings": [
+                        "谚语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諻",
+            "pinyins": [
+                {
+                    "pinyin": "huáng",
+                    "meanings": [
+                        "语声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諼",
+            "pinyins": [
+                {
+                    "pinyin": "xuān",
+                    "meanings": [
+                        "欺诈；欺骗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諽",
+            "pinyins": [
+                {
+                    "pinyin": "gé",
+                    "meanings": [
+                        "整饬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諾",
+            "pinyins": [
+                {
+                    "pinyin": "nuò",
+                    "meanings": [
+                        "答应声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "諿",
+            "pinyins": [
+                {
+                    "pinyin": "qī",
+                    "meanings": [
+                        "和谐"
+                    ]
+                },
+                {
+                    "pinyin": "xǔ",
+                    "meanings": [
+                        "智谋"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謀",
+            "pinyins": [
+                {
+                    "pinyin": "móu",
+                    "meanings": [
+                        "考虑；谋划"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謁",
+            "pinyins": [
+                {
+                    "pinyin": "yè",
+                    "meanings": [
+                        "禀告，陈述"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謂",
+            "pinyins": [
+                {
+                    "pinyin": "wèi",
+                    "meanings": [
+                        "评论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謄",
+            "pinyins": [
+                {
+                    "pinyin": "téng",
+                    "meanings": [
+                        "抄写；转录"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謅",
+            "pinyins": [
+                {
+                    "pinyin": "chōu",
+                    "meanings": [
+                        "〔謅䜉〕私语"
+                    ]
+                },
+                {
+                    "pinyin": "chǎo",
+                    "meanings": [
+                        "弄人言"
+                    ]
+                },
+                {
+                    "pinyin": "zhōu",
+                    "meanings": [
+                        "编造（言辞）"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謆",
+            "pinyins": [
+                {
+                    "pinyin": "謆shàn",
+                    "meanings": [
+                        "以言惑人，煽动"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謇",
+            "pinyins": [
+                {
+                    "pinyin": "iǎn",
+                    "meanings": [
+                        "口吃"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謈",
+            "pinyins": [
+                {
+                    "pinyin": "pó",
+                    "meanings": [
+                        "因痛而叫喊"
+                    ]
+                },
+                {
+                    "pinyin": "páo",
+                    "meanings": [
+                        "〔阿謈〕痛甚"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謉",
+            "pinyins": [
+                {
+                    "pinyin": "duǐ",
+                    "meanings": [
+                        "〔謉諢〕诙谐话"
+                    ]
+                },
+                {
+                    "pinyin": "tuí",
+                    "meanings": [
+                        "谦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謊",
+            "pinyins": [
+                {
+                    "pinyin": "huǎng",
+                    "meanings": [
+                        "假话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謋",
+            "pinyins": [
+                {
+                    "pinyin": "謋huò",
+                    "meanings": [
+                        "迅速分裂的声音"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謍",
+            "pinyins": [
+                {
+                    "pinyin": "yíng",
+                    "meanings": [
+                        "小声"
+                    ]
+                },
+                {
+                    "pinyin": "hōng",
+                    "meanings": [
+                        "大声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謎",
+            "pinyins": [
+                {
+                    "pinyin": "mí",
+                    "meanings": [
+                        "谜语"
+                    ]
+                },
+                {
+                    "pinyin": "mèi",
+                    "meanings": [
+                        "〔谜儿〕方言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謏",
+            "pinyins": [
+                {
+                    "pinyin": "xiǎo",
+                    "meanings": [
+                        "小"
+                    ]
+                },
+                {
+                    "pinyin": "sǒu",
+                    "meanings": [
+                        "〔謏訹〕诱辞"
+                    ]
+                },
+                {
+                    "pinyin": "sòu",
+                    "meanings": [
+                        "〔諵謏〕见“諵”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謐",
+            "pinyins": [
+                {
+                    "pinyin": "mì",
+                    "meanings": [
+                        "安宁；寂静"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謑",
+            "pinyins": [
+                {
+                    "pinyin": "xǐ",
+                    "meanings": [
+                        "〔謑詬〕也作“謑訽”"
+                    ]
+                },
+                {
+                    "pinyin": "xià",
+                    "meanings": [
+                        "怒言"
+                    ]
+                },
+                {
+                    "pinyin": "xí",
+                    "meanings": [
+                        "〔謑髁〕不正貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謒",
+            "pinyins": [
+                {
+                    "pinyin": "謒qiāng",
+                    "meanings": [
+                        "语轻"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謓",
+            "pinyins": [
+                {
+                    "pinyin": "zhèn",
+                    "meanings": [
+                        "冷笑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謔",
+            "pinyins": [
+                {
+                    "pinyin": "xuè",
+                    "meanings": [
+                        "开玩笑；嘲弄"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謕",
+            "pinyins": [
+                {
+                    "pinyin": "tí",
+                    "meanings": [
+                        "语相诱"
+                    ]
+                },
+                {
+                    "pinyin": "sī",
+                    "meanings": [
+                        "谅"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謖",
+            "pinyins": [
+                {
+                    "pinyin": "sù",
+                    "meanings": [
+                        "起"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謗",
+            "pinyins": [
+                {
+                    "pinyin": "bàng",
+                    "meanings": [
+                        "毁谤"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謘",
+            "pinyins": [
+                {
+                    "pinyin": "chí",
+                    "meanings": [
+                        "说话迟钝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謙",
+            "pinyins": [
+                {
+                    "pinyin": "qiān",
+                    "meanings": [
+                        "谦虚；谦让"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謚",
+            "pinyins": [
+                {
+                    "pinyin": "shì",
+                    "meanings": [
+                        "古代帝王、贵族、大臣等死后依其一生所行事迹给予的称号"
+                    ]
+                },
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "笑貌"
+                    ]
+                },
+                {
+                    "pinyin": "xì",
+                    "meanings": [
+                        "笑声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "講",
+            "pinyins": [
+                {
+                    "pinyin": "jiǎng",
+                    "meanings": [
+                        "和解"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謜",
+            "pinyins": [
+                {
+                    "pinyin": "yuán",
+                    "meanings": [
+                        "和缓地说话"
+                    ]
+                },
+                {
+                    "pinyin": "quán",
+                    "meanings": [
+                        "言语和悦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謝",
+            "pinyins": [
+                {
+                    "pinyin": "xiè",
+                    "meanings": [
+                        "辞去官职"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謞",
+            "pinyins": [
+                {
+                    "pinyin": "hè",
+                    "meanings": [
+                        "谗慝"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謟",
+            "pinyins": [
+                {
+                    "pinyin": "tāo",
+                    "meanings": [
+                        "可疑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謡",
+            "pinyins": [
+                {
+                    "pinyin": "yáo",
+                    "meanings": [
+                        "不用乐器伴奏的歌唱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謣",
+            "pinyins": [
+                {
+                    "pinyin": "yú",
+                    "meanings": [
+                        "虚夸"
+                    ]
+                },
+                {
+                    "pinyin": "xū",
+                    "meanings": [
+                        "〔謣輿〕也作“輿謣”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謤",
+            "pinyins": [
+                {
+                    "pinyin": "biāo",
+                    "meanings": [
+                        "言有所止"
+                    ]
+                },
+                {
+                    "pinyin": "piāo",
+                    "meanings": [
+                        "言轻"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謦",
+            "pinyins": [
+                {
+                    "pinyin": "qǐng",
+                    "meanings": [
+                        "〔謦欬〕1.咳嗽"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謧",
+            "pinyins": [
+                {
+                    "pinyin": "lí",
+                    "meanings": [
+                        "〔謧詍〕多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謨",
+            "pinyins": [
+                {
+                    "pinyin": "mó",
+                    "meanings": [
+                        "计策；谋划"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謫",
+            "pinyins": [
+                {
+                    "pinyin": "zhé",
+                    "meanings": [
+                        "谴责；责备"
+                    ]
+                },
+                {
+                    "pinyin": "zé",
+                    "meanings": [
+                        "怒斥"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謬",
+            "pinyins": [
+                {
+                    "pinyin": "miù",
+                    "meanings": [
+                        "谬误；荒谬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謮",
+            "pinyins": [
+                {
+                    "pinyin": "zé",
+                    "meanings": [
+                        "怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謯",
+            "pinyins": [
+                {
+                    "pinyin": "jiē",
+                    "meanings": [
+                        "〔謯娽〕1.古语，义未详"
+                    ]
+                },
+                {
+                    "pinyin": "zhā",
+                    "meanings": [
+                        "〔謯娽〕尖声"
+                    ]
+                },
+                {
+                    "pinyin": "zhǎ",
+                    "meanings": [
+                        "〔謯訝〕也作“𧨊𧧝”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謰",
+            "pinyins": [
+                {
+                    "pinyin": "lián",
+                    "meanings": [
+                        "〔謰謱〕也作“謱謰”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謱",
+            "pinyins": [
+                {
+                    "pinyin": "lóu",
+                    "meanings": [
+                        "〔謰謱〕见“謰”"
+                    ]
+                },
+                {
+                    "pinyin": "lǚ",
+                    "meanings": [
+                        "〔覼謱〕也作“覼縷”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謲",
+            "pinyins": [
+                {
+                    "pinyin": "càn",
+                    "meanings": [
+                        "相怒"
+                    ]
+                },
+                {
+                    "pinyin": "sān",
+                    "meanings": [
+                        "〔謲譚〕怒语"
+                    ]
+                },
+                {
+                    "pinyin": "chěn",
+                    "meanings": [
+                        "阴言讥之"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謳",
+            "pinyins": [
+                {
+                    "pinyin": "ōu",
+                    "meanings": [
+                        "齐声歌唱"
+                    ]
+                },
+                {
+                    "pinyin": "xū",
+                    "meanings": [
+                        "煦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謴",
+            "pinyins": [
+                {
+                    "pinyin": "gùn",
+                    "meanings": [
+                        "顺言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謵",
+            "pinyins": [
+                {
+                    "pinyin": "xí",
+                    "meanings": [
+                        "用言辞使惧怕"
+                    ]
+                },
+                {
+                    "pinyin": "chè",
+                    "meanings": [
+                        "小语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謶",
+            "pinyins": [
+                {
+                    "pinyin": "zhuó",
+                    "meanings": [
+                        "谪"
+                    ]
+                },
+                {
+                    "pinyin": "zhē",
+                    "meanings": [
+                        "〔囉謶〕也作“囉嗻”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謷",
+            "pinyins": [
+                {
+                    "pinyin": "áo",
+                    "meanings": [
+                        "不省人言"
+                    ]
+                },
+                {
+                    "pinyin": "ào",
+                    "meanings": [
+                        "高大貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謹",
+            "pinyins": [
+                {
+                    "pinyin": "jǐn",
+                    "meanings": [
+                        "慎重；小心"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謺",
+            "pinyins": [
+                {
+                    "pinyin": "zhé",
+                    "meanings": [
+                        "〔謺讘〕多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謻",
+            "pinyins": [
+                {
+                    "pinyin": "yí",
+                    "meanings": [
+                        "门名"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謼",
+            "pinyins": [
+                {
+                    "pinyin": "hū",
+                    "meanings": [
+                        "大声叫号"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "謾",
+            "pinyins": [
+                {
+                    "pinyin": "mán",
+                    "meanings": [
+                        "欺骗"
+                    ]
+                },
+                {
+                    "pinyin": "màn",
+                    "meanings": [
+                        "冗长，繁多"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譀",
+            "pinyins": [
+                {
+                    "pinyin": "hàn",
+                    "meanings": [
+                        "说大话"
+                    ]
+                },
+                {
+                    "pinyin": "xiàn",
+                    "meanings": [
+                        "〔譀𧭡〕也作“譀䜕”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譁",
+            "pinyins": [
+                {
+                    "pinyin": "huá",
+                    "meanings": [
+                        "《集韻》胡瓜切"
+                    ]
+                },
+                {
+                    "pinyin": "wá",
+                    "meanings": [
+                        "变化"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譂",
+            "pinyins": [
+                {
+                    "pinyin": "chán",
+                    "meanings": [
+                        "妄言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譄",
+            "pinyins": [
+                {
+                    "pinyin": "zēng",
+                    "meanings": [
+                        "言辞夸大"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譅",
+            "pinyins": [
+                {
+                    "pinyin": "sè",
+                    "meanings": [
+                        "言甚多"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譆",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "叹词"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譇",
+            "pinyins": [
+                {
+                    "pinyin": "zhā",
+                    "meanings": [
+                        "〔譇拏〕也作“譇詉”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "證",
+            "pinyins": [
+                {
+                    "pinyin": "zhèng",
+                    "meanings": [
+                        "告发"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譊",
+            "pinyins": [
+                {
+                    "pinyin": "náo",
+                    "meanings": [
+                        "〔譊譊〕争辩声；喧噪声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譎",
+            "pinyins": [
+                {
+                    "pinyin": "jué",
+                    "meanings": [
+                        "欺诳；诡诈"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譏",
+            "pinyins": [
+                {
+                    "pinyin": "jī",
+                    "meanings": [
+                        "讥刺；谴责"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譑",
+            "pinyins": [
+                {
+                    "pinyin": "jiǎo",
+                    "meanings": [
+                        "多言"
+                    ]
+                },
+                {
+                    "pinyin": "qiào",
+                    "meanings": [
+                        "弄言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譒",
+            "pinyins": [
+                {
+                    "pinyin": "bò",
+                    "meanings": [
+                        "谣"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譓",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "多谋智"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譔",
+            "pinyins": [
+                {
+                    "pinyin": "zhuàn",
+                    "meanings": [
+                        "专心教导"
+                    ]
+                },
+                {
+                    "pinyin": "quán",
+                    "meanings": [
+                        "善言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譕",
+            "pinyins": [
+                {
+                    "pinyin": "wú",
+                    "meanings": [
+                        "诱词"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譖",
+            "pinyins": [
+                {
+                    "pinyin": "zèn",
+                    "meanings": [
+                        "说坏话诬陷别人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譗",
+            "pinyins": [
+                {
+                    "pinyin": "譗zhá",
+                    "meanings": [
+                        "〔譗𧫡〕言语无条理"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "識",
+            "pinyins": [
+                {
+                    "pinyin": "zhì",
+                    "meanings": [
+                        "旗帜"
+                    ]
+                },
+                {
+                    "pinyin": "shí",
+                    "meanings": [
+                        "知道"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譙",
+            "pinyins": [
+                {
+                    "pinyin": "qiáo",
+                    "meanings": [
+                        "城门上的望楼"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譚",
+            "pinyins": [
+                {
+                    "pinyin": "tán",
+                    "meanings": [
+                        "宏大；广大"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譜",
+            "pinyins": [
+                {
+                    "pinyin": "pǔ",
+                    "meanings": [
+                        "按事物的类别或系统编成的书籍"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譝",
+            "pinyins": [
+                {
+                    "pinyin": "譝shéng",
+                    "meanings": [
+                        "赞誉"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譟",
+            "pinyins": [
+                {
+                    "pinyin": "zào",
+                    "meanings": [
+                        "欢呼"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譠",
+            "pinyins": [
+                {
+                    "pinyin": "譠tán",
+                    "meanings": [
+                        "欺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譣",
+            "pinyins": [
+                {
+                    "pinyin": "xiǎn",
+                    "meanings": [
+                        "问"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譥",
+            "pinyins": [
+                {
+                    "pinyin": "jiào",
+                    "meanings": [
+                        "揭发别人的阴私"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "警",
+            "pinyins": [
+                {
+                    "pinyin": "jǐng",
+                    "meanings": [
+                        "告诫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譧",
+            "pinyins": [
+                {
+                    "pinyin": "lián",
+                    "meanings": [
+                        "〔譧䛁〕言不正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譨",
+            "pinyins": [
+                {
+                    "pinyin": "nóu",
+                    "meanings": [
+                        "〔譨譨〕多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譩",
+            "pinyins": [
+                {
+                    "pinyin": "yī",
+                    "meanings": [
+                        "应答"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譫",
+            "pinyins": [
+                {
+                    "pinyin": "zhān",
+                    "meanings": [
+                        "话多"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譬",
+            "pinyins": [
+                {
+                    "pinyin": "pì",
+                    "meanings": [
+                        "用打比方的方法说明事理，使容易明白"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譮",
+            "pinyins": [
+                {
+                    "pinyin": "huà",
+                    "meanings": [
+                        "气高貌"
+                    ]
+                },
+                {
+                    "pinyin": "xiè",
+                    "meanings": [
+                        "怒声"
+                    ]
+                },
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "悟"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譯",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "翻译，把一种语言文字转换成另一种语言文字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "議",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "言谈；谈论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譳",
+            "pinyins": [
+                {
+                    "pinyin": "譳nòu",
+                    "meanings": [
+                        "〔䛠譳〕见“䛠”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譴",
+            "pinyins": [
+                {
+                    "pinyin": "qiǎn",
+                    "meanings": [
+                        "责问；谴责"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譶",
+            "pinyins": [
+                {
+                    "pinyin": "tà",
+                    "meanings": [
+                        "说话快；说话不停"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "護",
+            "pinyins": [
+                {
+                    "pinyin": "hù",
+                    "meanings": [
+                        "监视；监督"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譸",
+            "pinyins": [
+                {
+                    "pinyin": "zhōu",
+                    "meanings": [
+                        "〔譸張〕也作“侜張”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譺",
+            "pinyins": [
+                {
+                    "pinyin": "ài",
+                    "meanings": [
+                        "说话不流畅"
+                    ]
+                },
+                {
+                    "pinyin": "yǐ",
+                    "meanings": [
+                        "议"
+                    ]
+                },
+                {
+                    "pinyin": "yí",
+                    "meanings": [
+                        "肃静貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譽",
+            "pinyins": [
+                {
+                    "pinyin": "yù",
+                    "meanings": [
+                        "称颂；赞美"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "譾",
+            "pinyins": [
+                {
+                    "pinyin": "譾jiǎn",
+                    "meanings": [
+                        "浅薄"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讀",
+            "pinyins": [
+                {
+                    "pinyin": "dú",
+                    "meanings": [
+                        "诵读、理解书的意义"
+                    ]
+                },
+                {
+                    "pinyin": "dòu",
+                    "meanings": [
+                        "句中的短暂停顿"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讄",
+            "pinyins": [
+                {
+                    "pinyin": "lěi",
+                    "meanings": [
+                        "古人行善积德，以求神降福"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讆",
+            "pinyins": [
+                {
+                    "pinyin": "wèi",
+                    "meanings": [
+                        "吹捧坏人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讇",
+            "pinyins": [
+                {
+                    "pinyin": "chǎn",
+                    "meanings": [
+                        "说梦话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讈",
+            "pinyins": [
+                {
+                    "pinyin": "讈lì",
+                    "meanings": [
+                        "〔䜍讈〕见“䜍”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讉",
+            "pinyins": [
+                {
+                    "pinyin": "yí",
+                    "meanings": [
+                        "译恶言"
+                    ]
+                },
+                {
+                    "pinyin": "tuī",
+                    "meanings": [
+                        "欺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "變",
+            "pinyins": [
+                {
+                    "pinyin": "biàn",
+                    "meanings": [
+                        "改变；变化"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讋",
+            "pinyins": [
+                {
+                    "pinyin": "zhé",
+                    "meanings": [
+                        "丧胆；惧怕"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讌",
+            "pinyins": [
+                {
+                    "pinyin": "yàn",
+                    "meanings": [
+                        "相聚叙谈"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讎",
+            "pinyins": [
+                {
+                    "pinyin": "chóu",
+                    "meanings": [
+                        "对答"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讑",
+            "pinyins": [
+                {
+                    "pinyin": "yào",
+                    "meanings": [
+                        "谬误"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讒",
+            "pinyins": [
+                {
+                    "pinyin": "chán",
+                    "meanings": [
+                        "说别人的坏话"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讓",
+            "pinyins": [
+                {
+                    "pinyin": "ràng",
+                    "meanings": [
+                        "责备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讔",
+            "pinyins": [
+                {
+                    "pinyin": "yǐn",
+                    "meanings": [
+                        "隐语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讕",
+            "pinyins": [
+                {
+                    "pinyin": "lán",
+                    "meanings": [
+                        "抵赖"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讖",
+            "pinyins": [
+                {
+                    "pinyin": "chèn",
+                    "meanings": [
+                        "谈论预言、征验的书籍"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讗",
+            "pinyins": [
+                {
+                    "pinyin": "xié",
+                    "meanings": [
+                        "言壮貌；自夸"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讘",
+            "pinyins": [
+                {
+                    "pinyin": "niè",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讙",
+            "pinyins": [
+                {
+                    "pinyin": "huān",
+                    "meanings": [
+                        "喧哗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讚",
+            "pinyins": [
+                {
+                    "pinyin": "zàn",
+                    "meanings": [
+                        "赞美；颂扬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讛",
+            "pinyins": [
+                {
+                    "pinyin": "yì",
+                    "meanings": [
+                        "屏处语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讜",
+            "pinyins": [
+                {
+                    "pinyin": "dǎng",
+                    "meanings": [
+                        "正直的（言论）"
+                    ]
+                },
+                {
+                    "pinyin": "dàng",
+                    "meanings": [
+                        "说话中理"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讝",
+            "pinyins": [
+                {
+                    "pinyin": "讝zhān",
+                    "meanings": [
+                        "病中或梦中呓语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讞",
+            "pinyins": [
+                {
+                    "pinyin": "yàn",
+                    "meanings": [
+                        "审判定罪"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "讟",
+            "pinyins": [
+                {
+                    "pinyin": "dú",
+                    "meanings": [
+                        "怨恨"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𣌚",
+            "pinyins": [
+                {
+                    "pinyin": "chūn",
+                    "meanings": [
+                        "《搜真玉鏡》：“𣌚，音春"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥛",
+            "pinyins": [
+                {
+                    "pinyin": "⁴𧥛qiǎn",
+                    "meanings": [
+                        "〔𧥛𧥜〕唇急貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥜",
+            "pinyins": [
+                {
+                    "pinyin": "𧥜yǎn",
+                    "meanings": [
+                        "〔𧥛𧥜〕见“𧥛”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥟",
+            "pinyins": [
+                {
+                    "pinyin": "𧥟mò",
+                    "meanings": [
+                        "《字彙補·言部》：“𧥟，木泊切，音莫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥣",
+            "pinyins": [
+                {
+                    "pinyin": "kòu",
+                    "meanings": [
+                        "笑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥤",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "笑声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥮",
+            "pinyins": [
+                {
+                    "pinyin": "hù",
+                    "meanings": [
+                        "记"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥴",
+            "pinyins": [
+                {
+                    "pinyin": "𧥴yàng",
+                    "meanings": [
+                        "止"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥵",
+            "pinyins": [
+                {
+                    "pinyin": "𧥵guò",
+                    "meanings": [
+                        "迟"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥸",
+            "pinyins": [
+                {
+                    "pinyin": "𧥸yìn",
+                    "meanings": [
+                        "怒言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥹",
+            "pinyins": [
+                {
+                    "pinyin": "⁴𧥹fēng",
+                    "meanings": [
+                        "语耑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥺",
+            "pinyins": [
+                {
+                    "pinyin": "jùn",
+                    "meanings": [
+                        "欺骗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥼",
+            "pinyins": [
+                {
+                    "pinyin": "𧥼yún",
+                    "meanings": [
+                        "〔訜𧥼〕言语不定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧥿",
+            "pinyins": [
+                {
+                    "pinyin": "xùn",
+                    "meanings": [
+                        "人名用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦎",
+            "pinyins": [
+                {
+                    "pinyin": "𧦎xiā",
+                    "meanings": [
+                        "《搜真玉鏡》：“𧦎，音蝦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦑",
+            "pinyins": [
+                {
+                    "pinyin": "𧦑háng",
+                    "meanings": [
+                        "《搜真玉鏡》：“𧦑，胡浪切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦚",
+            "pinyins": [
+                {
+                    "pinyin": "hù",
+                    "meanings": [
+                        "记"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦝",
+            "pinyins": [
+                {
+                    "pinyin": "hū",
+                    "meanings": [
+                        "呼唤"
+                    ]
+                },
+                {
+                    "pinyin": "hào",
+                    "meanings": [
+                        "《博雅》乎報切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦞",
+            "pinyins": [
+                {
+                    "pinyin": "pù",
+                    "meanings": [
+                        "谏"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦟",
+            "pinyins": [
+                {
+                    "pinyin": "𧦟fān",
+                    "meanings": [
+                        "言急"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦤",
+            "pinyins": [
+                {
+                    "pinyin": "jiā",
+                    "meanings": [
+                        "诬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦭",
+            "pinyins": [
+                {
+                    "pinyin": "xī",
+                    "meanings": [
+                        "言多貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦮",
+            "pinyins": [
+                {
+                    "pinyin": "𧦮ná",
+                    "meanings": [
+                        "〔絲𧦮〕语不解"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦸",
+            "pinyins": [
+                {
+                    "pinyin": "⁵𧦸yín",
+                    "meanings": [
+                        "《類篇》：“𧦸，音銀"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧦹",
+            "pinyins": [
+                {
+                    "pinyin": "𧦹yìn",
+                    "meanings": [
+                        "《搜真玉鏡》：“𧦹，魚禁切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧃",
+            "pinyins": [
+                {
+                    "pinyin": "𧧃jì",
+                    "meanings": [
+                        "揭发别人的阴私"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧅",
+            "pinyins": [
+                {
+                    "pinyin": "shì",
+                    "meanings": [
+                        "忘记"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧇",
+            "pinyins": [
+                {
+                    "pinyin": "𧧇duò",
+                    "meanings": [
+                        "言相夸"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧉",
+            "pinyins": [
+                {
+                    "pinyin": "𧧉tuō",
+                    "meanings": [
+                        "毁谤"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧊",
+            "pinyins": [
+                {
+                    "pinyin": "𧧊wā",
+                    "meanings": [
+                        "〔諣𧧊〕惰"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧋",
+            "pinyins": [
+                {
+                    "pinyin": "𧧋lì",
+                    "meanings": [
+                        "言美"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧏",
+            "pinyins": [
+                {
+                    "pinyin": "rè",
+                    "meanings": [
+                        "如"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧒",
+            "pinyins": [
+                {
+                    "pinyin": "cì",
+                    "meanings": [
+                        "列举其过失而规劝之"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧓",
+            "pinyins": [
+                {
+                    "pinyin": "xù",
+                    "meanings": [
+                        "静"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧔",
+            "pinyins": [
+                {
+                    "pinyin": "𧧔zhōu",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧝",
+            "pinyins": [
+                {
+                    "pinyin": "𧧝yǎ",
+                    "meanings": [
+                        "〔𧨊𧧝〕见“𧨊”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧟",
+            "pinyins": [
+                {
+                    "pinyin": "𧧟jì",
+                    "meanings": [
+                        "《奚韻》具義切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧩",
+            "pinyins": [
+                {
+                    "pinyin": "𧧩jí",
+                    "meanings": [
+                        "《俗字背篇》：“𧧩，子石切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧵",
+            "pinyins": [
+                {
+                    "pinyin": "𧧵shǎn",
+                    "meanings": [
+                        "诱言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧶",
+            "pinyins": [
+                {
+                    "pinyin": "𧧶tú",
+                    "meanings": [
+                        "〔䛬𧧶〕说话没完没了"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧸",
+            "pinyins": [
+                {
+                    "pinyin": "bié",
+                    "meanings": [
+                        "辩论"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧻",
+            "pinyins": [
+                {
+                    "pinyin": "zhà",
+                    "meanings": [
+                        "惭语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧧾",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "市𧧾"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨀",
+            "pinyins": [
+                {
+                    "pinyin": "suō",
+                    "meanings": [
+                        "佞"
+                    ]
+                },
+                {
+                    "pinyin": "zuò",
+                    "meanings": [
+                        "以言语折服人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨂",
+            "pinyins": [
+                {
+                    "pinyin": "hè",
+                    "meanings": [
+                        "〔𧨂𧨂〕众声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨄",
+            "pinyins": [
+                {
+                    "pinyin": "𧨄yuē",
+                    "meanings": [
+                        "拒不回答"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨊",
+            "pinyins": [
+                {
+                    "pinyin": "𧨊zhà",
+                    "meanings": [
+                        "〔𧨊訝〕1.言戾"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨋",
+            "pinyins": [
+                {
+                    "pinyin": "𧨋huá",
+                    "meanings": [
+                        "《類篇》音滑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨗",
+            "pinyins": [
+                {
+                    "pinyin": "𧨗chán",
+                    "meanings": [
+                        "《字彙補·言部》：“𧨗，直廉切，音𪏋"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨟",
+            "pinyins": [
+                {
+                    "pinyin": "𧨟è",
+                    "meanings": [
+                        "《字彙補·言部》：“𧨟，烏合切，音姶"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨡",
+            "pinyins": [
+                {
+                    "pinyin": "𧨡chén",
+                    "meanings": [
+                        "《類篇》：“𧨡，音臣"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨧",
+            "pinyins": [
+                {
+                    "pinyin": "𧨧suì",
+                    "meanings": [
+                        "相毁"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨩",
+            "pinyins": [
+                {
+                    "pinyin": "𧨩tiǎn",
+                    "meanings": [
+                        "〔𧨩䜝〕言不定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨰",
+            "pinyins": [
+                {
+                    "pinyin": "𧨰zhì",
+                    "meanings": [
+                        "语不正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨱",
+            "pinyins": [
+                {
+                    "pinyin": "tì",
+                    "meanings": [
+                        "僻"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨲",
+            "pinyins": [
+                {
+                    "pinyin": "𧨲āo",
+                    "meanings": [
+                        "《川篇》烏刀切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨳",
+            "pinyins": [
+                {
+                    "pinyin": "𧨳zhuó",
+                    "meanings": [
+                        "人名用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨴",
+            "pinyins": [
+                {
+                    "pinyin": "𧨴zì",
+                    "meanings": [
+                        "言入"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨵",
+            "pinyins": [
+                {
+                    "pinyin": "𧨵kè",
+                    "meanings": [
+                        "〔𧨵䜙〕笑语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨷",
+            "pinyins": [
+                {
+                    "pinyin": "𧨷sè",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨸",
+            "pinyins": [
+                {
+                    "pinyin": "𧨸tǔn",
+                    "meanings": [
+                        "〔𧨸詪〕狠貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨹",
+            "pinyins": [
+                {
+                    "pinyin": "𧨹lù",
+                    "meanings": [
+                        "开玩笑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨾",
+            "pinyins": [
+                {
+                    "pinyin": "𧨾shán",
+                    "meanings": [
+                        "言不实"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧨿",
+            "pinyins": [
+                {
+                    "pinyin": "𧨿zhǎ",
+                    "meanings": [
+                        "姓"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩃",
+            "pinyins": [
+                {
+                    "pinyin": "𧩃chōng",
+                    "meanings": [
+                        "《龍龕手鑑》音憧"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩅",
+            "pinyins": [
+                {
+                    "pinyin": "𧩅yàn",
+                    "meanings": [
+                        "《川篇》魚變切"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩒",
+            "pinyins": [
+                {
+                    "pinyin": "𧩒mǔ",
+                    "meanings": [
+                        "《字彙補·言部》：“𧩒，名剖切，音母"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩚",
+            "pinyins": [
+                {
+                    "pinyin": "𧩚chī",
+                    "meanings": [
+                        "不知"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩝",
+            "pinyins": [
+                {
+                    "pinyin": "𧩝sù",
+                    "meanings": [
+                        "《川篇》音素"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩣",
+            "pinyins": [
+                {
+                    "pinyin": "𧩣nǎo",
+                    "meanings": [
+                        "语相侮"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩦",
+            "pinyins": [
+                {
+                    "pinyin": "𧩦jí",
+                    "meanings": [
+                        "说话迟钝吃力"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩧",
+            "pinyins": [
+                {
+                    "pinyin": "𧩧duó",
+                    "meanings": [
+                        "欺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩨",
+            "pinyins": [
+                {
+                    "pinyin": "hòu",
+                    "meanings": [
+                        "言貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩪",
+            "pinyins": [
+                {
+                    "pinyin": "𧩪còng",
+                    "meanings": [
+                        "〔𧩪詷〕言急"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩬",
+            "pinyins": [
+                {
+                    "pinyin": "𧩬yín",
+                    "meanings": [
+                        "顽"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩮",
+            "pinyins": [
+                {
+                    "pinyin": "xiǎo",
+                    "meanings": [
+                        "引诱；诱导"
+                    ]
+                },
+                {
+                    "pinyin": "sǒu",
+                    "meanings": [
+                        "〔𧩮訹〕引导或引诱的话"
+                    ]
+                },
+                {
+                    "pinyin": "sòu",
+                    "meanings": [
+                        "私詈"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩰",
+            "pinyins": [
+                {
+                    "pinyin": "𧩰biàn",
+                    "meanings": [
+                        "佛经译音用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩱",
+            "pinyins": [
+                {
+                    "pinyin": "𧩱bèng",
+                    "meanings": [
+                        "助，助言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩲",
+            "pinyins": [
+                {
+                    "pinyin": "𧩲là",
+                    "meanings": [
+                        "〔䜎𧩲〕语声杂乱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩴",
+            "pinyins": [
+                {
+                    "pinyin": "chì",
+                    "meanings": [
+                        "言缓貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩶",
+            "pinyins": [
+                {
+                    "pinyin": "⁹𧩶qià",
+                    "meanings": [
+                        "〔𧩶詬〕善于花言巧语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩹",
+            "pinyins": [
+                {
+                    "pinyin": "shī",
+                    "meanings": [
+                        "多言"
+                    ]
+                },
+                {
+                    "pinyin": "yǐ",
+                    "meanings": [
+                        "自得之语"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧩼",
+            "pinyins": [
+                {
+                    "pinyin": "zhǐ",
+                    "meanings": [
+                        "言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪘",
+            "pinyins": [
+                {
+                    "pinyin": "chài",
+                    "meanings": [
+                        "异言"
+                    ]
+                },
+                {
+                    "pinyin": "cuò",
+                    "meanings": [
+                        "言失"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪚",
+            "pinyins": [
+                {
+                    "pinyin": "𧪚ái",
+                    "meanings": [
+                        "谨"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪝",
+            "pinyins": [
+                {
+                    "pinyin": "𧪝shèng",
+                    "meanings": [
+                        "促言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪞",
+            "pinyins": [
+                {
+                    "pinyin": "hé",
+                    "meanings": [
+                        "静"
+                    ]
+                },
+                {
+                    "pinyin": "kē",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪠",
+            "pinyins": [
+                {
+                    "pinyin": "jí",
+                    "meanings": [
+                        "苦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪡",
+            "pinyins": [
+                {
+                    "pinyin": "𧪡chī",
+                    "meanings": [
+                        "怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪢",
+            "pinyins": [
+                {
+                    "pinyin": "𧪢xì",
+                    "meanings": [
+                        "语气"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪣",
+            "pinyins": [
+                {
+                    "pinyin": "𧪣zhēng",
+                    "meanings": [
+                        "〔𧪣仍〕语烦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪨",
+            "pinyins": [
+                {
+                    "pinyin": "𧪨mà",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪫",
+            "pinyins": [
+                {
+                    "pinyin": "𧪫pī",
+                    "meanings": [
+                        "呵斥声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪮",
+            "pinyins": [
+                {
+                    "pinyin": "huá",
+                    "meanings": [
+                        "应声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪯",
+            "pinyins": [
+                {
+                    "pinyin": "𧪯qiǎn",
+                    "meanings": [
+                        "小息"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧪹",
+            "pinyins": [
+                {
+                    "pinyin": "𧪹xià",
+                    "meanings": [
+                        "欺骗；迷惑"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫊",
+            "pinyins": [
+                {
+                    "pinyin": "𧫊yù",
+                    "meanings": [
+                        "《類篇》：“𧫊，音郁"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫑",
+            "pinyins": [
+                {
+                    "pinyin": "𧫑jié",
+                    "meanings": [
+                        "《字彙補·言部》：“𧫑，渠業切，音佶"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫓",
+            "pinyins": [
+                {
+                    "pinyin": "𧫓lǔ",
+                    "meanings": [
+                        "〔𧫓𧬏〕也作“鹵莽”、“𧬏𧫓”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫕",
+            "pinyins": [
+                {
+                    "pinyin": "qiè",
+                    "meanings": [
+                        "正言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫗",
+            "pinyins": [
+                {
+                    "pinyin": "𧫗chà",
+                    "meanings": [
+                        "异言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫛",
+            "pinyins": [
+                {
+                    "pinyin": "𧫛yàng",
+                    "meanings": [
+                        "声变"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫜",
+            "pinyins": [
+                {
+                    "pinyin": "𧫜jì",
+                    "meanings": [
+                        "言无次"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫝",
+            "pinyins": [
+                {
+                    "pinyin": "𧫝shǎ",
+                    "meanings": [
+                        "言语强拗"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫞",
+            "pinyins": [
+                {
+                    "pinyin": "𧫞lòu",
+                    "meanings": [
+                        "〔𧫞詬〕忽然发怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫡",
+            "pinyins": [
+                {
+                    "pinyin": "𧫡zhì",
+                    "meanings": [
+                        "〔譗𧫡〕见“譗”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫢",
+            "pinyins": [
+                {
+                    "pinyin": "wàng",
+                    "meanings": [
+                        "责备"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫤",
+            "pinyins": [
+                {
+                    "pinyin": "bì",
+                    "meanings": [
+                        "敬"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫥",
+            "pinyins": [
+                {
+                    "pinyin": "𧫥ān",
+                    "meanings": [
+                        "〔𧫥阿〕语不决"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫦",
+            "pinyins": [
+                {
+                    "pinyin": "yī",
+                    "meanings": [
+                        "应声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫧",
+            "pinyins": [
+                {
+                    "pinyin": "àn",
+                    "meanings": [
+                        "背诵"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫬",
+            "pinyins": [
+                {
+                    "pinyin": "𧫬lí",
+                    "meanings": [
+                        "骂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫾",
+            "pinyins": [
+                {
+                    "pinyin": "𧫾jiù",
+                    "meanings": [
+                        "谄媚；奉承"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧫿",
+            "pinyins": [
+                {
+                    "pinyin": "𧫿tǎn",
+                    "meanings": [
+                        "〔𧫿䜗〕言不定"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬁",
+            "pinyins": [
+                {
+                    "pinyin": "𧬁hào",
+                    "meanings": [
+                        "〔𧬁䜋〕相欺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬂",
+            "pinyins": [
+                {
+                    "pinyin": "𧬂hè",
+                    "meanings": [
+                        "表示应诺"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬅",
+            "pinyins": [
+                {
+                    "pinyin": "𧬅zhā",
+                    "meanings": [
+                        "〔𧬅詉〕语不可解"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬆",
+            "pinyins": [
+                {
+                    "pinyin": "𧬆zhǎn",
+                    "meanings": [
+                        "格人言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬇",
+            "pinyins": [
+                {
+                    "pinyin": "𧬇yì",
+                    "meanings": [
+                        "〔𧬇𧫚〕审谛"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬈",
+            "pinyins": [
+                {
+                    "pinyin": "𧬈xī",
+                    "meanings": [
+                        "急言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬊",
+            "pinyins": [
+                {
+                    "pinyin": "xì",
+                    "meanings": [
+                        "悲声"
+                    ]
+                },
+                {
+                    "pinyin": "sī",
+                    "meanings": [
+                        "谅"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬋",
+            "pinyins": [
+                {
+                    "pinyin": "𧬋fā",
+                    "meanings": [
+                        "出言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬌",
+            "pinyins": [
+                {
+                    "pinyin": "án",
+                    "meanings": [
+                        "和"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬏",
+            "pinyins": [
+                {
+                    "pinyin": "𧬏mǔ",
+                    "meanings": [
+                        "〔𧬏𧫓〕也作“鹵莽”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬕",
+            "pinyins": [
+                {
+                    "pinyin": "𧬕gū",
+                    "meanings": [
+                        "罪恶"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬤",
+            "pinyins": [
+                {
+                    "pinyin": "𧬤zhòng",
+                    "meanings": [
+                        "人名用字"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬧",
+            "pinyins": [
+                {
+                    "pinyin": "𧬧chuáng",
+                    "meanings": [
+                        "质"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬨",
+            "pinyins": [
+                {
+                    "pinyin": "huì",
+                    "meanings": [
+                        "声音"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬩",
+            "pinyins": [
+                {
+                    "pinyin": "¹³𧬩zá",
+                    "meanings": [
+                        "〔𧬩𧬩〕声音"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬪",
+            "pinyins": [
+                {
+                    "pinyin": "gùn",
+                    "meanings": [
+                        "摩人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬫",
+            "pinyins": [
+                {
+                    "pinyin": "𧬫jiǎn",
+                    "meanings": [
+                        "语烦"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬬",
+            "pinyins": [
+                {
+                    "pinyin": "𧬬yà",
+                    "meanings": [
+                        "〔䛽𧬬〕见“䛽”"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧬱",
+            "pinyins": [
+                {
+                    "pinyin": "𧬱hè",
+                    "meanings": [
+                        "〔譀𧬱〕怒貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭇",
+            "pinyins": [
+                {
+                    "pinyin": "𧭇mián",
+                    "meanings": [
+                        "聪明而狡猾"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭈",
+            "pinyins": [
+                {
+                    "pinyin": "níng",
+                    "meanings": [
+                        "小言"
+                    ]
+                },
+                {
+                    "pinyin": "nìng",
+                    "meanings": [
+                        "谄谀"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭊",
+            "pinyins": [
+                {
+                    "pinyin": "𧭊méng",
+                    "meanings": [
+                        "言不明"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭍",
+            "pinyins": [
+                {
+                    "pinyin": "zhòu",
+                    "meanings": [
+                        "〔僝𧭍〕恶言骂人"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭎",
+            "pinyins": [
+                {
+                    "pinyin": "𧭎pū",
+                    "meanings": [
+                        "以言蔽"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭏",
+            "pinyins": [
+                {
+                    "pinyin": "𧭏tāi",
+                    "meanings": [
+                        "订正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭓",
+            "pinyins": [
+                {
+                    "pinyin": "𧭓yíng",
+                    "meanings": [
+                        "（感情）炽热"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭔",
+            "pinyins": [
+                {
+                    "pinyin": "𧭔téng",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭕",
+            "pinyins": [
+                {
+                    "pinyin": "𧭕guó",
+                    "meanings": [
+                        "多言貌"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭚",
+            "pinyins": [
+                {
+                    "pinyin": "𧭚qiáng",
+                    "meanings": [
+                        "《類篇》：“𧭚，强、𠎦二音"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭜",
+            "pinyins": [
+                {
+                    "pinyin": "𧭜lǜ",
+                    "meanings": [
+                        "欺诈"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭝",
+            "pinyins": [
+                {
+                    "pinyin": "𧭝sà",
+                    "meanings": [
+                        "散言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭞",
+            "pinyins": [
+                {
+                    "pinyin": "𧭞liè",
+                    "meanings": [
+                        "〔𧭞𧭞〕多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭟",
+            "pinyins": [
+                {
+                    "pinyin": "𧭟chí",
+                    "meanings": [
+                        "失言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭠",
+            "pinyins": [
+                {
+                    "pinyin": "xiě",
+                    "meanings": [
+                        "言以写志"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭣",
+            "pinyins": [
+                {
+                    "pinyin": "𧭣guó",
+                    "meanings": [
+                        "〔𧭣𧭣〕多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭤",
+            "pinyins": [
+                {
+                    "pinyin": "bào",
+                    "meanings": [
+                        "〔𧭤譟〕恶"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭥",
+            "pinyins": [
+                {
+                    "pinyin": "𧭥luò",
+                    "meanings": [
+                        "〔𧭥詤〕狂言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭦",
+            "pinyins": [
+                {
+                    "pinyin": "xuàn（又读juàn）",
+                    "meanings": [
+                        "流言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭪",
+            "pinyins": [
+                {
+                    "pinyin": "𧭪è",
+                    "meanings": [
+                        "声"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭳",
+            "pinyins": [
+                {
+                    "pinyin": "𧭳hé",
+                    "meanings": [
+                        "咏唱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭸",
+            "pinyins": [
+                {
+                    "pinyin": "𧭸xiè",
+                    "meanings": [
+                        "诫"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭹",
+            "pinyins": [
+                {
+                    "pinyin": "pín",
+                    "meanings": [
+                        "匹偶"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭻",
+            "pinyins": [
+                {
+                    "pinyin": "𧭻hān",
+                    "meanings": [
+                        "爱"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭼",
+            "pinyins": [
+                {
+                    "pinyin": "𧭼chèn",
+                    "meanings": [
+                        "应答之言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧭽",
+            "pinyins": [
+                {
+                    "pinyin": "shàn",
+                    "meanings": [
+                        "正"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮆",
+            "pinyins": [
+                {
+                    "pinyin": "𧮆yīng",
+                    "meanings": [
+                        "怒"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮑",
+            "pinyins": [
+                {
+                    "pinyin": "tà",
+                    "meanings": [
+                        "多言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮗",
+            "pinyins": [
+                {
+                    "pinyin": "𧮗liú",
+                    "meanings": [
+                        "《搜真玉鏡》：“𧮗，音留"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮙",
+            "pinyins": [
+                {
+                    "pinyin": "𧮙zuó",
+                    "meanings": [
+                        "责骂"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮝",
+            "pinyins": [
+                {
+                    "pinyin": "𧮝pín",
+                    "meanings": [
+                        "匹"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮞",
+            "pinyins": [
+                {
+                    "pinyin": "𧮞xuè",
+                    "meanings": [
+                        "妄言"
+                    ]
+                }
+            ]
+        },
+        {
+            "character": "𧮤",
+            "pinyins": [
+                {
+                    "pinyin": "²¹𧮤lǎn",
+                    "meanings": [
+                        "《篇韻》"
+                    ]
+                }
+            ]
+        }
+    ]
+}
