@@ -7,7 +7,7 @@ import networkx as nx
 import time
 from matplotlib.font_manager import FontProperties
 import matplotlib.path as mpath
-
+import plotly.graph_objects as go
 
 # 设置字体为支持中文的字体
 font_path = "C:/Windows/Fonts/MSYH.TTC"
@@ -50,6 +50,23 @@ def load_vectors_and_meanings(json_path):
     return vectors, display_texts
 
 def plot_graph(vectors, labels, meanings):
+    x, y = zip(*vectors)
+    trace = go.Scatter(x=x, y=y, mode='markers', marker=dict(color=labels), text=meanings)
+    
+    layout = go.Layout(
+        title="所有释义聚类图",
+        hovermode='closest',
+        xaxis=dict(title='x轴'),
+        yaxis=dict(title='y轴'),
+        showlegend=False
+    )
+
+    fig = go.Figure(data=[trace], layout=layout)
+
+    output_dir = 'hpsrc/ForPicture/pic_html'
+    os.makedirs(output_dir, exist_ok=True)  
+    fig.write_html(f'{output_dir}/everymeaning.html') #生成html文件
+    
     G = nx.Graph()
     for i, vector in enumerate(vectors):
         G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
