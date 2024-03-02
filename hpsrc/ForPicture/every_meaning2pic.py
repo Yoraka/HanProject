@@ -1,96 +1,153 @@
-import os
 import json
+import os
 import numpy as np
-import matplotlib.colors as mcolors
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import networkx as nx
-from sklearn.manifold import MDS
-from scipy.spatial.distance import cosine
-from sklearn.manifold import TSNE
+import time
+from matplotlib.font_manager import FontProperties
+import matplotlib.path as mpath
 
-def reduce_dimensions(vectors, method='tsne', n_components=2, random_state=None):
-    if method == 'tsne':
-        tsne = TSNE(n_components=n_components, random_state=random_state)
-        reduced_vectors = tsne.fit_transform(vectors)
-    else:
-        raise ValueError("Unsupported dimensionality reduction method: {}".format(method))
+
+# 设置字体为支持中文的字体
+font_path = "C:/Windows/Fonts/MSYH.TTC"
+chinese_font = FontProperties(fname=font_path)
+
+def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100):
+    tsne = TSNE(n_components=n_components, random_state=random_state,perplexity=perplexity)
+    reduced_vectors = tsne.fit_transform(vectors)
     return reduced_vectors
+import numpy as np
 
-def load_vectors(file_path):
-    """加载向量数据"""
-    with np.load(file_path, allow_pickle=True) as data:
-        vectors = data['vectors']
-        feature_names = data['feature_names']
-    return vectors, feature_names
+def load_vectors_and_meanings(json_path):
+   
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except json.JSONDecodeError:
+        print(f"Error reading or parsing {json_path}")
+        return [], []
 
-def load_data(file_paths):
-    """加载数据"""
-    data = []
-    for file_path in file_paths:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            json_data = json.load(file)
-            for entry in json_data:
-                for definition in entry["definitions"]:
-                    for meaning in definition["meanings"]:
-                        data.append(meaning)
-    return data
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-def calculate_similarity_matrix(vectors):
-    """计算相似度矩阵"""
-    n = len(vectors)
-    similarity_matrix = np.zeros((n, n))
-    for i in range(n):
-        for j in range(i + 1, n):
-            similarity = 1 - cosine(vectors[i], vectors[j])
-            similarity_matrix[i, j] = similarity_matrix[j, i] = similarity
-    return similarity_matrix
+    vectors = []
+    display_texts = []
+    for item in data:
+        character = item['character']
+        for definition in item['definitions']:
+            meanings = definition['meanings']
+            vec_strs = definition['vec']
+            for meaning, vec_str in zip(meanings, vec_strs):
+                display_text = f"{character}:{meaning}"
+                display_texts.append(display_text)
+                vec = [float(x) for x in vec_str.split(',')]
+                vectors.append(vec)
 
-def plot_graph(vectors, labels, file_paths):
-    """绘制图形，不包含边"""
-    # 为每个文件创建颜色映射
-    colors = ['red', 'green', 'blue', 'orange', 'purple']
-    color_map = {file_path: color for file_path, color in zip(file_paths, colors)}
+    # Convert list of lists to a numpy array
+    vectors = np.array(vectors)
 
-    # 根据其标签为每个向量创建颜色列表
-    vector_colors = [color_map[label] for label in labels]
+    return vectors, display_texts
 
-    # 调整颜色的透明度
-    vector_colors = [(mcolors.to_rgba(color)[:3] + (0.5,)) for color in vector_colors]
-
-    # 创建网络图
+def plot_graph(vectors, labels, meanings):
     G = nx.Graph()
-
-    # 添加节点及其属性
     for i, vector in enumerate(vectors):
-        G.add_node(i, pos=vector, label=labels[i], color=vector_colors[i])
+        G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
 
-    # 不绘制边地绘制图形
-    nx.draw(G, nx.get_node_attributes(G, 'pos'), with_labels=False, node_color=[data['color'] for _, data in G.nodes(data=True)], node_size=50)
+    pos = nx.get_node_attributes(G, 'pos')
+    fig, ax = plt.subplots(figsize=(50, 50))
+    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=10)
+
+    annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
+                        bbox=dict(boxstyle="round", fc="w"),
+                        arrowprops=dict(arrowstyle="->"))
+    annot.set_visible(False)
+
+    def update_annot(node):
+        x, y = pos[node]
+        annot.xy = (x, y)
+        text = G.nodes[node]['label']
+        annot.set_text(text)
+        annot.get_bbox_patch().set_alpha(0.4)
+        annot.set_fontproperties(chinese_font)
+        annot.set_position((0,10))  # Change this to control the position of the annotation box
+        print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
+
+    def hover(event):
+        vis = annot.get_visible()
+        if event.inaxes == ax:
+            print('Hovering')  # For debugging
+            for node in G.nodes:
+                x, y = pos[node]
+                dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
+                if dist < 1:  # Adjust this value as needed
+                    update_annot(node)
+                    annot.set_visible(True)
+                    fig.canvas.draw_idle()
+                    return
+                if vis:
+                    annot.set_visible(False)
+                    fig.canvas.draw_idle()
+
+
+    fig.canvas.mpl_connect("motion_notify_event", hover)
+    fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
 
+
 def main():
-    file_paths = [
-        'output/parsed_json/a9_⼈部.json',
-        'output/parsed_json/a30_⼝部.json',
-        'output/parsed_json/a61_⼼部.json',
-        'output/parsed_json/a76_⽋部.json',
-        'output/parsed_json/a149_⾔部.json'
-    ]
+    start_time = time.time()
+    json_directory = 'output\_五大类25小类json'
+    
+    # 生成从'a'到'z'的前缀列表
+    prefixes = [chr(i) for i in range(ord('a'), ord('z')+1)]
+    
+    # 生成颜色列表，重复5次以满足需求
+    colors = ['red', 'green', 'blue', 'orange', 'purple'] * 5  
+    
+    # 创建从前缀到颜色的映射
+    color_mapping = dict(zip(prefixes, colors))  
 
-    vectors, feature_names = load_vectors('output/vectors/vector_data.npz')
-    reduced_vectors = reduce_dimensions(vectors, method='tsne')
+    all_vectors = []
+    all_labels = []
+    all_meanings = []
 
-    # 创建每个向量的标签，基于它来自的文件
-    labels = []
-    for file_path in file_paths:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            json_data = json.load(file)
-            for entry in json_data:
-                for definition in entry["definitions"]:
-                    count = len(definition['meanings'])
-                    labels.extend([file_path] * count)
+    # 遍历json_directory及其所有子目录，并处理所有的JSON文件
+    for root, dirs, files in os.walk(json_directory):
+        for file in files:
+            if file.endswith('.json'):
+                json_path = os.path.join(root, file)
+                
+                # 从文件名提取前缀，这里取的是第一个字符
+                prefix = file[0]  
+                
+                # 查找颜色映射，如果前缀未在映射中找到，则默认为灰色
+                color = color_mapping.get(prefix, 'gray')  
+                
+                vectors, meanings = load_vectors_and_meanings(json_path)
+                all_vectors.append(vectors)
+                all_labels.extend([color] * len(vectors))
+                all_meanings.extend(meanings)
 
-    plot_graph(reduced_vectors, labels, file_paths)
+    print("完成向量加载。")
+    load_end = time.time()
+    print(f"加载向量耗时 {load_end - start_time} 秒。")
+
+    print("正在降维...")
+    reduction_start = time.time()
+    vectors = np.concatenate(all_vectors, axis=0)
+    reduced_vectors = reduce_dimensions(vectors)
+    reduction_end = time.time()
+    print(f"降维耗时 {reduction_end - reduction_start} 秒。")
+
+    print("正在绘制图形...")
+    plot_start = time.time()
+    plot_graph(reduced_vectors, all_labels, all_meanings)
+    plot_end = time.time()
+    print(f"绘图耗时 {plot_end - plot_start} 秒。")
+
+    end_time = time.time()
+    print(f"程序总运行时间： {end_time - start_time} 秒。")
 
 if __name__ == '__main__':
     main()

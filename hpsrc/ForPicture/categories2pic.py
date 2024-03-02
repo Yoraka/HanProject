@@ -1,69 +1,144 @@
-import os
 import json
+import os
 import numpy as np
-import matplotlib.colors as mcolors
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import networkx as nx
-from scipy.spatial.distance import cosine
+import time
+from matplotlib.font_manager import FontProperties
+import matplotlib.path as mpath
 
-def load_vectors(file_paths):
+
+# 设置字体为支持中文的字体
+font_path = "C:/Windows/Fonts/MSYH.TTC"
+chinese_font = FontProperties(fname=font_path)
+
+def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100):
+    tsne = TSNE(n_components=n_components, random_state=random_state,perplexity=perplexity)
+    reduced_vectors = tsne.fit_transform(vectors)
+    return reduced_vectors
+import numpy as np
+
+def load_vectors_and_meanings(json_path):
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
     vectors = []
-    labels = []
-    for file_path in file_paths:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            data = json.load(file)
-            for item in data:
-                vectors.append(np.array(item['vector']))
-                labels.append(file_path)
-    return np.array(vectors), labels
+    display_texts = []
+    for item in data:
+        character = item['character']
+        for definition in item['definitions']:
+            meanings = definition['meanings']
+            vec_strs = definition['vec']
+            for meaning, vec_str in zip(meanings, vec_strs):
+                display_text = f"{character}:{meaning}"
+                display_texts.append(display_text)
+                vec = [float(x) for x in vec_str.split(',')]
+                vectors.append(vec)
 
-def plot_graph(reduced_vectors, labels, file_paths):
-    # 为每个文件创建一个颜色映射
-    colors = ['red', 'green', 'blue', 'orange', 'purple']
-    color_map = {file_path: color for file_path, color in zip(file_paths, colors)}
+    # Convert list of lists to a numpy array
+    vectors = np.array(vectors)
 
-    # 根据标签为每个向量创建颜色列表
-    vector_colors = [color_map[label] for label in labels]
+    return vectors, display_texts
 
-    # 调整颜色的透明度
-    vector_colors = [(mcolors.to_rgba(color)[:3] + (0.5,)) for color in vector_colors]
-
-    # 创建网络图
+def plot_graph(vectors, labels, meanings):
     G = nx.Graph()
+    for i, vector in enumerate(vectors):
+        G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
 
-    # 添加具有属性的节点
-    for i, vector in enumerate(reduced_vectors):
-        G.add_node(i, vector=vector, label=labels[i], color=vector_colors[i])
+    pos = nx.get_node_attributes(G, 'pos')
+    fig, ax = plt.subplots(figsize=(50, 50))
+    nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=10)
 
-    # 计算向量之间的相似度并添加边
-    for i in range(len(reduced_vectors)):
-        for j in range(i + 1, len(reduced_vectors)):
-            similarity = 1 - cosine(reduced_vectors[i], reduced_vectors[j])
-            if similarity > 0.5:  # 可以调整这个阈值来控制添加边的密度
-                G.add_edge(i, j, weight=similarity)
+    annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
+                        bbox=dict(boxstyle="round", fc="w"),
+                        arrowprops=dict(arrowstyle="->"))
+    annot.set_visible(False)
 
-    # 使用相似度作为弹簧布局的权重
-    pos = nx.spring_layout(G, weight='weight', iterations=50, pos=None,
-                           dim=2, seed=None, k=None, scale=1)
+    def update_annot(node):
+        x, y = pos[node]
+        annot.xy = (x, y)
+        text = G.nodes[node]['label']
+        annot.set_text(text)
+        annot.get_bbox_patch().set_alpha(0.4)
+        annot.set_fontproperties(chinese_font)
+        annot.set_position((0,10))  # Change this to control the position of the annotation box
+        print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
 
-    # 绘制图形，边颜色设置为透明
-    nx.draw(G, pos, with_labels=False, node_color=[data['color'] for _, data in G.nodes(data=True)],
-            node_size=50, edge_color="none")
+    def hover(event):
+        vis = annot.get_visible()
+        if event.inaxes == ax:
+            print('Hovering')  # For debugging
+            for node in G.nodes:
+                x, y = pos[node]
+                dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
+                if dist < 1:  # Adjust this value as needed
+                    update_annot(node)
+                    annot.set_visible(True)
+                    fig.canvas.draw_idle()
+                    return
+                if vis:
+                    annot.set_visible(False)
+                    fig.canvas.draw_idle()
+
+
+    fig.canvas.mpl_connect("motion_notify_event", hover)
+    fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
 
+
 def main():
-    file_paths = [
-        'hpsrc\ForPicture\五大类绘图\五大类json\\benyi.json',
-        'hpsrc\ForPicture\五大类绘图\五大类json\\cixing.json',
-        'hpsrc\ForPicture\五大类绘图\五大类json\\mingcheng.json',
-        'hpsrc\ForPicture\五大类绘图\五大类json\\tongjaizi.json',
-        'hpsrc\ForPicture\五大类绘图\五大类json\\yinshenyi.json'
-    ]
+    start_time = time.time()
+    json_directory = 'output\_五大类25小类json'
+    
+    # 创建从子文件夹名到颜色的映射
+    color_mapping = {
+        'benyi_json': 'red',
+        'cixing_json': 'green',
+        'tongjia_json': 'blue',
+        'yinshen_json': 'orange',
+        'zhuanyong_json': 'purple'
+    }
 
-    vectors, labels = load_vectors(file_paths)
-    reduced_vectors = vectors[:, :2]  # 假设向量已经是降维后的
+    all_vectors = []
+    all_labels = []
+    all_meanings = []
 
-    plot_graph(reduced_vectors, labels, file_paths)
+    # 遍历json_directory及其所有子目录，并处理所有的JSON文件
+    for root, dirs, files in os.walk(json_directory):
+        for file in files:
+            if file.endswith('.json'):
+                json_path = os.path.join(root, file)
+                
+                # 根据当前子文件夹的名称来决定颜色
+                folder_name = os.path.basename(root)
+                color = color_mapping.get(folder_name, 'gray')  # 默认为灰色，如果子文件夹名未在映射中找到
+                
+                vectors, meanings = load_vectors_and_meanings(json_path)
+                all_vectors.append(vectors)
+                all_labels.extend([color] * len(vectors))
+                all_meanings.extend(meanings)
+
+    print("完成向量加载。")
+    load_end = time.time()
+    print(f"加载向量耗时 {load_end - start_time} 秒。")
+
+    print("正在降维...")
+    reduction_start = time.time()
+    vectors = np.concatenate(all_vectors, axis=0)
+    reduced_vectors = reduce_dimensions(vectors)
+    reduction_end = time.time()
+    print(f"降维耗时 {reduction_end - reduction_start} 秒。")
+
+    print("正在绘制图形...")
+    plot_start = time.time()
+    plot_graph(reduced_vectors, all_labels, all_meanings)
+    plot_end = time.time()
+    print(f"绘图耗时 {plot_end - plot_start} 秒。")
+
+    end_time = time.time()
+    print(f"程序总运行时间： {end_time - start_time} 秒。")
 
 if __name__ == '__main__':
     main()
+
