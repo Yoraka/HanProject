@@ -130,7 +130,6 @@ def main():
         all_labels.extend([color] * len(vectors))
         all_meanings.extend(meanings)
 
-
     print("完成向量加载。")
     load_end = time.time()
     print(f"加载向量耗时 {load_end - start_time} 秒。")

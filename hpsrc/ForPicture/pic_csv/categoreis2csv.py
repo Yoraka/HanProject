@@ -25,22 +25,24 @@ def load_vectors_and_meanings(json_path):
         data = json.load(f)
 
     vectors = []
-    display_texts = []
+    characters = []
+    meanings = []
     for item in data:
         character = item['character']
         for definition in item['definitions']:
-            meanings = definition['meanings']
+            meaning_list = definition['meanings']
             vec_strs = definition['vec']
-            for meaning, vec_str in zip(meanings, vec_strs):
-                display_text = f"{character}:{meaning}"
-                display_texts.append(display_text)
+            for meaning, vec_str in zip(meaning_list, vec_strs):
+                characters.append(character)
+                meanings.append(meaning)
                 vec = [float(x) for x in vec_str.split(',')]
                 vectors.append(vec)
 
     # Convert list of lists to a numpy array
     vectors = np.array(vectors)
 
-    return vectors, display_texts
+    return vectors, meanings, characters
+
 
 def plot_graph(vectors, labels, meanings):
     x, y = zip(*vectors)
@@ -55,10 +57,6 @@ def plot_graph(vectors, labels, meanings):
     )
 
     fig = go.Figure(data=[trace], layout=layout)
-
-    output_dir = 'hpsrc/ForPicture/pic_html'
-    os.makedirs(output_dir, exist_ok=True)  
-    fig.write_html(f'{output_dir}/categories.html') #生成html文件
     
     G = nx.Graph()
     for i, vector in enumerate(vectors):
@@ -104,12 +102,16 @@ def plot_graph(vectors, labels, meanings):
     fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
 
-def save_to_csv(vectors, labels, meanings, filename):
-    with open(filename, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerow(["Vector1", "Vector2", "Color", "Meaning"])  # Header
-        for vector, label, meaning in zip(vectors, labels, meanings):
-            writer.writerow([vector[0], vector[1], label, meaning])
+def save_to_csv(vectors, labels, meanings, characters, filename):
+    try:
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(["Vector1", "Vector2", "Color", "Meaning", "Character"])  # Header
+            for vector, label, meaning, character in zip(vectors, labels, meanings, characters):
+                writer.writerow([vector[0], vector[1], label, meaning, character])
+    except Exception as e:
+        print(f"Failed to write to CSV file '{filename}': {e}")
+
 
 def main():
     start_time = time.time()
@@ -127,6 +129,7 @@ def main():
     all_vectors = []
     all_labels = []
     all_meanings = []
+    all_characters = []
 
     # 遍历json_directory及其所有子目录，并处理所有的JSON文件
     for root, dirs, files in os.walk(json_directory):
@@ -138,10 +141,11 @@ def main():
                 folder_name = os.path.basename(root)
                 color = color_mapping.get(folder_name, 'gray')  # 默认为灰色，如果子文件夹名未在映射中找到
                 
-                vectors, meanings = load_vectors_and_meanings(json_path)
+                vectors, meanings,characters = load_vectors_and_meanings(json_path)
                 all_vectors.append(vectors)
                 all_labels.extend([color] * len(vectors))
                 all_meanings.extend(meanings)
+                all_characters.extend(characters)
 
     print("完成向量加载。")
     load_end = time.time()
@@ -163,7 +167,7 @@ def main():
     print("正在保存结果到CSV文件...")
     output_csv_dir = 'hpsrc/ForPicture/pic_csv'
     os.makedirs(output_csv_dir, exist_ok=True)  # Ensure the directory exists
-    save_to_csv(reduced_vectors, all_labels, all_meanings, f'{output_csv_dir}/categories.csv')
+    save_to_csv(reduced_vectors, all_labels, all_meanings, all_characters, f'{output_csv_dir}/categories.csv')
 
     end_time = time.time()
     print(f"程序总运行时间： {end_time - start_time} 秒。")

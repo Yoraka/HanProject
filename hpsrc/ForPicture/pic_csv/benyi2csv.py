@@ -20,28 +20,6 @@ def reduce_dimensions(vectors, n_components=2, random_state=None,perplexity=100)
     return reduced_vectors
 import numpy as np
 
-def load_vectors_and_meanings(json_path):
-    with open(json_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    vectors = []
-    display_texts = []
-    for item in data:
-        character = item['character']
-        for definition in item['definitions']:
-            meanings = definition['meanings']
-            vec_strs = definition['vec']
-            for meaning, vec_str in zip(meanings, vec_strs):
-                display_text = f"{character}:{meaning}"
-                display_texts.append(display_text)
-                vec = [float(x) for x in vec_str.split(',')]
-                vectors.append(vec)
-
-    # Convert list of lists to a numpy array
-    vectors = np.array(vectors)
-
-    return vectors, display_texts
-
 def plot_graph(vectors, labels, meanings):
     x, y = zip(*vectors)
     trace = go.Scatter(x=x, y=y, mode='markers', marker=dict(color=labels), text=meanings)
@@ -55,10 +33,6 @@ def plot_graph(vectors, labels, meanings):
     )
 
     fig = go.Figure(data=[trace], layout=layout)
-
-    output_dir = 'hpsrc/ForPicture/pic_html'
-    os.makedirs(output_dir, exist_ok=True)  
-    fig.write_html(f'{output_dir}/benyi.html') #生成html文件
 
 
     G = nx.Graph()
@@ -105,12 +79,39 @@ def plot_graph(vectors, labels, meanings):
     fig.tight_layout()  # This will make the annotation box resize based on its content
     plt.show()
 
-def save_to_csv(vectors, labels, meanings, filename):
-    with open(filename, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerow(["Vector1", "Vector2", "Color", "Meaning"])  # Header
-        for vector, label, meaning in zip(vectors, labels, meanings):
-            writer.writerow([vector[0], vector[1], label, meaning])
+def load_vectors_and_meanings(json_path):
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    vectors = []
+    characters = []
+    meanings = []
+    for item in data:
+        character = item['character']
+        for definition in item['definitions']:
+            meaning_list = definition['meanings']
+            vec_strs = definition['vec']
+            for meaning, vec_str in zip(meaning_list, vec_strs):
+                characters.append(character)
+                meanings.append(meaning)
+                vec = [float(x) for x in vec_str.split(',')]
+                vectors.append(vec)
+
+    # Convert list of lists to a numpy array
+    vectors = np.array(vectors)
+
+    return vectors, characters, meanings
+
+def save_to_csv(vectors, labels, characters, meanings, filename):
+    try:
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(["Vector1", "Vector2", "Color", "Meaning", "Character"])  # Header
+            for vector, label, character, meaning in zip(vectors, labels, meanings, characters):
+                writer.writerow([vector[0], vector[1], label, meaning, character])
+    except Exception as e:
+        print(f"Failed to write to CSV file '{filename}': {e}")
+
 
 def main():
     start_time = time.time()
@@ -126,16 +127,19 @@ def main():
     all_vectors = []
     all_labels = []
     all_meanings = []
+    all_characters = []
 
     for json_file in os.listdir(json_directory):
         if json_file.endswith('.json'):
             json_path = os.path.join(json_directory, json_file)
             prefix = json_file.split('_')[0]  # Extract prefix from filename
             color = color_mapping.get(prefix, 'gray')  # Default to gray if prefix not found in mapping
-            vectors, meanings = load_vectors_and_meanings(json_path)
+            vectors, characters, meanings = load_vectors_and_meanings(json_path)
             all_vectors.append(vectors)
             all_labels.extend([color] * len(vectors))
+            all_characters.extend(characters)
             all_meanings.extend(meanings)
+
 
     print("完成向量加载。")
     load_end = time.time()
@@ -157,7 +161,7 @@ def main():
     print("正在保存结果到CSV文件...")
     output_csv_dir = 'hpsrc/ForPicture/pic_csv'
     os.makedirs(output_csv_dir, exist_ok=True)  # Ensure the directory exists
-    save_to_csv(reduced_vectors, all_labels, all_meanings, f'{output_csv_dir}/benyi.csv')
+    save_to_csv(reduced_vectors, all_labels, all_meanings, all_characters, f'{output_csv_dir}/benyi.csv')
     
     end_time = time.time()
     print(f"程序总运行时间： {end_time - start_time} 秒。")
