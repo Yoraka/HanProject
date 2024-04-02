@@ -2,6 +2,8 @@ import hpsrc.data_processing.parse as parse
 import hpsrc.data_processing.checkpointOne as checkpointOne
 import hpsrc.data_processing.json2vec as json2vec
 import hpsrc.data_processing.RadicalCollector as RadicalCollector
+from hpsrc.indexing.UnihanIRGs import UnihanIRGs
+from hpsrc.data_collector.basicDataCollector import BasicDataCollector
 import sys
 
 def run(argv):
@@ -40,5 +42,12 @@ def run(argv):
 
     print('All done.')
 
+def test_run():
+    basicDataCollector = BasicDataCollector()
+    unihanIRGs = UnihanIRGs()
+    basicDataCollector.collect_data(unihanIRGs)
+    basicDataCollector.save_data()
+
 if __name__ == '__main__':
-    run(sys.argv)
+    test_run()
+    #run(sys.argv)
