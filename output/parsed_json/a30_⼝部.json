@@ -315,7 +315,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": null,
+                "pinyin": "ň",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -460,13 +460,13 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hòu",
                 "rhyme_book": "hòu　㊀《廣韻》呼漏切，去候曉。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hòu",
                 "rhyme_book": "《廣韻》胡口切，上厚匣。",
                 "meanings": [
@@ -566,9 +566,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wěi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》羊委切。",
                 "meanings": [
-                    "《川篇》羊委切",
                     "唤鸭声"
                 ]
             }
@@ -954,13 +953,13 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yān",
                 "rhyme_book": "yān　㊀《集韻》因蓮切，平先影。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yān",
                 "rhyme_book": "《集韻》於閑切，平山影。",
                 "meanings": [
@@ -2138,7 +2137,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yì",
                 "rhyme_book": "yì　㊀《廣韻》魚力切，入職疑。職部。",
                 "meanings": [
@@ -2146,7 +2145,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yì",
                 "rhyme_book": "《廣韻》魚記切，去志疑。",
                 "meanings": [
@@ -3120,10 +3119,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chǐ",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“叺，丑入切"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“叺，丑入切。”《海篇·口部》：“叺，音尺。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3467,7 +3464,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jí",
                 "rhyme_book": "《集韻》其吉切，入質羣。",
                 "meanings": [
@@ -3475,7 +3472,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jí",
                 "rhyme_book": "《集韻》極乙切，入質羣。",
                 "meanings": []
@@ -3514,9 +3511,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "dòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》田丑切。",
                 "meanings": [
-                    "《川篇》田丑切",
                     "叱"
                 ]
             },
@@ -3600,7 +3596,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "míng",
                 "rhyme_book": "《集韻》忙經切，平青明。",
                 "meanings": []
@@ -4367,7 +4363,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yí",
                 "rhyme_book": "yí　㊀《集韻》魚其切，平之疑。",
                 "meanings": [
@@ -4375,7 +4371,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yí",
                 "rhyme_book": "《集韻》魚衣切，平微疑。",
                 "meanings": [
@@ -4565,10 +4561,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tūn",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《俗字背篇》吐根切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》吐根切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4620,7 +4614,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xuè",
                 "rhyme_book": "xuè　㊀《廣韻》許劣切，入薛曉。月部。",
                 "meanings": [
@@ -4628,7 +4622,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xuè",
                 "rhyme_book": "《集韻》呼決切，入屑曉。",
                 "meanings": []
@@ -4928,9 +4922,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》古得切。",
                 "meanings": [
-                    "《川篇》古得切",
                     "财多"
                 ]
             }
@@ -5010,7 +5003,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chéng",
                 "rhyme_book": "《廣韻》直正切，去勁澄。",
                 "meanings": [
@@ -5389,7 +5382,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": null,
+                "pinyin": "ḿ",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词"
@@ -5712,13 +5705,13 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "cí",
                 "rhyme_book": "cí　㊀《集韻》才支切，平支從。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "cí",
                 "rhyme_book": "《集韻》牆之切，平之從。",
                 "meanings": [
@@ -5846,7 +5839,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hē",
                 "rhyme_book": "《廣韻》呼箇切，去箇曉。",
                 "meanings": [
@@ -6415,7 +6408,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zé",
                 "rhyme_book": "zé　㊀《廣韻》側革切，入麥莊。鐸部。",
                 "meanings": [
@@ -6978,7 +6971,7 @@
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dié",
                 "rhyme_book": "dié　㊀《廣韻》徒結切，入屑定。質部。",
                 "meanings": [
@@ -6986,7 +6979,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dié",
                 "rhyme_book": "《廣韻》丁結切，入屑端。",
                 "meanings": [
@@ -7357,7 +7350,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "zá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》子葛切。",
                 "meanings": [
                     "代词",
                     "语气词"
@@ -8173,9 +8166,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "diè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》地夜切。",
                 "meanings": [
-                    "《類篇》地夜切",
                     "咒语用字"
                 ]
             },
@@ -8251,7 +8243,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": null,
+                "pinyin": "ǹ",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词"
@@ -8820,7 +8812,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xiào",
                 "rhyme_book": "《廣韻》呼教切，去效曉。",
                 "meanings": [
@@ -9138,7 +9130,7 @@
             },
             {
                 "type": "multi_sound_multi_meaning",
-                "pinyin": "g（又读ń）",
+                "pinyin": "ǹg（又读ń）",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词",
@@ -9296,7 +9288,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hán",
                 "rhyme_book": "《廣韻》胡紺切，去勘匣。侵部。",
                 "meanings": [
@@ -9543,7 +9535,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xī",
                 "rhyme_book": "《廣韻》許既切，去未曉。",
                 "meanings": [
@@ -9661,7 +9653,7 @@
             },
             {
                 "type": "multi_sound_multi_meaning",
-                "pinyin": "g（又读ń）",
+                "pinyin": "ńg（又读ń）",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -9669,7 +9661,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": null,
+                "pinyin": "ḿ",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -10074,7 +10066,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shuā",
                 "rhyme_book": "《集韻》數滑切，入黠生。",
                 "meanings": [
@@ -11947,7 +11939,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dié",
                 "rhyme_book": "dié　㊀《廣韻》徒協切，入帖定。",
                 "meanings": [
@@ -11955,7 +11947,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dié",
                 "rhyme_book": "《廣韻》丁愜切，入帖端。",
                 "meanings": [
@@ -14062,7 +14054,7 @@
         "definitions": [
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": "g（又读ń）",
+                "pinyin": "ńg（又读ń）",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词"
@@ -14070,7 +14062,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": "g（又读ň）",
+                "pinyin": "ňg（又读ň）",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词"
@@ -14078,7 +14070,7 @@
             },
             {
                 "type": "multi_sound_single_meaning",
-                "pinyin": "g（又读ǹ）",
+                "pinyin": "ǹg（又读ǹ）",
                 "rhyme_book": null,
                 "meanings": [
                     "叹词"
@@ -14351,10 +14343,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "zhé",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音謫"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音謫。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -14429,9 +14419,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chōng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音憧。",
                 "meanings": [
-                    "《川篇》音憧",
                     "食貌"
                 ]
             }
@@ -15501,7 +15490,7 @@
             },
             {
                 "type": "multi_sound_multi_meaning",
-                "pinyin": null,
+                "pinyin": "ḿ",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -16236,7 +16225,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dā",
                 "rhyme_book": "《集韻》宅軋切，入黠澄。",
                 "meanings": [
@@ -16826,7 +16815,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "xīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》許淫切。",
                 "meanings": [
                     "亲吻",
                     "动，开"
@@ -17608,9 +17597,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "mó",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》文何切。",
                 "meanings": [
-                    "《奚韻》文何切",
                     "佛教咒语译音用字"
                 ]
             }
@@ -17822,7 +17810,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yán",
                 "rhyme_book": "《集韻》魚銜切，平銜疑。",
                 "meanings": [
@@ -18026,9 +18014,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》胡白切。",
                 "meanings": [
-                    "《川篇》胡白切",
                     "夸"
                 ]
             }
@@ -18439,11 +18426,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀷jī",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠀷，古的切"
-                ]
+                "pinyin": "jī",
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𠀷，古的切。”《字彙補·口部》：“𠀷，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -18482,11 +18467,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠏓xiān",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠏓，音仙"
-                ]
+                "pinyin": "xiān",
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𠏓，音仙。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -18498,7 +18481,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠏧chēng",
+                "pinyin": "chēng",
                 "rhyme_book": "《字彙補》楚生切。",
                 "meanings": [
                     "金声"
@@ -18514,7 +18497,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠙼guǎ",
+                "pinyin": "guǎ",
                 "rhyme_book": "《改併四聲篇海·口部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠙼，古瓦切"
@@ -18764,9 +18747,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "pǐn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》疋錦切。",
                 "meanings": [
-                    "《川篇》疋錦切",
                     "並"
                 ]
             }
@@ -18824,9 +18806,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "màng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》莫浪切。",
                 "meanings": [
-                    "《類篇》莫浪切",
                     "问而不答"
                 ]
             }
@@ -19045,9 +19026,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音獲。",
                 "meanings": [
-                    "《川篇》音獲",
                     "吐声"
                 ]
             }
@@ -19203,9 +19183,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "hōu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》火侯切。",
                 "meanings": [
-                    "《川篇》火侯切",
                     "笑貌"
                 ]
             },
@@ -19292,10 +19271,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "è",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠯪，五葛切"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𠯪，五葛切。”《字彙補·口部》：“𠯪，音遏。義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -19526,9 +19503,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》烏兮切。",
                 "meanings": [
-                    "《川篇》烏兮切",
                     "呢"
                 ]
             }
@@ -19568,9 +19544,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音金。",
                 "meanings": [
-                    "《川篇》音金",
                     "伯"
                 ]
             }
@@ -19651,7 +19626,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhǔ",
                 "rhyme_book": "zhǔ　㊀《集韻》冢庾切，上麌知。",
                 "meanings": [
@@ -19659,7 +19634,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhǔ",
                 "rhyme_book": "《集韻》腫庾切，上麌章。",
                 "meanings": [
@@ -19767,9 +19742,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》尺屈切。",
                 "meanings": [
-                    "《奚韻》尺屈切",
                     "唤人声"
                 ]
             }
@@ -19784,9 +19758,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》羊甘切。",
                 "meanings": [
-                    "《川篇》羊甘切",
                     "羊鸣"
                 ]
             }
@@ -19819,9 +19792,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音示。",
                 "meanings": [
-                    "《川篇》音示",
                     "贪吃喝"
                 ]
             }
@@ -20025,10 +19997,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "pō",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠰼，普末切，又音巿"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𠰼，普末切，又音巿。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -20117,7 +20087,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ōu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》多侯切。",
                 "meanings": [
                     "轻言",
                     "方言"
@@ -20261,7 +20231,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠱛bǐng",
+                "pinyin": "bǐng",
                 "rhyme_book": "《字彙》補永切。",
                 "meanings": [
                     "〔𧮼𠱛〕即“泰丙”，人名，*周穆王*的车右"
@@ -20394,9 +20364,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lěi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音耒。",
                 "meanings": [
-                    "《類篇》音耒",
                     "以言语相遮"
                 ]
             }
@@ -20571,9 +20540,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》女洽切。",
                 "meanings": [
-                    "《川篇》女洽切",
                     "动口"
                 ]
             }
@@ -20588,9 +20556,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yǔn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音喗。",
                 "meanings": [
-                    "《川篇》音喗",
                     "言"
                 ]
             }
@@ -20962,9 +20929,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nóu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》奴侯切。",
                 "meanings": [
-                    "《類篇》奴侯切",
                     "咒语"
                 ]
             }
@@ -21247,7 +21213,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠳋qiǎn",
+                "pinyin": "qiǎn",
                 "rhyme_book": "《廣韻》驅演切，上獮溪。",
                 "meanings": [
                     "小土块"
@@ -21585,10 +21551,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiǔ",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠴄，音糺"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𠴄，音糺。”《字彙補·口部》：“𠴄，音糺。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -21651,9 +21615,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》華板切。",
                 "meanings": [
-                    "《川篇》華板切",
                     "小笑貌"
                 ]
             }
@@ -21802,9 +21765,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》山涉切。",
                 "meanings": [
-                    "《川篇》山涉切",
                     "多言"
                 ]
             }
@@ -22239,10 +22201,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fěn",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《川篇》：“𠵮，音粉"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《川篇》：“𠵮，音粉。”《字彙補·口部》：“𠵮，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -22464,9 +22424,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》欣其切。",
                 "meanings": [
-                    "《川篇》欣其切",
                     "和声"
                 ]
             }
@@ -22499,9 +22458,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音大。",
                 "meanings": [
-                    "《類篇》音大",
                     "尝"
                 ]
             }
@@ -22516,9 +22474,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nàng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》奴浪切。",
                 "meanings": [
-                    "《川篇》奴浪切",
                     "宽𠶬"
                 ]
             }
@@ -22649,10 +22606,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hé",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《俗字背篇》：“𠶹，下没切"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《俗字背篇》：“𠶹，下没切。𠶹哩，出釋典。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -22746,9 +22701,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "qián",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音前。",
                 "meanings": [
-                    "《俗字背篇》音前",
                     "笑"
                 ]
             },
@@ -22888,9 +22842,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音厚。",
                 "meanings": [
-                    "《川篇》音厚",
                     "吐"
                 ]
             }
@@ -22927,9 +22880,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》他合切。",
                 "meanings": [
-                    "《俗字背篇》他合切",
                     "狗食貌"
                 ]
             }
@@ -23019,9 +22971,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhāi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》陟皆切。",
                 "meanings": [
-                    "《類篇》陟皆切",
                     "惹"
                 ]
             }
@@ -23417,10 +23368,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠸱nuò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "nuò",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》奴候切。《字彙補》農課切。",
                 "meanings": [
-                    "《搜真玉鏡》奴候切",
                     "羊叫"
                 ]
             }
@@ -23451,9 +23401,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bó",
-                "rhyme_book": "《改併四聲篇海·口部》引",
+                "rhyme_book": "《改併四聲篇海·口部》引《類篇》音缽。",
                 "meanings": [
-                    "《類篇》音缽",
                     "咒神"
                 ]
             }
@@ -23527,9 +23476,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音逆。",
                 "meanings": [
-                    "《俗字背篇》音逆",
                     "〔歐𠸺〕也作“嘔𠸺”、“嘔逆”"
                 ]
             }
@@ -23745,9 +23693,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》許交切。",
                 "meanings": [
-                    "《餘文》許交切",
                     "〔炰𠹎〕也作“炰烋”、“咆哮”"
                 ]
             }
@@ -23771,9 +23718,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chuǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》初瓦切。",
                 "meanings": [
-                    "《川篇》初瓦切",
                     "恶口"
                 ]
             }
@@ -23979,9 +23925,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zuō",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》祖郭切。",
                 "meanings": [
-                    "《川篇》祖郭切",
                     "鼠声"
                 ]
             }
@@ -25193,10 +25138,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠽝nín",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "nín",
+                "rhyme_book": "《改併四聲篇海》引《川篇》尼近切。",
                 "meanings": [
-                    "《川篇》尼近切",
                     "呼豕声"
                 ]
             }
@@ -25395,9 +25339,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音低。",
                 "meanings": [
-                    "《川篇》音低",
                     "小语"
                 ]
             }
@@ -25529,9 +25472,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音察。",
                 "meanings": [
-                    "《龍龕手鑑》音察",
                     "细言"
                 ]
             }
@@ -25555,9 +25497,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音哲。又知軋切。",
                 "meanings": [
-                    "《龍龕手鑑》音哲",
                     "〔嘲𠽻〕也作“嘲𠹗”、“嘲哳”"
                 ]
             }
@@ -25628,9 +25569,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》直列切。",
                 "meanings": [
-                    "《搜真玉鏡》直列切",
                     "话多，唠叨"
                 ]
             }
@@ -26029,9 +25969,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "mǎi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音買。",
                 "meanings": [
-                    "《川篇》音買",
                     "喷"
                 ]
             }
@@ -26502,7 +26441,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡀆nù",
+                "pinyin": "nù",
                 "rhyme_book": "《直音篇·喜部》：“𡀆，音怒。”",
                 "meanings": []
             }
@@ -26901,9 +26840,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yìng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》於孟切。",
                 "meanings": [
-                    "《餘文》於孟切",
                     "〔𡁊𡁊〕兽声"
                 ]
             }
@@ -27094,9 +27032,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "duì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》多耒切。",
                 "meanings": [
-                    "《搜真玉鏡》多耒切",
                     "对答"
                 ]
             }
@@ -27120,10 +27057,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jì",
-                "rhyme_book": "《改併四聲篇海·口部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡁪，音計"
-                ]
+                "rhyme_book": "《改併四聲篇海·口部》引《搜真玉鏡》：“𡁪，音計。”《字彙補·口部》：“𡁪，義無考。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -27245,9 +27180,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音余。",
                 "meanings": [
-                    "《搜真玉鏡》音余",
                     "水名"
                 ]
             }
@@ -27382,9 +27316,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wěi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音唯。",
                 "meanings": [
-                    "《川篇》音唯",
                     "相欲伏"
                 ]
             }
@@ -27440,9 +27373,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》徒候切。",
                 "meanings": [
-                    "《龍龕手鑑》徒候切",
                     "话多"
                 ]
             }
@@ -27968,9 +27900,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》力携切。",
                 "meanings": [
-                    "《川篇》力携切",
                     "唤狗声"
                 ]
             }
@@ -28087,9 +28018,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qìng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》詰定切。",
                 "meanings": [
-                    "《搜真玉鏡》詰定切",
                     "长声"
                 ]
             }
@@ -28737,9 +28667,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》知連切。",
                 "meanings": [
-                    "《類篇》知連切",
                     "难言"
                 ]
             }

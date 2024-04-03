@@ -661,9 +661,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》火頑切。",
                 "meanings": [
-                    "《類篇》火頑切",
                     "劣"
                 ]
             }
@@ -847,13 +846,13 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "mào　㊀《集韻》莫𠊱切，去候明。幽部。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "《集韻》莫後切，上厚明。",
                 "meanings": [
@@ -1130,19 +1129,16 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "qiú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》疾牛切。",
                 "meanings": [
-                    "《川篇》疾牛切",
                     "宫牫"
                 ]
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "zāng",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《龍龕手鑑》作郎切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》作郎切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2273,9 +2269,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音護。",
                 "meanings": [
-                    "《川篇》音護",
                     "臾"
                 ]
             }
@@ -2339,9 +2334,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chún",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音純。",
                 "meanings": [
-                    "《川篇》音純",
                     "迟"
                 ]
             }
@@ -2570,10 +2564,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hú",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤘵，音斛"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤘵，音斛。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2595,10 +2587,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shù",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤘷，音述"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤘷，音述。”《字彙補·牛部》：“𤘷，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2803,10 +2793,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qǐn",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤙋，輕近切"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤙋，輕近切。”《字彙補·牛部》：“𤙋，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3011,9 +2999,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "liáng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》力薑切。",
                 "meanings": [
-                    "《類篇》力薑切",
                     "牻"
                 ]
             }
@@ -3479,9 +3466,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhòng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》持用切。",
                 "meanings": [
-                    "《川篇》持用切",
                     "牛有孕"
                 ]
             }
@@ -3523,9 +3509,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》力支切。",
                 "meanings": [
-                    "《川篇》力支切",
                     "牛纹"
                 ]
             }
@@ -3624,10 +3609,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "táo",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤚟，徒勞切"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤚟，徒勞切。”《字彙補·牛部》：“𤚟，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3812,9 +3795,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》許又切。",
                 "meanings": [
-                    "《川篇》許又切",
                     "一种似熊的兽"
                 ]
             }
@@ -4159,10 +4141,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dǐng",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤛙，音頂"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤛙，音頂。”《字彙補·牛部》：“𤛙，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4538,9 +4518,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》作郎切。",
                 "meanings": [
-                    "《川篇》作郎切",
                     "牛善"
                 ]
             }
@@ -4705,10 +4684,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gē",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《類篇》：“𤜊，音哥"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《類篇》：“𤜊，音哥。”《字彙補·牛部》：“𤜊，古珂切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4721,9 +4698,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音會。",
                 "meanings": [
-                    "《搜真玉鏡》音會",
                     "兽名"
                 ]
             }
@@ -4822,10 +4798,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bà",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤜕，音霸"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤜕，音霸。”《字彙補·牛部》：“𤜕，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []

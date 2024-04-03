@@ -46,10 +46,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㒴gǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "gǔ",
+                "rhyme_book": "《改併四聲篇海》引《餘文》古忽切。",
                 "meanings": [
-                    "《餘文》古忽切",
                     "出"
                 ]
             }
@@ -219,10 +218,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓝tāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tāo",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音叨。",
                 "meanings": [
-                    "《川篇》音叨",
                     "取"
                 ]
             }
@@ -236,7 +234,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𠓞jí",
+                "pinyin": "jí",
                 "rhyme_book": "《改併四聲篇海·入部》引",
                 "meanings": [
                     "《川篇》：“𠓞，子入切"
@@ -279,10 +277,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓢jiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiè",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音介。",
                 "meanings": [
-                    "《川篇》音介",
                     "草巷"
                 ]
             }
@@ -296,7 +293,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓣zhá",
+                "pinyin": "zhá",
                 "rhyme_book": "《龍龕手鑑·入部》：“𠓣，宅甲反。”",
                 "meanings": []
             }
@@ -310,10 +307,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓤shī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shī",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音施。",
                 "meanings": [
-                    "《川篇》音施",
                     "宜"
                 ]
             }
@@ -354,10 +350,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓫biǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "biǎn",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音扁。",
                 "meanings": [
-                    "《類篇》音扁",
                     "小"
                 ]
             }
@@ -371,7 +366,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓭lǎn",
+                "pinyin": "lǎn",
                 "rhyme_book": "《集韻》盧感切，上感來。",
                 "meanings": [
                     "悲愁的样子"
@@ -387,7 +382,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓮lǐn",
+                "pinyin": "lǐn",
                 "rhyme_book": "《龍龕手鑑》力稔反。",
                 "meanings": [
                     "火舒"
@@ -430,10 +425,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓶zhì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhì",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音制。",
                 "meanings": [
-                    "《川篇》音制",
                     "挥"
                 ]
             }
@@ -480,10 +474,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠓽shèng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shèng",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音乘。",
                 "meanings": [
-                    "《類篇》音乘",
                     "车乘"
                 ]
             }
@@ -497,7 +490,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁸𠓿qín",
+                "pinyin": "qín",
                 "rhyme_book": "《改併四聲篇海·入部》引",
                 "meanings": [
                     "《川篇》：“𠓿，音琴"

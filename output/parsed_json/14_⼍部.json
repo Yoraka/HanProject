@@ -106,7 +106,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "冚kǎn",
+                "pinyin": "kǎn",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -326,7 +326,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "冧lín",
+                "pinyin": "lín",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -351,7 +351,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "³冪mì",
+                "pinyin": "mì",
                 "rhyme_book": "《集韻》莫狄切，入錫明。錫部。",
                 "meanings": [
                     "覆盖东西的巾、幔",
@@ -371,10 +371,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𠕳dí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "dí",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》丁立切。",
                 "meanings": [
-                    "《俗字背篇》丁立切",
                     "入"
                 ]
             }
@@ -388,11 +387,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕴jiū",
-                "rhyme_book": "《改併四聲篇海·冖部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𠕴，音鳩"
-                ]
+                "pinyin": "jiū",
+                "rhyme_book": "《改併四聲篇海·冖部》引《龍龕手鑑》：“𠕴，音鳩。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -413,7 +410,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕸suǐ",
+                "pinyin": "suǐ",
                 "rhyme_book": "《玉篇》息累切。",
                 "meanings": [
                     "并颈"
@@ -474,7 +471,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠖂liáo",
+                "pinyin": "liáo",
                 "rhyme_book": "《改併四聲篇海·冖部》引",
                 "meanings": [
                     "《併了部頭》：“𠖂，音尞"
@@ -499,7 +496,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠖄tóng",
+                "pinyin": "tóng",
                 "rhyme_book": "《玉篇》徒籠切。",
                 "meanings": [
                     "圆盖"
@@ -515,7 +512,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𠖆mèng",
+                "pinyin": "mèng",
                 "rhyme_book": "《改併四聲篇海·冖部》引",
                 "meanings": [
                     "《類篇》：“𠖆，音猛"
@@ -558,7 +555,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠖋yǒu",
+                "pinyin": "yǒu",
                 "rhyme_book": "《改併四聲篇海·冖部》引",
                 "meanings": [
                     "《類篇》：“𠖋，音酉"
@@ -583,10 +580,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠖓sī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "sī",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音司。",
                 "meanings": [
-                    "《龍龕手鑑》音司",
                     "姓"
                 ]
             }
@@ -627,7 +623,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𠖛lòu",
+                "pinyin": "lòu",
                 "rhyme_book": "《集韻》郎豆切，去候來。",
                 "meanings": [
                     "地名"
@@ -697,7 +693,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²¹𠖫gǎn",
+                "pinyin": "gǎn",
                 "rhyme_book": "《集韻》古禫切，上感見。",
                 "meanings": [
                     "盖"

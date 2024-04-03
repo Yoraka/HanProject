@@ -5,7 +5,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yǎn",
                 "rhyme_book": "",
                 "meanings": [
@@ -240,9 +240,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "chǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》丑善切。",
                 "meanings": [
-                    "《龍龕手鑑》丑善切",
                     "旗竿"
                 ]
             },
@@ -430,7 +429,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "páng",
                 "rhyme_book": "《集韻》鋪郎切，平唐滂。",
                 "meanings": [
@@ -516,7 +515,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "mào　㊀《廣韻》莫報切，去号明。宵部。",
                 "meanings": [
@@ -524,7 +523,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "《集韻》武道切，上晧明。",
                 "meanings": []
@@ -595,7 +594,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pī",
                 "rhyme_book": "pī　㊀《廣韻》敷覊切（《集韻》攀靡切），平支滂。歌部。",
                 "meanings": [
@@ -603,7 +602,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pī",
                 "rhyme_book": "《集韻》攀悲切，平脂滂。",
                 "meanings": [
@@ -1285,9 +1284,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《對韻音訓》於欠切。",
                 "meanings": [
-                    "《對韻音訓》於欠切",
                     "比物之长短"
                 ]
             }
@@ -1329,10 +1327,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fǎng",
-                "rhyme_book": "《改併四聲篇海·方部》引",
-                "meanings": [
-                    "《併了部頭》：“𣄅，音訪"
-                ]
+                "rhyme_book": "《改併四聲篇海·方部》引《併了部頭》：“𣄅，音訪。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1568,9 +1564,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《對韻音訓》音胡。",
                 "meanings": [
-                    "《對韻音訓》音胡",
                     "古代传说中的仙山"
                 ]
             }

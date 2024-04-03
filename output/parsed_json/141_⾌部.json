@@ -50,8 +50,8 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "䖌yì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yì",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》魚乙切。",
                 "meanings": [
                     "虎貌",
                     "一声"
@@ -67,7 +67,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䖎xiá",
+                "pinyin": "xiá",
                 "rhyme_book": "《玉篇》音狎。",
                 "meanings": [
                     "虎"
@@ -140,7 +140,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䖓nà",
+                "pinyin": "nà",
                 "rhyme_book": "《玉篇》女滑切。",
                 "meanings": [
                     "虎行貌"
@@ -163,7 +163,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hàn",
                 "rhyme_book": "hàn　㊀《廣韻》呼濫切，去闞曉。",
                 "meanings": [
@@ -171,7 +171,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hàn",
                 "rhyme_book": "《集韻》户感切，上感匣。",
                 "meanings": [
@@ -188,7 +188,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䖕zǔ",
+                "pinyin": "zǔ",
                 "rhyme_book": "《玉篇》昨古切。",
                 "meanings": [
                     "生虎"
@@ -262,7 +262,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䖚wū",
+                "pinyin": "wū",
                 "rhyme_book": "《玉篇》音烏。",
                 "meanings": [
                     "〔䖚䖘〕虎"
@@ -278,7 +278,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰䖛suǒ",
+                "pinyin": "suǒ",
                 "rhyme_book": "《玉篇》音索。",
                 "meanings": [
                     "虎貌"
@@ -984,7 +984,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆜xū",
+                "pinyin": "xū",
                 "rhyme_book": "《類篇》匈于切，平虞曉。",
                 "meanings": [
                     "虎吼"
@@ -1018,7 +1018,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆡xù",
+                "pinyin": "xù",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧆡，呼六切"
@@ -1173,11 +1173,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆯hù",
-                "rhyme_book": "《改併四聲篇海·虎部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧆯，虎伏切"
-                ]
+                "pinyin": "hù",
+                "rhyme_book": "《改併四聲篇海·虎部》引《搜真玉鏡》：“𧆯，虎伏切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1189,7 +1187,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆰zǐ",
+                "pinyin": "zǐ",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1214,7 +1212,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆷gōng",
+                "pinyin": "gōng",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1230,7 +1228,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆸tuī",
+                "pinyin": "tuī",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧆸，音推"
@@ -1246,7 +1244,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆹wū",
+                "pinyin": "wū",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧆹，屋扶切"
@@ -1262,7 +1260,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆺líng",
+                "pinyin": "líng",
                 "rhyme_book": "《廣韻》郎丁切，平青來。",
                 "meanings": [
                     "兽名"
@@ -1278,7 +1276,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧆻gū",
+                "pinyin": "gū",
                 "rhyme_book": "《玉篇》古呼切。",
                 "meanings": [
                     "姑息；休息"
@@ -1415,7 +1413,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇈zù",
+                "pinyin": "zù",
                 "rhyme_book": "《玉篇》才布切。",
                 "meanings": [
                     "且往"
@@ -1431,7 +1429,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇌tóng",
+                "pinyin": "tóng",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1447,7 +1445,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇍xiā",
+                "pinyin": "xiā",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧇍，呼加切"
@@ -1463,7 +1461,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇎hé",
+                "pinyin": "hé",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1541,7 +1539,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇙nán",
+                "pinyin": "nán",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1557,7 +1555,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇚bó",
+                "pinyin": "bó",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1573,7 +1571,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇛hū",
+                "pinyin": "hū",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《俗字背篇》：“𧇛，音呼"
@@ -1589,7 +1587,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇜qì",
+                "pinyin": "qì",
                 "rhyme_book": "《集韻》詰計切，去霽溪。",
                 "meanings": [
                     "兽很不动貌"
@@ -1605,7 +1603,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇝shū",
+                "pinyin": "shū",
                 "rhyme_book": "《玉篇》所禄切。",
                 "meanings": [
                     "虎行入林"
@@ -1621,7 +1619,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇞qiāng",
+                "pinyin": "qiāng",
                 "rhyme_book": "《玉篇》去良切。",
                 "meanings": [
                     "虎类"
@@ -1637,7 +1635,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇟zhōu",
+                "pinyin": "zhōu",
                 "rhyme_book": "《玉篇》織牛切。",
                 "meanings": [
                     "虎习貌"
@@ -1653,7 +1651,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇠yào",
+                "pinyin": "yào",
                 "rhyme_book": "《廣韻》牛召切，去笑疑。",
                 "meanings": [
                     "〔𠿕𧇠〕不安；不平"
@@ -1669,7 +1667,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇡gū",
+                "pinyin": "gū",
                 "rhyme_book": "《廣韻》古胡切，平模見。",
                 "meanings": []
             }
@@ -1710,7 +1708,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇥bān",
+                "pinyin": "bān",
                 "rhyme_book": "《字彙補》布攀切。",
                 "meanings": [
                     "虎纹"
@@ -1726,10 +1724,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇦kǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "kǎn",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》苦敢切。",
                 "meanings": [
-                    "《奚韻》苦敢切",
                     "甝属"
                 ]
             }
@@ -1761,7 +1758,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇮hé",
+                "pinyin": "hé",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1777,7 +1774,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇯jì",
+                "pinyin": "jì",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1793,11 +1790,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇰hù",
-                "rhyme_book": "《改併四聲篇海·虎部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧇰，虎伏切"
-                ]
+                "pinyin": "hù",
+                "rhyme_book": "《改併四聲篇海·虎部》引《搜真玉鏡》：“𧇰，虎伏切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1809,7 +1804,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇱yán",
+                "pinyin": "yán",
                 "rhyme_book": "《廣韻》五咸切，平咸疑。",
                 "meanings": [
                     "熊虎绝有力"
@@ -1834,7 +1829,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𧇶chūn",
+                "pinyin": "chūn",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1850,7 +1845,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇷dǐng",
+                "pinyin": "dǐng",
                 "rhyme_book": "《改併四聲篇海·虎部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧇷，音鼎"
@@ -1866,7 +1861,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇸qiū",
+                "pinyin": "qiū",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1882,7 +1877,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧇹hóu",
+                "pinyin": "hóu",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -1981,7 +1976,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧈁xián",
+                "pinyin": "xián",
                 "rhyme_book": "《直音篇》音銜。",
                 "meanings": [
                     "虎声"
@@ -1997,7 +1992,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧈄xià",
+                "pinyin": "xià",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"
@@ -2054,9 +2049,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》許逆切。",
                 "meanings": [
-                    "《川篇》許逆切",
                     "虎声"
                 ]
             }
@@ -2097,7 +2091,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𧈌gé",
+                "pinyin": "gé",
                 "rhyme_book": "《篇海類編》古伯切。",
                 "meanings": [
                     "虎声"
@@ -2113,10 +2107,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧈍xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xì",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》許逆切。",
                 "meanings": [
-                    "《奚韻》許逆切",
                     "恐"
                 ]
             }
@@ -2173,7 +2166,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧈔lǚ",
+                "pinyin": "lǚ",
                 "rhyme_book": "《集韻》兩舉切，上語來。",
                 "meanings": [
                     "细切肉"
@@ -2214,7 +2207,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧈗kè",
+                "pinyin": "kè",
                 "rhyme_book": "《集韻》克革切，入麥溪。",
                 "meanings": [
                     "虎声"
@@ -2230,7 +2223,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𧈙shòu",
+                "pinyin": "shòu",
                 "rhyme_book": null,
                 "meanings": [
                     "*清**三合会*旗号专用字"

@@ -157,7 +157,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舏jiǔ",
+                "pinyin": "jiǔ",
                 "rhyme_book": "《字彙補》古朽切。",
                 "meanings": [
                     "以舌取物"
@@ -269,7 +269,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舕tàn",
+                "pinyin": "tàn",
                 "rhyme_book": "《廣韻》吐濫切，去闞透。",
                 "meanings": [
                     "〔舕舑〕吐舌貌"
@@ -362,7 +362,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧉qì",
+                "pinyin": "qì",
                 "rhyme_book": "《集韻》去智切，去寘溪。",
                 "meanings": [
                     "走路气喘"
@@ -387,11 +387,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧋qìn",
-                "rhyme_book": "《改併四聲篇海·舌部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦧋，口禁切"
-                ]
+                "pinyin": "qìn",
+                "rhyme_book": "《改併四聲篇海·舌部》引《搜真玉鏡》：“𦧋，口禁切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -412,11 +410,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧍kuò",
-                "rhyme_book": "《改併四聲篇海·舌部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦧍，苦活切"
-                ]
+                "pinyin": "kuò",
+                "rhyme_book": "《改併四聲篇海·舌部》引《搜真玉鏡》：“𦧍，苦活切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -437,7 +433,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𦧏tān",
+                "pinyin": "tān",
                 "rhyme_book": "《龍龕手鑑》他酣反。",
                 "meanings": [
                     "吐舌"
@@ -453,10 +449,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧐xiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xiān",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音妗。",
                 "meanings": [
-                    "《類篇》音妗",
                     "牛舌"
                 ]
             }
@@ -488,7 +483,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧔kuò",
+                "pinyin": "kuò",
                 "rhyme_book": "《集韻》苦活切，入末溪。",
                 "meanings": [
                     "瓜"
@@ -531,11 +526,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧘hú",
-                "rhyme_book": "《改併四聲篇海·舌部》引",
-                "meanings": [
-                    "《類篇》：“𦧘，音胡"
-                ]
+                "pinyin": "hú",
+                "rhyme_book": "《改併四聲篇海·舌部》引《類篇》：“𦧘，音胡。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -547,7 +540,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧙zhū",
+                "pinyin": "zhū",
                 "rhyme_book": "《龍龕手鑑·舌部》：“𦧙，朱、殊二音。”",
                 "meanings": [
                     "《字彙補·舌部》：“𦧙，支輸切，音朱"
@@ -583,11 +576,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧛tà",
-                "rhyme_book": "《康熙字典·舌部》引",
-                "meanings": [
-                    "《篇海類編》：“𦧛，音沓"
-                ]
+                "pinyin": "tà",
+                "rhyme_book": "《康熙字典·舌部》引《篇海類編》：“𦧛，音沓。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -599,7 +590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧝tiān",
+                "pinyin": "tiān",
                 "rhyme_book": "《廣韻》他前切，平先透。",
                 "meanings": [
                     "〔𦧝𦧴〕言语不正"
@@ -615,7 +606,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𦧞tà",
+                "pinyin": "tà",
                 "rhyme_book": "《類篇》通答切，入合透。",
                 "meanings": [
                     "饮"
@@ -645,7 +636,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧠huá",
+                "pinyin": "huá",
                 "rhyme_book": "《廣韻》下刮切，入鎋匣。",
                 "meanings": [
                     "细绸"
@@ -686,7 +677,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧢tiè",
+                "pinyin": "tiè",
                 "rhyme_book": "《龍龕手鑑》他叶反。",
                 "meanings": [
                     "小舌"
@@ -702,10 +693,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧤tiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tiè",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》丁劫切。",
                 "meanings": [
-                    "《搜真玉鏡》丁劫切",
                     "血流"
                 ]
             }
@@ -798,7 +788,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧮jiá",
+                "pinyin": "jiá",
                 "rhyme_book": "《集韻》居轄切，入鎋見。",
                 "meanings": [
                     "舌出貌"
@@ -841,7 +831,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𦧴tān",
+                "pinyin": "tān",
                 "rhyme_book": "《廣韻》他干切，平寒透。又徒年切。",
                 "meanings": [
                     "〔𦧴𦧝〕言不正"
@@ -875,7 +865,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦧸zhuàn",
+                "pinyin": "zhuàn",
                 "rhyme_book": "《字彙補》雛免切。",
                 "meanings": [
                     "专"
@@ -891,10 +881,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𦧹huā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "huā",
+                "rhyme_book": "《改併四聲篇海》引《類篇》呼瓜切。",
                 "meanings": [
-                    "《類篇》呼瓜切",
                     "舌短貌"
                 ]
             }
@@ -908,7 +897,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𦧺lài",
+                "pinyin": "lài",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -933,7 +922,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𦧼lán",
+                "pinyin": "lán",
                 "rhyme_book": "《集韻》郎干切，平寒來。",
                 "meanings": [
                     "〔𦧴𦧼〕语不正"

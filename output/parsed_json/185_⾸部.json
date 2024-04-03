@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭫qǐ",
+                "pinyin": "qǐ",
                 "rhyme_book": "《切韻》康禮反。",
                 "meanings": [
                     "叩头至地"
@@ -38,7 +38,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "䭭shǒu",
+                "pinyin": "shǒu",
                 "rhyme_book": "《廣韻》書九切，上有書。",
                 "meanings": [
                     "长子",
@@ -55,7 +55,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰䭮fú",
+                "pinyin": "fú",
                 "rhyme_book": "《廣韻》敷勿切，入物敷。",
                 "meanings": [
                     "妇女首饰"
@@ -243,10 +243,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩠚hái",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "hái",
+                "rhyme_book": "《改併四聲篇海》引《川篇》户該切。",
                 "meanings": [
-                    "《川篇》户該切",
                     "首"
                 ]
             }
@@ -296,11 +295,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩠟wǔ",
-                "rhyme_book": "《改併四聲篇海·𩠐部》引",
-                "meanings": [
-                    "《川篇》：“𩠟，音五"
-                ]
+                "pinyin": "wǔ",
+                "rhyme_book": "《改併四聲篇海·𩠐部》引《川篇》：“𩠟，音五。”《字彙補·首部》：“𩠟，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -364,7 +361,7 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "shǒu",
-                "rhyme_book": null,
+                "rhyme_book": "《改併四聲篇海·首部》引《類篇》：“𩠦，音首。”",
                 "meanings": [
                     "义未详"
                 ]
@@ -428,11 +425,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩠯wéi",
-                "rhyme_book": "《改併四聲篇海·𩠐部》引",
-                "meanings": [
-                    "《類篇》：“𩠯，音惟"
-                ]
+                "pinyin": "wéi",
+                "rhyme_book": "《改併四聲篇海·𩠐部》引《類篇》：“𩠯，音惟。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -462,10 +457,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𩠷fú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fú",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》分勿切。",
                 "meanings": [
-                    "《龍龕手鑑》分勿切",
                     "妇女首饰"
                 ]
             }

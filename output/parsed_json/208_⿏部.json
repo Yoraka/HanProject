@@ -81,7 +81,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶆zhuī",
+                "pinyin": "zhuī",
                 "rhyme_book": "《廣韻》職追切，平脂章。",
                 "meanings": [
                     "方言"
@@ -97,7 +97,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶇zhòu",
+                "pinyin": "zhòu",
                 "rhyme_book": "《玉篇》除久切。",
                 "meanings": [
                     "鼠"
@@ -130,7 +130,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶉liú",
+                "pinyin": "liú",
                 "rhyme_book": "《集韻》力求切，平尤來。",
                 "meanings": [
                     "竹鼠"
@@ -180,7 +180,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼣fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《廣韻》符廢切，去廢奉。月部。",
                 "meanings": [
                     "鼠名"
@@ -238,7 +238,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼧tuó",
+                "pinyin": "tuó",
                 "rhyme_book": "《廣韻》徒河切，平歌定。又託何切。",
                 "meanings": [
                     "〔鼧鼥〕又名“旱獭”、“土拨鼠”"
@@ -286,7 +286,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼪shēng",
+                "pinyin": "shēng",
                 "rhyme_book": "《廣韻》所庚切，平庚生。又所敬切，",
                 "meanings": [
                     "《集韻》息正切",
@@ -338,7 +338,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶鼭shí",
+                "pinyin": "shí",
                 "rhyme_book": "《廣韻》市之切，平之禪。之部。",
                 "meanings": [
                     "鼠名"
@@ -354,7 +354,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼮tíng",
+                "pinyin": "tíng",
                 "rhyme_book": "《廣韻》特丁切，平青定。耕部。",
                 "meanings": [
                     "鼮鼠"
@@ -397,7 +397,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸鼱jīng",
+                "pinyin": "jīng",
                 "rhyme_book": "《廣韻》子盈切，平清精。",
                 "meanings": [
                     "〔鼱鼩〕即“鼩”"
@@ -471,7 +471,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼵tū",
+                "pinyin": "tū",
                 "rhyme_book": "《廣韻》陀骨切，入没定。術部。",
                 "meanings": [
                     "鼵鼠"
@@ -546,7 +546,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵鼺léi",
+                "pinyin": "léi",
                 "rhyme_book": "《集韻》倫為切，平支來。",
                 "meanings": [
                     "鼯鼠的别名"
@@ -580,7 +580,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪔺rèn",
+                "pinyin": "rèn",
                 "rhyme_book": "《玉篇》音刃。",
                 "meanings": [
                     "鼠"
@@ -614,7 +614,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪔽yìn",
+                "pinyin": "yìn",
                 "rhyme_book": "《集韻》淫沁切，去沁以。",
                 "meanings": [
                     "鼠名"
@@ -630,10 +630,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𪔾píng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "píng",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》步丁切。",
                 "meanings": [
-                    "《龍龕手鑑》步丁切",
                     "鼠"
                 ]
             }
@@ -647,7 +646,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪔿pū",
+                "pinyin": "pū",
                 "rhyme_book": "《廣韻》普木切，入屋滂。",
                 "meanings": [
                     "〔𪖈𪔿〕见“𪖈”"
@@ -663,7 +662,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕀yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《集韻》愚袁切，平元疑。",
                 "meanings": [
                     "鼠名"
@@ -688,9 +687,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "chén",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》直林切。",
                 "meanings": [
-                    "《餘文》直林切",
                     "水鼠名"
                 ]
             }
@@ -713,7 +711,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕃fāng",
+                "pinyin": "fāng",
                 "rhyme_book": "《集韻》分房切，平陽非。",
                 "meanings": [
                     "地鼠"
@@ -756,11 +754,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕇hāng",
-                "rhyme_book": "《改併四聲篇海·鼠部》引",
-                "meanings": [
-                    "《川篇》：“𪕇，火崗切"
-                ]
+                "pinyin": "hāng",
+                "rhyme_book": "《改併四聲篇海·鼠部》引《川篇》：“𪕇，火崗切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -773,7 +769,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "mí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》名移切。",
                 "meanings": [
                     "龟类",
                     "鼠类"
@@ -789,7 +785,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕉hú",
+                "pinyin": "hú",
                 "rhyme_book": "《集韻》洪狐切，平模匣。",
                 "meanings": [
                     "〔斬𪕉〕也作“斬𪕮”"
@@ -821,7 +817,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕋liú",
+                "pinyin": "liú",
                 "rhyme_book": "《廣韻》力久切，上有来。又",
                 "meanings": [
                     "《集韻》力求切",
@@ -855,7 +851,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕍jiōng",
+                "pinyin": "jiōng",
                 "rhyme_book": "《廣韻》古螢切，平青見。",
                 "meanings": [
                     "〔𪕍𪕌〕斑鼠"
@@ -914,7 +910,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕒píng",
+                "pinyin": "píng",
                 "rhyme_book": "《玉篇》步靈切。",
                 "meanings": [
                     "鼠"
@@ -930,10 +926,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕓guāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "guāng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》古黄切。",
                 "meanings": [
-                    "《川篇》古黄切",
                     "鼠"
                 ]
             }
@@ -947,7 +942,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕔ěr",
+                "pinyin": "ěr",
                 "rhyme_book": "《廣韻》而止切，上止日。",
                 "meanings": [
                     "鼠名"
@@ -1017,7 +1012,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕝cù",
+                "pinyin": "cù",
                 "rhyme_book": "《集韻》趨玉切，入燭清。",
                 "meanings": [
                     "〔𪕝鼩〕小鼠"
@@ -1033,7 +1028,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕞jùn",
+                "pinyin": "jùn",
                 "rhyme_book": "《廣韻》子峻切，去稕精。",
                 "meanings": [
                     "鼫鼠"
@@ -1112,11 +1107,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕦xiǔ",
-                "rhyme_book": "《改併四聲篇海·鼠部》引",
-                "meanings": [
-                    "《川篇》：“𪕦，火有切"
-                ]
+                "pinyin": "xiǔ",
+                "rhyme_book": "《改併四聲篇海·鼠部》引《川篇》：“𪕦，火有切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1154,7 +1147,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕩tì",
+                "pinyin": "tì",
                 "rhyme_book": "《玉篇》音惕。",
                 "meanings": [
                     "鼠"
@@ -1179,7 +1172,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕫yáng",
+                "pinyin": "yáng",
                 "rhyme_book": "《篇海類編》移章切。",
                 "meanings": [
                     "鼠名"
@@ -1204,7 +1197,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕭ài",
+                "pinyin": "ài",
                 "rhyme_book": "《廣韻》於蓋切，去泰影。",
                 "meanings": [
                     "〔𪖂𪕭〕见“𪖂”"
@@ -1258,7 +1251,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𪕱hú",
+                "pinyin": "hú",
                 "rhyme_book": "《廣韻》户吴切，平模匣。",
                 "meanings": [
                     "〔𪖎𪕱〕见“𪖎”"
@@ -1283,7 +1276,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕳sī",
+                "pinyin": "sī",
                 "rhyme_book": "《類篇》新兹切，平之心。",
                 "meanings": [
                     "风貌"
@@ -1299,11 +1292,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕴lǐ",
-                "rhyme_book": "《改併四聲篇海·鼠部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𪕴，良几切"
-                ]
+                "pinyin": "lǐ",
+                "rhyme_book": "《改併四聲篇海·鼠部》引《搜真玉鏡》：“𪕴，良几切。又音离。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1340,7 +1331,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𪕷gǔ",
+                "pinyin": "gǔ",
                 "rhyme_book": "《玉篇》公禄切。",
                 "meanings": [
                     "鼬鼠，黄鼠狼"
@@ -1365,7 +1356,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪕹táng",
+                "pinyin": "táng",
                 "rhyme_book": "《廣韻》徒郎切，平唐定。",
                 "meanings": [
                     "〔䶈𪕹〕见“䶈”"
@@ -1417,7 +1408,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖀què",
+                "pinyin": "què",
                 "rhyme_book": "《玉篇》音雀。",
                 "meanings": [
                     "雀鼠"
@@ -1433,7 +1424,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖁zōng",
+                "pinyin": "zōng",
                 "rhyme_book": "《集韻》將容切，平鍾精。",
                 "meanings": [
                     "〔𪖁鼩〕即“鼩鼠”"
@@ -1449,7 +1440,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖂lí",
+                "pinyin": "lí",
                 "rhyme_book": "《廣韻》吕支切，平支來。",
                 "meanings": [
                     "〔𪖂𪕭〕一种小鼠，相衔而行"
@@ -1474,11 +1465,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𪖄jiào",
-                "rhyme_book": "《改併四聲篇海·鼠部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𪖄，音教"
-                ]
+                "pinyin": "jiào",
+                "rhyme_book": "《改併四聲篇海·鼠部》引《搜真玉鏡》：“𪖄，音教。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1525,7 +1514,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖈pú",
+                "pinyin": "pú",
                 "rhyme_book": "《集韻》博木切，入屋幫。",
                 "meanings": [
                     "〔𪖈𪔿〕鼠名"
@@ -1541,10 +1530,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖉xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海》引《餘文》先稽切。",
                 "meanings": [
-                    "《餘文》先稽切",
                     "鼠名"
                 ]
             }
@@ -1567,7 +1555,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𪖋jié",
+                "pinyin": "jié",
                 "rhyme_book": "《集韻》昨結切，入屑從。",
                 "meanings": [
                     "〔𪖋𪕱〕猿类动物"
@@ -1583,7 +1571,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪖌lú",
+                "pinyin": "lú",
                 "rhyme_book": "《集韻》龍都切，平模來。",
                 "meanings": [
                     "鼠名"
@@ -1599,7 +1587,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𪖍lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "鼠名"
@@ -1615,7 +1603,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁷𪖎chán",
+                "pinyin": "chán",
                 "rhyme_book": "《廣韻》士咸切，平咸崇。",
                 "meanings": [
                     "〔𪖎𪕱〕也作“獑𪕮”",

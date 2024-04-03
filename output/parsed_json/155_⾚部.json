@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³䞑hóng",
+                "pinyin": "hóng",
                 "rhyme_book": "《集韻》胡公切，平東匣。",
                 "meanings": [
                     "皮肉红肿"
@@ -22,7 +22,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䞒dòng",
+                "pinyin": "dòng",
                 "rhyme_book": "《集韻》杜孔切，上董定。",
                 "meanings": [
                     "赤色"
@@ -47,7 +47,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䞔wěi",
+                "pinyin": "wěi",
                 "rhyme_book": "《廣韻》無匪切，上尾微。",
                 "meanings": [
                     "赤色"
@@ -107,7 +107,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chì",
                 "rhyme_book": "《集韻》七迹切，入昔清。鐸部。",
                 "meanings": [
@@ -343,7 +343,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "赯táng",
+                "pinyin": "táng",
                 "rhyme_book": "《廣韻》徒郎切，平唐定。",
                 "meanings": [
                     "赤色"
@@ -386,7 +386,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𧹛zhī",
+                "pinyin": "zhī",
                 "rhyme_book": "《集韻》章移切，平支章。",
                 "meanings": [
                     "〔𧹬𧹛〕见“𧹬”"
@@ -451,7 +451,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹣hān",
+                "pinyin": "hān",
                 "rhyme_book": "《集韻》呼含切，平覃曉。",
                 "meanings": [
                     "赤色"
@@ -476,11 +476,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹨xī",
-                "rhyme_book": "《改併四聲篇海·赤部》引",
-                "meanings": [
-                    "《餘文》：“𧹨，音昔"
-                ]
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海·赤部》引《餘文》：“𧹨，音昔。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -501,7 +499,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹬yān",
+                "pinyin": "yān",
                 "rhyme_book": "《集韻》因蓮切，平先影。",
                 "meanings": [
                     "〔𧹬𧹛〕也作“胭脂”"
@@ -517,7 +515,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𧹭xù",
+                "pinyin": "xù",
                 "rhyme_book": "《廣韻》況逼切，入職曉。",
                 "meanings": [
                     "赭色"
@@ -600,10 +598,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹶xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xì",
+                "rhyme_book": "《改併四聲篇海》引《類篇》呼逼切。",
                 "meanings": [
-                    "《類篇》呼逼切",
                     "赤色"
                 ]
             }
@@ -644,7 +641,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹺cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《字彙補·赤部》：“𧹺，此碎切，音脆。見",
                 "meanings": [
                     "《篇韻》"
@@ -669,7 +666,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧹾hú",
+                "pinyin": "hú",
                 "rhyme_book": "《改併四聲篇海·赤部》引",
                 "meanings": [
                     "《類篇》：“𧹾，音縠"
@@ -694,7 +691,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧺅yān",
+                "pinyin": "yān",
                 "rhyme_book": "《字彙補·赤部》：“𧺅，於軒切，音煙。”",
                 "meanings": []
             }

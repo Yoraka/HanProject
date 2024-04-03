@@ -188,7 +188,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "fěi",
                 "rhyme_book": "《集韻》匪微切，平微非。",
                 "meanings": [
@@ -498,10 +498,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yōu",
-                "rhyme_book": "《改併四聲篇海·文部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣁨，於鳩切"
-                ]
+                "rhyme_book": "《改併四聲篇海·文部》引《搜真玉鏡》：“𣁨，於鳩切。”",
+                "meanings": []
             }
         ],
         "special_entries": []

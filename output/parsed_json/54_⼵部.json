@@ -190,7 +190,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢌚chān",
+                "pinyin": "chān",
                 "rhyme_book": null,
                 "meanings": [
                     "地名用字"
@@ -233,7 +233,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸𢌦tǐng",
+                "pinyin": "tǐng",
                 "rhyme_book": "《集韻》待鼎切，上迥定。",
                 "meanings": [
                     "〔𢌦𢌦〕尽"
@@ -268,10 +268,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tǐng",
-                "rhyme_book": "《改併四聲篇海·廴部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣉡，音挺"
-                ]
+                "rhyme_book": "《改併四聲篇海·廴部》引《搜真玉鏡》：“𣉡，音挺。”",
+                "meanings": []
             }
         ],
         "special_entries": []

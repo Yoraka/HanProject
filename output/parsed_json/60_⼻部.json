@@ -168,9 +168,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》他刀切。",
                 "meanings": [
-                    "《川篇》他刀切",
                     "纼头铜饰"
                 ]
             },
@@ -402,7 +401,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhān",
                 "rhyme_book": "《集韻》張連切，平仙知。",
                 "meanings": []
@@ -1308,7 +1307,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jì",
                 "rhyme_book": "",
                 "meanings": [
@@ -1317,7 +1316,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jì",
                 "rhyme_book": "《廣韻》渠綺切，上紙羣。",
                 "meanings": [
@@ -1395,7 +1394,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "cóng",
                 "rhyme_book": "《廣韻》七恭切，平鍾清。東部。",
                 "meanings": [
@@ -2549,9 +2548,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tóng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》徒冬切。",
                 "meanings": [
-                    "《奚韻》徒冬切",
                     "姓"
                 ]
             },
@@ -2706,7 +2704,7 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "sōng",
-                "rhyme_book": null,
+                "rhyme_book": "《康熙字典·彳部》引《廣韻》：“𢓣，音嵩。姓也。”",
                 "meanings": [
                     "姓"
                 ]
@@ -3086,9 +3084,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》去急切。",
                 "meanings": [
-                    "《餘文》去急切",
                     "〔𢔆集〕人众貌"
                 ]
             }
@@ -3603,7 +3600,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢔴yù",
+                "pinyin": "yù",
                 "rhyme_book": "《集韻》牛據切，去御疑。",
                 "meanings": [
                     "乡名"
@@ -4044,9 +4041,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音修。",
                 "meanings": [
-                    "《川篇》音修",
                     "馔"
                 ]
             }
@@ -4310,9 +4306,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chóng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音虫。",
                 "meanings": [
-                    "《川篇》音虫",
                     "行"
                 ]
             }

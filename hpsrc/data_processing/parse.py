@@ -101,10 +101,10 @@ def meanings_process(meanings, index):
         if match:
             synonym_text = match.group(1)
             # 如果括号内是拼音，移除括号及拼音
-            if re.search(r'（[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+）', synonym_text):
-                pinyin_match = re.search(r'（([a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+）)', synonym_text)
+            if re.search(r'（[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+）', synonym_text):
+                pinyin_match = re.search(r'（([a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+）)', synonym_text)
                 pinyin = pinyin_match.group(1).strip('（）')
-                synonym_text = re.sub(r'（[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+）', '', synonym_text)
+                synonym_text = re.sub(r'（[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+）', '', synonym_text)
             # 清除可能存在的空格
             synonym_text = synonym_text.strip()
             # 提取括号内外的所有非空白字符
@@ -177,7 +177,7 @@ def parse_dictionary_entry(text, index):
         parse_variant(entry, body, index)
     elif not re.search(r'（\d+）|(?<!“)\n\s+（[一二三四五六七八九十]+）(?!”)', body) and '同“' in body:
         parse_synonym(entry, body, index)
-    elif re.search(r'\s+《.+》|[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+', body):  # 假设所有正字条目都包含拼音和音韵书
+    elif re.search(r'\s+《.+》|[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+', body):  # 假设所有正字条目都包含拼音和音韵书
         # 匹配包含 ㊀㊁㊂ 但不包含 （一）... 的
         if re.search(r'[㊀㊁㊂㊃㊄]+', body) and not re.search(r'(?<!“)\n\s+（[一二三四五六七八九十]+）(?!”)', body):
             parse_multi_old_rhyme(entry, body, index)
@@ -219,13 +219,27 @@ def parse_synonym(entry, body, index):
             # 放弃
             return
 
+
+
+def pinyin_process(pinyin):
+    # 检查拼音的第一个字符是否是字母，如果不是，去掉
+    try:
+        for i in range(len(pinyin)):
+            if not re.match(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]', pinyin[0]):
+                pinyin = pinyin[1:]
+            else:
+                break
+    except:
+        print('PinyinError:', pinyin)
+    return pinyin
+
 '''
 有时候会有单音, 但多古音, 可以套函数调用 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉
 '''
 
 def parse_multi_old_rhyme(entry, body, index, mode=0):
     #print(body)
-    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ](?=\s|$)', body)
+    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ](?=\s|$)', body)
     pinyin = pinyin_match.group(0) if pinyin_match else None
 
     # 按㊀㊁㊂切条目
@@ -238,21 +252,35 @@ def parse_multi_old_rhyme(entry, body, index, mode=0):
             parse_single_sound_single_meaning(entry, old_rhyme, index, 2)
 
     # 将拼音加入到每个定义中
+    # 将拼音中不是字母的字符去掉
+    pinyin = pinyin_process(pinyin)
+
     for definition in entry.definitions:
         definition['pinyin'] = pinyin
     
 
 def parse_single_sound_single_meaning(entry, body, index, mode=0):
    
-    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ](?=\s|$)', body)
+    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ](?=\s|$)', body)
     pinyin = pinyin_match.group(0) if pinyin_match else None
-    rhyme_match = None
+    # 检查拼音的第一个字符是否是字母，如果不是，去掉
+    pinyin = pinyin_process(pinyin)
+
     # 提取音韵
+    rhyme_match = None
+    rhyme_book = None
+    line_with_yin_and_qie = re.search(r'.*引.{0,12}?(?:切|音|反).*', body)
+    line = line_with_yin_and_qie.group() if line_with_yin_and_qie else None
     if mode == 2:
         # 直接提取第一个回车前的字作为音韵书
         rhyme_book = body.split('\n')[0]
+    #特别处理《xxx》引《xxx》xx切的情况
+    elif line != None and len(line) < 50:
+        match = re.search(r'(《[^《\n]+》.*?[切音反].*)', line)
+        rhyme_book = match.group() if match is not None else None
     else:
-        rhyme_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+\s*《([^《\n]+)', body)
+        rhyme_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+\s*《([^《\n]+)', body)
+        # 会多去掉《, 所以要加上
         rhyme_book = '《' + rhyme_match.group(1) if rhyme_match else None
 
     # 提取释义
@@ -265,12 +293,13 @@ def parse_single_sound_single_meaning(entry, body, index, mode=0):
 
     meanings_process(meanings, index)
 
+    # mode 0: 单音单义 1: 多音单义 2: 单音多韵单义
     if mode == 0:
         type = 'single_sound_single_meaning'
     elif mode == 1:
         type = 'multi_sound_single_meaning'
     elif mode == 2:
-        type = 'single_sound_multi_rhyme_single_meaing'
+        type = 'single_sound_multi_rhyme_single_meaning'
 
     entry.definitions.append({
         'type': type,
@@ -284,16 +313,25 @@ def parse_single_sound_multi_meaning(entry, body, index, mode=0):
     body = body[2:] if not body[0].isalpha() else body
     
     # 提取拼音
-    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ](?=\s|$)', body)
+    pinyin_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]\S*|\S*[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ](?=\s|$)', body)
     pinyin = pinyin_match.group(0) if pinyin_match else None
+    
+    pinyin = pinyin_process(pinyin)
 
     # 提取音韵
     rhyme_match = None
+    rhyme_book = None
+    line_with_yin_and_qie = re.search(r'.*引.{0,12}?(?:切|音|反).*', body)
+    line = line_with_yin_and_qie.group() if line_with_yin_and_qie else None
     if mode == 2:
         # 直接提取第一个回车前的字作为音韵书
         rhyme_book = body.split('\n')[0]
+    #特别处理《xxx》引《xxx》xx切的情况
+    elif line != None and len(line) < 50:
+        match = re.search(r'(《[^《\n]+》.*?[切音反].*)', line)
+        rhyme_book = match.group() if match is not None else None
     else:
-        rhyme_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+\s*《([^《\n]+)', body)
+        rhyme_match = re.search(r'[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜḿm̀ńňǹ]+\s*《([^《\n]+)', body)
         # 会多去掉《, 所以要加上
         rhyme_book = '《' + rhyme_match.group(1) if rhyme_match else None
 

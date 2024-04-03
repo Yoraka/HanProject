@@ -23,9 +23,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音瓦。",
                 "meanings": [
-                    "《搜真玉鏡》音瓦",
                     "山貌"
                 ]
             }
@@ -115,7 +114,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bó",
                 "rhyme_book": "",
                 "meanings": [
@@ -123,7 +122,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bó",
                 "rhyme_book": "《廣韻》博陌切，入陌幫。",
                 "meanings": [
@@ -984,7 +983,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bǎn",
                 "rhyme_book": "",
                 "meanings": [
@@ -993,7 +992,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bǎn",
                 "rhyme_book": "《廣韻》博管切，上緩幫。",
                 "meanings": [
@@ -2351,9 +2350,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qìng《改併四聲篇海》引《類篇》苦徑切。",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》苦徑切。",
                 "meanings": [
-                    "《類篇》苦徑切",
                     "石器"
                 ]
             }
@@ -2393,9 +2391,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiáng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》户江切。",
                 "meanings": [
-                    "《川篇》户江切",
                     "罂"
                 ]
             }
@@ -2928,9 +2925,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xié",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音携。",
                 "meanings": [
-                    "《類篇》音携",
                     "下空"
                 ]
             }

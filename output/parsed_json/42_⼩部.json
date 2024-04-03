@@ -629,10 +629,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "guān",
-                "rhyme_book": "《改併四聲篇海·小部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡭷，音觀"
-                ]
+                "rhyme_book": "《改併四聲篇海·小部》引《搜真玉鏡》：“𡭷，音觀。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -883,9 +881,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》音歷。",
                 "meanings": [
-                    "《餘文》音歷",
                     "〔㝺𡮰〕小劣"
                 ]
             }

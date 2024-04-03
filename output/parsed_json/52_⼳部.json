@@ -116,7 +116,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yào",
                 "rhyme_book": "yào　㊀《集韻》一笑切，去笑影。",
                 "meanings": [
@@ -124,7 +124,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yào",
                 "rhyme_book": "《集韻》於教切，去效影。",
                 "meanings": []
@@ -197,7 +197,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jì",
                 "rhyme_book": "jì　㊀《廣韻》其既切，去未羣。微部。",
                 "meanings": [
@@ -229,7 +229,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠅹zhàng",
+                "pinyin": "zhàng",
                 "rhyme_book": "《字彙補·幺部》：“𠅹，亭亮切。見",
                 "meanings": [
                     "《篇韻》"
@@ -304,9 +304,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "diǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》丁了切。",
                 "meanings": [
-                    "《併了部頭》丁了切",
                     "悬物貌"
                 ]
             }

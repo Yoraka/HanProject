@@ -58,7 +58,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑤jìn",
+                "pinyin": "jìn",
                 "rhyme_book": "《集韻》巨禁切，去沁羣。",
                 "meanings": [
                     "船"
@@ -98,7 +98,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑦gōu",
+                "pinyin": "gōu",
                 "rhyme_book": "《廣韻》古侯切，平侯見。",
                 "meanings": [
                     "〔䑦𦪇〕1.船"
@@ -208,7 +208,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑯dì",
+                "pinyin": "dì",
                 "rhyme_book": "《廣韻》徒禮切，上薺定。",
                 "meanings": [
                     "船"
@@ -276,7 +276,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑴qí",
+                "pinyin": "qí",
                 "rhyme_book": "《廣韻》渠之切，平之羣。",
                 "meanings": [
                     "〔䑴艃〕船"
@@ -301,7 +301,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸䑶qiàn",
+                "pinyin": "qiàn",
                 "rhyme_book": "《廣韻》倉甸切，去霰清。",
                 "meanings": [
                     "轻快的船"
@@ -400,7 +400,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑽tà",
+                "pinyin": "tà",
                 "rhyme_book": "《集韻》託盍切，入盍透。",
                 "meanings": [
                     "大船"
@@ -416,7 +416,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䑿sù",
+                "pinyin": "sù",
                 "rhyme_book": "《廣韻》息逐切，入屋心。",
                 "meanings": [
                     "〔艒䑿〕见“艒”"
@@ -432,7 +432,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䒀bù",
+                "pinyin": "bù",
                 "rhyme_book": "《廣韻》薄故切，去暮並。又芳無切。",
                 "meanings": [
                     "短而深的小艇"
@@ -568,7 +568,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䒉wǔ",
+                "pinyin": "wǔ",
                 "rhyme_book": "《廣韻》文甫切，上虞微。",
                 "meanings": [
                     "长艇船"
@@ -623,7 +623,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "舡chuán",
+                "pinyin": "chuán",
                 "rhyme_book": "《廣韻》許江切，平江曉。又",
                 "meanings": [
                     "姓"
@@ -639,7 +639,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舢shān",
+                "pinyin": "shān",
                 "rhyme_book": null,
                 "meanings": [
                     "〔舢板〕也作“舢舨”"
@@ -681,7 +681,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舦tài",
+                "pinyin": "tài",
                 "rhyme_book": "《集韻》他蓋切，去泰透。",
                 "meanings": [
                     "船行"
@@ -706,7 +706,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舨bǎn",
+                "pinyin": "bǎn",
                 "rhyme_book": "《集韻》補綰切，上潸幫。",
                 "meanings": [
                     "〔艟舨〕船"
@@ -927,7 +927,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舴zé",
+                "pinyin": "zé",
                 "rhyme_book": "《廣韻》陟格切，入陌知。又側伯切。",
                 "meanings": [
                     "〔舴艋〕小船"
@@ -943,7 +943,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舵duò",
+                "pinyin": "duò",
                 "rhyme_book": "《廣韻》徒可切，上哿定。",
                 "meanings": [
                     "船、飞行器等控制方向的装置"
@@ -1030,7 +1030,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舺xiá",
+                "pinyin": "xiá",
                 "rhyme_book": "《集韻》轄甲切，入狎匣。",
                 "meanings": [
                     "船"
@@ -1086,9 +1086,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "féng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》房戎切。",
                 "meanings": [
-                    "《餘文》房戎切",
                     "船名"
                 ]
             }
@@ -1102,7 +1101,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "舾xī",
+                "pinyin": "xī",
                 "rhyme_book": null,
                 "meanings": [
                     "〔舾裝〕1.船上锚、桅杆、梯、管路、电路等设备和装置的总称"
@@ -1118,7 +1117,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艀fú",
+                "pinyin": "fú",
                 "rhyme_book": "《廣韻》縛謀切，平尤奉。",
                 "meanings": [
                     "小船"
@@ -1160,7 +1159,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艃lí",
+                "pinyin": "lí",
                 "rhyme_book": "《廣韻》里之切，平之來。",
                 "meanings": [
                     "〔䑴艃〕见“䑴”"
@@ -1261,7 +1260,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艉wěi",
+                "pinyin": "wěi",
                 "rhyme_book": null,
                 "meanings": [
                     "船体的尾部"
@@ -1286,7 +1285,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艋měng",
+                "pinyin": "měng",
                 "rhyme_book": "《廣韻》莫杏切，上梗明。",
                 "meanings": [
                     "〔舴艋〕见“舴”"
@@ -1326,7 +1325,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艍jū",
+                "pinyin": "jū",
                 "rhyme_book": null,
                 "meanings": [
                     "船"
@@ -1407,7 +1406,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艑biàn",
+                "pinyin": "biàn",
                 "rhyme_book": "《廣韻》薄泫切，上銑並。",
                 "meanings": [
                     "大船"
@@ -1448,7 +1447,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艓dié",
+                "pinyin": "dié",
                 "rhyme_book": "《集韻》達協切，入帖定。",
                 "meanings": [
                     "小船"
@@ -1463,16 +1462,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "艕bàng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "bàng",
                 "rhyme_book": "",
                 "meanings": [
                     "两船并连"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "艕bàng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "bàng",
                 "rhyme_book": "《集韻》北孟切，去映幫。",
                 "meanings": [
                     "船"
@@ -1480,7 +1479,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艕bàng",
+                "pinyin": "bàng",
                 "rhyme_book": null,
                 "meanings": [
                     "两船并连",
@@ -1584,7 +1583,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艛lóu",
+                "pinyin": "lóu",
                 "rhyme_book": "《廣韻》落侯切，平侯來。",
                 "meanings": [
                     "有楼的大船"
@@ -1600,7 +1599,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艜dài",
+                "pinyin": "dài",
                 "rhyme_book": "《廣韻》當蓋切，去泰端。",
                 "meanings": [
                     "长而浅的小船"
@@ -1677,7 +1676,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艡dāng",
+                "pinyin": "dāng",
                 "rhyme_book": "《集韻》都郎切，平唐端。",
                 "meanings": [
                     "〔𦨢艡〕见“𦨢”"
@@ -1718,7 +1717,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艤yǐ",
+                "pinyin": "yǐ",
                 "rhyme_book": "《廣韻》魚倚切，上紙疑。",
                 "meanings": [
                     "使船靠岸"
@@ -1782,7 +1781,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艨méng",
+                "pinyin": "méng",
                 "rhyme_book": "《廣韻》莫紅切，平東明。又莫弄切。",
                 "meanings": [
                     "〔艨衝〕也作“蒙衝”、“艨艟”、“艟艨”"
@@ -1798,7 +1797,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艩qí",
+                "pinyin": "qí",
                 "rhyme_book": "《字彙》前西切。",
                 "meanings": [
                     "〔艣艩〕船上用以承橹的部件",
@@ -1843,7 +1842,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "艬chán",
+                "pinyin": "chán",
                 "rhyme_book": "《廣韻》鋤銜切，平銜崇。又士懴切。",
                 "meanings": [
                     "船"
@@ -1859,7 +1858,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁸艭shuāng",
+                "pinyin": "shuāng",
                 "rhyme_book": "《廣韻》所江切，平江生。",
                 "meanings": [
                     "船名"
@@ -1942,10 +1941,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨋fú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fú",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音服。",
                 "meanings": [
-                    "《川篇》音服",
                     "衣"
                 ]
             }
@@ -2048,7 +2046,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨖chào",
+                "pinyin": "chào",
                 "rhyme_book": "《廣韻》初教切，去效初。",
                 "meanings": [
                     "船不安稳"
@@ -2082,7 +2080,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨙rì",
+                "pinyin": "rì",
                 "rhyme_book": "《集韻》入質切，入質日。",
                 "meanings": [
                     "舟饰"
@@ -2098,7 +2096,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨚quǎn",
+                "pinyin": "quǎn",
                 "rhyme_book": "《玉篇》音犬。",
                 "meanings": [
                     "船近"
@@ -2159,7 +2157,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨡fó",
+                "pinyin": "fó",
                 "rhyme_book": "《集韻》符勿切，入物奉。",
                 "meanings": [
                     "大船"
@@ -2175,7 +2173,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨢dì",
+                "pinyin": "dì",
                 "rhyme_book": "《廣韻》都計切，去霽端。",
                 "meanings": [
                     "〔𦨢艡〕战船"
@@ -2208,7 +2206,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨤yǒng",
+                "pinyin": "yǒng",
                 "rhyme_book": "《玉篇》于命切。",
                 "meanings": [
                     "船行"
@@ -2233,7 +2231,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨦jià",
+                "pinyin": "jià",
                 "rhyme_book": "《集韻》居迓切，去禡見。",
                 "meanings": [
                     "具舟"
@@ -2276,10 +2274,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨬yǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǒng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音詠。",
                 "meanings": [
-                    "《川篇》音詠",
                     "行水底"
                 ]
             }
@@ -2293,7 +2290,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨭pí",
+                "pinyin": "pí",
                 "rhyme_book": null,
                 "meanings": [
                     "*越南*地名用字"
@@ -2309,7 +2306,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨯huó",
+                "pinyin": "huó",
                 "rhyme_book": "《集韻》户栝切，入末匣。",
                 "meanings": [
                     "舟行"
@@ -2325,7 +2322,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𦨰qióng",
+                "pinyin": "qióng",
                 "rhyme_book": "《廣韻》渠容切，平鍾羣。",
                 "meanings": [
                     "一种小船"
@@ -2367,7 +2364,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨳wú",
+                "pinyin": "wú",
                 "rhyme_book": "《廣韻》五乎切，平模疑。",
                 "meanings": [
                     "船名"
@@ -2383,7 +2380,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨴tóng",
+                "pinyin": "tóng",
                 "rhyme_book": "《廣韻》徒紅切，平東定。",
                 "meanings": [
                     "船"
@@ -2433,11 +2430,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨸tān",
-                "rhyme_book": "《改併四聲篇海·舟部》引",
-                "meanings": [
-                    "《玉篇》：“𦨸，他含切"
-                ]
+                "pinyin": "tān",
+                "rhyme_book": "《改併四聲篇海·舟部》引《玉篇》：“𦨸，他含切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2449,7 +2444,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨹wéi",
+                "pinyin": "wéi",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦨹艧〕帆船"
@@ -2483,7 +2478,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦨾hēng",
+                "pinyin": "hēng",
                 "rhyme_book": "《字彙補》許恒切。",
                 "meanings": [
                     "盐𦨾"
@@ -2526,7 +2521,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩆é",
+                "pinyin": "é",
                 "rhyme_book": null,
                 "meanings": [
                     "大船"
@@ -2551,10 +2546,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩈zhōu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhōu",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》張流切。",
                 "meanings": [
-                    "《奚韻》張流切",
                     "射鸟箭"
                 ]
             }
@@ -2586,7 +2580,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩋bài",
+                "pinyin": "bài",
                 "rhyme_book": "《廣韻》蒲拜切，去怪並。",
                 "meanings": [
                     "插在木船后边用以停船的木头"
@@ -2602,7 +2596,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩌xiè",
+                "pinyin": "xiè",
                 "rhyme_book": "《廣韻》蘇協切，入帖心。",
                 "meanings": [
                     "船行"
@@ -2669,7 +2663,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩕hū",
+                "pinyin": "hū",
                 "rhyme_book": "《清稗類鈔》音呼。",
                 "meanings": [
                     "〔𦩬𦩕〕见“𦩬”"
@@ -2685,11 +2679,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩖bēi",
-                "rhyme_book": "《字彙補·舟部》引",
-                "meanings": [
-                    "《金鏡》：“𦩖，邦皮切，音卑"
-                ]
+                "pinyin": "bēi",
+                "rhyme_book": "《字彙補·舟部》引《金鏡》：“𦩖，邦皮切，音卑。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2710,7 +2702,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩘dìng",
+                "pinyin": "dìng",
                 "rhyme_book": null,
                 "meanings": [
                     "船"
@@ -2735,7 +2727,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩜nuó",
+                "pinyin": "nuó",
                 "rhyme_book": "《字彙補》乃何切。",
                 "meanings": [
                     "船名"
@@ -2751,7 +2743,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩝wèi",
+                "pinyin": "wèi",
                 "rhyme_book": "《廣韻》于貴切，去未云。",
                 "meanings": [
                     "运船"
@@ -2767,7 +2759,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩞yú",
+                "pinyin": "yú",
                 "rhyme_book": "《集韻》容朱切，平虞以。",
                 "meanings": [
                     "〔䑳𦩞〕舟名"
@@ -2792,7 +2784,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩠xīng",
+                "pinyin": "xīng",
                 "rhyme_book": "《集韻》桑經切，平青心。",
                 "meanings": [
                     "船"
@@ -2808,7 +2800,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩡fú",
+                "pinyin": "fú",
                 "rhyme_book": "《集韻》方六切，入屋非。",
                 "meanings": [
                     "〔𦩡䑿〕大舟"
@@ -2824,7 +2816,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩢xiàn",
+                "pinyin": "xiàn",
                 "rhyme_book": "《集韻》下斬切，上豏匣。",
                 "meanings": [
                     "船名"
@@ -2840,7 +2832,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𦩣qì",
+                "pinyin": "qì",
                 "rhyme_book": "《廣韻》苦計切，去霽溪。",
                 "meanings": [
                     "船"
@@ -2856,7 +2848,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩤tū",
+                "pinyin": "tū",
                 "rhyme_book": "《廣韻》陀骨切，入没透。",
                 "meanings": [
                     "〔艒𦩤〕钓船"
@@ -2890,7 +2882,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩧jí",
+                "pinyin": "jí",
                 "rhyme_book": "《集韻》逆及切，入緝疑。",
                 "meanings": [
                     "船行"
@@ -2962,7 +2954,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩬wēi",
+                "pinyin": "wēi",
                 "rhyme_book": "《清稗類鈔》音威。",
                 "meanings": [
                     "〔𦩬𦩕〕独木船"
@@ -2978,11 +2970,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩭xī",
-                "rhyme_book": "《改併四聲篇海·舟部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦩭，音棲"
-                ]
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海·舟部》引《搜真玉鏡》：“𦩭，音棲。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3012,7 +3002,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩱shéng",
+                "pinyin": "shéng",
                 "rhyme_book": "《龍龕手鑑》音繩。",
                 "meanings": [
                     "稻田畦"
@@ -3028,10 +3018,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩲yǒu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǒu",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音酉。",
                 "meanings": [
-                    "《搜真玉鏡》音酉",
                     "船名"
                 ]
             }
@@ -3045,7 +3034,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩴ái",
+                "pinyin": "ái",
                 "rhyme_book": "《集韻》魚開切，平咍疑。",
                 "meanings": [
                     "船名"
@@ -3061,7 +3050,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩵jiàn",
+                "pinyin": "jiàn",
                 "rhyme_book": "《集韻》吉念切，去㮇見。",
                 "meanings": [
                     "船名"
@@ -3086,7 +3075,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩷gōu",
+                "pinyin": "gōu",
                 "rhyme_book": "《集韻》居侯切，平侯見。",
                 "meanings": [
                     "〔𦩷𦪇〕也作“䑦𦪇”、“𦩷艛”"
@@ -3102,10 +3091,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩸ruò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "ruò",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音弱。",
                 "meanings": [
-                    "《川篇》音弱",
                     "船名"
                 ]
             }
@@ -3146,7 +3134,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦩼gòng",
+                "pinyin": "gòng",
                 "rhyme_book": "《字彙補》古送切。",
                 "meanings": [
                     "船名"
@@ -3171,7 +3159,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪀táng",
+                "pinyin": "táng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦪀船〕船名"
@@ -3240,7 +3228,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪈áo",
+                "pinyin": "áo",
                 "rhyme_book": "《廣韻》五勞切，平豪疑。",
                 "meanings": [
                     "船接头木"
@@ -3265,7 +3253,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪊qì",
+                "pinyin": "qì",
                 "rhyme_book": "《玉篇》七例切。",
                 "meanings": [
                     "舟危"
@@ -3281,7 +3269,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪋xiū",
+                "pinyin": "xiū",
                 "rhyme_book": "《玉篇》思由切。",
                 "meanings": [
                     "进船"
@@ -3297,7 +3285,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪍dāi",
+                "pinyin": "dāi",
                 "rhyme_book": "《龍龕手鑑》音獃。",
                 "meanings": [
                     "船"
@@ -3336,7 +3324,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪒wèi",
+                "pinyin": "wèi",
                 "rhyme_book": "《字彙》于貴切。",
                 "meanings": [
                     "运船"
@@ -3361,7 +3349,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪔dùn",
+                "pinyin": "dùn",
                 "rhyme_book": "《字彙》都困切。",
                 "meanings": [
                     "大船"
@@ -3394,7 +3382,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪖fān",
+                "pinyin": "fān",
                 "rhyme_book": "《集韻》孚袁切，平元非。",
                 "meanings": [
                     "船上的装饰物"
@@ -3433,7 +3421,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "jué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》具月切。",
                 "meanings": [
                     "𦪘头船"
                 ]
@@ -3464,7 +3452,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪚zùn",
+                "pinyin": "zùn",
                 "rhyme_book": "《廣韻》徂悶切，去慁從。",
                 "meanings": [
                     "船底孔"
@@ -3489,7 +3477,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪜cān",
+                "pinyin": "cān",
                 "rhyme_book": "《字彙補》倉含切。",
                 "meanings": [
                     "〔底𦪜〕战舰内贯穿的大木"
@@ -3505,7 +3493,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪝téng",
+                "pinyin": "téng",
                 "rhyme_book": "《龍龕手鑑》徒登反。",
                 "meanings": [
                     "行𦪝"
@@ -3521,7 +3509,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪟péng",
+                "pinyin": "péng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦪟仔〕船名"
@@ -3537,7 +3525,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪠huà",
+                "pinyin": "huà",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦪠艇〕船名"
@@ -3553,11 +3541,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪡xū",
-                "rhyme_book": "《改併四聲篇海·舟部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦪡，音虚"
-                ]
+                "pinyin": "xū",
+                "rhyme_book": "《改併四聲篇海·舟部》引《搜真玉鏡》：“𦪡，音虚。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3578,7 +3564,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪣zhān",
+                "pinyin": "zhān",
                 "rhyme_book": "《龍龕手鑑·舟部》：“𦪣，隻然反。”",
                 "meanings": []
             }
@@ -3610,7 +3596,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪧gǎn",
+                "pinyin": "gǎn",
                 "rhyme_book": "《字彙補》古覽切。",
                 "meanings": [
                     "〔𦪧堂〕大船的两旁"
@@ -3635,7 +3621,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪪péng",
+                "pinyin": "péng",
                 "rhyme_book": "《集韻》蒲蒙切，平東並。",
                 "meanings": [
                     "船篷"
@@ -3651,7 +3637,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪫cān",
+                "pinyin": "cān",
                 "rhyme_book": "《集韻》千安切，平寒清。",
                 "meanings": [
                     "船名"
@@ -3667,7 +3653,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪬xiē",
+                "pinyin": "xiē",
                 "rhyme_book": "《廣韻》許竭切，入月曉。",
                 "meanings": [
                     "〔𦪬艎〕大船"
@@ -3683,7 +3669,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪭dá",
+                "pinyin": "dá",
                 "rhyme_book": "《字彙補》同答切。",
                 "meanings": [
                     "〔舭𦪭〕见“舭”"
@@ -3717,7 +3703,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁴𦪱jì",
+                "pinyin": "jì",
                 "rhyme_book": "《玉篇》子悌反。",
                 "meanings": [
                     "船"
@@ -3733,7 +3719,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦪳háo",
+                "pinyin": "háo",
                 "rhyme_book": null,
                 "meanings": [
                     "船仓"
@@ -3808,7 +3794,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𦪾lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "船"
@@ -3847,7 +3833,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁷𦫃líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "船行"
@@ -3908,7 +3894,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²²𦫉rán",
+                "pinyin": "rán",
                 "rhyme_book": "《玉篇》而三切。",
                 "meanings": [
                     "龟甲边"
@@ -3924,7 +3910,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁴𦫊líng",
+                "pinyin": "líng",
                 "rhyme_book": "《廣韻》郎丁切，平青來。",
                 "meanings": [
                     "〔𦫊艦〕有屋的船"
@@ -3940,11 +3926,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨦞zhōu",
-                "rhyme_book": "《改併四聲篇海·金部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𨦞，音舟"
-                ]
+                "pinyin": "zhōu",
+                "rhyme_book": "《改併四聲篇海·金部》引《搜真玉鏡》：“𨦞，音舟。”",
+                "meanings": []
             }
         ],
         "special_entries": []

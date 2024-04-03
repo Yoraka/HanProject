@@ -174,7 +174,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "髜qiǎo",
+                "pinyin": "qiǎo",
                 "rhyme_book": "《集韻》輕皎切，上篠溪。",
                 "meanings": [
                     "高"
@@ -190,7 +190,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "髝láo",
+                "pinyin": "láo",
                 "rhyme_book": "《廣韻》魯刀切。平豪來。又郎到切。",
                 "meanings": [
                     "〔髝髞〕1.性粗急貌"
@@ -206,7 +206,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "髞sào",
+                "pinyin": "sào",
                 "rhyme_book": "《廣韻》蘇到切，去号心。",
                 "meanings": [
                     "〔髝髞〕见“髝”"
@@ -231,7 +231,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩫁mào",
+                "pinyin": "mào",
                 "rhyme_book": "《玉篇》莫告切。",
                 "meanings": [
                     "氉𩫁也"
@@ -265,7 +265,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩫇ǎi",
+                "pinyin": "ǎi",
                 "rhyme_book": "《廣東通志》音矮。",
                 "meanings": [
                     "方言"
@@ -308,7 +308,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩫍mèi",
+                "pinyin": "mèi",
                 "rhyme_book": "《龍龕手鑑·高部》：“𩫍，音媚。”",
                 "meanings": [
                     "《字彙補·高部》：“𩫍，名閉切，音媚"
@@ -373,7 +373,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩫔náo",
+                "pinyin": "náo",
                 "rhyme_book": "《改併四聲篇海·高部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩫔，奴刀切"
@@ -441,7 +441,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩫥cáo",
+                "pinyin": "cáo",
                 "rhyme_book": "《廣韻》昨勞切，平𩫕從。",
                 "meanings": []
             }
@@ -536,11 +536,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁸𩫲xiē",
-                "rhyme_book": "《改併四聲篇海·高部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩫲，音蝎"
-                ]
+                "pinyin": "xiē",
+                "rhyme_book": "《改併四聲篇海·高部》引《搜真玉鏡》：“𩫲，音蝎。字出《賓國史》中。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -552,7 +550,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "¹𩫳xiāo",
+                "pinyin": "xiāo",
                 "rhyme_book": "《龍龕手鑑》許饒反。",
                 "meanings": [
                     "炊气貌"

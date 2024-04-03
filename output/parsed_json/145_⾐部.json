@@ -58,7 +58,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘡bǐ",
+                "pinyin": "bǐ",
                 "rhyme_book": "《字彙》部靡切。",
                 "meanings": [
                     "衣袖"
@@ -91,7 +91,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zǐ",
                 "rhyme_book": "zǐ　㊀《集韻》阻氏切，上紙莊。",
                 "meanings": [
@@ -99,7 +99,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zǐ",
                 "rhyme_book": "《集韻》蔣氏切，上紙精。",
                 "meanings": [
@@ -122,7 +122,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘤shù",
+                "pinyin": "shù",
                 "rhyme_book": "《集韻》食律切，入術船。",
                 "meanings": [
                     "剑衣"
@@ -186,7 +186,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘨jiǎo",
+                "pinyin": "jiǎo",
                 "rhyme_book": "《廣韻》古了切，上篠見。",
                 "meanings": [
                     "〔䘨𧘈〕1.小套裤"
@@ -224,7 +224,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘪chōng",
+                "pinyin": "chōng",
                 "rhyme_book": "《廣韻》昌終切，平東昌。",
                 "meanings": [
                     "〔䘪䘿〕无缘的直裙短单衣"
@@ -249,8 +249,8 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘬róng",
-                "rhyme_book": "《改併四聲篇海》音戎。",
+                "pinyin": "róng",
+                "rhyme_book": "《改併四聲篇海·衣部》引《龍龕手鑑》：“䘬，音戎。䘬衣也。”",
                 "meanings": [
                     "䘬衣"
                 ]
@@ -265,7 +265,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘭zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《字彙補》支義切。",
                 "meanings": [
                     "衣裙上的褶纹"
@@ -358,7 +358,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘵lù",
+                "pinyin": "lù",
                 "rhyme_book": "《集韻》盧谷切，入屋來。",
                 "meanings": [
                     "〔䘵𧜦〕衣服的声音"
@@ -514,7 +514,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘽ní",
+                "pinyin": "ní",
                 "rhyme_book": "《廣韻》五稽切，平齊疑。又研啓切，五結切。支部。",
                 "meanings": [
                     "衣缕，衣襟的装饰"
@@ -555,7 +555,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘿jué",
+                "pinyin": "jué",
                 "rhyme_book": "《廣韻》衢物切，入物羣。",
                 "meanings": [
                     "没有边饰的短衣"
@@ -580,7 +580,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙁jiān",
+                "pinyin": "jiān",
                 "rhyme_book": "《廣雅》子肩反。",
                 "meanings": [
                     "褯"
@@ -670,7 +670,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙆kuì",
+                "pinyin": "kuì",
                 "rhyme_book": "《集韻》𦝢桂切，去霽溪。",
                 "meanings": [
                     "衣衩"
@@ -712,7 +712,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙈hóu",
+                "pinyin": "hóu",
                 "rhyme_book": "《廣韻》户鉤切，平侯匣。",
                 "meanings": [
                     "〔䙈褕〕短衫"
@@ -856,7 +856,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙕zǒng",
+                "pinyin": "zǒng",
                 "rhyme_book": "《廣韻》子冢切，上腫精。又息拱切。",
                 "meanings": [
                     "单衣"
@@ -993,16 +993,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䙠jué",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "jué",
                 "rhyme_book": "",
                 "meanings": [
                     "短衣"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䙠jué",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》居月切，入月見。",
                 "meanings": [
                     "揭衣渡水"
@@ -1010,7 +1010,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙠jué",
+                "pinyin": "jué",
                 "rhyme_book": null,
                 "meanings": [
                     "短衣",
@@ -1069,7 +1069,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙣sà",
+                "pinyin": "sà",
                 "rhyme_book": "《集韻》悉盍切，入盍心。",
                 "meanings": [
                     "〔䙣𧙀〕也作“𧙀䙣”"
@@ -1111,7 +1111,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙦méng",
+                "pinyin": "méng",
                 "rhyme_book": "《集韻》謨蓬切，平東明。",
                 "meanings": [
                     "𧞔裆衣",
@@ -1146,7 +1146,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙩méng",
+                "pinyin": "méng",
                 "rhyme_book": "《玉篇》莫紅切。",
                 "meanings": [
                     "衣"
@@ -1197,7 +1197,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙮guàn",
+                "pinyin": "guàn",
                 "rhyme_book": "《集韻》求患切，去諫羣。",
                 "meanings": [
                     "衣带"
@@ -1213,7 +1213,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙯cù",
+                "pinyin": "cù",
                 "rhyme_book": "《玉篇》子六切。",
                 "meanings": [
                     "美好，鲜明"
@@ -1229,7 +1229,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䙰lí",
+                "pinyin": "lí",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䙰褷〕也作“離褷”、“褷䙰”"
@@ -1584,7 +1584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "衴dǎn",
+                "pinyin": "dǎn",
                 "rhyme_book": "《廣韻》都感切，上感端。",
                 "meanings": [
                     "被边"
@@ -1888,7 +1888,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袃chài",
+                "pinyin": "chài",
                 "rhyme_book": "《集韻》丑邁切，去夬徹。",
                 "meanings": [
                     "〔袃蒯〕也作“袃芥”、“蔕芥”"
@@ -1931,7 +1931,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袈jiā",
+                "pinyin": "jiā",
                 "rhyme_book": "《廣韻》古牙切，平麻見。",
                 "meanings": [
                     "〔袈裟〕梵文kaṣāya的音译"
@@ -2072,7 +2072,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袎yào",
+                "pinyin": "yào",
                 "rhyme_book": "《廣韻》於教切，去效影。",
                 "meanings": [
                     "袜筒"
@@ -2105,7 +2105,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袐bì",
+                "pinyin": "bì",
                 "rhyme_book": "《字彙》璧吉切。",
                 "meanings": [
                     "刺"
@@ -2785,9 +2785,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "nuǒ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》奴可切。",
                 "meanings": [
-                    "《玉篇》奴可切",
                     "〔𧙃袳〕衣好貌"
                 ]
             }
@@ -2826,7 +2825,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袶jiàng",
+                "pinyin": "jiàng",
                 "rhyme_book": "《集韻》古巷切，去絳見。陽部。",
                 "meanings": [
                     "〔衱袶〕草名"
@@ -2944,7 +2943,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "袻ér",
+                "pinyin": "ér",
                 "rhyme_book": "《集韻》人之切，平之日。",
                 "meanings": [
                     "衣服卷曲"
@@ -3143,7 +3142,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裉kèn",
+                "pinyin": "kèn",
                 "rhyme_book": null,
                 "meanings": [
                     "上衣靠腋下的接缝部分"
@@ -3280,7 +3279,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裐juān",
+                "pinyin": "juān",
                 "rhyme_book": "《玉篇》居緣切。",
                 "meanings": [
                     "褊"
@@ -3296,7 +3295,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裑shēn",
+                "pinyin": "shēn",
                 "rhyme_book": "《集韻》升人切，平真書。",
                 "meanings": [
                     "衣身"
@@ -3574,7 +3573,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裟shā",
+                "pinyin": "shā",
                 "rhyme_book": "《廣韻》所加切，平麻生。",
                 "meanings": [
                     "〔袈裟〕见“袈”"
@@ -3719,7 +3718,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裪táo",
+                "pinyin": "táo",
                 "rhyme_book": "《廣韻》徒刀切，平豪定。",
                 "meanings": [
                     "〔裪𧝃〕衣袖"
@@ -3735,7 +3734,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裫yuàn",
+                "pinyin": "yuàn",
                 "rhyme_book": "《廣韻》烏縣切，去霰影。",
                 "meanings": [
                     "衣襟和袖子接缝的部分，呈弯曲状"
@@ -3751,7 +3750,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裬líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》閭承切，平蒸來。",
                 "meanings": [
                     "马腹带"
@@ -3776,7 +3775,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裮chāng",
+                "pinyin": "chāng",
                 "rhyme_book": "《廣韻》尺良切，平陽昌。",
                 "meanings": [
                     "披衣而不结带"
@@ -3816,7 +3815,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裰duō",
+                "pinyin": "duō",
                 "rhyme_book": "《廣韻》丁括切，入末端。",
                 "meanings": [
                     "缝补"
@@ -3849,7 +3848,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "裲liǎng",
+                "pinyin": "liǎng",
                 "rhyme_book": "《集韻》里養切，上養來。",
                 "meanings": [
                     "〔裲襠〕古称半臂，似今之背心",
@@ -3925,7 +3924,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "裶fēi",
+                "pinyin": "fēi",
                 "rhyme_book": "《廣韻》芳菲切，平微敷。",
                 "meanings": [
                     "〔裶裶〕1.衣长貌"
@@ -4189,7 +4188,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褃kèn",
+                "pinyin": "kèn",
                 "rhyme_book": null,
                 "meanings": [
                     "腋下的衣缝"
@@ -4289,7 +4288,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褉xiè",
+                "pinyin": "xiè",
                 "rhyme_book": "《廣韻》虎結切，入屑曉。",
                 "meanings": [
                     "〔褉襦〕短袄"
@@ -4735,7 +4734,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褣róng",
+                "pinyin": "róng",
                 "rhyme_book": "《廣韻》餘封切，平鍾以。",
                 "meanings": [
                     "〔𧝎褣〕见“𧝎”"
@@ -4784,7 +4783,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褦nài",
+                "pinyin": "nài",
                 "rhyme_book": "《集韻》乃代切，去代泥。",
                 "meanings": [
                     "〔褦襶〕1.斗笠"
@@ -4941,7 +4940,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褬sǎng",
+                "pinyin": "sǎng",
                 "rhyme_book": "《集韻》寫朗切，上蕩心。",
                 "meanings": [
                     "〔𧚅褬〕见“𧚅”"
@@ -4997,7 +4996,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褯jiè",
+                "pinyin": "jiè",
                 "rhyme_book": "《廣韻》慈夜切，去禡從。",
                 "meanings": [
                     "包裹婴儿的衣被"
@@ -5134,7 +5133,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褷shī",
+                "pinyin": "shī",
                 "rhyme_book": "《廣韻》所宜切，平支生。",
                 "meanings": [
                     "〔䙰褷〕见“䙰”"
@@ -5237,7 +5236,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "褼xiān",
+                "pinyin": "xiān",
                 "rhyme_book": "《集韻》相然切，平仙心。",
                 "meanings": [
                     "〔褊褼〕见“褊”"
@@ -5330,7 +5329,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襀jì",
+                "pinyin": "jì",
                 "rhyme_book": "《廣韻》資昔切，入昔精。",
                 "meanings": [
                     "〔襞襀〕也作“襞積”"
@@ -5679,7 +5678,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襓ráo",
+                "pinyin": "ráo",
                 "rhyme_book": "《廣韻》如招切，平宵日。",
                 "meanings": [
                     "剑套"
@@ -5770,7 +5769,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襙cào",
+                "pinyin": "cào",
                 "rhyme_book": "《玉篇》千到切。",
                 "meanings": [
                     "衣"
@@ -5997,7 +5996,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襣bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》毗至切，去至並。",
                 "meanings": [
                     "合裆的贴身内裤"
@@ -6098,7 +6097,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襫shì",
+                "pinyin": "shì",
                 "rhyme_book": "《集韻》施隻切，入昔書。",
                 "meanings": [
                     "〔襏襫〕见“襏”"
@@ -6197,16 +6196,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "襰lài",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "lài",
                 "rhyme_book": "",
                 "meanings": [
                     "堕坏；毁坏"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "襰lài",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "lài",
                 "rhyme_book": "《集韻》洛駭切，上駭來。",
                 "meanings": [
                     "〔襰𧜁〕衣破貌"
@@ -6214,7 +6213,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襰lài",
+                "pinyin": "lài",
                 "rhyme_book": null,
                 "meanings": [
                     "堕坏；毁坏",
@@ -6294,7 +6293,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shān",
                 "rhyme_book": "shān　㊀《廣韻》史炎切，平鹽生。又所今切。",
                 "meanings": [
@@ -6302,7 +6301,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shān",
                 "rhyme_book": "《集韻》師銜切，平銜生。",
                 "meanings": []
@@ -6358,7 +6357,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷襶dài",
+                "pinyin": "dài",
                 "rhyme_book": "《集韻》丁代切，去代端。",
                 "meanings": [
                     "〔褦襶〕见“褦”"
@@ -6399,7 +6398,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襹shī",
+                "pinyin": "shī",
                 "rhyme_book": "《廣韻》所宜切，平支生。又所寄切。",
                 "meanings": [
                     "〔襳襹〕见“襳”"
@@ -6435,7 +6434,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "襼yì",
+                "pinyin": "yì",
                 "rhyme_book": "《字彙》倪制切。",
                 "meanings": [
                     "衣袖"
@@ -6460,7 +6459,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘈liǎo",
+                "pinyin": "liǎo",
                 "rhyme_book": "《廣韻》盧鳥切，上篠來。",
                 "meanings": [
                     "〔䘨𧘈〕见“䘨”"
@@ -6503,7 +6502,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘍jiāng",
+                "pinyin": "jiāng",
                 "rhyme_book": "《玉篇》音江。",
                 "meanings": [
                     "衣带"
@@ -6528,7 +6527,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘏gōng",
+                "pinyin": "gōng",
                 "rhyme_book": "《集韻》居雄切，平東見。",
                 "meanings": [
                     "衣身"
@@ -6595,7 +6594,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘗qǐ",
+                "pinyin": "qǐ",
                 "rhyme_book": "《龍龕手鑑·衣部》：“𧘗，音啟。”",
                 "meanings": []
             }
@@ -6645,10 +6644,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘜qiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qiān",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音千。",
                 "meanings": [
-                    "《川篇》音千",
                     "𧙝"
                 ]
             }
@@ -6671,7 +6669,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘞dǒu",
+                "pinyin": "dǒu",
                 "rhyme_book": "《玉篇》當口切。",
                 "meanings": [
                     "衫袖"
@@ -6727,7 +6725,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘢hù",
+                "pinyin": "hù",
                 "rhyme_book": "《類篇》胡故切，去暮匣。",
                 "meanings": [
                     "短衣"
@@ -6786,7 +6784,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘧qì",
+                "pinyin": "qì",
                 "rhyme_book": "《字彙補》音器。",
                 "meanings": [
                     "袖"
@@ -6818,10 +6816,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘩diāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "diāo",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音凋。",
                 "meanings": [
-                    "《川篇》音凋",
                     "棺衣"
                 ]
             }
@@ -6844,7 +6841,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘫lì",
+                "pinyin": "lì",
                 "rhyme_book": "《類篇》狼狄切，入錫來。",
                 "meanings": [
                     "急缠"
@@ -6869,7 +6866,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘮xiōng",
+                "pinyin": "xiōng",
                 "rhyme_book": "《直音篇》音凶。",
                 "meanings": [
                     "旧时的长孝衣"
@@ -6955,7 +6952,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧘿zhēng",
+                "pinyin": "zhēng",
                 "rhyme_book": "《廣韻》諸盈切，平清章。",
                 "meanings": [
                     "〔𧘿衳〕小孩的衣服"
@@ -6971,7 +6968,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙀lā",
+                "pinyin": "lā",
                 "rhyme_book": "《集韻》落合切，入合來。",
                 "meanings": [
                     "〔𧙀䙣〕衣服破旧"
@@ -7036,7 +7033,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙃ě",
+                "pinyin": "ě",
                 "rhyme_book": "《廣韻》烏可切，上哿影。",
                 "meanings": [
                     "弱貌"
@@ -7061,7 +7058,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙅pō",
+                "pinyin": "pō",
                 "rhyme_book": "《集韻》滂禾切，平戈滂。",
                 "meanings": [
                     "衣貌"
@@ -7077,7 +7074,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙆xū",
+                "pinyin": "xū",
                 "rhyme_book": "《廣韻》況于切，平虞曉。",
                 "meanings": [
                     "宽大的裙子"
@@ -7093,7 +7090,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙈cí",
+                "pinyin": "cí",
                 "rhyme_book": "《字彙》似兹切。",
                 "meanings": [
                     "𧙈褘"
@@ -7109,7 +7106,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙉lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》郎擊切，入錫來。",
                 "meanings": [
                     "缠裹"
@@ -7143,7 +7140,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙌páo",
+                "pinyin": "páo",
                 "rhyme_book": "《字彙補》薄毛切。",
                 "meanings": [
                     "旧时男子穿的一种外衣，下长及脚背"
@@ -7227,11 +7224,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙛pù",
-                "rhyme_book": "《改併四聲篇海·衣部》引",
-                "meanings": [
-                    "《川篇》：“𧙛，普故切"
-                ]
+                "pinyin": "pù",
+                "rhyme_book": "《改併四聲篇海·衣部》引《川篇》：“𧙛，普故切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7252,10 +7247,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙝ché",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "ché",
+                "rhyme_book": "《改併四聲篇海》引《川篇》尺夜切。",
                 "meanings": [
-                    "《川篇》尺夜切",
                     "单衣"
                 ]
             }
@@ -7269,7 +7263,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙞qì",
+                "pinyin": "qì",
                 "rhyme_book": "《廣韻》七迹切，入昔清。",
                 "meanings": [
                     "〔𧙞膝〕裙子正中开衩的地方"
@@ -7303,7 +7297,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙡yì",
+                "pinyin": "yì",
                 "rhyme_book": "《集韻》夷益切，入昔以。",
                 "meanings": [
                     "长衣"
@@ -7328,7 +7322,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙣tí",
+                "pinyin": "tí",
                 "rhyme_book": "《集韻》田黎切，平齊定。",
                 "meanings": [
                     "衣名"
@@ -7344,7 +7338,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙤duǒ",
+                "pinyin": "duǒ",
                 "rhyme_book": "《集韻》都果切，上果端。",
                 "meanings": [
                     "〔䘶𧙤〕见“䘶”"
@@ -7391,7 +7385,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙧jiàn",
+                "pinyin": "jiàn",
                 "rhyme_book": "《廣韻》古莧切，去襇見。",
                 "meanings": [
                     "衣服"
@@ -7452,10 +7446,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙭zhàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhàn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》陟彦切。",
                 "meanings": [
-                    "《川篇》陟彦切",
                     "衣引"
                 ]
             }
@@ -7469,10 +7462,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙮yuàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yuàn",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》於絹切。",
                 "meanings": [
-                    "《奚韻》於絹切",
                     "衣衿袖"
                 ]
             }
@@ -7545,7 +7537,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙸gēng",
+                "pinyin": "gēng",
                 "rhyme_book": "《玉篇·衣部》：“𧙸，古登切，又音亘。”",
                 "meanings": []
             }
@@ -7568,7 +7560,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙺hòu",
+                "pinyin": "hòu",
                 "rhyme_book": "《龍龕手鑑·衣部》：“𧙺，俗。后、託二音。”",
                 "meanings": []
             }
@@ -7582,7 +7574,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧙾qǐ",
+                "pinyin": "qǐ",
                 "rhyme_book": "《龍龕手鑑》口礼反。",
                 "meanings": [
                     "开衣领"
@@ -7598,7 +7590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚀mù",
+                "pinyin": "mù",
                 "rhyme_book": "《集韻》莫六切，入屋明。",
                 "meanings": [
                     "衣缝"
@@ -7614,7 +7606,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚁huàn",
+                "pinyin": "huàn",
                 "rhyme_book": "《集韻》户版切，上潸匣。",
                 "meanings": [
                     "衣䙔，小儿涎衣"
@@ -7630,7 +7622,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚂lòng",
+                "pinyin": "lòng",
                 "rhyme_book": "《集韻》盧貢切，去送來。",
                 "meanings": [
                     "衣服一套"
@@ -7655,7 +7647,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚄é",
+                "pinyin": "é",
                 "rhyme_book": "《集韻》牛河切，平歌疑。",
                 "meanings": [
                     "衣盛饰"
@@ -7671,7 +7663,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚅lǎng",
+                "pinyin": "lǎng",
                 "rhyme_book": "《集韻》里黨切，上蕩來。",
                 "meanings": [
                     "〔𧚅褬〕衣服破旧"
@@ -7687,7 +7679,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚆fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《集韻》方未切，去未非。",
                 "meanings": [
                     "衣袖"
@@ -7734,7 +7726,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚉cūn",
+                "pinyin": "cūn",
                 "rhyme_book": "《集韻》七倫切，平諄清。",
                 "meanings": [
                     "裤管"
@@ -7759,7 +7751,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚋jiàng",
+                "pinyin": "jiàng",
                 "rhyme_book": "《廣韻》音降。",
                 "meanings": [
                     "〔衱𧚋〕草名"
@@ -7793,7 +7785,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚏chuò",
+                "pinyin": "chuò",
                 "rhyme_book": "《直音篇》測角切。",
                 "meanings": [
                     "短衣"
@@ -7809,7 +7801,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚐wēng",
+                "pinyin": "wēng",
                 "rhyme_book": "《字彙補》烏公切。",
                 "meanings": [
                     "衣；外国衣"
@@ -7879,10 +7871,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚡gǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "gǎo",
+                "rhyme_book": "《改併四聲篇海》引《類篇》古老切。",
                 "meanings": [
-                    "《類篇》古老切",
                     "素衣"
                 ]
             }
@@ -7905,7 +7896,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚥cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《龍龕手鑑》粗最反。又子外反。",
                 "meanings": [
                     "衣游缝"
@@ -7969,7 +7960,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚩lí",
+                "pinyin": "lí",
                 "rhyme_book": "《集韻》良脂切，平脂來。",
                 "meanings": [
                     "〔𧚩𧜂〕衣服破旧"
@@ -8001,7 +7992,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚬kōng",
+                "pinyin": "kōng",
                 "rhyme_book": "《篇海類編》去紅切。",
                 "meanings": [
                     "衣袖"
@@ -8017,7 +8008,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚭běng",
+                "pinyin": "běng",
                 "rhyme_book": "《廣韻》布梗切，上梗幫。",
                 "meanings": [
                     "急"
@@ -8042,7 +8033,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚯shòu",
+                "pinyin": "shòu",
                 "rhyme_book": "《玉篇》音受。",
                 "meanings": [
                     "衣"
@@ -8112,10 +8103,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧚷wēi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wēi",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音偎。",
                 "meanings": [
-                    "《類篇》音偎",
                     "脏衣服"
                 ]
             }
@@ -8219,7 +8209,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛏zī",
+                "pinyin": "zī",
                 "rhyme_book": "《玉篇》子絲切。",
                 "meanings": [
                     "衣袖"
@@ -8253,7 +8243,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛒tì",
+                "pinyin": "tì",
                 "rhyme_book": "《廣韻》他計切，去霽透。",
                 "meanings": [
                     "补"
@@ -8312,7 +8302,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛗tú",
+                "pinyin": "tú",
                 "rhyme_book": "《集韻》陁没切，入没定。",
                 "meanings": [
                     "开裆裤"
@@ -8346,7 +8336,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛚wēi",
+                "pinyin": "wēi",
                 "rhyme_book": "《玉篇》音煨。",
                 "meanings": [
                     "脏衣服"
@@ -8389,7 +8379,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛞hú",
+                "pinyin": "hú",
                 "rhyme_book": "《廣韻》户吴切，平模匣。",
                 "meanings": [
                     "衣䘸"
@@ -8405,7 +8395,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛟xīng",
+                "pinyin": "xīng",
                 "rhyme_book": "《集韻》桑經切，平青心。",
                 "meanings": [
                     "燐光著衣"
@@ -8579,7 +8569,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛸zhòu",
+                "pinyin": "zhòu",
                 "rhyme_book": "《集韻》側救切，去宥莊。",
                 "meanings": [
                     "衣不伸"
@@ -8595,7 +8585,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛹wēng",
+                "pinyin": "wēng",
                 "rhyme_book": "《集韻》烏公切，平東影。",
                 "meanings": [
                     "〔䙦𧛹〕衣名"
@@ -8611,7 +8601,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛺chí",
+                "pinyin": "chí",
                 "rhyme_book": "《集韻》陳尼切，平脂澄。",
                 "meanings": [
                     "衣"
@@ -8627,7 +8617,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛻suǒ",
+                "pinyin": "suǒ",
                 "rhyme_book": "《集韻》昔各切，入鐸心。",
                 "meanings": [
                     "衣声"
@@ -8643,7 +8633,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛼xiè",
+                "pinyin": "xiè",
                 "rhyme_book": "《集韻》詞夜切，去禡邪。",
                 "meanings": [
                     "*吴*人对衣的俗称"
@@ -8668,7 +8658,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧛾kè",
+                "pinyin": "kè",
                 "rhyme_book": "《廣韻》苦盍切，入盍溪。",
                 "meanings": [
                     "〔𧛾襠〕1.背心的一种"
@@ -8735,7 +8725,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜂shī",
+                "pinyin": "shī",
                 "rhyme_book": "《集韻》霜夷切，平脂生。",
                 "meanings": [
                     "〔𧚩𧜂〕见“𧚩”"
@@ -8751,7 +8741,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜃shòu",
+                "pinyin": "shòu",
                 "rhyme_book": "《篇海類編》承呪切。",
                 "meanings": [
                     "衣衿"
@@ -8820,7 +8810,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜉gǎo",
+                "pinyin": "gǎo",
                 "rhyme_book": "《玉篇·衣部》：“𧜉，金倒切。”",
                 "meanings": [
                     "《字彙補·衣部》：“𧜉，音槁"
@@ -8836,7 +8826,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜊lǚ",
+                "pinyin": "lǚ",
                 "rhyme_book": "《龍龕手鑑》音吕。",
                 "meanings": [
                     "姓"
@@ -8879,7 +8869,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜔xiè",
+                "pinyin": "xiè",
                 "rhyme_book": "《龍龕手鑑·衣部》：“𧜔，先結、子對二反。”",
                 "meanings": [
                     "《字彙補·衣部》：“𧜔，先結切，音屑"
@@ -8904,7 +8894,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜚zhǐ",
+                "pinyin": "zhǐ",
                 "rhyme_book": "《改併四聲篇海·衣部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𧜚，知几切"
@@ -8960,7 +8950,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜠shuài",
+                "pinyin": "shuài",
                 "rhyme_book": "《廣韻》所律切，入質生。",
                 "meanings": [
                     "用兽毛或粗麻制成的衣服"
@@ -8976,7 +8966,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜡kè",
+                "pinyin": "kè",
                 "rhyme_book": "《篇海類編》苦盍切。",
                 "meanings": [
                     "〔𧜡襠〕也作“𧛾襠”"
@@ -9017,7 +9007,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜤yī",
+                "pinyin": "yī",
                 "rhyme_book": "《集韻》煙奚切，平齊影。",
                 "meanings": [
                     "〔𧜤袼〕也作“繄袼”"
@@ -9042,7 +9032,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜦sù",
+                "pinyin": "sù",
                 "rhyme_book": "《篇海類編》蘇谷切。",
                 "meanings": [
                     "〔䘵𧜦〕见“䘵”"
@@ -9058,7 +9048,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜧chuāng",
+                "pinyin": "chuāng",
                 "rhyme_book": "《廣韻》丑江切，平江徹。",
                 "meanings": [
                     "短敝衣"
@@ -9155,10 +9145,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜲tuò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tuò",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》湯過切。",
                 "meanings": [
-                    "《奚韻》湯過切",
                     "无袖衣"
                 ]
             }
@@ -9181,7 +9170,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧜽xuán",
+                "pinyin": "xuán",
                 "rhyme_book": "《字彙補》旬緣切。",
                 "meanings": [
                     "𧜽褶，*明*代一种类似短褂的男子便服"
@@ -9197,7 +9186,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝂hè",
+                "pinyin": "hè",
                 "rhyme_book": "《廣韻》胡箇切，去箇匣。",
                 "meanings": [
                     "䘸袖"
@@ -9213,7 +9202,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝃jué",
+                "pinyin": "jué",
                 "rhyme_book": "《廣韻》古穴切，入屑見。",
                 "meanings": [
                     "〔裪𧝃〕见“裪”"
@@ -9247,7 +9236,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝆tì",
+                "pinyin": "tì",
                 "rhyme_book": "《字彙》他計切。",
                 "meanings": [
                     "补𧝆"
@@ -9263,7 +9252,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝇fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《玉篇》芳未切。",
                 "meanings": [
                     "服"
@@ -9306,7 +9295,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝊shì",
+                "pinyin": "shì",
                 "rhyme_book": "《篇海類編》施隻切。",
                 "meanings": [
                     "装织"
@@ -9322,7 +9311,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝋tuí",
+                "pinyin": "tuí",
                 "rhyme_book": "《廣韻》杜回切，平灰定。",
                 "meanings": [
                     "盖在棺木上的罩子"
@@ -9428,7 +9417,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝒héng",
+                "pinyin": "héng",
                 "rhyme_book": "《廣韻》户盲切，平庚匣。",
                 "meanings": [
                     "〔𧝒褡〕小被"
@@ -9453,7 +9442,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝔qú",
+                "pinyin": "qú",
                 "rhyme_book": "《廣韻》强魚切，平魚羣。",
                 "meanings": [
                     "系𧝔；系"
@@ -9494,7 +9483,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝗dūn",
+                "pinyin": "dūn",
                 "rhyme_book": "《集韻》都昆切，平魂端。",
                 "meanings": [
                     "衣褚"
@@ -9555,7 +9544,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝜liáo",
+                "pinyin": "liáo",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𧝜袴〕小袴"
@@ -9598,7 +9587,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝤sī",
+                "pinyin": "sī",
                 "rhyme_book": null,
                 "meanings": [
                     "〔磿𧝤〕古代城上四隅的设防楼"
@@ -9614,7 +9603,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝪biǎo",
+                "pinyin": "biǎo",
                 "rhyme_book": "《字彙補》并眇切。",
                 "meanings": [
                     "袖端𧝪"
@@ -9630,10 +9619,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝫xiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xiè",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音謝。",
                 "meanings": [
-                    "《川篇》音謝",
                     "燥"
                 ]
             }
@@ -9676,10 +9664,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝮cǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "cǒng",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》且勇切。",
                 "meanings": [
-                    "《俗字背篇》且勇切",
                     "单衣"
                 ]
             }
@@ -9711,7 +9698,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝲jù",
+                "pinyin": "jù",
                 "rhyme_book": "《篇海類編》居御切。",
                 "meanings": [
                     "衣"
@@ -9772,7 +9759,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧝸yōng",
+                "pinyin": "yōng",
                 "rhyme_book": "《集韻》於容切，平鍾影。",
                 "meanings": [
                     "方言"
@@ -9851,7 +9838,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞀shù",
+                "pinyin": "shù",
                 "rhyme_book": "《直音篇》音樹。",
                 "meanings": [
                     "布制短衣"
@@ -9894,7 +9881,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞍niè",
+                "pinyin": "niè",
                 "rhyme_book": "《廣韻》女黠切，入黠娘。",
                 "meanings": [
                     "奴人衣"
@@ -9919,7 +9906,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞏yú",
+                "pinyin": "yú",
                 "rhyme_book": "《集韻》羊諸切，平魚以。",
                 "meanings": [
                     "衣扬举貌"
@@ -9952,7 +9939,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𧞒hú",
+                "pinyin": "hú",
                 "rhyme_book": "《集韻》胡谷切，入屋匣。",
                 "meanings": [
                     "〔𧞒𧞒〕衣声"
@@ -9986,7 +9973,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞕liè",
+                "pinyin": "liè",
                 "rhyme_book": "《集韻》力協切，入帖來。",
                 "meanings": [
                     "衣相箸"
@@ -10056,10 +10043,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞝jiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiè",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》才夜切。",
                 "meanings": [
-                    "《龍龕手鑑》才夜切",
                     "小儿衣带"
                 ]
             }
@@ -10073,7 +10059,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞞xióng",
+                "pinyin": "xióng",
                 "rhyme_book": "《龍龕手鑑》音雄。",
                 "meanings": [
                     "强"
@@ -10107,7 +10093,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞣yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《玉篇·衣部》：“𧞣，於琰切。”",
                 "meanings": []
             }
@@ -10148,7 +10134,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞩jié",
+                "pinyin": "jié",
                 "rhyme_book": "《廣韻》子結切，入屑精。",
                 "meanings": [
                     "小衣"
@@ -10204,7 +10190,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞬jié",
+                "pinyin": "jié",
                 "rhyme_book": "《集韻》子列切，入薛精。",
                 "meanings": [
                     "小衣"
@@ -10220,7 +10206,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞭léi",
+                "pinyin": "léi",
                 "rhyme_book": "《集韻》盧回切，平灰來。",
                 "meanings": [
                     "剑饰"
@@ -10254,7 +10240,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞰zú",
+                "pinyin": "zú",
                 "rhyme_book": "《篇海類編》子六切。",
                 "meanings": [
                     "衣服漂亮、色彩鲜艳"
@@ -10328,7 +10314,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧞹dū",
+                "pinyin": "dū",
                 "rhyme_book": "《集韻》都木切，入屋端。",
                 "meanings": [
                     "〔𧞹𧞺〕新衣貌"
@@ -10344,7 +10330,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𧞺sù",
+                "pinyin": "sù",
                 "rhyme_book": "《集韻》蘇谷切，入屋心。",
                 "meanings": [
                     "〔𧞹𧞺〕见“𧞹”"
@@ -10396,7 +10382,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧟃xié",
+                "pinyin": "xié",
                 "rhyme_book": "《集韻》玄圭切，平齊匣。",
                 "meanings": [
                     "古代男子束发的绢巾"
@@ -10474,7 +10460,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧟌luò",
+                "pinyin": "luò",
                 "rhyme_book": "《廣韻》郎佐切，去箇來。",
                 "meanings": [
                     "妇女上衣"
@@ -10526,10 +10512,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧟑qiān",
-                "rhyme_book": "《篇海類編》引",
+                "pinyin": "qiān",
+                "rhyme_book": "《篇海類編》引《龍龕手鑑》起延切。",
                 "meanings": [
-                    "《龍龕手鑑》起延切",
                     "袴"
                 ]
             }
@@ -10597,7 +10582,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧟙líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "衣光"
@@ -10631,11 +10616,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁸𧟜jì",
-                "rhyme_book": "《改併四聲篇海·衣部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧟜，居力切"
-                ]
+                "pinyin": "jì",
+                "rhyme_book": "《改併四聲篇海·衣部》引《搜真玉鏡》：“𧟜，居力切。”",
+                "meanings": []
             }
         ],
         "special_entries": []

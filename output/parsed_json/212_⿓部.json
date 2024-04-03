@@ -80,7 +80,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "龑yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《篇海類編》于檢切。",
                 "meanings": [
                     "人名"
@@ -251,7 +251,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚑lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《改併四聲篇海·龍部》引",
                 "meanings": [
                     "《川篇》：“𪚑，力紅切"
@@ -267,7 +267,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚓lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《集韻》盧東切，平東來。",
                 "meanings": [
                     "兽名"
@@ -319,7 +319,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚘lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《龍龕手鑑》音籠。",
                 "meanings": [
                     "赤色"
@@ -344,7 +344,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚝lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《廣韻》力鍾切，平鍾來。",
                 "meanings": [
                     "有龙纹的圭"
@@ -378,7 +378,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𪚠lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《廣韻》力鍾切，平鍾來。",
                 "meanings": [
                     "巫"
@@ -403,7 +403,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚢mǎng",
+                "pinyin": "mǎng",
                 "rhyme_book": "《改併四聲篇海·龍部》引",
                 "meanings": [
                     "《類篇》：“𪚢，莫講切"
@@ -428,10 +428,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴⁸𪚥zhé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhé",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音折。",
                 "meanings": [
-                    "《類篇》音折",
                     "唠唠叨叨，话多"
                 ]
             }

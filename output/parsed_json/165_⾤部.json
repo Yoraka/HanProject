@@ -78,7 +78,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵釉yòu",
+                "pinyin": "yòu",
                 "rhyme_book": "《集韻》余救切，去宥以。",
                 "meanings": [
                     "覆盖在陶瓷表面的玻璃质薄层"
@@ -191,7 +191,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨤕è",
+                "pinyin": "è",
                 "rhyme_book": "《集韻》遏合切，入合影。",
                 "meanings": [
                     "绘画"
@@ -234,10 +234,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𨤚fèn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fèn",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》方問切。",
                 "meanings": [
-                    "《併了部頭》方問切",
                     "扫"
                 ]
             }
@@ -278,7 +277,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨤡guàng",
+                "pinyin": "guàng",
                 "rhyme_book": "《集韻》古曠切，去宕見。",
                 "meanings": [
                     "饰色"

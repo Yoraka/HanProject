@@ -632,11 +632,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡬞yù",
-                "rhyme_book": "《改併四聲篇海·寸部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡬞，音裕"
-                ]
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海·寸部》引《搜真玉鏡》：“𡬞，音裕。出《唐韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -684,7 +682,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡬥nuó",
+                "pinyin": "nuó",
                 "rhyme_book": "《龍龕手鑑·寸部》：“𡬥，音那。”",
                 "meanings": [
                     "《字彙補·寸部》：“𡬥，乃多切"
@@ -736,11 +734,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡬫wù",
-                "rhyme_book": "《改併四聲篇海·寸部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡬫，五骨切"
-                ]
+                "pinyin": "wù",
+                "rhyme_book": "《改併四聲篇海·寸部》引《搜真玉鏡》：“𡬫，五骨切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -804,11 +800,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡬲biǎn",
-                "rhyme_book": "《改併四聲篇海·寸部》引",
-                "meanings": [
-                    "《類篇》：“𡬲，音貶"
-                ]
+                "pinyin": "biǎn",
+                "rhyme_book": "《改併四聲篇海·寸部》引《類篇》：“𡬲，音貶。”《字彙補·寸部》：“𡬲，出《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -853,7 +847,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡬵jiān",
+                "pinyin": "jiān",
                 "rhyme_book": "《龍龕手鑑·寸部》：“𡬵，音堅。”",
                 "meanings": []
             }
@@ -973,7 +967,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𡭇zhuān",
+                "pinyin": "zhuān",
                 "rhyme_book": "《字彙補·寸部》：“𡭇，照川切，音專。”",
                 "meanings": []
             }
@@ -1005,7 +999,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡭋rǒng",
+                "pinyin": "rǒng",
                 "rhyme_book": "《玉篇》如隴切。",
                 "meanings": [
                     "〔闒𡭋〕不肖"

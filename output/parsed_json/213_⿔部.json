@@ -40,10 +40,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓻shī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shī",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音尸。",
                 "meanings": [
-                    "《川篇》音尸",
                     "蟾蜍"
                 ]
             }
@@ -138,10 +137,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𪛃qū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qū",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音區。",
                 "meanings": [
-                    "《類篇》音區",
                     "龟行"
                 ]
             }

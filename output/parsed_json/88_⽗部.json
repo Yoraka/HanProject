@@ -222,10 +222,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "wù",
-                "rhyme_book": "《改併四聲篇海·父部》引",
-                "meanings": [
-                    "《餘文》：“𤕘，音勿"
-                ]
+                "rhyme_book": "《改併四聲篇海·父部》引《餘文》：“𤕘，音勿。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -237,7 +235,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤕚huī",
+                "pinyin": "huī",
                 "rhyme_book": "《玉篇》許維切。",
                 "meanings": [
                     "恣肆；放纵"

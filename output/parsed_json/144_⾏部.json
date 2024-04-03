@@ -7,9 +7,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "háng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音杭。",
                 "meanings": [
-                    "《俗字背篇》音杭",
                     "〔䘕衏〕也作“䘕𢕋”、“䘕院”"
                 ]
             }
@@ -30,9 +29,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "sù",
-                "rhyme_book": "《康熙字典》引",
+                "rhyme_book": "《康熙字典》引《直音》音素。",
                 "meanings": [
-                    "《直音》音素",
                     "净"
                 ]
             }
@@ -224,9 +222,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音院。",
                 "meanings": [
-                    "《俗字背篇》音院",
                     "〔䘕衏〕见“䘕”"
                 ]
             }
@@ -639,10 +636,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yí",
-                "rhyme_book": "《改併四聲篇海·行部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢖅，音宜"
-                ]
+                "rhyme_book": "《改併四聲篇海·行部》引《搜真玉鏡》：“𢖅，音宜。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -853,10 +848,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yù",
-                "rhyme_book": "《改併四聲篇海·行部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧗱，音育"
-                ]
+                "rhyme_book": "《改併四聲篇海·行部》引《搜真玉鏡》：“𧗱，音育。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -991,9 +984,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》許歸切。",
                 "meanings": [
-                    "《奚韻》許歸切",
                     "美"
                 ]
             }

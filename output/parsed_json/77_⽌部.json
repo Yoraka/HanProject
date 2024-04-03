@@ -404,7 +404,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "suì",
                 "rhyme_book": "suì　㊀《廣韻》相鋭切，去祭心。月部。",
                 "meanings": [
@@ -563,9 +563,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》魚幻切。",
                 "meanings": [
-                    "《川篇》魚幻切",
                     "行貌"
                 ]
             }
@@ -647,7 +646,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣥋fǔ",
+                "pinyin": "fǔ",
                 "rhyme_book": "《字彙補》方武切。",
                 "meanings": [
                     "煮"
@@ -1229,9 +1228,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音甲。",
                 "meanings": [
-                    "《類篇》音甲",
                     "止"
                 ]
             }
@@ -1539,10 +1537,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "māo",
-                "rhyme_book": "《改併四聲篇海·牛部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤚜，音貓"
-                ]
+                "rhyme_book": "《改併四聲篇海·牛部》引《搜真玉鏡》：“𤚜，音貓。”《字彙補·止部》：“𤚜，迷饒切，音貓。",
+                "meanings": []
             }
         ],
         "special_entries": []

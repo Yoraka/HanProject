@@ -489,10 +489,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔂biāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "biāo",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》必堯切。",
                 "meanings": [
-                    "《俗字背篇》必堯切",
                     "飞火"
                 ]
             }
@@ -571,7 +570,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔍xī",
+                "pinyin": "xī",
                 "rhyme_book": "《龍龕手鑑·由部》：“𠔍，音西。”",
                 "meanings": []
             }
@@ -585,7 +584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔎qǐn",
+                "pinyin": "qǐn",
                 "rhyme_book": "《字彙補·八部》：“𠔎，孔錦切，義無考。”",
                 "meanings": []
             }
@@ -617,11 +616,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔑hài",
-                "rhyme_book": "《改併四聲篇海·八部》引",
-                "meanings": [
-                    "《併了部頭》：“𠔑，音害"
-                ]
+                "pinyin": "hài",
+                "rhyme_book": "《改併四聲篇海·八部》引《併了部頭》：“𠔑，音害。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -660,10 +657,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔕lún",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lún",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》音侖。",
                 "meanings": [
-                    "《併了部頭》音侖",
                     "思"
                 ]
             }
@@ -740,7 +736,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔠yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《字彙補》弋灼切。",
                 "meanings": [
                     "汤中汋",
@@ -793,7 +789,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔨lián",
+                "pinyin": "lián",
                 "rhyme_book": "《字彙補》力鹽切。",
                 "meanings": [
                     "绝"
@@ -834,7 +830,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𠔶qī",
+                "pinyin": "qī",
                 "rhyme_book": "《字彙補》苦基切。",
                 "meanings": [
                     "方相"
@@ -868,7 +864,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𠔺qiān",
+                "pinyin": "qiān",
                 "rhyme_book": "《廣韻》苦咸切，平咸溪。",
                 "meanings": [
                     "〔𠔺䫡〕长面"

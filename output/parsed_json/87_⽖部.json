@@ -606,10 +606,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shàng",
-                "rhyme_book": "《改併四聲篇海·爪部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤔚，音上"
-                ]
+                "rhyme_book": "《改併四聲篇海·爪部》引《搜真玉鏡》：“𤔚，音上。”《字彙補·爪部》：“𤔚，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -839,10 +837,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dāng",
-                "rhyme_book": "《改併四聲篇海·爪部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤔶，音當"
-                ]
+                "rhyme_book": "《改併四聲篇海·爪部》引《搜真玉鏡》：“𤔶，音當。”《字彙補·爪部》：“𤔶，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -882,9 +878,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chèng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》昌孕切。",
                 "meanings": [
-                    "《餘文》昌孕切",
                     "降服"
                 ]
             }

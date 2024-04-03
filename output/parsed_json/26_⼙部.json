@@ -7,9 +7,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音纖。",
                 "meanings": [
-                    "《奚韻》音纖",
                     "姓"
                 ]
             },
@@ -448,7 +447,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "卺jǐn",
+                "pinyin": "jǐn",
                 "rhyme_book": "《廣韻》居隱切，上隱見。",
                 "meanings": [
                     "一个瓠分成两个瓢，古代婚礼所用的酒器"
@@ -504,7 +503,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹卾è",
+                "pinyin": "è",
                 "rhyme_book": "《集韻》逆各切，入鐸疑。",
                 "meanings": [
                     "上腭"
@@ -541,7 +540,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "《説文》：“厀，脛頭卪也。从卪，桼聲。”xī",
+                "pinyin": "xī",
                 "rhyme_book": "《廣韻》息七切，入質心。質部。",
                 "meanings": [
                     "膝盖",
@@ -609,7 +608,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠨕jì",
+                "pinyin": "jì",
                 "rhyme_book": "《改併四聲篇海·卩部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠨕，音忌"
@@ -657,7 +656,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠨚xī",
+                "pinyin": "xī",
                 "rhyme_book": "《集韻》香依切，平微曉。",
                 "meanings": [
                     "骨节间"
@@ -700,10 +699,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠨠jí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》秦力切。",
                 "meanings": [
-                    "《川篇》秦力切",
                     "久"
                 ]
             }
@@ -717,10 +715,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠨢jùn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jùn",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音峻。",
                 "meanings": [
-                    "《類篇》音峻",
                     "危"
                 ]
             }
@@ -743,7 +740,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𠨥liáo",
+                "pinyin": "liáo",
                 "rhyme_book": "《字彙補》力昭切。",
                 "meanings": [
                     "山名"
@@ -759,7 +756,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𠨦yōu",
+                "pinyin": "yōu",
                 "rhyme_book": "《改併四聲篇海·卩部》引",
                 "meanings": [
                     "《龍龕手鑑》“𠨦，音憂"

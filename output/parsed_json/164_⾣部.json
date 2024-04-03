@@ -100,7 +100,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "zǎi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》自愷切。",
                 "meanings": [
                     "酒色光",
                     "甜"
@@ -782,7 +782,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chǎn",
                 "rhyme_book": "chǎn　㊀《廣韻》初減切，上豏初。談部。",
                 "meanings": [
@@ -790,7 +790,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chǎn",
                 "rhyme_book": "《集韻》初斂切，上琰初。",
                 "meanings": [
@@ -1060,13 +1060,13 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yàn",
                 "rhyme_book": "yàn　㊀《廣韻》於念切，去㮇影。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yàn",
                 "rhyme_book": "《集韻》於豔切，去豔影。",
                 "meanings": [
@@ -3800,9 +3800,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》女盞切。",
                 "meanings": [
-                    "《川篇》女盞切",
                     "面上酒饱"
                 ]
             }
@@ -3878,10 +3877,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yán",
-                "rhyme_book": "《改併四聲篇海·酉部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𨡄，音言"
-                ]
+                "rhyme_book": "《改併四聲篇海·酉部》引《搜真玉鏡》：“𨡄，音言。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4047,9 +4044,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》側射切。",
                 "meanings": [
-                    "《龍龕手鑑》側射切",
                     "造酒"
                 ]
             }
@@ -4132,7 +4128,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ǐn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音飲。",
                 "meanings": [
                     "酒"
                 ]
@@ -4164,9 +4160,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音老。",
                 "meanings": [
-                    "《類篇》音老",
                     "醉"
                 ]
             }
@@ -4504,9 +4499,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》侯按切。",
                 "meanings": [
-                    "《餘文》侯按切",
                     "清酒"
                 ]
             }
@@ -5078,9 +5072,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音單。",
                 "meanings": [
-                    "《川篇》音單",
                     "浊酒"
                 ]
             }
@@ -5143,10 +5136,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "láo",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音勞"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音勞。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -5167,9 +5158,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》音花。",
                 "meanings": [
-                    "《餘文》音花",
                     "酒名"
                 ]
             }
@@ -5347,9 +5337,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音毯。",
                 "meanings": [
-                    "《川篇》音毯",
                     "醋"
                 ]
             }
@@ -5601,10 +5590,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yí",
-                "rhyme_book": "《改併四聲篇海·酉部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𨣬，音移"
-                ]
+                "rhyme_book": "《改併四聲篇海·酉部》引《搜真玉鏡》：“𨣬，音移。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5814,9 +5801,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音詠。",
                 "meanings": [
-                    "《川篇》音詠",
                     "酒坏"
                 ]
             }

@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㢥dòng",
+                "pinyin": "dòng",
                 "rhyme_book": "《廣韻》徒弄切，去送定。",
                 "meanings": [
                     "系船缆的大木"
@@ -159,7 +159,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹𢍼lì",
+                "pinyin": "lì",
                 "rhyme_book": "《字彙補·弋部》：“𢍼，六日切，音栗。見",
                 "meanings": [
                     "《海篇》"
@@ -184,7 +184,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍿zāng",
+                "pinyin": "zāng",
                 "rhyme_book": "《集韻》兹郎切，平唐精。",
                 "meanings": [
                     "木桩"
@@ -200,7 +200,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢎀yì",
+                "pinyin": "yì",
                 "rhyme_book": "《廣韻》與職切，入職以。",
                 "meanings": [
                     "锁骨上窝"
@@ -225,7 +225,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢎂zāi",
+                "pinyin": "zāi",
                 "rhyme_book": "《改併四聲篇海·弋部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𢎂，作孩切"
@@ -241,10 +241,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢎃yì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yì",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》音弋。",
                 "meanings": [
-                    "《併了部頭》音弋",
                     "能"
                 ]
             }
@@ -258,7 +257,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𢎄gē",
+                "pinyin": "gē",
                 "rhyme_book": "《集韻》居何切，平歌見。",
                 "meanings": []
             }
@@ -299,7 +298,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢎈zhī",
+                "pinyin": "zhī",
                 "rhyme_book": "《龍龕手鑑·弋部》：“𢎈，音脂。”",
                 "meanings": []
             }
@@ -340,10 +339,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𢎌dài",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "dài",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》音代。",
                 "meanings": [
-                    "《併了部頭》音代",
                     "甘"
                 ]
             }
@@ -366,10 +364,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢎎sù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "sù",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音素。",
                 "meanings": [
-                    "《類篇》音素",
                     "姓"
                 ]
             }
@@ -428,7 +425,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𢎕chèn",
+                "pinyin": "chèn",
                 "rhyme_book": "《改併四聲篇海·弋部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𢎕，初近切"

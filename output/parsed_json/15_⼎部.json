@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²㓅tīng",
+                "pinyin": "tīng",
                 "rhyme_book": "《玉篇》他丁切。",
                 "meanings": [
                     "冰貌"
@@ -22,7 +22,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵㓈bìng",
+                "pinyin": "bìng",
                 "rhyme_book": "《玉篇》彼孕切。",
                 "meanings": [
                     "〔㓈𠗥〕飞声"
@@ -38,7 +38,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓉huó",
+                "pinyin": "huó",
                 "rhyme_book": "《玉篇》胡括切。",
                 "meanings": [
                     "冰"
@@ -54,7 +54,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓊dòng",
+                "pinyin": "dòng",
                 "rhyme_book": "《廣韻》徒弄切，去送定。",
                 "meanings": [
                     "冷"
@@ -70,7 +70,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶㓋gòng",
+                "pinyin": "gòng",
                 "rhyme_book": "《集韻》巨勇切，上腫羣。",
                 "meanings": [
                     "凝结"
@@ -86,7 +86,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓌chēng",
+                "pinyin": "chēng",
                 "rhyme_book": "《字彙補》充生切。",
                 "meanings": [
                     "寒冷的样子"
@@ -134,10 +134,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓏jiǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiǒng",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》古迥切。",
                 "meanings": [
-                    "《龍龕手鑑》古迥切",
                     "寒冷"
                 ]
             }
@@ -168,7 +167,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓑xìng",
+                "pinyin": "xìng",
                 "rhyme_book": "《集韻》下頂切，上迥匣。",
                 "meanings": [
                     "〔㓑冷〕寒"
@@ -184,7 +183,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓓nán",
+                "pinyin": "nán",
                 "rhyme_book": "《玉篇》奴含切。",
                 "meanings": [
                     "冰薄"
@@ -279,7 +278,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³冮gāng",
+                "pinyin": "gāng",
                 "rhyme_book": null,
                 "meanings": [
                     "姓"
@@ -370,7 +369,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "yě",
-                "rhyme_book": "《廣韻》羊者切，上馬以。魚部。",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》胡甲切。",
                 "meanings": [
                     "熔炼金属",
                     "铸造工",
@@ -502,7 +501,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "冽liè",
+                "pinyin": "liè",
                 "rhyme_book": "《廣韻》力薛切，入薛來。月部。",
                 "meanings": [
                     "寒冷"
@@ -519,7 +518,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "jiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》子仙切。",
                 "meanings": [
                     "志",
                     "进"
@@ -593,7 +592,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凅gù",
+                "pinyin": "gù",
                 "rhyme_book": "《廣韻》古暮切，去暮見。",
                 "meanings": [
                     "因寒而凝固、闭塞"
@@ -625,7 +624,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凇sōng",
+                "pinyin": "sōng",
                 "rhyme_book": "《廣韻》息恭切，平鍾心。又蘇弄切，祥容切。",
                 "meanings": [
                     "雾或水气结成的冰花"
@@ -736,7 +735,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凎gàn",
+                "pinyin": "gàn",
                 "rhyme_book": null,
                 "meanings": [
                     "〔醇凎〕化学名词"
@@ -761,7 +760,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凐yīn",
+                "pinyin": "yīn",
                 "rhyme_book": "《集韻》伊真切，平真影。",
                 "meanings": [
                     "寒貌"
@@ -826,16 +825,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "凕mǐng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "mǐng",
                 "rhyme_book": "",
                 "meanings": [
                     "〔凕冷〕寒貌"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "凕mǐng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "mǐng",
                 "rhyme_book": "《集韻》母迥切，上迥明。",
                 "meanings": [
                     "冻貌"
@@ -843,7 +842,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凕mǐng",
+                "pinyin": "mǐng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔凕冷〕寒貌",
@@ -870,7 +869,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凗cuī",
+                "pinyin": "cuī",
                 "rhyme_book": "《集韻》昨回切，平灰從。",
                 "meanings": [
                     "〔凗凒〕也作“漼溰”"
@@ -902,7 +901,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凙duó",
+                "pinyin": "duó",
                 "rhyme_book": "《廣韻》徒落切，入鐸定。",
                 "meanings": []
             }
@@ -916,7 +915,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "³凚jìn",
+                "pinyin": "jìn",
                 "rhyme_book": "《廣韻》巨禁切，去沁羣。又渠飲切。",
                 "meanings": [
                     "寒极",
@@ -983,10 +982,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "凞xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》許夷切。",
                 "meanings": [
-                    "《龍龕手鑑》許夷切",
                     "和"
                 ]
             }
@@ -1036,7 +1034,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠖷jiǒng",
+                "pinyin": "jiǒng",
                 "rhyme_book": "《廣韻》古迥切，上迥見。",
                 "meanings": [
                     "寒冷"
@@ -1070,7 +1068,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗂hè",
+                "pinyin": "hè",
                 "rhyme_book": "《廣韻》下各切，入鐸匣。又",
                 "meanings": [
                     "《集韻》歷各切",
@@ -1114,7 +1112,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗆tāo",
+                "pinyin": "tāo",
                 "rhyme_book": "《字彙補》天高切。",
                 "meanings": [
                     "牛鼻绳头的铜饰"
@@ -1130,10 +1128,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗈qiú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qiú",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音求。",
                 "meanings": [
-                    "《龍龕手鑑》音求",
                     "〔𠗽𠗈〕见“𠗽”"
                 ]
             }
@@ -1147,7 +1144,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗉xiá",
+                "pinyin": "xiá",
                 "rhyme_book": "《廣韻》胡頰切，入帖匣。",
                 "meanings": [
                     "〔𠗉𠗨〕冰冻；受冻而凝结"
@@ -1163,7 +1160,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗊jìng",
+                "pinyin": "jìng",
                 "rhyme_book": "《集韻》巨井切，上静羣。",
                 "meanings": [
                     "寒噤"
@@ -1179,7 +1176,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗋niǎn",
+                "pinyin": "niǎn",
                 "rhyme_book": "《玉篇》奴典切。",
                 "meanings": [
                     "〔𠗘𠗋〕见“𠗘”"
@@ -1195,7 +1192,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𠗌jìng",
+                "pinyin": "jìng",
                 "rhyme_book": "《集韻》其拯切，上拯羣。",
                 "meanings": [
                     "〔𠗌冼〕寒冷的样子"
@@ -1238,7 +1235,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗘tiǎn",
+                "pinyin": "tiǎn",
                 "rhyme_book": "《玉篇》他典切。",
                 "meanings": [
                     "〔𠗘𠗋〕恶酒貌"
@@ -1263,7 +1260,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗚cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《集韻》取内切，去隊清。",
                 "meanings": [
                     "寒"
@@ -1304,7 +1301,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗥pìng",
+                "pinyin": "pìng",
                 "rhyme_book": "《玉篇》匹孕切。",
                 "meanings": [
                     "〔㓈𠗥〕见“㓈”"
@@ -1338,7 +1335,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗨dié",
+                "pinyin": "dié",
                 "rhyme_book": "《廣韻》徒協切，入帖定。又丈甲切。",
                 "meanings": [
                     "〔𠗉𠗨〕见“𠗉”"
@@ -1354,11 +1351,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗩liù",
-                "rhyme_book": "《改併四聲篇海·冫部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠗩，力舊切"
-                ]
+                "pinyin": "liù",
+                "rhyme_book": "《改併四聲篇海·冫部》引《搜真玉鏡》：“𠗩，力舊切。出《吴志》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1379,7 +1374,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗳liǎn",
+                "pinyin": "liǎn",
                 "rhyme_book": "《集韻》盧忝切，上忝來。",
                 "meanings": [
                     "薄冰"
@@ -1411,7 +1406,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗵pāng",
+                "pinyin": "pāng",
                 "rhyme_book": "《集韻》鋪郎切，平唐滂。",
                 "meanings": [
                     "〔𠗵𠗶〕冻结在一起"
@@ -1427,7 +1422,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗶táng",
+                "pinyin": "táng",
                 "rhyme_book": "《集韻》徒郎切，平唐定。",
                 "meanings": [
                     "〔𠗵𠗶〕见“𠗵”"
@@ -1452,10 +1447,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗻xuán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xuán",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音玄。",
                 "meanings": [
-                    "《類篇》音玄",
                     "冷"
                 ]
             }
@@ -1469,7 +1463,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗼suò",
+                "pinyin": "suò",
                 "rhyme_book": "《集韻》率摑切，入麥生。",
                 "meanings": [
                     "寒貌"
@@ -1485,7 +1479,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗽liú",
+                "pinyin": "liú",
                 "rhyme_book": "《集韻》力求切，平尤來。",
                 "meanings": [
                     "〔𠗽𠗈〕手足冻貌"
@@ -1501,7 +1495,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗾shuǎng",
+                "pinyin": "shuǎng",
                 "rhyme_book": "《集韻》楚兩切，上養初。",
                 "meanings": [
                     "冷貌"
@@ -1517,7 +1511,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠗿shèn",
+                "pinyin": "shèn",
                 "rhyme_book": "《集韻》所禁切，去沁生。",
                 "meanings": [
                     "寒貌"
@@ -1542,7 +1536,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘁bù",
+                "pinyin": "bù",
                 "rhyme_book": "《改併四聲篇海·冫部》引",
                 "meanings": [
                     "《搜真玉鏡》：“冫，薄厚切"
@@ -1558,7 +1552,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𠘂sōu",
+                "pinyin": "sōu",
                 "rhyme_book": "《集韻》先侯切，平侯心。",
                 "meanings": [
                     "寒冷"
@@ -1583,7 +1577,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘅qín",
+                "pinyin": "qín",
                 "rhyme_book": "《集韻》渠金切，平侵羣。",
                 "meanings": [
                     "寒"
@@ -1599,7 +1593,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘆shěn",
+                "pinyin": "shěn",
                 "rhyme_book": "《集韻》所錦切，上寑生。",
                 "meanings": [
                     "〔凚𠘆〕寒貌"
@@ -1624,7 +1618,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘊nòng",
+                "pinyin": "nòng",
                 "rhyme_book": "《集韻》奴凍切，去送泥。",
                 "meanings": [
                     "〔凍𠘊〕寒貌"
@@ -1640,7 +1634,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘋tǐng",
+                "pinyin": "tǐng",
                 "rhyme_book": "《玉篇》他領切。",
                 "meanings": [
                     "冰貌"
@@ -1656,7 +1650,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘌jiāng",
+                "pinyin": "jiāng",
                 "rhyme_book": "《集韻》居良切，平陽見。",
                 "meanings": [
                     "冻僵"
@@ -1717,7 +1711,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘖zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《集韻》職日切，入質章。",
                 "meanings": [
                     "因寒冷而身体发抖的样子"
@@ -1767,7 +1761,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𠘞lì",
+                "pinyin": "lì",
                 "rhyme_book": "《玉篇》盧帝切。",
                 "meanings": [
                     "水"
@@ -1783,7 +1777,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘟lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "〔𠘟𠘟〕也作“𠘟冽”"
@@ -1799,10 +1793,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𠘢hé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "hé",
+                "rhyme_book": "《改併四聲篇海》引《餘文》下各切。",
                 "meanings": [
-                    "《餘文》下各切",
                     "煎盐"
                 ]
             }
@@ -1816,7 +1809,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠘣jiào",
+                "pinyin": "jiào",
                 "rhyme_book": "《集韻》子肖切，去笑精。",
                 "meanings": [
                     "冰裂"
@@ -1841,7 +1834,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𠘥yán",
+                "pinyin": "yán",
                 "rhyme_book": "《集韻》魚杴切，平嚴疑。",
                 "meanings": [
                     "〔𠘥凝〕也作“嚴凝”"

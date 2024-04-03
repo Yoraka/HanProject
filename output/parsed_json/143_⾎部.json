@@ -33,7 +33,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䘒zuī",
+                "pinyin": "zuī",
                 "rhyme_book": "《廣韻》臧回切，平灰精。之部。",
                 "meanings": [
                     "男孩的生殖器"
@@ -226,7 +226,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "衈èr",
+                "pinyin": "èr",
                 "rhyme_book": "《廣韻》仍吏切，去志日。之部。",
                 "meanings": [
                     "古代祭礼前杀牲取血以涂器物",
@@ -244,7 +244,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "衉kā",
+                "pinyin": "kā",
                 "rhyme_book": "《正字通》乞格切。",
                 "meanings": [
                     "呕；吐"
@@ -329,10 +329,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³𧖪qíng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qíng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》巨靈切。",
                 "meanings": [
-                    "《川篇》巨靈切",
                     "见定"
                 ]
             }
@@ -355,10 +354,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𧖬huāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "huāng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音荒。",
                 "meanings": [
-                    "《川篇》音荒",
                     "血上心"
                 ]
             }
@@ -381,11 +379,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧖮àn",
-                "rhyme_book": "《改併四聲篇海·血部》引",
-                "meanings": [
-                    "《類篇》：“𧖮，音暗"
-                ]
+                "pinyin": "àn",
+                "rhyme_book": "《改併四聲篇海·血部》引《類篇》：“𧖮，音暗。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -424,7 +420,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧖵mǎn",
+                "pinyin": "mǎn",
                 "rhyme_book": "《集韻》母伴切，上緩明。",
                 "meanings": [
                     "用血涂地"
@@ -496,7 +492,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸𧖻guó",
+                "pinyin": "guó",
                 "rhyme_book": "《廣韻》古獲切，入麥見。",
                 "meanings": [
                     "狗血"
@@ -539,11 +535,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧖿xiàng",
-                "rhyme_book": "《改併四聲篇海·血部》引",
-                "meanings": [
-                    "《類篇》：“𧖿，音項"
-                ]
+                "pinyin": "xiàng",
+                "rhyme_book": "《改併四聲篇海·血部》引《類篇》：“𧖿，音項。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -607,7 +601,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧗆zhēng",
+                "pinyin": "zhēng",
                 "rhyme_book": "《集韻》諸仍切，平蒸章。",
                 "meanings": [
                     "用肉制成的酱"
@@ -632,10 +626,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𧗈nú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "nú",
+                "rhyme_book": "《改併四聲篇海》引《川篇》乃伏切。",
                 "meanings": [
-                    "《川篇》乃伏切",
                     "汗，由身体毛孔里排出来的液体"
                 ]
             }
@@ -667,10 +660,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧗋sàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "sàn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》息濫切。",
                 "meanings": [
-                    "《川篇》息濫切",
                     "抵𧗋"
                 ]
             }
@@ -684,7 +676,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧗌hù",
+                "pinyin": "hù",
                 "rhyme_book": "《集韻》荒故切，去暮曉。",
                 "meanings": [
                     "血污"
@@ -709,10 +701,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧗏huǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "huǐ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音悔。",
                 "meanings": [
-                    "《川篇》音悔",
                     "血面"
                 ]
             }
@@ -787,10 +778,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧗖yè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yè",
+                "rhyme_book": "《改併四聲篇海》引《川篇》於叶切。",
                 "meanings": [
-                    "《川篇》於叶切",
                     "血"
                 ]
             }

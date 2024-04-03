@@ -118,7 +118,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "pǐ",
-                "rhyme_book": "《玉篇》匹米切。",
+                "rhyme_book": "《改併四聲篇海·鬼部》引《對韻音訓》：“䰦，醜也。”",
                 "meanings": [
                     "鬼名",
                     "丑",
@@ -227,7 +227,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䰬jú",
+                "pinyin": "jú",
                 "rhyme_book": "《集韻》其律切，入術羣。",
                 "meanings": [
                     "狂鬼"
@@ -252,7 +252,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䰯yì",
+                "pinyin": "yì",
                 "rhyme_book": "《廣韻》魚記切，去志疑。",
                 "meanings": [
                     "恐惧"
@@ -364,7 +364,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鬿qí",
+                "pinyin": "qí",
                 "rhyme_book": "《集韻》渠希切，平微羣。微部。",
                 "meanings": [
                     "古星名"
@@ -546,7 +546,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "魈xiāo",
+                "pinyin": "xiāo",
                 "rhyme_book": "《廣韻》相邀切，平宵心。",
                 "meanings": [
                     "〔山魈〕1.传说中山林的鬼怪"
@@ -616,7 +616,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "魍wǎng",
+                "pinyin": "wǎng",
                 "rhyme_book": "《廣韻》文兩切，上養微。陽部。",
                 "meanings": [
                     "〔魍魎〕1.传说中的山川精怪"
@@ -709,7 +709,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "魒piāo",
+                "pinyin": "piāo",
                 "rhyme_book": "《玉篇》匹姚切。",
                 "meanings": [
                     "斗星名"
@@ -725,7 +725,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "魓bì",
+                "pinyin": "bì",
                 "rhyme_book": "《玉篇》音畢。",
                 "meanings": [
                     "斗星名"
@@ -857,11 +857,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱼jiū",
-                "rhyme_book": "《改併四聲篇海·鬼部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩱼，音鳩"
-                ]
+                "pinyin": "jiū",
+                "rhyme_book": "《改併四聲篇海·鬼部》引《搜真玉鏡》：“𩱼，音鳩。”《字彙補·鬼部》：“𩱼，古休切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -882,7 +880,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱾tuò",
+                "pinyin": "tuò",
                 "rhyme_book": "《篇海類編》他各切。",
                 "meanings": [
                     "〔落𩱾〕也作“落魄”、“落拓”"
@@ -916,7 +914,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲁xí",
+                "pinyin": "xí",
                 "rhyme_book": "《玉篇》詞惜切。",
                 "meanings": [
                     "鬼名"
@@ -932,7 +930,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲂wěi",
+                "pinyin": "wěi",
                 "rhyme_book": "《集韻》鄔賄切，上賄影。",
                 "meanings": [
                     "〔𩲂𦓥〕墝埆"
@@ -948,7 +946,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲃zhuó",
+                "pinyin": "zhuó",
                 "rhyme_book": "《字彙補》昭削切。",
                 "meanings": [
                     "斗星名"
@@ -964,7 +962,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲄wèi",
+                "pinyin": "wèi",
                 "rhyme_book": "《廣韻》烏繢切，去隊影。",
                 "meanings": [
                     "〔𩲄𡯵〕一种疾病名"
@@ -1018,7 +1016,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲊hào",
+                "pinyin": "hào",
                 "rhyme_book": "《集韻》虚到切，去号曉。",
                 "meanings": [
                     "虚厉"
@@ -1034,7 +1032,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲋hāng",
+                "pinyin": "hāng",
                 "rhyme_book": "《玉篇》火郎切。",
                 "meanings": [
                     "鬼"
@@ -1050,7 +1048,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲌fāng",
+                "pinyin": "fāng",
                 "rhyme_book": "《玉篇》扶方切。",
                 "meanings": [
                     "星名"
@@ -1066,7 +1064,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲍niú",
+                "pinyin": "niú",
                 "rhyme_book": "《玉篇》魚丘切。",
                 "meanings": [
                     "鬼"
@@ -1082,10 +1080,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲎yòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yòu",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音右。",
                 "meanings": [
-                    "《搜真玉鏡》音右",
                     "鬼名"
                 ]
             }
@@ -1232,7 +1229,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲠zhú",
+                "pinyin": "zhú",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩲠，音竹。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩲠，知曲切"
@@ -1279,10 +1276,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲣jiǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiǎ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音甲。",
                 "meanings": [
-                    "《川篇》音甲",
                     "窃鬼"
                 ]
             }
@@ -1296,7 +1292,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲤tiáo",
+                "pinyin": "tiáo",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩲤☀〕也作“苕蕘”"
@@ -1321,10 +1317,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲦lǜ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lǜ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音律。",
                 "meanings": [
-                    "《川篇》音律",
                     "杀"
                 ]
             }
@@ -1338,7 +1333,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲧kǒng",
+                "pinyin": "kǒng",
                 "rhyme_book": "《玉篇》去拱切。",
                 "meanings": [
                     "地名"
@@ -1354,7 +1349,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲨zuǐ",
+                "pinyin": "zuǐ",
                 "rhyme_book": "《玉篇》即委切。",
                 "meanings": [
                     "鬼名"
@@ -1370,7 +1365,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲩líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "鬼名"
@@ -1386,10 +1381,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲪qí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》巨希切。",
                 "meanings": [
-                    "《川篇》巨希切",
                     "星名"
                 ]
             }
@@ -1412,10 +1406,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲬zhú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhú",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音竹。",
                 "meanings": [
-                    "《類篇》音竹",
                     "鬼头"
                 ]
             }
@@ -1429,7 +1422,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲱gǔ",
+                "pinyin": "gǔ",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩲱，音古。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩲱，公苦切"
@@ -1445,7 +1438,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲲zù",
+                "pinyin": "zù",
                 "rhyme_book": "《録異記》子故反。",
                 "meanings": [
                     "怪鬼名"
@@ -1470,7 +1463,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲴yāng",
+                "pinyin": "yāng",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩲴，於良反。”按：疑为“殃”的换旁俗字。",
                 "meanings": []
             }
@@ -1484,7 +1477,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲵sū",
+                "pinyin": "sū",
                 "rhyme_book": "《龍龕手鑑》音蘇。",
                 "meanings": [
                     "〔𩲵𩳌〕鬼怪"
@@ -1509,11 +1502,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲷kuí",
-                "rhyme_book": "《改併四聲篇海·鬼部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩲷，苦回切"
-                ]
+                "pinyin": "kuí",
+                "rhyme_book": "《改併四聲篇海·鬼部》引《搜真玉鏡》：“𩲷，苦回切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1534,10 +1525,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲹chāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chāng",
+                "rhyme_book": "《改併四聲篇海》引《類篇》丑良切。",
                 "meanings": [
-                    "《類篇》丑良切",
                     "鬼"
                 ]
             }
@@ -1560,7 +1550,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲻yáo",
+                "pinyin": "yáo",
                 "rhyme_book": "《玉篇》五交切。",
                 "meanings": [
                     "鬼名"
@@ -1594,7 +1584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩲾yù",
+                "pinyin": "yù",
                 "rhyme_book": "《玉篇》于目切。",
                 "meanings": [
                     "鬼貌"
@@ -1655,7 +1645,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳅shū",
+                "pinyin": "shū",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩳅，暢朱反。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩳅，見《篇韻》"
@@ -1671,7 +1661,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𩳆lài",
+                "pinyin": "lài",
                 "rhyme_book": "《改併四聲篇海·鬼部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩳆，音賴"
@@ -1687,7 +1677,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳇yì",
+                "pinyin": "yì",
                 "rhyme_book": "《龍龕手鑑》音伇。",
                 "meanings": [
                     "鬼名"
@@ -1703,7 +1693,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳈dōu",
+                "pinyin": "dōu",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩳈，音兜。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩳈，都勾切"
@@ -1754,7 +1744,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳍yǐng",
+                "pinyin": "yǐng",
                 "rhyme_book": "《廣韻》烟涬切，上迥影。",
                 "meanings": [
                     "巫厌"
@@ -1770,7 +1760,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳎fú",
+                "pinyin": "fú",
                 "rhyme_book": "《玉篇》縛尤切。",
                 "meanings": [
                     "星名"
@@ -1786,10 +1776,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳏zhuàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhuàn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音瑑。",
                 "meanings": [
-                    "《川篇》音瑑",
                     "丑貌"
                 ]
             }
@@ -1803,7 +1792,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳐fǔ",
+                "pinyin": "fǔ",
                 "rhyme_book": "《集韻》匪父切，上虞非。",
                 "meanings": [
                     "北斗星名"
@@ -1828,7 +1817,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳒sù",
+                "pinyin": "sù",
                 "rhyme_book": "《集韻》蘇谷切，入屋心。",
                 "meanings": [
                     "鬼名"
@@ -1844,10 +1833,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳓lǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lǐ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》良以切。",
                 "meanings": [
-                    "《川篇》良以切",
                     "恶鬼"
                 ]
             }
@@ -1861,7 +1849,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳔yào",
+                "pinyin": "yào",
                 "rhyme_book": "《廣韻》五教切，去效疑。",
                 "meanings": [
                     "丑貌"
@@ -1886,9 +1874,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》他漬切。",
                 "meanings": [
-                    "《川篇》他漬切",
                     "苦热病鬼"
                 ]
             }
@@ -1911,7 +1898,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳝guì",
+                "pinyin": "guì",
                 "rhyme_book": "《改併四聲篇海·鬼部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩳝，音桂"
@@ -1963,7 +1950,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳢yàn",
+                "pinyin": "yàn",
                 "rhyme_book": "《集韻》於贍切，去豔影。",
                 "meanings": [
                     "污触"
@@ -1989,7 +1976,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "làng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音浪。",
                 "meanings": [
                     "江鬼",
                     "江鬼丑貌"
@@ -2011,7 +1998,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳥zhú",
+                "pinyin": "zhú",
                 "rhyme_book": "《玉篇》陟目切。",
                 "meanings": [
                     "丑头"
@@ -2036,7 +2023,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳧jī",
+                "pinyin": "jī",
                 "rhyme_book": "《五音集韻》古𡐰切。",
                 "meanings": [
                     "雨鬼"
@@ -2052,10 +2039,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳨hū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "hū",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音呼。",
                 "meanings": [
-                    "《川篇》音呼",
                     "鬼名"
                 ]
             }
@@ -2105,7 +2091,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳯jīng",
+                "pinyin": "jīng",
                 "rhyme_book": "《改併四聲篇海·鬼部》引",
                 "meanings": [
                     "《類篇》：“𩳯，音精"
@@ -2139,7 +2125,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳲chǐ",
+                "pinyin": "chǐ",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩳲，昌氏反。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩳲，義闕"
@@ -2155,7 +2141,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳵jú",
+                "pinyin": "jú",
                 "rhyme_book": "《篇海類編》古役切。",
                 "meanings": [
                     "静"
@@ -2171,7 +2157,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𩳶zhá",
+                "pinyin": "zhá",
                 "rhyme_book": "《玉篇》士甲切。",
                 "meanings": [
                     "丑"
@@ -2196,7 +2182,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩳸miáo",
+                "pinyin": "miáo",
                 "rhyme_book": "《集韻》眉鑣切，平宵明。",
                 "meanings": [
                     "蛊鬼"
@@ -2239,7 +2225,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴀zhū",
+                "pinyin": "zhū",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩴀，音猪。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩴀，見《篇韻》"
@@ -2255,7 +2241,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴁gā",
+                "pinyin": "gā",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩴵𩴁〕也作“尷尬”"
@@ -2271,7 +2257,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴂xiōng",
+                "pinyin": "xiōng",
                 "rhyme_book": "《本草綱目》匈擁切。",
                 "meanings": [
                     "〔𩴂魂〕鸮的别名"
@@ -2287,7 +2273,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴃jí",
+                "pinyin": "jí",
                 "rhyme_book": "《字彙補》音急。",
                 "meanings": [
                     "鬼名"
@@ -2312,7 +2298,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴇shài",
+                "pinyin": "shài",
                 "rhyme_book": "《集韻》所介切，去怪生。",
                 "meanings": [
                     "鬼名"
@@ -2337,10 +2323,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴉yùn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yùn",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》于郡切。",
                 "meanings": [
-                    "《奚韻》于郡切",
                     "鬼名"
                 ]
             }
@@ -2372,7 +2357,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴍shòu",
+                "pinyin": "shòu",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩴍，所救、所六二反。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩴍，見《金鏡》"
@@ -2397,7 +2382,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴐lǜ",
+                "pinyin": "lǜ",
                 "rhyme_book": "《集韻》劣戍切，入術來。",
                 "meanings": [
                     "鬼名"
@@ -2414,7 +2399,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "yòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音右。",
                 "meanings": [
                     "神在山中",
                     "鬼名"
@@ -2474,7 +2459,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴘jù",
+                "pinyin": "jù",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩴘，音據。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩴘，姑去切"
@@ -2490,10 +2475,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴙yòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yòu",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音右。",
                 "meanings": [
-                    "《搜真玉鏡》音右",
                     "鬼名"
                 ]
             }
@@ -2516,11 +2500,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴜yì",
-                "rhyme_book": "《改併四聲篇海·鬼部》引",
-                "meanings": [
-                    "《類篇》：“𩴜，音異"
-                ]
+                "pinyin": "yì",
+                "rhyme_book": "《改併四聲篇海·鬼部》引《類篇》：“𩴜，音異。”《字彙補·鬼部》：“𩴜，見《海篇》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2532,10 +2514,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴝téng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "téng",
+                "rhyme_book": "《改併四聲篇海》引《類篇》徒登切。",
                 "meanings": [
-                    "《類篇》徒登切",
                     "空中鬼"
                 ]
             }
@@ -2575,7 +2556,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴡gù",
+                "pinyin": "gù",
                 "rhyme_book": "《玉篇》古悟切。",
                 "meanings": [
                     "神名"
@@ -2600,7 +2581,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴣lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "鬼名"
@@ -2616,10 +2597,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴤liào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "liào",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音料。",
                 "meanings": [
-                    "《類篇》音料",
                     "惊"
                 ]
             }
@@ -2642,7 +2622,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴧jiāo",
+                "pinyin": "jiāo",
                 "rhyme_book": null,
                 "meanings": [
                     "椎状的发髻"
@@ -2658,11 +2638,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴨yáng",
-                "rhyme_book": "《改併四聲篇海·鬼部》引",
-                "meanings": [
-                    "《類篇》：“𩴨，音羊"
-                ]
+                "pinyin": "yáng",
+                "rhyme_book": "《改併四聲篇海·鬼部》引《類篇》：“𩴨，音羊。”《字彙補·鬼部》：“𩴨，見《金鏡》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2674,7 +2652,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴩biāo",
+                "pinyin": "biāo",
                 "rhyme_book": "《龍龕手鑑·鬼部》：“𩴩，必遥反。”",
                 "meanings": [
                     "《字彙補·鬼部》：“𩴩，見《金鏡》"
@@ -2716,7 +2694,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴮yì",
+                "pinyin": "yì",
                 "rhyme_book": "《玉篇》羊益切。",
                 "meanings": [
                     "病名"
@@ -2749,7 +2727,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𩴲méng",
+                "pinyin": "méng",
                 "rhyme_book": "《玉篇》武棱切。",
                 "meanings": [
                     "鬼"
@@ -2765,7 +2743,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴳chà",
+                "pinyin": "chà",
                 "rhyme_book": "《廣韻》初八切，入黠初。",
                 "meanings": [
                     "〔羅𩴳〕1.也作“羅刹”"
@@ -2790,7 +2768,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴵gān",
+                "pinyin": "gān",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩴵魀〕也作“尷尬”、“𩴵魊”"
@@ -2833,7 +2811,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴹qú",
+                "pinyin": "qú",
                 "rhyme_book": "《藝文類聚》卷七十九引*王延壽*",
                 "meanings": [
                     "《夢賦》：“撲𩲤☀，扶夔𩴹"
@@ -2849,7 +2827,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𩴺dí",
+                "pinyin": "dí",
                 "rhyme_book": "《玉篇》徒歷切。",
                 "meanings": [
                     "丑"
@@ -2865,7 +2843,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩴻léi",
+                "pinyin": "léi",
                 "rhyme_book": "《集韻》盧回切，平灰來。",
                 "meanings": [
                     "雷鬼"
@@ -2925,7 +2903,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𩵄huān",
+                "pinyin": "huān",
                 "rhyme_book": "《玉篇》呼官切。",
                 "meanings": [
                     "斗星名"
@@ -2941,7 +2919,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁸𩵅qú",
+                "pinyin": "qú",
                 "rhyme_book": "《篇海類編》音劬。",
                 "meanings": [
                     "亚"
@@ -2957,10 +2935,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𩵇luó",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "luó",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音羅。",
                 "meanings": [
-                    "《搜真玉鏡》音羅",
                     "鬼名"
                 ]
             }
@@ -2983,7 +2960,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²¹𩵉kuí",
+                "pinyin": "kuí",
                 "rhyme_book": "《字彙補》渠追切。",
                 "meanings": [
                     "怪名"

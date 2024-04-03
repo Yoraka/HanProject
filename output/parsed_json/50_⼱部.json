@@ -140,10 +140,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "sī",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“㠼，音斯"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“㠼，音斯。”《字彙補·巾部》：“㠼，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2986,18 +2984,16 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "pèi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音佩。",
                 "meanings": [
-                    "《川篇》音佩",
                     "大布"
                 ]
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "bó",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音撥。",
                 "meanings": [
-                    "《川篇》音撥",
                     "布"
                 ]
             }
@@ -3093,10 +3089,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuē",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢁞，音約"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢁞，音約。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3118,10 +3112,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gōng",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《餘文》：“𢁠，音宫"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《餘文》：“𢁠，音宫。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3379,9 +3371,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "huāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》虎光切。",
                 "meanings": [
-                    "《奚韻》虎光切",
                     "幭𢁣"
                 ]
             }
@@ -3630,9 +3621,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bō",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音鉢。",
                 "meanings": [
-                    "《川篇》音鉢",
                     "巾"
                 ]
             }
@@ -3869,10 +3859,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yín",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢂨，語今切"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢂨，語今切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4009,9 +3997,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiōng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音扃。",
                 "meanings": [
-                    "《川篇》音扃",
                     "巾"
                 ]
             }
@@ -4393,10 +4380,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "sè",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢃢，音𩊯"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢃢，音𩊯。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4427,10 +4412,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qiān",
-                "rhyme_book": "《海篇·巾部》：“𢃥，音慳。”",
-                "meanings": [
-                    "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢃥，口賢切"
-                ]
+                "rhyme_book": "《海篇·巾部》：“𢃥，音慳。”《改併四聲篇海·巾部》引《搜真玉鏡》：“𢃥，口賢切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4758,9 +4741,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》已力切。",
                 "meanings": [
-                    "《川篇》已力切",
                     "褊狭"
                 ]
             }
@@ -5198,9 +5180,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音至。",
                 "meanings": [
-                    "《川篇》音至",
                     "耕作使用的工具"
                 ]
             }
@@ -5398,10 +5379,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tán",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢅀，徒甘切"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢅀，徒甘切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5628,9 +5607,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "guò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音過。",
                 "meanings": [
-                    "《川篇》音過",
                     "旧时酿造豆豉作的布"
                 ]
             }
@@ -5706,10 +5684,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "diàn",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢅝，音殿"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢅝，音殿。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5850,9 +5826,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》子六切。",
                 "meanings": [
-                    "《川篇》子六切",
                     "弓套"
                 ]
             }
@@ -6075,9 +6050,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音袁。",
                 "meanings": [
-                    "《搜真玉鏡》音袁",
                     "全巾"
                 ]
             }
@@ -6092,10 +6066,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "néng",
-                "rhyme_book": "《改併四聲篇海·巾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢆂，音能"
-                ]
+                "rhyme_book": "《改併四聲篇海·巾部》引《搜真玉鏡》：“𢆂，音能。”《字彙補·巾部》：“𢆂，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []

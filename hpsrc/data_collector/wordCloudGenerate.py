@@ -21,7 +21,7 @@ def run(input_text, radical):
     # 素材路径
     test_text = input_text
     test_stop = f'{now}/stopwords.txt'  # 停用词
-    #test_mask = 'D:/Pycharm/wordcloud/pictures/1.png'      # 底板图片素材
+    test_mask = f'{now}/blue_circle.png'      # 底板图片素材
     test_font = f'{now}/SourceHanSansSC-Normal.otf'    # 字体
 
     # 读取处理文本和停用词
@@ -31,10 +31,11 @@ def run(input_text, radical):
     STOPWORDS = open(test_stop, encoding='utf8').read().split()
 
     # 分词和过滤
-    # 筛选结果为不在停用词范围内且长度大于1的词
+    # 筛选结果为不在停用词范围内且长度大于0
+    # 筛去结果里含有"切"的
     word_list = []
     for word in jieba.cut(text):
-        if word not in set(STOPWORDS) and len(word) > 1:
+        if word not in set(STOPWORDS) and len(word) > 0 and word != ' ' and ('切' not in word):
             word_list.append(word)
 
     # 统计词频
@@ -52,23 +53,23 @@ def run(input_text, radical):
 
 
     # 读取图片并提取图片颜色
-    #im_mask = np.array(Image.open(test_mask))
-    #im_colors = ImageColorGenerator(im_mask)
+    im_mask = np.array(Image.open(test_mask))
+    im_colors = ImageColorGenerator(im_mask)
 
     # 制作词云
 
     my_cloud = WordCloud(
         background_color='white',  # 设置背景颜色  默认是black
-        #mask=im_mask,              # 设置图片底板
-        width=900, height=900,     #
-        max_words=100,              # 词云显示的最大词语数量
+        mask=im_mask,              # 设置图片底板
+        width=300, height=300,     #
+        max_words=20,              # 词云显示的最大词语数量
         font_path=test_font,      # 设置字体  显示中文
-        max_font_size=30,          # 设置字体最大值
-        min_font_size=5,          # 设置字体最小值
-        random_state=50            # 设置随机生成状态，即多少种配色方案
+        max_font_size=50,          # 设置字体最大值
+        min_font_size=10,          # 设置字体最小值
+        random_state=20            # 设置随机生成状态，即多少种配色方案
     ).generate_from_frequencies(word_counts)
 
-    #my_cloud.recolor(color_func=im_colors)  # 改变文字颜色
+    my_cloud.recolor(color_func=im_colors)  # 改变文字颜色
 
     # 显示生成的词云
     ax = plt.imshow(my_cloud)

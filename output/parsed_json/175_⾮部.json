@@ -32,7 +32,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "䨿zá",
+                "pinyin": "zá",
                 "rhyme_book": "《集韻》疾盍切，入盍從。",
                 "meanings": [
                     "恶",
@@ -49,7 +49,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䩀bèi",
+                "pinyin": "bèi",
                 "rhyme_book": "《玉篇》皮祕切。",
                 "meanings": [
                     "壮䩀"
@@ -234,10 +234,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩇫fēi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fēi",
+                "rhyme_book": "《改併四聲篇海》引《餘文》音非。",
                 "meanings": [
-                    "《餘文》音非",
                     "轻"
                 ]
             }
@@ -260,7 +259,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩇮fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《集韻》方未切，去未非。",
                 "meanings": [
                     "覆手"
@@ -311,7 +310,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩇴fāng",
+                "pinyin": "fāng",
                 "rhyme_book": "《改併四聲篇海·非部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩇴，芳、芬二音"
@@ -327,7 +326,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𩇵kǔ",
+                "pinyin": "kǔ",
                 "rhyme_book": null,
                 "meanings": [
                     "〔大𩇵〕也作“大苦”"
@@ -370,7 +369,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𩇺zá",
+                "pinyin": "zá",
                 "rhyme_book": "《龍龕手鑑》音雜。",
                 "meanings": [
                     "恶"
@@ -386,7 +385,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩇻huì",
+                "pinyin": "huì",
                 "rhyme_book": "《改併四聲篇海·非部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩇻，音惠"
@@ -411,11 +410,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𩇽féi",
-                "rhyme_book": "《改併四聲篇海·非部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩇽，符微切"
-                ]
+                "pinyin": "féi",
+                "rhyme_book": "《改併四聲篇海·非部》引《搜真玉鏡》：“𩇽，符微切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -445,11 +442,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩈁duì",
-                "rhyme_book": "《改併四聲篇海·非部》引",
-                "meanings": [
-                    "《餘文》：“𩈁，音隊"
-                ]
+                "pinyin": "duì",
+                "rhyme_book": "《改併四聲篇海·非部》引《餘文》：“𩈁，音隊。”按：疑为“𩐌”字俗省",
+                "meanings": []
             }
         ],
         "special_entries": []

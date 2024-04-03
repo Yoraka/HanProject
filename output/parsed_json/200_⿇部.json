@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䵇xiàn",
+                "pinyin": "xiàn",
                 "rhyme_book": "《集韻》先見切，去霰心。",
                 "meanings": [
                     "房舍"
@@ -209,7 +209,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎒shuò",
+                "pinyin": "shuò",
                 "rhyme_book": "《字彙》尸灼切。",
                 "meanings": [
                     "治病"
@@ -234,7 +234,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎔mǐ",
+                "pinyin": "mǐ",
                 "rhyme_book": "《字彙補》迷彼切。",
                 "meanings": [
                     "古女子名"
@@ -268,7 +268,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎗mí",
+                "pinyin": "mí",
                 "rhyme_book": "《字彙》忙皮切。",
                 "meanings": [
                     "日光"
@@ -311,7 +311,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎛wǎn",
+                "pinyin": "wǎn",
                 "rhyme_book": "《玉篇》音宛。",
                 "meanings": [
                     "《字彙》於院切",
@@ -337,7 +337,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𪎝bèn",
+                "pinyin": "bèn",
                 "rhyme_book": "《集韻》部本切，上混並。",
                 "meanings": [
                     "去皮的麻秆"
@@ -353,7 +353,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎞qiāng",
+                "pinyin": "qiāng",
                 "rhyme_book": "《玉篇》丘良切。",
                 "meanings": [
                     "麻"
@@ -387,7 +387,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎣liú",
+                "pinyin": "liú",
                 "rhyme_book": "《廣韻》力求切，平尤來。",
                 "meanings": [
                     "麻"
@@ -403,7 +403,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎤wò",
+                "pinyin": "wò",
                 "rhyme_book": "《集韻》烏酷切，入沃影。",
                 "meanings": [
                     "未经练制的麻缕"
@@ -428,10 +428,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪎦měi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "měi",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音美。",
                 "meanings": [
-                    "《類篇》音美",
                     "深𪎦貌"
                 ]
             }
@@ -480,7 +479,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𪎫mǔ",
+                "pinyin": "mǔ",
                 "rhyme_book": "《玉篇》靡五切。",
                 "meanings": [
                     "麻𪎫"
@@ -557,7 +556,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁰𪎲zuò",
+                "pinyin": "zuò",
                 "rhyme_book": "《集韻》即各切，入鐸精。",
                 "meanings": [
                     "油麻一榨"

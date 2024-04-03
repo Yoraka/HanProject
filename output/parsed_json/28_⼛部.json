@@ -385,7 +385,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠔲héng",
+                "pinyin": "héng",
                 "rhyme_book": "《字彙補·厶部》：“弧耕切，音恒。義闕。”",
                 "meanings": []
             }
@@ -451,7 +451,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠫘jiān",
+                "pinyin": "jiān",
                 "rhyme_book": "《龍龕手鑑·厶部》：“𠫘，尖、僣二音。”",
                 "meanings": [
                     "《字彙補·厶部》：“𠫘，宗千切，音尖"
@@ -476,11 +476,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠫛bǎi",
-                "rhyme_book": "《改併四聲篇海·厶部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠫛，音百"
-                ]
+                "pinyin": "bǎi",
+                "rhyme_book": "《改併四聲篇海·厶部》引《搜真玉鏡》：“𠫛，音百。”《字彙補·厶部》：“𠫛，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -544,7 +542,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠫣wáng",
+                "pinyin": "wáng",
                 "rhyme_book": null,
                 "meanings": []
             }
@@ -805,7 +803,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬆guān",
+                "pinyin": "guān",
                 "rhyme_book": "《龍龕手鑑》音関。",
                 "meanings": [
                     "织布梭"
@@ -905,10 +903,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬓zhěn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhěn",
+                "rhyme_book": "《改併四聲篇海》引《對韻音訓》音枕。",
                 "meanings": [
-                    "《對韻音訓》音枕",
                     "锹（挖土或铲物的一种工具）"
                 ]
             }
@@ -931,7 +928,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬙sā",
+                "pinyin": "sā",
                 "rhyme_book": null,
                 "meanings": [
                     "三个"

@@ -14,7 +14,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pō",
                 "rhyme_book": "pō　㊀《集韻》北末切，入末幫。",
                 "meanings": [
@@ -22,7 +22,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pō",
                 "rhyme_book": "《廣韻》普活切，入末滂。",
                 "meanings": [
@@ -63,7 +63,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵䍪wà",
+                "pinyin": "wà",
                 "rhyme_book": "《集韻》勿發切，入月微。",
                 "meanings": [
                     "〔䍪羯〕1.羊的一种"
@@ -157,7 +157,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍱xú",
+                "pinyin": "xú",
                 "rhyme_book": "《廣韻》似魚切，平魚邪。",
                 "meanings": [
                     "野羊"
@@ -173,7 +173,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍲nái",
+                "pinyin": "nái",
                 "rhyme_book": "《廣韻》妳佳切，平佳娘。",
                 "meanings": [
                     "〔䍲羺〕一种卷毛羊"
@@ -254,7 +254,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸䍶dōng",
+                "pinyin": "dōng",
                 "rhyme_book": "《廣韻》德紅切，平東端。又直珍切，多貢切。東部。",
                 "meanings": [
                     "一种独角兽"
@@ -313,7 +313,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍺huàn",
+                "pinyin": "huàn",
                 "rhyme_book": "《廣韻》胡慣切，去諫匣。又户關切。元部。",
                 "meanings": [
                     "传说中一种形似羊的野兽"
@@ -329,7 +329,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍻xuàn",
+                "pinyin": "xuàn",
                 "rhyme_book": "《廣韻》息絹切，去線心。又辝戀切。",
                 "meanings": [
                     "未满周岁的小羊"
@@ -371,7 +371,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁶䍽lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》郎擊切，入錫來。",
                 "meanings": [
                     "〔羖䍽〕一种勇悍的羊",
@@ -631,10 +631,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羘zāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zāng",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》子唐切。",
                 "meanings": [
-                    "《龍龕手鑑》子唐切",
                     "公羊"
                 ]
             }
@@ -830,7 +829,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶羢róng",
+                "pinyin": "róng",
                 "rhyme_book": "《字彙補》而容切。",
                 "meanings": [
                     "羊的细毛"
@@ -923,7 +922,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "zuī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》宗回切。",
                 "meanings": [
                     "羊病",
                     "羊毛织品"
@@ -1115,7 +1114,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羰tāng",
+                "pinyin": "tāng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔羰基〕碳氧两种原子构成的原子团，化学符号（<插图 title=\"\">）"
@@ -1131,7 +1130,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羱yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《廣韻》愚袁切，平元疑。又五丸切。元部。",
                 "meanings": [
                     "大角野羊",
@@ -1200,7 +1199,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羵fén",
+                "pinyin": "fén",
                 "rhyme_book": "《廣韻》符分切，平文奉。諄部。",
                 "meanings": [
                     "传说中的土中神怪"
@@ -1236,7 +1235,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羷liǎn",
+                "pinyin": "liǎn",
                 "rhyme_book": "《廣韻》良冉切，上琰來。談部。",
                 "meanings": [
                     "角卷三匝的羊"
@@ -1312,7 +1311,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羺nóu",
+                "pinyin": "nóu",
                 "rhyme_book": "《廣韻》奴鈎切，平侯泥。",
                 "meanings": [
                     "胡羊"
@@ -1328,7 +1327,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羻qiàng",
+                "pinyin": "qiàng",
                 "rhyme_book": "《廣韻》丘亮切，去漾溪。",
                 "meanings": [
                     "人名用字"
@@ -1393,7 +1392,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌩yì",
+                "pinyin": "yì",
                 "rhyme_book": "《字彙補》移益切。",
                 "meanings": [
                     "引给"
@@ -1419,9 +1418,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "rèn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》如甚切。",
                 "meanings": [
-                    "《奚韻》如甚切",
                     "稍长"
                 ]
             },
@@ -1450,10 +1448,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍏fén",
-                "rhyme_book": "《康熙字典》引",
+                "pinyin": "fén",
+                "rhyme_book": "《康熙字典》引《金鏡》房奔切。",
                 "meanings": [
-                    "《金鏡》房奔切",
                     "白羊"
                 ]
             }
@@ -1485,7 +1482,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𦍒tá",
+                "pinyin": "tá",
                 "rhyme_book": "《廣韻》他達切，入曷透。",
                 "meanings": [
                     "生"
@@ -1643,7 +1640,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍦duō",
+                "pinyin": "duō",
                 "rhyme_book": "《集韻》當没切，入没端。",
                 "meanings": [
                     "〔𦎰𦍦〕见“𦎰”"
@@ -1693,7 +1690,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍪fén",
+                "pinyin": "fén",
                 "rhyme_book": "《龍龕手鑑》符云反。",
                 "meanings": [
                     "白色公羊"
@@ -1727,10 +1724,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍭róu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "róu",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》如侯切。",
                 "meanings": [
-                    "《搜真玉鏡》如侯切",
                     "小兔"
                 ]
             }
@@ -1794,11 +1790,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍵hǒu",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦍵，音吼"
-                ]
+                "pinyin": "hǒu",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦍵，音吼。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1819,11 +1813,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍷tāo",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦍷，他高切"
-                ]
+                "pinyin": "tāo",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦍷，他高切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1835,7 +1827,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍸shàn",
+                "pinyin": "shàn",
                 "rhyme_book": "《萬姓統譜》音善。",
                 "meanings": [
                     "姓"
@@ -1851,7 +1843,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍹yáng",
+                "pinyin": "yáng",
                 "rhyme_book": "《廣韻》與章切，平陽以。",
                 "meanings": [
                     "多"
@@ -1867,10 +1859,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍺zì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zì",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》疾置切。",
                 "meanings": [
-                    "《搜真玉鏡》疾置切",
                     "母羊"
                 ]
             }
@@ -1893,7 +1884,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍼yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《集韻》吾官切，平桓疑。",
                 "meanings": [
                     "野羊名"
@@ -1945,7 +1936,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎁jī",
+                "pinyin": "jī",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦎁𦎐羊〕传说中的羊名"
@@ -1979,11 +1970,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎄sú",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦎄，生鶻切"
-                ]
+                "pinyin": "sú",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》：“𦎄，生鶻切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2021,10 +2010,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xiáng",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦎈，音翔字"
-                ]
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦎈，音翔字。”",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -2051,10 +2038,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎊bān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "bān",
+                "rhyme_book": "《改併四聲篇海》引《川篇》方官切。",
                 "meanings": [
-                    "《川篇》方官切",
                     "一种形状像羊的兽"
                 ]
             }
@@ -2095,11 +2081,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎎fǔ",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦎎，音甫"
-                ]
+                "pinyin": "fǔ",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦎎，音甫。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2111,7 +2095,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎏lǎ",
+                "pinyin": "lǎ",
                 "rhyme_book": null,
                 "meanings": []
             }
@@ -2125,10 +2109,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎐lǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lǐ",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》㷑寺切。又《字彙補》力忌切。",
                 "meanings": [
-                    "《搜真玉鏡》㷑寺切",
                     "〔𦎁𦎐羊〕见“𦎁”"
                 ]
             }
@@ -2142,7 +2125,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎑lǜ",
+                "pinyin": "lǜ",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦎠𦎑〕见“𦎠”"
@@ -2167,7 +2150,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎓yōu",
+                "pinyin": "yōu",
                 "rhyme_book": null,
                 "meanings": [
                     "硫羟酸，也叫𦎓酸"
@@ -2210,7 +2193,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎚chì",
+                "pinyin": "chì",
                 "rhyme_book": "《字彙補》昌志切。",
                 "meanings": [
                     "牵"
@@ -2226,7 +2209,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎜chuàn",
+                "pinyin": "chuàn",
                 "rhyme_book": "《玉篇》丑練切。",
                 "meanings": [
                     "尾长"
@@ -2269,7 +2252,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎠jǔ",
+                "pinyin": "jǔ",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦎠𦎑〕一种身小角尖的山羊"
@@ -2376,7 +2359,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎨máng",
+                "pinyin": "máng",
                 "rhyme_book": "《字彙補》眉羊切。",
                 "meanings": [
                     "汉译佛经译音用字"
@@ -2410,7 +2393,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎭fú",
+                "pinyin": "fú",
                 "rhyme_book": "《龍龕手鑑·羊部》：“𦎭，音福。”",
                 "meanings": []
             }
@@ -2424,7 +2407,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎮jiā",
+                "pinyin": "jiā",
                 "rhyme_book": null,
                 "meanings": [
                     "公羊"
@@ -2456,7 +2439,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎰gǔ",
+                "pinyin": "gǔ",
                 "rhyme_book": "《集韻》古忽切，入没見。",
                 "meanings": [
                     "〔𦎰𦍦〕羊名"
@@ -2472,7 +2455,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎱jiá",
+                "pinyin": "jiá",
                 "rhyme_book": "《集韻》居轄切，入鎋見。",
                 "meanings": [
                     "阉割过的羊"
@@ -2549,7 +2532,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎹lóu",
+                "pinyin": "lóu",
                 "rhyme_book": "《廣韻》落侯切，平侯來。",
                 "meanings": [
                     "〔土𦎹〕似羊的四角兽"
@@ -2583,7 +2566,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦎼gòu",
+                "pinyin": "gòu",
                 "rhyme_book": "《龍龕手鑑》音搆。",
                 "meanings": [
                     "取牛羊乳"
@@ -2599,11 +2582,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏀rén",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦏀，汝鍼切"
-                ]
+                "pinyin": "rén",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦏀，汝鍼切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2642,7 +2623,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏅jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》居月切，入月見。",
                 "meanings": [
                     "羊名"
@@ -2658,7 +2639,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏆tóng",
+                "pinyin": "tóng",
                 "rhyme_book": "《廣韻》徒紅切，平東定。",
                 "meanings": [
                     "无角羊"
@@ -2746,7 +2727,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏔jiān",
+                "pinyin": "jiān",
                 "rhyme_book": null,
                 "meanings": [
                     "人名用字"
@@ -2762,7 +2743,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏕dú",
+                "pinyin": "dú",
                 "rhyme_book": "《集韻》徒谷切，入屋定。",
                 "meanings": [
                     "六尺长的羊"
@@ -2830,7 +2811,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏜yú",
+                "pinyin": "yú",
                 "rhyme_book": "《類篇》羊茹切，平魚以。",
                 "meanings": [
                     "羊"
@@ -2873,7 +2854,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𦏢mài",
+                "pinyin": "mài",
                 "rhyme_book": "《集韻》莫懈切，去卦明。",
                 "meanings": [
                     "〔𦏢𦏨〕垢腻貌"
@@ -2898,11 +2879,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏤zhī",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦏤，章奇切"
-                ]
+                "pinyin": "zhī",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦏤，章奇切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2914,11 +2893,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏥yān",
-                "rhyme_book": "《改併四聲篇海·羊部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𦏥，音㷑"
-                ]
+                "pinyin": "yān",
+                "rhyme_book": "《改併四聲篇海·羊部》引《搜真玉鏡》：“𦏥，音㷑。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2948,7 +2925,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦏨huài",
+                "pinyin": "huài",
                 "rhyme_book": "《集韻》胡怪切，去怪匣。",
                 "meanings": [
                     "〔𦏢𦏨〕见“𦏢”"
@@ -3009,7 +2986,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁰𦏮quán",
+                "pinyin": "quán",
                 "rhyme_book": "《字彙補》：“𦏮，共涓切。”",
                 "meanings": [
                     "《康熙字典·羊部》：“𦏮，《五音篇海》音拳"
@@ -3044,10 +3021,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yǎng",
-                "rhyme_book": "《康熙字典》引",
-                "meanings": [
-                    "《海篇》：“𦏱，音癢"
-                ]
+                "rhyme_book": "《康熙字典》引《海篇》：“𦏱，音癢。”",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",

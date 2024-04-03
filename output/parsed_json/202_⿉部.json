@@ -31,7 +31,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䵓lí",
+                "pinyin": "lí",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䵓鼠〕也作“犁鼠”"
@@ -47,7 +47,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䵔dǒng",
+                "pinyin": "dǒng",
                 "rhyme_book": "《廣韻》多動切，上董端。",
                 "meanings": [
                     "〔攏䵔〕不上之意"
@@ -64,7 +64,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "jù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音句。",
                 "meanings": [
                     "黍",
                     "黏"
@@ -112,7 +112,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bì",
                 "rhyme_book": "bì　㊀《集韻》弼力切，入職並。",
                 "meanings": [
@@ -120,7 +120,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bì",
                 "rhyme_book": "《集韻》筆力切，入職幫。",
                 "meanings": [
@@ -177,7 +177,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䵚tǎo",
+                "pinyin": "tǎo",
                 "rhyme_book": "《集韻》土晧切，上晧透。",
                 "meanings": [
                     "〔䵚黍〕方言"
@@ -300,7 +300,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪏮rǔ",
+                "pinyin": "rǔ",
                 "rhyme_book": "《廣韻》人渚切，上語日。",
                 "meanings": [
                     "黏"
@@ -343,7 +343,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪏲niǔ",
+                "pinyin": "niǔ",
                 "rhyme_book": "《集韻》女九切，上有娘。",
                 "meanings": [
                     "黏"
@@ -359,7 +359,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𪏳hù",
+                "pinyin": "hù",
                 "rhyme_book": "《集韻》胡故切，去暮匣。",
                 "meanings": [
                     "黏"
@@ -375,7 +375,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪏴jǐn",
+                "pinyin": "jǐn",
                 "rhyme_book": "《廣韻》居隱切，上隱見。",
                 "meanings": [
                     "黏"
@@ -392,9 +392,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "nì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》女乙切。",
                 "meanings": [
-                    "《川篇》女乙切",
                     "黏貌"
                 ]
             },
@@ -414,10 +413,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪏶bào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "bào",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》北教切。",
                 "meanings": [
-                    "《奚韻》北教切",
                     "黍豉皮"
                 ]
             }
@@ -500,10 +498,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪏼lí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音犁。",
                 "meanings": [
-                    "《川篇》音犁",
                     "恍"
                 ]
             }
@@ -526,7 +523,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𪏿zhū",
+                "pinyin": "zhū",
                 "rhyme_book": "《廣韻》陟輸切，平虞知。",
                 "meanings": [
                     "黏"
@@ -542,7 +539,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪐀nǎ",
+                "pinyin": "nǎ",
                 "rhyme_book": "《集韻》女下切，上馬娘。",
                 "meanings": [
                     "〔䵙𪐀〕粘；黏着"
@@ -583,7 +580,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸𪐃fěng",
+                "pinyin": "fěng",
                 "rhyme_book": "《玉篇》方奉切。",
                 "meanings": [
                     "扬麦；扬场"
@@ -615,7 +612,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪐅lí",
+                "pinyin": "lí",
                 "rhyme_book": "《集韻》良脂切，平脂來。",
                 "meanings": [
                     "饘"
@@ -650,7 +647,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "dǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音董。",
                 "meanings": [
                     "〔𪐈𪐖〕黏貌"
                 ]
@@ -674,7 +671,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪐋lián",
+                "pinyin": "lián",
                 "rhyme_book": "《集韻》勒兼切，平添來。",
                 "meanings": [
                     "禾黍疏貌"
@@ -690,7 +687,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𪐌nì",
+                "pinyin": "nì",
                 "rhyme_book": "《集韻》昵力切，入職娘。",
                 "meanings": [
                     "黏"
@@ -706,7 +703,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪐍lián",
+                "pinyin": "lián",
                 "rhyme_book": "《集韻》陵延切，平仙來。",
                 "meanings": [
                     "轹禾"
@@ -722,7 +719,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪐎má",
+                "pinyin": "má",
                 "rhyme_book": "《集韻》謨加切，平麻明。",
                 "meanings": [
                     "穄"
@@ -783,7 +780,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𪐓jiā",
+                "pinyin": "jiā",
                 "rhyme_book": "《集韻》居牙切，平麻見。",
                 "meanings": [
                     "〔𪐓支〕谷物名"
@@ -799,10 +796,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𪐔yí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音遺。",
                 "meanings": [
-                    "《川篇》音遺",
                     "黏貌"
                 ]
             }
@@ -816,7 +812,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𪐖lǒng",
+                "pinyin": "lǒng",
                 "rhyme_book": "《字彙》力董切。",
                 "meanings": [
                     "〔𪐈𪐖〕黏貌"

@@ -23,7 +23,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶㐖xié",
+                "pinyin": "xié",
                 "rhyme_book": "《集韻》奚結切，入屑匣。",
                 "meanings": [
                     "〔㐖毒〕“*印度*”的古译名"
@@ -58,10 +58,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "dān",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《俗字背篇》音丹"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音丹。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -241,7 +239,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "乣jiǔ",
+                "pinyin": "jiǔ",
                 "rhyme_book": null,
                 "meanings": [
                     "*辽*、*金*时军队的名称"
@@ -291,7 +289,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "乪náng",
+                "pinyin": "náng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -359,7 +357,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "乵yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《字彙補》以冉切。",
                 "meanings": [
                     "进"
@@ -528,7 +526,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "亄yì",
+                "pinyin": "yì",
                 "rhyme_book": "《廣韻》乙冀切，去至影。又於筆切。",
                 "meanings": [
                     "贪婪而吝啬"
@@ -553,7 +551,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂸huáng",
+                "pinyin": "huáng",
                 "rhyme_book": "《字彙補·乙部》：“𠂸，匣狂切，音皇。義闕。”",
                 "meanings": []
             }
@@ -594,7 +592,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠃌gǔn",
+                "pinyin": "gǔn",
                 "rhyme_book": "《集韻》古本切，上混見。",
                 "meanings": [
                     "钩的倒尖"
@@ -826,7 +824,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠃺jiù",
+                "pinyin": "jiù",
                 "rhyme_book": "《字彙補》其又切。",
                 "meanings": [
                     "〔出𠃺〕弄巧成拙"
@@ -887,7 +885,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠄅yè",
+                "pinyin": "yè",
                 "rhyme_book": "《廣韻》魚怯切，入業疑。",
                 "meanings": [
                     "引"
@@ -957,7 +955,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤱡tuó",
+                "pinyin": "tuó",
                 "rhyme_book": "《字彙補·乙部》：“𤱡，徒多切，音陀。出釋典咒語。”",
                 "meanings": []
             }

@@ -271,7 +271,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀝kōng",
+                "pinyin": "kōng",
                 "rhyme_book": "《字彙補·卜部》：“𠀝，苦紅切，音空。義闕。”按：“空”谓天空，即地之上、天顶之下也。“𠀝”，疑即“空”的会意，俗字。",
                 "meanings": []
             }
@@ -328,7 +328,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠧖chǔ",
+                "pinyin": "chǔ",
                 "rhyme_book": "《龍龕手鑑·卜部》：“𠧖，俗，昌吕反。”",
                 "meanings": [
                     "《字彙補·卜部》：“𠧖，昌與切，音杵"
@@ -378,7 +378,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠧚chì",
+                "pinyin": "chì",
                 "rhyme_book": "《廣韻》昌石切，入昔昌。",
                 "meanings": [
                     "姓"
@@ -562,10 +562,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠧫bǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "bǎn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音板。",
                 "meanings": [
-                    "《川篇》音板",
                     "张目"
                 ]
             }
@@ -628,7 +627,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠧵chì",
+                "pinyin": "chì",
                 "rhyme_book": "《五音集韻》昌石切。",
                 "meanings": [
                     "兽名"
@@ -734,10 +733,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𠨆xiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xiè",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音卨。",
                 "meanings": [
-                    "《類篇》音卨",
                     "石实"
                 ]
             }
@@ -760,7 +758,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𠨊jué",
+                "pinyin": "jué",
                 "rhyme_book": "《改併四聲篇海·卜部》引",
                 "meanings": [
                     "《俗字背篇》：“𠨊，音角"
@@ -785,7 +783,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³¹𠨌suī",
+                "pinyin": "suī",
                 "rhyme_book": "《改併四聲篇海·卜部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠨌，音雖"
@@ -801,10 +799,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠭉jǐng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jǐng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音穽。",
                 "meanings": [
-                    "《川篇》音穽",
                     "窖"
                 ]
             }

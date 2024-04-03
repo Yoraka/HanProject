@@ -64,7 +64,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁸飝fēi",
+                "pinyin": "fēi",
                 "rhyme_book": "《改併四聲篇海·辛卯重編增改雜部》：“飝，音非字。”",
                 "meanings": [
                     "《字彙補·飛部》：“飝，芳微切"
@@ -98,7 +98,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𩙲fēi",
+                "pinyin": "fēi",
                 "rhyme_book": "《廣韻》甫微切，平微非。",
                 "meanings": [
                     "古代传说中的一种兽，似牛，白首一目"
@@ -132,7 +132,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩙷niù",
+                "pinyin": "niù",
                 "rhyme_book": "《龍龕手鑑》魚救反。",
                 "meanings": [
                     "飞"
@@ -148,11 +148,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩙸mǎng",
-                "rhyme_book": "《改併四聲篇海·能部》引",
-                "meanings": [
-                    "《川篇》：“𩙸，音𠈵"
-                ]
+                "pinyin": "mǎng",
+                "rhyme_book": "《改併四聲篇海·能部》引《川篇》：“𩙸，音𠈵。”《字彙補·飛部》：“𩙸，出《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -204,7 +202,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²²𩙾zhī",
+                "pinyin": "zhī",
                 "rhyme_book": "《改併四聲篇海·鳥部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩙾，音隻"

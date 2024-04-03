@@ -78,7 +78,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䡆róng",
+                "pinyin": "róng",
                 "rhyme_book": "《廣韻》餘封切，平鍾以。",
                 "meanings": [
                     "车行貌"
@@ -124,16 +124,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䡉kǎng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "kǎng",
                 "rhyme_book": "",
                 "meanings": [
                     "〔䡉𨋕〕车名"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䡉kǎng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "kǎng",
                 "rhyme_book": "《廣韻》苦朗切，上蕩溪。",
                 "meanings": [
                     "车䡉之名"
@@ -141,7 +141,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䡉kǎng",
+                "pinyin": "kǎng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䡉𨋕〕车名",
@@ -193,7 +193,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䡍fú",
+                "pinyin": "fú",
                 "rhyme_book": "《字彙補》奉扶切。",
                 "meanings": [
                     "车辖"
@@ -319,9 +319,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qìng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》去孟切。",
                 "meanings": [
-                    "《川篇》去孟切",
                     "不动"
                 ]
             }
@@ -1108,7 +1107,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軏yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《廣韻》魚厥切，入月疑。又五忽切。月部。",
                 "meanings": [
                     "古代车上置于辕的前端与车横木衔接处的销钉"
@@ -1284,7 +1283,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軗shū",
+                "pinyin": "shū",
                 "rhyme_book": "《玉篇》上邾切。",
                 "meanings": [
                     "车竿"
@@ -1398,7 +1397,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軞máo",
+                "pinyin": "máo",
                 "rhyme_book": "《集韻》謨袍切，平豪明。",
                 "meanings": [
                     "建旄之车"
@@ -1523,7 +1522,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軦kuàng",
+                "pinyin": "kuàng",
                 "rhyme_book": "《集韻》許放切，去漾曉。陽部。",
                 "meanings": [
                     "〔黄軦〕虫名"
@@ -1693,7 +1692,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軮yǎng",
+                "pinyin": "yǎng",
                 "rhyme_book": "《廣韻》烏朗切，上蕩影。",
                 "meanings": [
                     "〔軮軋〕1.漫无边际貌"
@@ -1709,7 +1708,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軯pēng",
+                "pinyin": "pēng",
                 "rhyme_book": "《集韻》披耕切，平耕滂。",
                 "meanings": [
                     "象声词"
@@ -1734,7 +1733,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "軱gū",
+                "pinyin": "gū",
                 "rhyme_book": "《廣韻》古胡切，平模見。魚部。",
                 "meanings": [
                     "大骨；盘骨"
@@ -2235,7 +2234,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "quán",
                 "rhyme_book": "《集韻》逵員切，平仙羣。元部。",
                 "meanings": [
@@ -3120,7 +3119,7 @@
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chuán",
                 "rhyme_book": "《集韻》豎兖切，上獼禪。",
                 "meanings": [
@@ -3404,7 +3403,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "niǎn",
                 "rhyme_book": "《廣韻》女箭切，去線娘。",
                 "meanings": [
@@ -4667,7 +4666,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𨊡tīng",
+                "pinyin": "tīng",
                 "rhyme_book": "《玉篇》剔鈴切。",
                 "meanings": [
                     "车失"
@@ -4775,7 +4774,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊰qì",
+                "pinyin": "qì",
                 "rhyme_book": "《龍龕手鑑·車部》：“𨊰，音訖。”",
                 "meanings": [
                     "《字彙補·車部》：“𨊰，口的切"
@@ -4791,7 +4790,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊱yú",
+                "pinyin": "yú",
                 "rhyme_book": "《玉篇》羽俱切。",
                 "meanings": [
                     "车"
@@ -4807,7 +4806,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊳xīn",
+                "pinyin": "xīn",
                 "rhyme_book": "《廣韻》息林切，平侵心。",
                 "meanings": [
                     "车钩心木，用以控制车轴者"
@@ -4859,7 +4858,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊸yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《集韻》魚厥切，入月疑。",
                 "meanings": [
                     "车釭"
@@ -4875,7 +4874,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊹bā",
+                "pinyin": "bā",
                 "rhyme_book": "《集韻》邦加切，平麻幫。",
                 "meanings": [
                     "兵车"
@@ -4891,7 +4890,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊺dài",
+                "pinyin": "dài",
                 "rhyme_book": "《龍龕手鑑》徒亥反。",
                 "meanings": [
                     "〔輆𨊺〕不平"
@@ -4907,7 +4906,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊻jī",
+                "pinyin": "jī",
                 "rhyme_book": "《集韻》堅奚切，平齊見。",
                 "meanings": [
                     "车两轊"
@@ -4923,7 +4922,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨊼xuàn",
+                "pinyin": "xuàn",
                 "rhyme_book": "《廣韻》胡畎切，上銑匣。",
                 "meanings": [
                     "车弓"
@@ -4973,7 +4972,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋀niǔ",
+                "pinyin": "niǔ",
                 "rhyme_book": "《字彙補》女久切。",
                 "meanings": [
                     "车𨋀"
@@ -5025,7 +5024,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋈dù",
+                "pinyin": "dù",
                 "rhyme_book": "《改併四聲篇海·車部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𨋈，丁故切"
@@ -5041,7 +5040,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋉jí",
+                "pinyin": "jí",
                 "rhyme_book": "《改併四聲篇海·車部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𨋉，音極"
@@ -5102,7 +5101,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋐pā",
+                "pinyin": "pā",
                 "rhyme_book": "《廣韻》普八切，入黠滂。",
                 "meanings": [
                     "车破声"
@@ -5136,7 +5135,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "èn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》步本切。",
                 "meanings": [
                     "车横木"
                 ]
@@ -5239,7 +5238,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋘zhà",
+                "pinyin": "zhà",
                 "rhyme_book": "《集韻》側駕切，去禡莊。",
                 "meanings": [
                     "车裂"
@@ -5255,7 +5254,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋙yìn",
+                "pinyin": "yìn",
                 "rhyme_book": "《廣韻》羊晋切，去震以。",
                 "meanings": [
                     "车名"
@@ -5293,7 +5292,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋛pào",
+                "pinyin": "pào",
                 "rhyme_book": "《集韻》披教切，去效滂。",
                 "meanings": [
                     "飞石车"
@@ -5318,7 +5317,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋞bù",
+                "pinyin": "bù",
                 "rhyme_book": "《改併四聲篇海·車部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𨋞，音布"
@@ -5334,7 +5333,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋟hé",
+                "pinyin": "hé",
                 "rhyme_book": "《龍龕手鑑·車部》：“𨋟，音禾。”",
                 "meanings": [
                     "《字彙補·車部》：“𨋟，回科切，音禾"
@@ -5375,10 +5374,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨋦xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》先伊切。",
                 "meanings": [
-                    "《奚韻》先伊切",
                     "䡆𨋦"
                 ]
             }
@@ -5629,9 +5627,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yáng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音羊。",
                 "meanings": [
-                    "《搜真玉鏡》音羊",
                     "车名"
                 ]
             }
@@ -5646,9 +5643,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音許。",
                 "meanings": [
-                    "《類篇》音許",
                     "轻快"
                 ]
             }
@@ -5938,9 +5934,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jùn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》子順切。",
                 "meanings": [
-                    "《餘文》子順切",
                     "车饰"
                 ]
             }
@@ -6371,9 +6366,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yūn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》於軍切。",
                 "meanings": [
-                    "《類篇》於軍切",
                     "兵车"
                 ]
             }
@@ -6535,9 +6529,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kēng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》客庚切。",
                 "meanings": [
-                    "《奚韻》客庚切",
                     "车声"
                 ]
             }
@@ -7034,9 +7027,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音致。",
                 "meanings": [
-                    "《川篇》音致",
                     "小车"
                 ]
             }
@@ -7258,9 +7250,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音揔。",
                 "meanings": [
-                    "《龍龕手鑑》音揔",
                     "轮"
                 ]
             }
@@ -8245,9 +8236,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音蜇。",
                 "meanings": [
-                    "《俗字背篇》音蜇",
                     "〔𨐃𨰵〕也作“𨰵𨐃”、“嗹嗻”、“唓唫”"
                 ]
             }

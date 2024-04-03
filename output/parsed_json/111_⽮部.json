@@ -37,7 +37,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䂑jī",
+                "pinyin": "jī",
                 "rhyme_book": "《廣韻》祖稽切，平齊精。",
                 "meanings": [
                     "〔𥏠䂑〕见“𥏠”"
@@ -53,7 +53,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶䂒qià",
+                "pinyin": "qià",
                 "rhyme_book": "《廣韻》恪八切，入黠溪。",
                 "meanings": [
                     "〔𥎱䂒〕见“𥎱”"
@@ -78,7 +78,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸䂔xìng",
+                "pinyin": "xìng",
                 "rhyme_book": "《集韻》下頂切，上迥匣。",
                 "meanings": [
                     "小貌"
@@ -94,7 +94,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䂕huì",
+                "pinyin": "huì",
                 "rhyme_book": "《廣韻》呼吠切，去祭曉。",
                 "meanings": [
                     "〔𥏙䂕〕见“𥏙”"
@@ -238,7 +238,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "矨yǐng",
+                "pinyin": "yǐng",
                 "rhyme_book": "《廣韻》五剄切，上迥疑。",
                 "meanings": [
                     "短小貌"
@@ -284,7 +284,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "矪zhōu",
+                "pinyin": "zhōu",
                 "rhyme_book": "《廣韻》張流切，平尤知。",
                 "meanings": [
                     "射鸟之箭"
@@ -432,7 +432,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³矱yuē",
+                "pinyin": "yuē",
                 "rhyme_book": "《集韻》鬱縛切，入藥影。鐸部。",
                 "meanings": [
                     "尺度"
@@ -448,7 +448,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵矲bà",
+                "pinyin": "bà",
                 "rhyme_book": "《廣韻》薄蟹切，上蟹並。",
                 "meanings": [
                     "矮貌"
@@ -545,7 +545,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥎮wū",
+                "pinyin": "wū",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥎮，於谷切"
@@ -570,7 +570,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𥎰fǎ",
+                "pinyin": "fǎ",
                 "rhyme_book": "《廣韻》孚法切，入乏敷。",
                 "meanings": [
                     "箭貌"
@@ -639,10 +639,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥎸qià",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qià",
+                "rhyme_book": "《改併四聲篇海》引《川篇》去法切。",
                 "meanings": [
-                    "《川篇》去法切",
                     "箭"
                 ]
             }
@@ -656,7 +655,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥎹zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《廣韻》陟栗切，入質知。",
                 "meanings": [
                     "短"
@@ -672,7 +671,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥎺tiào",
+                "pinyin": "tiào",
                 "rhyme_book": "《集韻》徒了切，上篠定。",
                 "meanings": [
                     "箭矢"
@@ -760,7 +759,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏄zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《龍龕手鑑·矢部》：“𥏄，音智。”",
                 "meanings": [
                     "《字彙補·矢部》：“𥏄，知世切，音智"
@@ -776,7 +775,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏅zhí",
+                "pinyin": "zhí",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥏅，音直"
@@ -810,7 +809,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏈chóu",
+                "pinyin": "chóu",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥏈，音惆"
@@ -835,7 +834,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏊zhì",
+                "pinyin": "zhì",
                 "rhyme_book": null,
                 "meanings": [
                     "黑色"
@@ -851,7 +850,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏎yǐng",
+                "pinyin": "yǐng",
                 "rhyme_book": "《集韻》研領切，上迥疑。",
                 "meanings": [
                     "〔䂔𥏎〕小貌"
@@ -876,7 +875,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏒wù",
+                "pinyin": "wù",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥏒，音悟"
@@ -892,10 +891,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏓bēi",
-                "rhyme_book": "《改併四聲篇海·矢部》引",
+                "pinyin": "bēi",
+                "rhyme_book": "《改併四聲篇海·矢部》引《搜真玉鏡》音卑。",
                 "meanings": [
-                    "《搜真玉鏡》音卑",
                     "〔𥏓𥎬〕也作“𥏠𥎬”"
                 ]
             }
@@ -918,7 +916,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏕hóng",
+                "pinyin": "hóng",
                 "rhyme_book": "《海篇》音宏。",
                 "meanings": [
                     "壮大"
@@ -943,10 +941,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏘jué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jué",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》巨屈切。",
                 "meanings": [
-                    "《奚韻》巨屈切",
                     "〔𥏘𥏘〕短貌"
                 ]
             }
@@ -960,7 +957,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏙kuì",
+                "pinyin": "kuì",
                 "rhyme_book": "《廣韻》丘吠切，去祭溪。",
                 "meanings": [
                     "〔𥏙䂕〕短小貌"
@@ -1010,7 +1007,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏝yà",
+                "pinyin": "yà",
                 "rhyme_book": "《集韻》衣駕切，去禡影。",
                 "meanings": [
                     "〔矲𥏝〕矮貌"
@@ -1044,7 +1041,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏠bī",
+                "pinyin": "bī",
                 "rhyme_book": "《廣韻》邊兮切，平齊幫。",
                 "meanings": [
                     "〔𥏠䂑〕短小貌"
@@ -1078,7 +1075,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏤kuà",
+                "pinyin": "kuà",
                 "rhyme_book": "《海篇》音跨。",
                 "meanings": [
                     "短貌"
@@ -1094,7 +1091,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏥qiān",
+                "pinyin": "qiān",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥏥，音千"
@@ -1128,7 +1125,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏨zhāo",
+                "pinyin": "zhāo",
                 "rhyme_book": "《海篇》音招。",
                 "meanings": [
                     "箭矢"
@@ -1153,7 +1150,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏪kǎi",
+                "pinyin": "kǎi",
                 "rhyme_book": "《廣韻》苦駭切，上駭溪。",
                 "meanings": [
                     "〔矲𥏪〕指人的身材短"
@@ -1203,7 +1200,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏮àn",
+                "pinyin": "àn",
                 "rhyme_book": "《海篇》音闇。",
                 "meanings": [
                     "小"
@@ -1219,10 +1216,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏯zhí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》直亦切。又智、宅二音。",
                 "meanings": [
-                    "《川篇》直亦切",
                     "得水"
                 ]
             }
@@ -1236,7 +1232,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥏰zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《字彙補》澄智切。",
                 "meanings": [
                     "姓"
@@ -1288,7 +1284,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𥏷zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《改併四聲篇海·矢部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥏷，音雉"
@@ -1349,7 +1345,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𥐀sī",
+                "pinyin": "sī",
                 "rhyme_book": "《集韻》相支切，平支心。",
                 "meanings": [
                     "〔𥏠𥐀〕短小貌"
@@ -1365,7 +1361,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥐁pú",
+                "pinyin": "pú",
                 "rhyme_book": "《廣韻》蒲木切，入屋並。",
                 "meanings": [
                     "身材矮小的人"
@@ -1381,7 +1377,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥐂ǒu",
+                "pinyin": "ǒu",
                 "rhyme_book": "《字彙補·矢部》：“𥐂，五口切，音偶。義無考。”",
                 "meanings": []
             }
@@ -1440,7 +1436,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥐑yīng",
+                "pinyin": "yīng",
                 "rhyme_book": "《集韻》伊盈切，平清影。",
                 "meanings": [
                     "矮"
@@ -1456,7 +1452,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𥐓huān",
+                "pinyin": "huān",
                 "rhyme_book": "《玉篇》呼官切。",
                 "meanings": [
                     "矮貌"

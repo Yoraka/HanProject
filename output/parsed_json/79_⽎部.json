@@ -350,7 +350,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yīn",
                 "rhyme_book": "《集韻》於巾切，平真影。",
                 "meanings": [
@@ -478,13 +478,13 @@
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shì",
                 "rhyme_book": "shì　㊀《集韻》式吏切，去志書。月部。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shì",
                 "rhyme_book": "《集韻》所例切，去祭生。",
                 "meanings": [
@@ -1284,9 +1284,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》古禄切。",
                 "meanings": [
-                    "《川篇》古禄切",
                     "土"
                 ]
             }
@@ -1335,10 +1334,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kuài",
-                "rhyme_book": "《改併四聲篇海·殳部》引",
-                "meanings": [
-                    "《餘文》：“𣫉，音塊"
-                ]
+                "rhyme_book": "《改併四聲篇海·殳部》引《餘文》：“𣫉，音塊。”《字彙補·殳部》：“𣫉，丘怪切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []

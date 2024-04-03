@@ -96,7 +96,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jiōng",
                 "rhyme_book": "《集韻》欽熒切，平青溪。",
                 "meanings": [
@@ -195,7 +195,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "冇mǎo",
+                "pinyin": "mǎo",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -344,7 +344,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "冏（一）jiǒng",
+                "pinyin": "jiǒng",
                 "rhyme_book": "《博雅音》古丙（反）。",
                 "meanings": []
             }
@@ -387,7 +387,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "《集韻》莫佩切，去隊明。",
                 "meanings": []
@@ -549,7 +549,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕁cóng",
+                "pinyin": "cóng",
                 "rhyme_book": "《玉篇》音琮。",
                 "meanings": [
                     "孔"
@@ -583,7 +583,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕄nà",
+                "pinyin": "nà",
                 "rhyme_book": "《集韻》昵洽切，入洽娘。",
                 "meanings": [
                     "物低垂貌"
@@ -608,7 +608,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕆diàn",
+                "pinyin": "diàn",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -633,7 +633,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕊tǐng",
+                "pinyin": "tǐng",
                 "rhyme_book": "《集韻》他頂切，上迥透。",
                 "meanings": [
                     "空"
@@ -658,7 +658,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕌zōng",
+                "pinyin": "zōng",
                 "rhyme_book": "《字彙補·冂部》：“𠕌，將松切，音踪。",
                 "meanings": [
                     "《海篇》：‘同乳也"
@@ -728,7 +728,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕕jiōng",
+                "pinyin": "jiōng",
                 "rhyme_book": "《字彙補·冂部》：“𠕕，音扃。出",
                 "meanings": [
                     "《吴韻》"
@@ -816,7 +816,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠕟niǎn",
+                "pinyin": "niǎn",
                 "rhyme_book": "《集韻》乃玷切，上忝泥。",
                 "meanings": [
                     "劣"

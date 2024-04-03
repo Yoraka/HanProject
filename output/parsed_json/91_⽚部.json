@@ -29,9 +29,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhé",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音折。",
                 "meanings": [
-                    "《川篇》音折",
                     "版"
                 ]
             }
@@ -46,9 +45,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》章移切。",
                 "meanings": [
-                    "《川篇》章移切",
                     "盖合"
                 ]
             }
@@ -115,7 +113,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㸤piàn",
+                "pinyin": "piàn",
                 "rhyme_book": "《廣韻》普麵切，去霰滂。",
                 "meanings": [
                     "皮革中断"
@@ -494,9 +492,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》七主切。",
                 "meanings": [
-                    "《龍龕手鑑》七主切",
                     "迫"
                 ]
             }
@@ -527,10 +524,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gōu",
-                "rhyme_book": "《改併四聲篇海·片部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤖮，音勾"
-                ]
+                "rhyme_book": "《改併四聲篇海·片部》引《搜真玉鏡》：“𤖮，音勾。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -611,10 +606,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jù",
-                "rhyme_book": "《改併四聲篇海·片部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤖵，音句"
-                ]
+                "rhyme_book": "《改併四聲篇海·片部》引《搜真玉鏡》：“𤖵，音句。”《字彙補·片部》：“𤖵，見《金鏡》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -752,10 +745,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yǔ",
-                "rhyme_book": "《改併四聲篇海·片部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤗃，羊父切"
-                ]
+                "rhyme_book": "《改併四聲篇海·片部》引《搜真玉鏡》：“𤗃，羊父切。”《字彙補·片部》：“𤗃，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []

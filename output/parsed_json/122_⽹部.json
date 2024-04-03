@@ -122,7 +122,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍚làng",
+                "pinyin": "làng",
                 "rhyme_book": "《集韻》郎宕切，去宕來。",
                 "meanings": [
                     "〔䍚䍚〕广大貌"
@@ -138,7 +138,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍛gù",
+                "pinyin": "gù",
                 "rhyme_book": "《廣韻》古暮切，去暮見。",
                 "meanings": [
                     "〔𦌕䍛〕见“𦌕”"
@@ -170,7 +170,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍝tà",
+                "pinyin": "tà",
                 "rhyme_book": "《廣韻》他合切，入合透。",
                 "meanings": [
                     "网"
@@ -230,7 +230,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍣léi",
+                "pinyin": "léi",
                 "rhyme_book": "《集韻》盧回切，平灰來。",
                 "meanings": [
                     "百囊鱼网"
@@ -246,7 +246,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍤jǐ",
+                "pinyin": "jǐ",
                 "rhyme_book": "《廣韻》子禮切，上薺精。",
                 "meanings": [
                     "滤酒，即酿酒成熟之后，用手挤压，使酒流出而去其糟"
@@ -262,7 +262,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁶䍥lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》郎擊切，入錫來。",
                 "meanings": [
                     "〔羃䍥〕也作“冪歷”",
@@ -279,7 +279,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍦lí",
+                "pinyin": "lí",
                 "rhyme_book": "《廣韻》吕支切，平支來。",
                 "meanings": [
                     "〔羃䍦〕头巾，古代的一种面罩"
@@ -465,7 +465,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "罞máo",
+                "pinyin": "máo",
                 "rhyme_book": "《廣韻》莫紅切，平東明。又莫交切。幽部。",
                 "meanings": [
                     "捕捉麋鹿的网"
@@ -541,7 +541,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "罣guà",
+                "pinyin": "guà",
                 "rhyme_book": "《廣韻》古賣切，去卦見。又古惠切，胡卦切。",
                 "meanings": [
                     "悬挂；绊住",
@@ -916,7 +916,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pí",
                 "rhyme_book": "《集韻》班糜切，平支幫。",
                 "meanings": []
@@ -989,7 +989,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "罺cháo",
+                "pinyin": "cháo",
                 "rhyme_book": "《廣韻》側交切，平肴莊。又初教切。宵部。",
                 "meanings": [
                     "捕鱼小网"
@@ -1237,7 +1237,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "羉luán",
+                "pinyin": "luán",
                 "rhyme_book": "《廣韻》落官切，平桓來。元部。",
                 "meanings": [
                     "捕捉野猪的网"
@@ -1261,16 +1261,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "²𦉬tīng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "tīng",
                 "rhyme_book": "",
                 "meanings": [
                     "〔𦉬𦊓〕也作“𦊓𦉬”"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "²𦉬tīng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "tīng",
                 "rhyme_book": "《廣韻》他丁切，平青透。",
                 "meanings": [
                     "网"
@@ -1278,7 +1278,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𦉬tīng",
+                "pinyin": "tīng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦉬𦊓〕也作“𦊓𦉬”",
@@ -1437,7 +1437,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊃cén",
+                "pinyin": "cén",
                 "rhyme_book": "《集韻》鋤簪切，平侵崇。",
                 "meanings": [
                     "网名"
@@ -1462,7 +1462,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𦊊tiān",
+                "pinyin": "tiān",
                 "rhyme_book": "《越諺》音天。",
                 "meanings": [
                     "渔具"
@@ -1495,9 +1495,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "juǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》古兖切。",
                 "meanings": [
-                    "《餘文》古兖切",
                     "挂"
                 ]
             }
@@ -1511,7 +1510,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𦊎mǒu",
+                "pinyin": "mǒu",
                 "rhyme_book": "《玉篇》莫厚切。",
                 "meanings": [
                     "张网"
@@ -1536,7 +1535,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊐jù",
+                "pinyin": "jù",
                 "rhyme_book": "《廣韻》其吕切，上語羣。",
                 "meanings": [
                     "鱼网"
@@ -1570,7 +1569,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊓lǐng",
+                "pinyin": "lǐng",
                 "rhyme_book": "《廣韻》力鼎切，上迥來。",
                 "meanings": [
                     "〔𦉬𦊓〕见“𦉬”"
@@ -1622,10 +1621,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊘hù",
-                "rhyme_book": "《康熙字典》引",
+                "pinyin": "hù",
+                "rhyme_book": "《康熙字典》引《篇韻》音户。",
                 "meanings": [
-                    "《篇韻》音户",
                     "网"
                 ]
             }
@@ -1667,9 +1665,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》縛謀切。",
                 "meanings": [
-                    "《奚韻》縛謀切",
                     "古代一种附设有机关的捕鸟兽的网，即覆车网"
                 ]
             }
@@ -1684,9 +1681,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》户故切。",
                 "meanings": [
-                    "《奚韻》户故切",
                     "网"
                 ]
             }
@@ -1700,7 +1696,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊪è",
+                "pinyin": "è",
                 "rhyme_book": "《篇海類編》遏合切。",
                 "meanings": [
                     "鸟网"
@@ -1716,7 +1712,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊫gōng",
+                "pinyin": "gōng",
                 "rhyme_book": "《集韻》姑横切，平庚見。",
                 "meanings": [
                     "网满"
@@ -1777,7 +1773,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊲lüè",
+                "pinyin": "lüè",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦋥𦊲〕见“𦋥”"
@@ -1827,7 +1823,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦊼lǜ",
+                "pinyin": "lǜ",
                 "rhyme_book": "《廣韻》良倨切，去御來。",
                 "meanings": [
                     "网"
@@ -1868,7 +1864,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𦊿liú",
+                "pinyin": "liú",
                 "rhyme_book": "《集韻》力求切，平尤來。",
                 "meanings": [
                     "捕鸟兽的器具"
@@ -1893,7 +1889,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋅xié",
+                "pinyin": "xié",
                 "rhyme_book": "《廣韻》户圭切，平齊匣。",
                 "meanings": [
                     "姓"
@@ -1927,7 +1923,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋈xiàn",
+                "pinyin": "xiàn",
                 "rhyme_book": "《集韻》私箭切，去線心。",
                 "meanings": [
                     "鱼网"
@@ -1943,7 +1939,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋉bó",
+                "pinyin": "bó",
                 "rhyme_book": "《玉篇》蒲特切。",
                 "meanings": [
                     "网衣"
@@ -2004,7 +2000,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋔lù",
+                "pinyin": "lù",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦋔𦌊〕也作“𦋔𦌉”"
@@ -2029,7 +2025,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋞shuò",
+                "pinyin": "shuò",
                 "rhyme_book": "《廣韻》所角切，入覺生。",
                 "meanings": [
                     "〔㩋𦋞〕鸟网形"
@@ -2063,7 +2059,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋡mǒu",
+                "pinyin": "mǒu",
                 "rhyme_book": "《集韻》莫後切，上厚明。",
                 "meanings": [
                     "网"
@@ -2088,10 +2084,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋣hàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "hàn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音頷。",
                 "meanings": [
-                    "《川篇》音頷",
                     "古代卿、大夫以上的人所戴的礼帽，后专指皇冠"
                 ]
             }
@@ -2114,7 +2109,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋥yuē",
+                "pinyin": "yuē",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𦋥𦊲〕鱼网"
@@ -2137,9 +2132,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》羊舒切。",
                 "meanings": [
-                    "《奚韻》羊舒切",
                     "网"
                 ]
             }
@@ -2153,7 +2147,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋰jiān",
+                "pinyin": "jiān",
                 "rhyme_book": "《廣韻》古甜切，平添見。",
                 "meanings": [
                     "丝网"
@@ -2187,10 +2181,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋳gāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "gāng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音剛。",
                 "meanings": [
-                    "《川篇》音剛",
                     "网"
                 ]
             }
@@ -2258,7 +2251,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦋿cáo",
+                "pinyin": "cáo",
                 "rhyme_book": "《篇海類編》才勞切。",
                 "meanings": [
                     "〔𦋿网〕捕鱼具"
@@ -2364,7 +2357,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌊sù",
+                "pinyin": "sù",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䍡𦌊〕下垂貌"
@@ -2380,7 +2373,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌋zhòng",
+                "pinyin": "zhòng",
                 "rhyme_book": "《類篇》儲用切，去用澄。",
                 "meanings": [
                     "厚"
@@ -2405,7 +2398,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌒liào",
+                "pinyin": "liào",
                 "rhyme_book": "《廣韻》力弔切，去嘯來。",
                 "meanings": [
                     "鱼网"
@@ -2446,7 +2439,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌕lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》洛故切，去暮來。",
                 "meanings": [
                     "〔𦌕䍛〕取鱼具"
@@ -2471,7 +2464,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌗jì",
+                "pinyin": "jì",
                 "rhyme_book": "《篇海類編》居例切。",
                 "meanings": [
                     "鱼网"
@@ -2487,7 +2480,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌚yán",
+                "pinyin": "yán",
                 "rhyme_book": "《改併四聲篇海·网部》引",
                 "meanings": [
                     "《川篇》：“𦌚，語堅切"
@@ -2503,7 +2496,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌟lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》盧谷切，入屋來。",
                 "meanings": [
                     "捕鱼具"
@@ -2528,7 +2521,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌡mǐn",
+                "pinyin": "mǐn",
                 "rhyme_book": "《廣韻》眉殞切，上軫明。",
                 "meanings": [
                     "网眼细密的网"
@@ -2544,7 +2537,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌢tí",
+                "pinyin": "tí",
                 "rhyme_book": "《玉篇》徒犂切。",
                 "meanings": [
                     "网绳"
@@ -2578,7 +2571,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌦huàn",
+                "pinyin": "huàn",
                 "rhyme_book": "《改併四聲篇海·网部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𦌦，音患"
@@ -2594,7 +2587,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌪tǎn",
+                "pinyin": "tǎn",
                 "rhyme_book": "《集韻》吐敢切，上敢透。",
                 "meanings": [
                     "鱼网"
@@ -2670,7 +2663,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌰jī",
+                "pinyin": "jī",
                 "rhyme_book": "《篇海類編·器用類·网部》：“𦌰，居宜切，音機。”",
                 "meanings": []
             }
@@ -2702,7 +2695,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌷dú",
+                "pinyin": "dú",
                 "rhyme_book": "《集韻》徒谷切，入屋定。",
                 "meanings": [
                     "〔𦌷䍡〕即“罜䍡”"
@@ -2718,7 +2711,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦌸kūn",
+                "pinyin": "kūn",
                 "rhyme_book": "《集韻》公渾切，平魂見。",
                 "meanings": [
                     "网"
@@ -2814,7 +2807,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍁pò",
+                "pinyin": "pò",
                 "rhyme_book": "《玉篇》普革切。",
                 "meanings": [
                     "网"
@@ -2830,7 +2823,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍄shū",
+                "pinyin": "shū",
                 "rhyme_book": "《篇海類編》音疎。",
                 "meanings": [
                     "滤去酒渣，使酒流下"
@@ -2846,7 +2839,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦍅quàn",
+                "pinyin": "quàn",
                 "rhyme_book": "《篇海類編》去倦切。",
                 "meanings": [
                     "罺网"
@@ -2889,7 +2882,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧐰dú",
+                "pinyin": "dú",
                 "rhyme_book": "《篇海類編·器用類·网部》：“𧐰，音獨。”",
                 "meanings": []
             }
@@ -2903,7 +2896,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧷅yí",
+                "pinyin": "yí",
                 "rhyme_book": "《字彙補·网部》：“𧷅，以其切，音遺。出釋典。”",
                 "meanings": []
             }

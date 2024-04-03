@@ -57,6 +57,8 @@ class BasicDataCollector:
         root = os.path.join(root, 'output/parsed_json')
         #转路径\\为/
         root = root.replace('\\', '/')
+
+        rhyme_book_notNone = 0
         for key in self.data:
             with open(f'{root}/{key}_{self.data[key]["部首"]}.json', 'r') as f:
                 json_data = json.load(f)
@@ -64,6 +66,15 @@ class BasicDataCollector:
                 for word in json_data:
                     #先判断有无definitions字段
                     if 'definitions' not in word:
+                        continue
+                    #再判断variants和synonyms字段里是不是有内容
+                    #比如        "synonyms": [
+                    #                   "鬒"
+                    #                   ],
+                    #这样有内容的就要跳过
+                    #比如        "synonyms": [],
+                    #这样没有内容的就要继续处理
+                    if word['variants'] or word['synonyms'] or word['special_entries']:
                         continue
                     #word的笔画通过indexing文件夹中的UnihanIRGs类的query_unihan_irg_sources方法获取, 获取方法如下
                     # 通过类似查询语句查询UnihanIRGSources.txt文件中的数据并返回
@@ -122,11 +133,18 @@ class BasicDataCollector:
                         pinyins.append(concepts['pinyin'])
                     fanqies = []
                     for concepts in word['definitions']:
-                        try:
-                            matches = re.search(r'》(.*?)切', concepts['rhyme_book']).group(1)
+                        rhyme_book = concepts['rhyme_book']
+                        if rhyme_book != None:
+                            matches = self.match_special_patterns(rhyme_book)
+                        else:
+                            matches = None
+
+                        if matches != None:
                             fanqies.append(matches)
-                        except:
-                            print(concepts['rhyme_book'])
+                        else:
+                            print('A:', concepts['rhyme_book'])
+                            if concepts['rhyme_book'] != None:
+                                rhyme_book_notNone += 1
                     character_utf8 = hex(ord(word['character']))
                     self.data[key]['汉字'][word['character']] = {
                         '笔画': UnihanIRGs.query_unihan_irg_sources(f'U+{character_utf8[2:].upper()}', 'kTotalStrokes'),
@@ -134,6 +152,7 @@ class BasicDataCollector:
                         '拼音': pinyins,
                         '释义总个数': total_meanings
                     }
+        print('rhyme_book_notNone:', rhyme_book_notNone)
         return self.data
     
     def save_data(self):
@@ -149,6 +168,24 @@ class BasicDataCollector:
         #保存到output的data_json文件夹中
         with open(f'{root}/data_json/basic_data.json', 'w') as f:
             json.dump(self.data, f, ensure_ascii=False, indent=4)
+
+    def match_special_patterns(self, text):
+        # 匹配“音”的后一个字（包括音字）
+        index_yin = text.find('音')
+        if index_yin != -1 and index_yin + 1 < len(text):
+            return text[index_yin:index_yin+2]
+
+        # 匹配“切”的前面三个字（包括切字）
+        index_qie = text.find('切')
+        if index_qie != -1 and index_qie - 2 >= 0:
+            return text[index_qie-2:index_qie+1]
+
+        # 匹配“反”的前面三个字（包括反字）
+        index_fan = text.find('反')
+        if index_fan != -1 and index_fan - 3 >= 0:
+            return text[index_fan-2:index_fan+1]
+        
+        return None
 #end
 
 #start

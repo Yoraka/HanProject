@@ -58,7 +58,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓟pí",
+                "pinyin": "pí",
                 "rhyme_book": "《集韻》蒲糜切，平支並。又攀糜切。",
                 "meanings": [
                     "割开"
@@ -115,7 +115,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓢luò",
+                "pinyin": "luò",
                 "rhyme_book": "《廣韻》盧各切，入鐸來。",
                 "meanings": [
                     "剔去"
@@ -178,7 +178,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓦bāi",
+                "pinyin": "bāi",
                 "rhyme_book": null,
                 "meanings": [
                     "〔㓦劃〕也作“擘畫”"
@@ -194,7 +194,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓧gān",
+                "pinyin": "gān",
                 "rhyme_book": "《集韻》姑南切，平覃見。",
                 "meanings": [
                     "割禾的工具"
@@ -327,7 +327,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓳dī",
+                "pinyin": "dī",
                 "rhyme_book": "《廣韻》都奚切，平齊端。",
                 "meanings": [
                     "以刀解物"
@@ -343,7 +343,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓴ruǎn",
+                "pinyin": "ruǎn",
                 "rhyme_book": "《集韻》乳兖切，上獮日。",
                 "meanings": [
                     "刺"
@@ -494,7 +494,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㓽chóng",
+                "pinyin": "chóng",
                 "rhyme_book": "《廣韻》鋤弓切，平東崇。又仕仲切。",
                 "meanings": [
                     "一种铁锹"
@@ -543,7 +543,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㔁dēng",
+                "pinyin": "dēng",
                 "rhyme_book": "《海篇》音登。",
                 "meanings": [
                     "㔁钩"
@@ -590,7 +590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㔄sù",
+                "pinyin": "sù",
                 "rhyme_book": "《廣韻》相玉切，入燭心。",
                 "meanings": [
                     "细切"
@@ -623,7 +623,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_rhyme_multi_meaning",
-                "pinyin": "㔆zàn",
+                "pinyin": "zàn",
                 "rhyme_book": "zàn　㊀《廣韻》徂感切，上感從。",
                 "meanings": [
                     "刺",
@@ -631,8 +631,8 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "㔆zàn",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "zàn",
                 "rhyme_book": "《集韻》在敢切，上敢從。",
                 "meanings": [
                     "缩胸貌"
@@ -858,7 +858,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "刁diāo",
+                "pinyin": "diāo",
                 "rhyme_book": "《廣韻》都聊切，平蕭端。",
                 "meanings": [
                     "〔刁斗〕古代军中所用的一种有柄的小斗，白天可供一人烧饭，夜间敲击以巡更",
@@ -973,7 +973,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "fèn",
                 "rhyme_book": "《洪武正韻》府吻切。",
                 "meanings": [
@@ -1105,7 +1105,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "刋qiàn",
+                "pinyin": "qiàn",
                 "rhyme_book": "《玉篇》七見切。",
                 "meanings": [
                     "切"
@@ -1183,7 +1183,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "刐dǎn",
+                "pinyin": "dǎn",
                 "rhyme_book": "《玉篇》得旱切。",
                 "meanings": [
                     "割"
@@ -1280,7 +1280,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "刔jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》古穴切，入屑見。",
                 "meanings": [
                     "剔"
@@ -1475,7 +1475,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "刡mǐn",
+                "pinyin": "mǐn",
                 "rhyme_book": "《廣韻》武盡切（",
                 "meanings": [
                     "《集韻》弭盡切），上軫明",
@@ -1700,7 +1700,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "刯gēng",
+                "pinyin": "gēng",
                 "rhyme_book": "《集韻》居曾切，平登見。",
                 "meanings": [
                     "剖"
@@ -2069,7 +2069,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "剃tì",
+                "pinyin": "tì",
                 "rhyme_book": "《廣韻》他計切，去霽透。",
                 "meanings": [
                     "用刀刮去毛发"
@@ -2202,7 +2202,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "qiào",
                 "rhyme_book": "qiào　㊀《集韻》仙妙切，去笑心。藥部。",
                 "meanings": [
@@ -2210,7 +2210,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "qiào",
                 "rhyme_book": "《集韻》七肖切，去笑清。",
                 "meanings": [
@@ -2422,7 +2422,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "剕fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《廣韻》扶沸切，去未奉。微部。",
                 "meanings": [
                     "古代断足的刑罚"
@@ -2728,7 +2728,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "剨huō",
+                "pinyin": "huō",
                 "rhyme_book": "《廣韻》呼麥切，入麥曉。",
                 "meanings": [
                     "破裂声"
@@ -2912,7 +2912,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "剳（一）dá",
+                "pinyin": "dá",
                 "rhyme_book": "《集韻》德合切，入合端。",
                 "meanings": []
             }
@@ -3158,7 +3158,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "剾kōu",
+                "pinyin": "kōu",
                 "rhyme_book": "《廣韻》恪侯切，平侯溪。又烏侯切。",
                 "meanings": [
                     "剜"
@@ -3493,7 +3493,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "劏tāng",
+                "pinyin": "tāng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -3680,7 +3680,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚥diāo",
+                "pinyin": "diāo",
                 "rhyme_book": "《廣韻》都聊切，平蕭端。",
                 "meanings": []
             }
@@ -3703,7 +3703,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚧èr",
+                "pinyin": "èr",
                 "rhyme_book": "《玉篇》而利切。",
                 "meanings": [
                     "削"
@@ -3719,7 +3719,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚨jiū",
+                "pinyin": "jiū",
                 "rhyme_book": "《集韻》居虬切，平幽見。",
                 "meanings": [
                     "大刀"
@@ -3762,7 +3762,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚭dì",
+                "pinyin": "dì",
                 "rhyme_book": "《集韻》丁歷切，入錫端。",
                 "meanings": [
                     "断"
@@ -3778,7 +3778,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚮yì",
+                "pinyin": "yì",
                 "rhyme_book": "《玉篇》魚乙切。",
                 "meanings": [
                     "切断"
@@ -3794,7 +3794,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚯kūn",
+                "pinyin": "kūn",
                 "rhyme_book": "《集韻》枯昆切，平魂溪。",
                 "meanings": [
                     "砍伐树枝"
@@ -3819,7 +3819,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³𠚱zhé",
+                "pinyin": "zhé",
                 "rhyme_book": "《字彙補》知鐵切。",
                 "meanings": [
                     "以血涂刀"
@@ -3897,7 +3897,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚹shàn",
+                "pinyin": "shàn",
                 "rhyme_book": "《集韻》所鑒切，去鑑生。",
                 "meanings": [
                     "刈"
@@ -3930,7 +3930,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠚻diāo",
+                "pinyin": "diāo",
                 "rhyme_book": "《龍龕手鑑》丁聊反。",
                 "meanings": [
                     "断取禾穗"
@@ -3987,7 +3987,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛀zhōng",
+                "pinyin": "zhōng",
                 "rhyme_book": "《龍龕手鑑》之容反。",
                 "meanings": [
                     "刮削物"
@@ -4075,7 +4075,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛋bā",
+                "pinyin": "bā",
                 "rhyme_book": null,
                 "meanings": []
             }
@@ -4125,7 +4125,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛑xián",
+                "pinyin": "xián",
                 "rhyme_book": "《廣韻》胡田切，平先匣。",
                 "meanings": [
                     "自刎"
@@ -4141,7 +4141,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛒guā",
+                "pinyin": "guā",
                 "rhyme_book": "《集韻》姑華切，平麻見。",
                 "meanings": [
                     "割"
@@ -4157,7 +4157,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛓liǔ",
+                "pinyin": "liǔ",
                 "rhyme_book": "《集韻》力九切，上有來。",
                 "meanings": [
                     "割"
@@ -4173,7 +4173,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛔chǐ",
+                "pinyin": "chǐ",
                 "rhyme_book": "《龍龕手鑑》初巳反。",
                 "meanings": [
                     "割物"
@@ -4189,7 +4189,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛕guāi",
+                "pinyin": "guāi",
                 "rhyme_book": "《龍龕手鑑》公懷反。",
                 "meanings": [
                     "断"
@@ -4205,7 +4205,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛖chuān",
+                "pinyin": "chuān",
                 "rhyme_book": "《龍龕手鑑》丑全、子全二反。",
                 "meanings": [
                     "去皮"
@@ -4230,7 +4230,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛘lí",
+                "pinyin": "lí",
                 "rhyme_book": "《字彙補》力支切。",
                 "meanings": [
                     "割"
@@ -4246,10 +4246,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛙cù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "cù",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》倉没切。",
                 "meanings": [
-                    "《奚韻》倉没切",
                     "摩"
                 ]
             }
@@ -4263,10 +4262,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛚shuā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shuā",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》生括切。",
                 "meanings": [
-                    "《搜真玉鏡》生括切",
                     "割"
                 ]
             }
@@ -4296,10 +4294,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "chuàng",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《餘文》楚向切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《餘文》楚向切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4338,7 +4334,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛡bǐ",
+                "pinyin": "bǐ",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𠛡剥〕象声词"
@@ -4363,7 +4359,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛥bǐng",
+                "pinyin": "bǐng",
                 "rhyme_book": "《字彙補》布皿切。",
                 "meanings": [
                     "古地名"
@@ -4379,7 +4375,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛦lì",
+                "pinyin": "lì",
                 "rhyme_book": "《字彙補》龍異切。",
                 "meanings": [
                     "行"
@@ -4444,10 +4440,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛫duǒ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "duǒ",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》丁哿切。",
                 "meanings": [
-                    "《奚韻》丁哿切",
                     "用巴掌打；打耳光"
                 ]
             }
@@ -4483,7 +4478,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛮quān",
+                "pinyin": "quān",
                 "rhyme_book": "《廣韻》此緣切，平仙清。",
                 "meanings": []
             }
@@ -4547,18 +4542,14 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "kè",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音剋"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音剋。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "hé",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》胡代切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》胡代切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4579,10 +4570,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛶zhēn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhēn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音鉁。",
                 "meanings": [
-                    "《川篇》音鉁",
                     "刀"
                 ]
             }
@@ -4605,10 +4595,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠛸fén",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fén",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音焚。",
                 "meanings": [
-                    "《搜真玉鏡》音焚",
                     "性"
                 ]
             }
@@ -4649,7 +4638,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜁yí",
+                "pinyin": "yí",
                 "rhyme_book": "《龍龕手鑑·刀部》：“𠜁，俗。音夷。”",
                 "meanings": []
             }
@@ -4672,11 +4661,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜃jiù",
-                "rhyme_book": "《改併四聲篇海·刀部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠜃，音臼"
-                ]
+                "pinyin": "jiù",
+                "rhyme_book": "《改併四聲篇海·刀部》引《搜真玉鏡》：“𠜃，音臼。”《字彙補·刀部》：“𠜃，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4688,7 +4675,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜄xù",
+                "pinyin": "xù",
                 "rhyme_book": "《龍龕手鑑·刀部》：“𠜄，俗。音恤。”",
                 "meanings": [
                     "《字彙補·刀部》：“𠜄，義未詳"
@@ -4704,7 +4691,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜅jiǎo",
+                "pinyin": "jiǎo",
                 "rhyme_book": null,
                 "meanings": [
                     "剪"
@@ -4738,7 +4725,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜈lǜ",
+                "pinyin": "lǜ",
                 "rhyme_book": "《龍龕手鑑·刀部》：“𠜈，俗。盧骨反。”",
                 "meanings": [
                     "《字彙補·刀部》：“𠜈，音緑"
@@ -4754,10 +4741,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜉jiǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiǔ",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》姜酋切。",
                 "meanings": [
-                    "《龍龕手鑑》姜酋切",
                     "出罪"
                 ]
             }
@@ -4780,7 +4766,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜋chǒu",
+                "pinyin": "chǒu",
                 "rhyme_book": null,
                 "meanings": [
                     "姓"
@@ -4814,7 +4800,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜐kuài",
+                "pinyin": "kuài",
                 "rhyme_book": "《玉篇》口怪切。",
                 "meanings": [
                     "断"
@@ -4830,7 +4816,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜑duì",
+                "pinyin": "duì",
                 "rhyme_book": "《集韻》徒外切，去泰定。",
                 "meanings": [
                     "削"
@@ -4882,7 +4868,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜖luō",
+                "pinyin": "luō",
                 "rhyme_book": "《廣韻》郎括切，入末來。",
                 "meanings": [
                     "削"
@@ -4914,7 +4900,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜘qìn",
+                "pinyin": "qìn",
                 "rhyme_book": "《集韻》七鴆切，去沁清。",
                 "meanings": [
                     "剋"
@@ -5001,7 +4987,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𠜤qià",
+                "pinyin": "qià",
                 "rhyme_book": "《篇海類編》口八切。",
                 "meanings": [
                     "刀刃",
@@ -5072,7 +5058,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜱pī",
+                "pinyin": "pī",
                 "rhyme_book": "《廣韻》匹迷切，平齊滂。",
                 "meanings": [
                     "削"
@@ -5088,7 +5074,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜲yā",
+                "pinyin": "yā",
                 "rhyme_book": "《廣韻》於加切，平麻影。",
                 "meanings": [
                     "用刀割颈"
@@ -5104,7 +5090,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜳bēng",
+                "pinyin": "bēng",
                 "rhyme_book": "《集韻》悲朋切，平登幫。",
                 "meanings": [
                     "斫"
@@ -5120,7 +5106,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜴guǒ",
+                "pinyin": "guǒ",
                 "rhyme_book": "《集韻》古火切，上果見。",
                 "meanings": [
                     "割"
@@ -5181,7 +5167,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠜹jú",
+                "pinyin": "jú",
                 "rhyme_book": "《集韻》扃闃切，入錫見。",
                 "meanings": [
                     "分割"
@@ -5302,10 +5288,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝄lì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lì",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音麗。",
                 "meanings": [
-                    "《川篇》音麗",
                     "割"
                 ]
             }
@@ -5337,7 +5322,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝐huā",
+                "pinyin": "huā",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -5353,11 +5338,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝑jiāo",
-                "rhyme_book": "《改併四聲篇海·刀部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𠝑，音交"
-                ]
+                "pinyin": "jiāo",
+                "rhyme_book": "《改併四聲篇海·刀部》引《龍龕手鑑》：“𠝑，音交。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5378,7 +5361,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝘qià",
+                "pinyin": "qià",
                 "rhyme_book": "《字彙補》空削切。",
                 "meanings": [
                     "入"
@@ -5404,9 +5387,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "zhá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》士鎋切。",
                 "meanings": [
-                    "《川篇》士鎋切",
                     "𠝚草刀"
                 ]
             },
@@ -5469,7 +5451,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝞chā",
+                "pinyin": "chā",
                 "rhyme_book": "《集韻》測洽切，入洽初。",
                 "meanings": [
                     "象声词"
@@ -5511,7 +5493,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝢yān",
+                "pinyin": "yān",
                 "rhyme_book": "《集韻》於嚴切，平嚴影。",
                 "meanings": [
                     "刑"
@@ -5588,10 +5570,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝪wān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wān",
+                "rhyme_book": "《改併四聲篇海》引《餘文》一丸切。",
                 "meanings": [
-                    "《餘文》一丸切",
                     "刻削"
                 ]
             }
@@ -5605,7 +5586,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝬sōu",
+                "pinyin": "sōu",
                 "rhyme_book": "《集韻》踈鳩切，平尤生。",
                 "meanings": [
                     "刈"
@@ -5630,7 +5611,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝲kǎn",
+                "pinyin": "kǎn",
                 "rhyme_book": "《改併四聲篇海·刀部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠝲，音偘（侃）"
@@ -5691,11 +5672,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠝽chóu",
-                "rhyme_book": "《改併四聲篇海·刀部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𠝽，音疇"
-                ]
+                "pinyin": "chóu",
+                "rhyme_book": "《改併四聲篇海·刀部》引《龍龕手鑑》：“𠝽，音疇。古文。”按：疑即“疇”的古文。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5724,7 +5703,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞀tū",
+                "pinyin": "tū",
                 "rhyme_book": "《集韻》他骨切，入没透。",
                 "meanings": [
                     "刺入貌"
@@ -5758,7 +5737,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞃zhé",
+                "pinyin": "zhé",
                 "rhyme_book": "《集韻》士列切，入薛崇。",
                 "meanings": [
                     "治皮"
@@ -5942,7 +5921,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞕róng",
+                "pinyin": "róng",
                 "rhyme_book": "《篇海類編》音戎。",
                 "meanings": [
                     "刃器"
@@ -5958,7 +5937,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞖gǒng",
+                "pinyin": "gǒng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -5974,7 +5953,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞗què",
+                "pinyin": "què",
                 "rhyme_book": "《改併四聲篇海·刀部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠞗，音却"
@@ -5999,7 +5978,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞙lí",
+                "pinyin": "lí",
                 "rhyme_book": "《龍龕手鑑》力之反。",
                 "meanings": [
                     "割"
@@ -6060,10 +6039,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞤lì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lì",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》力計切。",
                 "meanings": [
-                    "《奚韻》力計切",
                     "割破"
                 ]
             }
@@ -6177,7 +6155,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞮chuǎng",
+                "pinyin": "chuǎng",
                 "rhyme_book": "《廣韻》初兩切，上養初。",
                 "meanings": [
                     "皮伤"
@@ -6193,7 +6171,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞯suǒ",
+                "pinyin": "suǒ",
                 "rhyme_book": "《集韻》先活切，入末心。",
                 "meanings": [
                     "削；割"
@@ -6218,7 +6196,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞱jìn",
+                "pinyin": "jìn",
                 "rhyme_book": "《廣韻》渠遴切，去震羣。",
                 "meanings": [
                     "割"
@@ -6243,7 +6221,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞵fá",
+                "pinyin": "fá",
                 "rhyme_book": "《〈穆天子傳〉郭璞注》音伐。月部。",
                 "meanings": [
                     "水名用字"
@@ -6304,10 +6282,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞾jìn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jìn",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音噤。",
                 "meanings": [
-                    "《搜真玉鏡》音噤",
                     "制"
                 ]
             }
@@ -6321,7 +6298,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠞿cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《龍龕手鑑》音毳、察。",
                 "meanings": [
                     "断"
@@ -6337,7 +6314,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟂cèng",
+                "pinyin": "cèng",
                 "rhyme_book": "《廣韻》千鄧切，去嶝清。",
                 "meanings": [
                     "刀伤"
@@ -6377,7 +6354,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhào",
                 "rhyme_book": "zhào　㊀《集韻》陟教切，去效知。宵部。",
                 "meanings": [
@@ -6385,7 +6362,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhào",
                 "rhyme_book": "《集韻》勑角切，入覺徹。",
                 "meanings": []
@@ -6434,7 +6411,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟈piē",
+                "pinyin": "piē",
                 "rhyme_book": "《集韻》匹蔑切，入屑滂。",
                 "meanings": [
                     "削；斜砍"
@@ -6474,7 +6451,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟊xī",
+                "pinyin": "xī",
                 "rhyme_book": "《集韻》迄及切，入緝曉。",
                 "meanings": [
                     "欲割"
@@ -6490,7 +6467,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟋yào",
+                "pinyin": "yào",
                 "rhyme_book": "《集韻》倪弔切，去嘯疑。",
                 "meanings": [
                     "削"
@@ -6507,9 +6484,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "fǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》芳武切。",
                 "meanings": [
-                    "《餘文》芳武切",
                     "割草"
                 ]
             },
@@ -6531,7 +6507,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟍chōng",
+                "pinyin": "chōng",
                 "rhyme_book": "《廣韻》尺容切，平鍾昌。東部。",
                 "meanings": [
                     "刺"
@@ -6592,10 +6568,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟓cuì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "cuì",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音毳、察。",
                 "meanings": [
-                    "《龍龕手鑑》音毳、察",
                     "断"
                 ]
             }
@@ -6636,10 +6611,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟗guā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "guā",
+                "rhyme_book": "《改併四聲篇海》引《川篇》去滑切。",
                 "meanings": [
-                    "《川篇》去滑切",
                     "除掉腐肉"
                 ]
             }
@@ -6725,7 +6699,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟣jī",
+                "pinyin": "jī",
                 "rhyme_book": "《〈淮南子·説山〉茅坤注》音幾。",
                 "meanings": [
                     "切"
@@ -6741,7 +6715,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟦sè",
+                "pinyin": "sè",
                 "rhyme_book": "《集韻》色櫛切，入櫛生。",
                 "meanings": [
                     "刺"
@@ -6757,7 +6731,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟧zhān",
+                "pinyin": "zhān",
                 "rhyme_book": "《集韻》之廉切，平鹽章。",
                 "meanings": [
                     "削"
@@ -6795,7 +6769,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟩sè",
+                "pinyin": "sè",
                 "rhyme_book": "《集韻》殺測切，入職生。",
                 "meanings": [
                     "刺"
@@ -6811,7 +6785,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟪yè",
+                "pinyin": "yè",
                 "rhyme_book": "《廣韻》魚怯切，入業疑。又七接切。",
                 "meanings": [
                     "接续"
@@ -6872,7 +6846,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟰jū",
+                "pinyin": "jū",
                 "rhyme_book": "《字彙補》古驅切。",
                 "meanings": [
                     "舀"
@@ -6975,7 +6949,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠟼huán",
+                "pinyin": "huán",
                 "rhyme_book": "《廣韻》户關切，平删匣。",
                 "meanings": [
                     "〔撲𠟼〕也作“㯷𠟼”"
@@ -7027,7 +7001,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠁xiǎn",
+                "pinyin": "xiǎn",
                 "rhyme_book": "《集韻》呼典切。上銑曉。",
                 "meanings": [
                     "削"
@@ -7052,7 +7026,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠃qiān",
+                "pinyin": "qiān",
                 "rhyme_book": "《廣韻》七廉切，平鹽清。",
                 "meanings": [
                     "切割"
@@ -7122,7 +7096,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠎kuò",
+                "pinyin": "kuò",
                 "rhyme_book": "《廣韻》苦郭切，入鐸溪。又丘擭切。",
                 "meanings": [
                     "解开；割裂"
@@ -7138,7 +7112,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠏lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》力制切，去祭來。",
                 "meanings": [
                     "割"
@@ -7163,11 +7137,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𠠔dú",
-                "rhyme_book": "《改併四聲篇海·刀部》引",
-                "meanings": [
-                    "《川篇》：“𠠔，徒木切"
-                ]
+                "pinyin": "dú",
+                "rhyme_book": "《改併四聲篇海·刀部》引《川篇》：“𠠔，徒木切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7232,7 +7204,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠜yīng",
+                "pinyin": "yīng",
                 "rhyme_book": "《廣韻》烏莖切，平耕影。",
                 "meanings": [
                     "修剪（枝条）"
@@ -7248,7 +7220,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠠝lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "割"
@@ -7273,7 +7245,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁶𠠠dú",
+                "pinyin": "dú",
                 "rhyme_book": "《集韻》徒谷切，入屋定。",
                 "meanings": [
                     "刀伤",
@@ -7299,7 +7271,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁷𠠢líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "用刀剖物",
@@ -7370,7 +7342,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𠠪wān",
+                "pinyin": "wān",
                 "rhyme_book": "《集韻》烏關切，平𠜂影。",
                 "meanings": [
                     "削"
@@ -7404,7 +7376,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²²𠠯dié",
+                "pinyin": "dié",
                 "rhyme_book": "《集韻》達協切，入帖定。",
                 "meanings": [
                     "刺"

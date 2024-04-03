@@ -758,7 +758,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "diū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》丁羞切。",
                 "meanings": [
                     "遗失；失落",
                     "遗留",
@@ -952,7 +952,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀊cāo",
+                "pinyin": "cāo",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -1022,7 +1022,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀔jué",
+                "pinyin": "jué",
                 "rhyme_book": "《廣韻》九勿切，入物見。",
                 "meanings": [
                     "无左臂"
@@ -1119,10 +1119,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀢zī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zī",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音資。",
                 "meanings": [
-                    "《川篇》音資",
                     "定"
                 ]
             }
@@ -1145,11 +1144,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀦xíng",
-                "rhyme_book": "《改併四聲篇海·一部》引",
-                "meanings": [
-                    "《川篇》：“𠀦，音形"
-                ]
+                "pinyin": "xíng",
+                "rhyme_book": "《改併四聲篇海·一部》引《川篇》：“𠀦，音形。”《海篇直音·一部》：“𠀦，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1240,7 +1237,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠀽lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》勒没切，入没來。",
                 "meanings": [
                     "纳入竹筒内的暗箭"
@@ -1348,7 +1345,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𠁠qiè",
+                "pinyin": "qiè",
                 "rhyme_book": "《字彙補·一部》：“𠁠，七夜切。義𨶕。”",
                 "meanings": []
             }

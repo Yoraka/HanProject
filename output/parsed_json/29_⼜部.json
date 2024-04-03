@@ -725,10 +725,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬣bàng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "bàng",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》博亮切。",
                 "meanings": [
-                    "《奚韻》博亮切",
                     "相次第貌"
                 ]
             }
@@ -823,10 +822,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬬xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海》引《川篇》先立切。",
                 "meanings": [
-                    "《川篇》先立切",
                     "行"
                 ]
             }
@@ -849,7 +847,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠬮jié",
+                "pinyin": "jié",
                 "rhyme_book": "《龍龕手鑑》子结反。",
                 "meanings": [
                     "理𠬮"
@@ -1018,7 +1016,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠭈sì",
+                "pinyin": "sì",
                 "rhyme_book": "《改併四聲篇海·又部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠭈，音寺字"
@@ -1043,7 +1041,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠭋chǐ",
+                "pinyin": "chǐ",
                 "rhyme_book": "《集韻》測紀切，上止初。",
                 "meanings": [
                     "啮，用牙啃或咬"
@@ -1330,7 +1328,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠭴zhuō",
+                "pinyin": "zhuō",
                 "rhyme_book": "《廣韻》側律切，入術莊。又職悦切。",
                 "meanings": [
                     "短貌；矮貌"
@@ -1409,7 +1407,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠭿tún",
+                "pinyin": "tún",
                 "rhyme_book": "《字彙補》徒昆切。",
                 "meanings": [
                     "〔豚耳〕草名"
@@ -1443,7 +1441,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠮆fèi",
+                "pinyin": "fèi",
                 "rhyme_book": "《龍龕手鑑》音廢。",
                 "meanings": [
                     "赋敛"
@@ -1477,7 +1475,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠮊dé",
+                "pinyin": "dé",
                 "rhyme_book": "《廣韻》多則切，入德端。",
                 "meanings": [
                     "取"
@@ -1502,7 +1500,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠮌zhú",
+                "pinyin": "zhú",
                 "rhyme_book": "《廣韻》側律切，入術莊。",
                 "meanings": [
                     "小鸡声"

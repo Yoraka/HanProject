@@ -395,10 +395,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fēng",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《餘文》：“𤖀，音峯"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《餘文》：“𤖀，音峯。”《字彙補·爿部》：“𤖀，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -517,10 +515,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dié",
-                "rhyme_book": "《改併四聲篇海·牀部》引",
-                "meanings": [
-                    "《餘文》：“𤖒，徒葉切"
-                ]
+                "rhyme_book": "《改併四聲篇海·牀部》引《餘文》：“𤖒，徒葉切。”",
+                "meanings": []
             }
         ],
         "special_entries": []

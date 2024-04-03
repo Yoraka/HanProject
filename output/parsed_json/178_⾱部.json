@@ -30,7 +30,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䪐bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》兵媚切，去至幫。",
                 "meanings": [
                     "护弓器"
@@ -72,7 +72,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䪓dié",
+                "pinyin": "dié",
                 "rhyme_book": "《集韻》的協切，入帖端。",
                 "meanings": [
                     "〔䪓韘〕也作“鞢𩎃”"
@@ -154,10 +154,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "wěi",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音煒"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音煒。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -456,7 +454,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "韕dūn",
+                "pinyin": "dūn",
                 "rhyme_book": null,
                 "meanings": [
                     "〔鞟鞟〕圆圆的样子"
@@ -539,7 +537,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹韚gé",
+                "pinyin": "gé",
                 "rhyme_book": "《龍龕手鑑·韋部》：“韚，音革。”",
                 "meanings": [
                     "《字彙補·韋部》：“韚，見《篇韻》"
@@ -850,7 +848,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎔jiāo",
+                "pinyin": "jiāo",
                 "rhyme_book": "《廣韻》古肴切，平肴見。",
                 "meanings": [
                     "口袋"
@@ -904,7 +902,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎗qūn",
+                "pinyin": "qūn",
                 "rhyme_book": "《龍龕手鑑·韋部》：“𩎗，口云、方吻二反。”",
                 "meanings": [
                     "《字彙補·韋部》：“𩎗，見《篇韻》"
@@ -929,7 +927,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎙yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《集韻》王伐切，入月云。",
                 "meanings": [
                     "装斧子的套子"
@@ -945,7 +943,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎚chè",
+                "pinyin": "chè",
                 "rhyme_book": "《廣韻》丑格切，入陌徹。",
                 "meanings": [
                     "〔䪝𩎚〕包裹刀把的皮革"
@@ -1140,7 +1138,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎭yì",
+                "pinyin": "yì",
                 "rhyme_book": "《玉篇》音亦。",
                 "meanings": [
                     "皮"
@@ -1174,7 +1172,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎰suì",
+                "pinyin": "suì",
                 "rhyme_book": "《集韻》此芮切，去祭清。",
                 "meanings": [
                     "口袋"
@@ -1199,7 +1197,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𩎲xiá",
+                "pinyin": "xiá",
                 "rhyme_book": "《龍龕手鑑·韋部》：“𩎲，音轄。”按：疑为“舝”的异体。",
                 "meanings": []
             }
@@ -1213,11 +1211,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎳juān",
-                "rhyme_book": "《改併四聲篇海·韋部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩎳，音涓"
-                ]
+                "pinyin": "juān",
+                "rhyme_book": "《改併四聲篇海·韋部》引《搜真玉鏡》：“𩎳，音涓。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1238,11 +1234,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎵wéi",
-                "rhyme_book": "《改併四聲篇海·韋部》引",
-                "meanings": [
-                    "《川篇》：“𩎵，音違"
-                ]
+                "pinyin": "wéi",
+                "rhyme_book": "《改併四聲篇海·韋部》引《川篇》：“𩎵，音違。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1263,10 +1257,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎷yì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yì",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音亦。",
                 "meanings": [
-                    "《川篇》音亦",
                     "皮"
                 ]
             }
@@ -1316,7 +1309,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎼tuó",
+                "pinyin": "tuó",
                 "rhyme_book": "《集韻》唐何切，平戈定。",
                 "meanings": [
                     "皮帖履"
@@ -1341,10 +1334,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩎾páo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "páo",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音炰。",
                 "meanings": [
-                    "《川篇》音炰",
                     "柔"
                 ]
             }
@@ -1556,7 +1548,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏒dá",
+                "pinyin": "dá",
                 "rhyme_book": "《玉篇》音答。",
                 "meanings": [
                     "皮指套"
@@ -1599,11 +1591,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏖hùn",
-                "rhyme_book": "《改併四聲篇海·韋部》引",
-                "meanings": [
-                    "《川篇》：“𩏖，胡棍切"
-                ]
+                "pinyin": "hùn",
+                "rhyme_book": "《改併四聲篇海·韋部》引《川篇》：“𩏖，胡棍切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1615,11 +1605,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏗juǎn",
-                "rhyme_book": "《字彙補·韋部》引",
-                "meanings": [
-                    "《篇韻》：“𩏗，居阮切"
-                ]
+                "pinyin": "juǎn",
+                "rhyme_book": "《字彙補·韋部》引《篇韻》：“𩏗，居阮切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1667,7 +1655,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏝lóu",
+                "pinyin": "lóu",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䪘𩏝氏〕见“䪘”"
@@ -1683,7 +1671,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏞bài",
+                "pinyin": "bài",
                 "rhyme_book": "《改併四聲篇海·韋部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩏞，蒲賣切"
@@ -1700,7 +1688,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "yù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音域。",
                 "meanings": [
                     "毛皮衣服"
                 ]
@@ -1715,7 +1703,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏠zhèng",
+                "pinyin": "zhèng",
                 "rhyme_book": "《廣韻》猪孟切，去映知。",
                 "meanings": [
                     "张皮"
@@ -1749,7 +1737,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏣kuī",
+                "pinyin": "kuī",
                 "rhyme_book": "《集韻》驅為切，平支溪。",
                 "meanings": [
                     "亏损"
@@ -1774,11 +1762,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏥dān",
-                "rhyme_book": "《改併四聲篇海·韋部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩏥，音單"
-                ]
+                "pinyin": "dān",
+                "rhyme_book": "《改併四聲篇海·韋部》引《搜真玉鏡》：“𩏥，音單。”《字彙補·韋部》：“𩏥，東南切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1817,7 +1803,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏩xiǎn",
+                "pinyin": "xiǎn",
                 "rhyme_book": "《廣韻》虚檢切，上琰曉。又虚嚴切。",
                 "meanings": [
                     "胡被"
@@ -1833,7 +1819,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏪zhái",
+                "pinyin": "zhái",
                 "rhyme_book": "《廣韻》場伯切，入陌澄。",
                 "meanings": [
                     "〔䪝𩏪〕也作“𩏪䪝”"
@@ -1867,7 +1853,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏭kē",
+                "pinyin": "kē",
                 "rhyme_book": "《改併四聲篇海·韋部》引",
                 "meanings": [
                     "《川篇》：“𩏭，音柯、音詞"
@@ -2004,7 +1990,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𩏹juàn",
+                "pinyin": "juàn",
                 "rhyme_book": "《玉篇》居願切。",
                 "meanings": [
                     "治革"
@@ -2020,7 +2006,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩏺jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》厥縛切，入藥見。",
                 "meanings": [
                     "〔𩏪𩏺〕包刀把的皮革"

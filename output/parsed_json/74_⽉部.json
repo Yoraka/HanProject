@@ -42,9 +42,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tiāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》他凋切。",
                 "meanings": [
-                    "《川篇》他凋切",
                     "祭名"
                 ]
             }
@@ -525,7 +524,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zhèn",
                 "rhyme_book": "《古今韻會舉要》丈忍切。",
                 "meanings": [
@@ -959,9 +958,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "wěi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》烏賄切。",
                 "meanings": [
-                    "《搜真玉鏡》烏賄切",
                     "吐"
                 ]
             }
@@ -1210,9 +1208,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "niàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》奴見切。",
                 "meanings": [
-                    "《搜真玉鏡》奴見切",
                     "月出"
                 ]
             }
@@ -1353,9 +1350,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》於縛切。",
                 "meanings": [
-                    "《搜真玉鏡》於縛切",
                     "女"
                 ]
             }

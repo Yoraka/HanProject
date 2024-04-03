@@ -90,7 +90,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍉zhǎi",
+                "pinyin": "zhǎi",
                 "rhyme_book": "《集韻》知駭切，上駭知。",
                 "meanings": [
                     "残缺损伤的痕迹"
@@ -106,7 +106,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䍊jiāo",
+                "pinyin": "jiāo",
                 "rhyme_book": "《廣韻》古肴切，平肴見。又苦擊切。",
                 "meanings": [
                     "古代土制的埙一类的吹奏乐器"
@@ -227,7 +227,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "缹fǒu",
+                "pinyin": "fǒu",
                 "rhyme_book": "《廣韻》方久切，上有非。",
                 "meanings": [
                     "蒸煮"
@@ -561,7 +561,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈣yú",
+                "pinyin": "yú",
                 "rhyme_book": "《集韻》雲俱切，平虞云。",
                 "meanings": [
                     "汲器"
@@ -577,7 +577,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈤xiòng",
+                "pinyin": "xiòng",
                 "rhyme_book": "《龍龕手鑑》呼貢反。",
                 "meanings": [
                     "孔𦈤"
@@ -593,10 +593,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈦qì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qì",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音棄。",
                 "meanings": [
-                    "《龍龕手鑑》音棄",
                     "吹火"
                 ]
             }
@@ -628,10 +627,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𦈩gǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "gǒng",
+                "rhyme_book": "《改併四聲篇海》引《餘文》古勇切。",
                 "meanings": [
-                    "《餘文》古勇切",
                     "缻"
                 ]
             }
@@ -663,10 +661,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈬zuǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zuǐ",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》子累切。",
                 "meanings": [
-                    "《龍龕手鑑》子累切",
                     "瓶𦈬"
                 ]
             }
@@ -707,7 +704,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𦈰jiē",
+                "pinyin": "jiē",
                 "rhyme_book": "《玉篇》革鞋切。",
                 "meanings": [
                     "器好"
@@ -774,7 +771,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𦈶bēi",
+                "pinyin": "bēi",
                 "rhyme_book": "《集韻》晡枚切，平灰幫。",
                 "meanings": [
                     "缶"
@@ -790,7 +787,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈷shū",
+                "pinyin": "shū",
                 "rhyme_book": "《龍龕手鑑·缶部》：“𦈷，音疏。”",
                 "meanings": []
             }
@@ -829,7 +826,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦈺zhǒu",
+                "pinyin": "zhǒu",
                 "rhyme_book": "《玉篇》音帚。",
                 "meanings": [
                     "器；器成"
@@ -915,10 +912,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦉉liù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "liù",
+                "rhyme_book": "《改併四聲篇海》引《餘文》力救切。",
                 "meanings": [
-                    "《餘文》力救切",
                     "甑"
                 ]
             }
@@ -941,7 +937,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦉎suī",
+                "pinyin": "suī",
                 "rhyme_book": "《集韻》穌回切，平灰心。",
                 "meanings": [
                     "瓦器名"
@@ -966,10 +962,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦉐zhǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhǔ",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》章吕切。",
                 "meanings": [
-                    "《龍龕手鑑》章吕切",
                     "盛米"
                 ]
             }
@@ -1045,7 +1040,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦉝xìn",
+                "pinyin": "xìn",
                 "rhyme_book": "《集韻》許慎切，去稕曉。",
                 "meanings": [
                     "瓦器坼裂"
@@ -1070,7 +1065,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𦉟yà",
+                "pinyin": "yà",
                 "rhyme_book": "《集韻》牛轄切，入鎋疑。",
                 "meanings": [
                     "器皿缺损"
@@ -1129,7 +1124,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁰𦉧yà",
+                "pinyin": "yà",
                 "rhyme_book": "《玉篇》五鎋切。",
                 "meanings": [
                     "缺",
@@ -1146,7 +1141,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "鑞g",
+                "pinyin": "g",
                 "rhyme_book": null,
                 "meanings": [
                     "瓶"

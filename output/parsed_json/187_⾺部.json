@@ -33,7 +33,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭷máo",
+                "pinyin": "máo",
                 "rhyme_book": "《集韻》謨袍切，平𩫕明。",
                 "meanings": [
                     "马鬃毛长"
@@ -49,7 +49,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭸fù",
+                "pinyin": "fù",
                 "rhyme_book": "《廣韻》扶雨切，上麌奉。",
                 "meanings": [
                     "牡马，公马"
@@ -100,7 +100,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭻fēn",
+                "pinyin": "fēn",
                 "rhyme_book": "《類篇》敷文切，平文敷。",
                 "meanings": [
                     "马行疾"
@@ -256,7 +256,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮊yí",
+                "pinyin": "yí",
                 "rhyme_book": "《集韻》延知切，平支以。",
                 "meanings": [
                     "马名"
@@ -299,7 +299,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮎xì",
+                "pinyin": "xì",
                 "rhyme_book": "《廣韻》許既切，去未曉。",
                 "meanings": [
                     "马跑貌"
@@ -364,7 +364,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮒pū",
+                "pinyin": "pū",
                 "rhyme_book": "《廣韻》普胡切，平模滂。",
                 "meanings": [
                     "马名"
@@ -413,7 +413,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "zuī",
                 "rhyme_book": "《集韻》遵綏切，平脂精。",
                 "meanings": [
@@ -439,7 +439,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮕zhuó",
+                "pinyin": "zhuó",
                 "rhyme_book": "《集韻》株劣切，入薛知。",
                 "meanings": [
                     "白额马"
@@ -455,7 +455,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮖chāng",
+                "pinyin": "chāng",
                 "rhyme_book": "《龍龕手鑑》音昌。",
                 "meanings": [
                     "马名"
@@ -472,9 +472,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "àn",
-                "rhyme_book": "《廣韻》五旰切，去翰疑。又",
+                "rhyme_book": "《廣韻》五旰切，去翰疑。又《改併四聲篇海》引《餘文》他旰切。元部。",
                 "meanings": [
-                    "《改併四聲篇海》引《餘文》他旰切",
                     "马额白至唇"
                 ]
             },
@@ -497,7 +496,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ér",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音兒。",
                 "meanings": [
                     "小马",
                     "公马"
@@ -513,7 +512,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮙yù",
+                "pinyin": "yù",
                 "rhyme_book": "《廣韻》雨逼切，入職云。",
                 "meanings": [
                     "马名"
@@ -582,7 +581,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮝hún",
+                "pinyin": "hún",
                 "rhyme_book": "《廣韻》户昆切，平魂匣。諄部。",
                 "meanings": [
                     "古代传说中的一种兽名"
@@ -638,7 +637,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮠bī",
+                "pinyin": "bī",
                 "rhyme_book": "《廣韻》彼側切，入職幫。",
                 "meanings": [
                     "〔駝䮠〕兽名"
@@ -676,7 +675,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮢zhá",
+                "pinyin": "zhá",
                 "rhyme_book": "《廣韻》士洽切，入洽崇。",
                 "meanings": [
                     "〔䮢䮢〕马行貌；马奔跑"
@@ -718,7 +717,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮥lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》郎擊切，入錫來。",
                 "meanings": [
                     "马色"
@@ -767,7 +766,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮨zǎi",
+                "pinyin": "zǎi",
                 "rhyme_book": "《集韻》子亥切，上海精。",
                 "meanings": [
                     "青白色的杂毛马"
@@ -783,7 +782,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮩gǔ",
+                "pinyin": "gǔ",
                 "rhyme_book": "《廣韻》古忽切，入没見。",
                 "meanings": [
                     "〔䮩𩢎〕兽名"
@@ -857,7 +856,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮮mài",
+                "pinyin": "mài",
                 "rhyme_book": "《集韻》莫獲切，入麥明。",
                 "meanings": [
                     "〔䮰䮮〕也作“馲𩢷”"
@@ -882,7 +881,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮰zhé",
+                "pinyin": "zhé",
                 "rhyme_book": "《集韻》陟革切，入麥知。",
                 "meanings": [
                     "兽名"
@@ -924,7 +923,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮳fán",
+                "pinyin": "fán",
                 "rhyme_book": "《廣韻》附袁切，平元奉。",
                 "meanings": [
                     "生养"
@@ -990,7 +989,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䮷dú",
+                "pinyin": "dú",
                 "rhyme_book": "《廣韻》徒谷切，入屋定。",
                 "meanings": [
                     "马行貌"
@@ -1448,7 +1447,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "馷pèi",
+                "pinyin": "pèi",
                 "rhyme_book": "《集韻》普蓋切，去夳滂。",
                 "meanings": [
                     "马壮貌"
@@ -1521,7 +1520,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "馻yǔn",
+                "pinyin": "yǔn",
                 "rhyme_book": "《廣韻》余準切，上準以。又以轉切。諄部。",
                 "meanings": [
                     "马逆毛"
@@ -1643,7 +1642,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駂bǎo",
+                "pinyin": "bǎo",
                 "rhyme_book": "《廣韻》博抱切，上晧幫。幽部。",
                 "meanings": [
                     "黑白杂毛的马"
@@ -1747,7 +1746,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駋zhāo",
+                "pinyin": "zhāo",
                 "rhyme_book": "《集韻》之遥切，平宵章。",
                 "meanings": [
                     "马名"
@@ -1763,7 +1762,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駌yuān",
+                "pinyin": "yuān",
                 "rhyme_book": "《龍龕手鑑》於元反。",
                 "meanings": [
                     "污面马"
@@ -1817,7 +1816,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駏jù",
+                "pinyin": "jù",
                 "rhyme_book": "《廣韻》其吕切，上語羣，魚部。",
                 "meanings": [
                     "〔駏驉〕也作“距虚”"
@@ -1985,16 +1984,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "駖líng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "líng",
                 "rhyme_book": "",
                 "meanings": [
                     "〔駖蓋〕车骑声"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "駖líng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》力耕切，平耕來。",
                 "meanings": [
                     "马众声"
@@ -2002,7 +2001,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駖líng",
+                "pinyin": "líng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔駖蓋〕车骑声",
@@ -2101,7 +2100,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駚yǎng",
+                "pinyin": "yǎng",
                 "rhyme_book": "《廣韻》於兩切，上養影。又烏朗切。",
                 "meanings": [
                     "〔駚𤘝〕兽跳跃自扑"
@@ -2258,7 +2257,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駣táo",
+                "pinyin": "táo",
                 "rhyme_book": "《廣韻》徒刀切，平豪定。又治小切，徒晧切。宵部。",
                 "meanings": [
                     "三四岁的马"
@@ -2355,7 +2354,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駩quān",
+                "pinyin": "quān",
                 "rhyme_book": "《廣韻》此緣切，平仙清。元部。",
                 "meanings": [
                     "白马黑唇"
@@ -2403,7 +2402,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駬ěr",
+                "pinyin": "ěr",
                 "rhyme_book": "《廣韻》而止切，上止日。之部。",
                 "meanings": [
                     "良马名"
@@ -2519,7 +2518,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駳dàn",
+                "pinyin": "dàn",
                 "rhyme_book": "《龍龕手鑑》音但。",
                 "meanings": [
                     "散马"
@@ -2553,7 +2552,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "駶jú",
+                "pinyin": "jú",
                 "rhyme_book": "《廣韻》渠玉切，入燭羣。",
                 "meanings": [
                     "马立不定"
@@ -2826,7 +2825,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騄lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》力玉切，入燭來。",
                 "meanings": [
                     "〔騄駬〕也作“騄耳”、“緑耳”"
@@ -2882,7 +2881,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騇shè",
+                "pinyin": "shè",
                 "rhyme_book": "《廣韻》始夜切，去禡書。又書冶切。魚部。",
                 "meanings": [
                     "母马"
@@ -2898,7 +2897,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騉kūn",
+                "pinyin": "kūn",
                 "rhyme_book": "《廣韻》古渾切，平魂見。諄部。",
                 "meanings": [
                     "〔騉蹄〕马名"
@@ -2956,9 +2955,9 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》苦過切。",
                 "meanings": [
-                    "《奚韻》苦過切",
+                    "kè　《改併四聲篇海》引《奚韻》苦過切",
                     "母马"
                 ]
             }
@@ -3076,7 +3075,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騕yǎo",
+                "pinyin": "yǎo",
                 "rhyme_book": "《廣韻》烏皎切，上篠影。",
                 "meanings": [
                     "〔騕褭〕也作“要褭”"
@@ -3150,7 +3149,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騚qián",
+                "pinyin": "qián",
                 "rhyme_book": "《廣韻》昨先切，平先從。元部。",
                 "meanings": [
                     "四蹄全白的马"
@@ -3208,7 +3207,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "騞huō",
+                "pinyin": "huō",
                 "rhyme_book": "《集韻》霍虢切，入陌曉。錫部。",
                 "meanings": [
                     "刀裂物声",
@@ -3325,7 +3324,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騥róu",
+                "pinyin": "róu",
                 "rhyme_book": "《廣韻》耳由切，平尤日。幽部。",
                 "meanings": [
                     "多鬃的青黑色马"
@@ -3374,7 +3373,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "guī",
                 "rhyme_book": "guī　㊀《廣韻》居追切，平脂見。又俱位切，微部。",
                 "meanings": [
@@ -3382,7 +3381,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "guī",
                 "rhyme_book": "《廣韻》舉韋切，平微見。微部。",
                 "meanings": [
@@ -3578,7 +3577,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騲cǎo",
+                "pinyin": "cǎo",
                 "rhyme_book": "《廣韻》采老切，上晧清。",
                 "meanings": [
                     "雌马"
@@ -3611,7 +3610,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騴yàn",
+                "pinyin": "yàn",
                 "rhyme_book": "《廣韻》烏澗切，去諫影。元部。",
                 "meanings": [
                     "尾根白色的马"
@@ -3627,7 +3626,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騵yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《廣韻》愚袁切，平元疑。元部。",
                 "meanings": [
                     "赤毛白腹的马"
@@ -3782,7 +3781,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騼lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》盧谷切，入屋來。",
                 "meanings": [
                     "〔騼䮷〕1.野马"
@@ -3831,7 +3830,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "騿zhāng",
+                "pinyin": "zhāng",
                 "rhyme_book": "《龍龕手鑑》音章。",
                 "meanings": [
                     "马名"
@@ -4012,7 +4011,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驉xū",
+                "pinyin": "xū",
                 "rhyme_book": "《廣韻》朽居切，平魚曉。",
                 "meanings": [
                     "〔駏驉〕见“駏”"
@@ -4062,7 +4061,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驌sù",
+                "pinyin": "sù",
                 "rhyme_book": "《廣韻》息逐切，入屋心。",
                 "meanings": [
                     "〔驌騻〕也作“驌驦”"
@@ -4114,7 +4113,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驏zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《字彙》鉏版切。",
                 "meanings": [
                     "马不加鞍辔而骑"
@@ -4130,7 +4129,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驐dūn",
+                "pinyin": "dūn",
                 "rhyme_book": "《集韻》都昆切，平魂端。",
                 "meanings": [
                     "割掉家畜、家禽的睾丸"
@@ -4187,7 +4186,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驓céng",
+                "pinyin": "céng",
                 "rhyme_book": "《廣韻》疾陵切，平蒸從。蒸部。",
                 "meanings": [
                     "膝下白色的马"
@@ -4237,7 +4236,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jiāo",
                 "rhyme_book": "《集韻》嬌廟切，去笑見。",
                 "meanings": [
@@ -4245,7 +4244,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jiāo",
                 "rhyme_book": "《集韻》舉夭切，上小見。宵部。",
                 "meanings": [
@@ -4398,7 +4397,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驜yè",
+                "pinyin": "yè",
                 "rhyme_book": "《廣韻》魚怯切，入業疑。",
                 "meanings": [
                     "马高大强壮的样子"
@@ -4423,7 +4422,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驞pīn",
+                "pinyin": "pīn",
                 "rhyme_book": "《集韻》紕民切，平真滂。",
                 "meanings": [
                     "〔驞駍〕声响众盛"
@@ -4565,7 +4564,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "驦shuāng",
+                "pinyin": "shuāng",
                 "rhyme_book": "《廣韻》色莊切，平陽生。",
                 "meanings": [
                     "〔驌驦〕也作“驌騻”"
@@ -5240,7 +5239,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩡫fàn",
+                "pinyin": "fàn",
                 "rhyme_book": "《字彙補·馬部》：“𩡫，奉暗切，音梵。”*明**楊慎*",
                 "meanings": [
                     "《丹鉛雜録·大𩡫》：“《内典》引《古讖記》：‘𩡫𩡫逆序，蒼蒼叔度"
@@ -5265,7 +5264,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩡯dīng",
+                "pinyin": "dīng",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《類篇》：“𩡯，音丁"
@@ -5411,7 +5410,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩡾suō",
+                "pinyin": "suō",
                 "rhyme_book": "《集韻》桑何切，平歌心。",
                 "meanings": [
                     "〔駞𩡾〕马行貌"
@@ -5445,7 +5444,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢄wàn",
+                "pinyin": "wàn",
                 "rhyme_book": "《龍龕手鑑·馬部》：“𩢄，俗。玉貫反。”",
                 "meanings": [
                     "《字彙補·馬部》：“𩢄，五貫切，音玩"
@@ -5461,7 +5460,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢅gē",
+                "pinyin": "gē",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《川篇》：“𩢅，音戈"
@@ -5538,7 +5537,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢎duō",
+                "pinyin": "duō",
                 "rhyme_book": "《廣韻》當没切，入没端。",
                 "meanings": [
                     "〔䮩𩢎〕见“䮩”"
@@ -5563,7 +5562,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢐zhé",
+                "pinyin": "zhé",
                 "rhyme_book": "《集韻》陟格切，入陌知。",
                 "meanings": [
                     "〔𩢐𩢷〕也作“馲𩢷”"
@@ -5595,7 +5594,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢒yǎo",
+                "pinyin": "yǎo",
                 "rhyme_book": "《龍龕手鑑》烏了反。",
                 "meanings": [
                     "驾在车两旁的马"
@@ -5620,7 +5619,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢔bàn",
+                "pinyin": "bàn",
                 "rhyme_book": "《廣韻》博慢切，去换幫。",
                 "meanings": [
                     "〔𩢔䮗〕1.马行"
@@ -5636,7 +5635,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢕bù",
+                "pinyin": "bù",
                 "rhyme_book": "《廣韻》薄故切，去暮並。",
                 "meanings": [
                     "马名"
@@ -5652,7 +5651,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𩢖mò",
+                "pinyin": "mò",
                 "rhyme_book": "《集韻》莫葛切，入末明。",
                 "meanings": [
                     "马走貌",
@@ -5678,7 +5677,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢘pǒ",
+                "pinyin": "pǒ",
                 "rhyme_book": "《集韻》普火切，上果滂。",
                 "meanings": [
                     "〔𩢘騀〕也作“駊騀”"
@@ -5783,7 +5782,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢨hān",
+                "pinyin": "hān",
                 "rhyme_book": "《可洪音義》呼甘反。",
                 "meanings": [
                     "佛经译音用字，无实义"
@@ -5808,7 +5807,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢪hú",
+                "pinyin": "hú",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《類篇》：“𩢪，音胡"
@@ -5824,7 +5823,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢫móu",
+                "pinyin": "móu",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《類篇》：“𩢫，莫侯切"
@@ -5881,7 +5880,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢰fú",
+                "pinyin": "fú",
                 "rhyme_book": "《廣韻》房六切，入屋奉。",
                 "meanings": [
                     "马名"
@@ -5897,7 +5896,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢱huí",
+                "pinyin": "huí",
                 "rhyme_book": "《廣韻》户恢切，平灰匣。",
                 "meanings": [
                     "马名"
@@ -5922,7 +5921,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢳qú",
+                "pinyin": "qú",
                 "rhyme_book": "《廣韻》其俱切，平虞羣。",
                 "meanings": [
                     "马后足皆白"
@@ -5976,7 +5975,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢶yú",
+                "pinyin": "yú",
                 "rhyme_book": "《集韻》容朱切，平虞以。",
                 "meanings": [
                     "迅速"
@@ -5992,7 +5991,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢷mò",
+                "pinyin": "mò",
                 "rhyme_book": "《廣韻》莫白切，入陌明。",
                 "meanings": [
                     "〔馲𩢷〕见“馲”",
@@ -6009,7 +6008,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢸zhōu",
+                "pinyin": "zhōu",
                 "rhyme_book": "《廣韻》張流切，平尤知。",
                 "meanings": [
                     "〔𩢸䮟〕也作“𩢸騪”"
@@ -6025,7 +6024,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢹jiù",
+                "pinyin": "jiù",
                 "rhyme_book": "《集韻》巨九切，上有羣。",
                 "meanings": [
                     "八岁的马"
@@ -6050,7 +6049,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩢻shú",
+                "pinyin": "shú",
                 "rhyme_book": "《玉篇》時俱切。",
                 "meanings": [
                     "朱色"
@@ -6066,7 +6065,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𩢼kuāng",
+                "pinyin": "kuāng",
                 "rhyme_book": "《廣韻》去王切，平陽溪。",
                 "meanings": [
                     "马耳曲"
@@ -6207,7 +6206,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣏jié",
+                "pinyin": "jié",
                 "rhyme_book": null,
                 "meanings": [
                     "凶暴"
@@ -6268,7 +6267,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣖lìn",
+                "pinyin": "lìn",
                 "rhyme_book": "《集韻》良刃切，去稕來。",
                 "meanings": [
                     "牡马"
@@ -6360,7 +6359,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣝bù",
+                "pinyin": "bù",
                 "rhyme_book": "《廣韻》薄故切，去暮並。",
                 "meanings": [
                     "遛马"
@@ -6417,7 +6416,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣡bó",
+                "pinyin": "bó",
                 "rhyme_book": "《廣韻》蒲没切，入没並。又蒲角切。",
                 "meanings": [
                     "〔𩣡馬〕兽名"
@@ -6443,9 +6442,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "é",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音俄。",
                 "meanings": [
-                    "《川篇》音俄",
                     "马行"
                 ]
             },
@@ -6483,7 +6481,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣫lì",
+                "pinyin": "lì",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩣫，音利"
@@ -6517,10 +6515,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣮tù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tù",
+                "rhyme_book": "《改併四聲篇海》引《餘文》音兔。",
                 "meanings": [
-                    "《餘文》音兔",
                     "〔騛𩣮〕见“騛”"
                 ]
             }
@@ -6534,7 +6531,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣯dá",
+                "pinyin": "dá",
                 "rhyme_book": "《廣韻》徒合切，入合定。",
                 "meanings": [
                     "〔馺𩣯〕马行；马行貌"
@@ -6559,7 +6556,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣱lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》力竹切，入屋來。",
                 "meanings": [
                     "健马"
@@ -6575,7 +6572,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣲yān",
+                "pinyin": "yān",
                 "rhyme_book": "《玉篇》音燕。",
                 "meanings": [
                     "马行貌"
@@ -6591,7 +6588,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣳dōng",
+                "pinyin": "dōng",
                 "rhyme_book": "《集韻》都籠切，平東端。",
                 "meanings": [
                     "马名"
@@ -6638,7 +6635,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣶mǐng",
+                "pinyin": "mǐng",
                 "rhyme_book": "《集韻》眉永切，上梗明。",
                 "meanings": [
                     "汗马"
@@ -6691,7 +6688,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣹qū",
+                "pinyin": "qū",
                 "rhyme_book": "《玉篇》區勿切。",
                 "meanings": [
                     "〔𩣹産〕也作“屈産”"
@@ -6707,7 +6704,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣺bēn",
+                "pinyin": "bēn",
                 "rhyme_book": "《玉篇》百昆切。",
                 "meanings": [
                     "马跑貌"
@@ -6723,7 +6720,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣻ǎo",
+                "pinyin": "ǎo",
                 "rhyme_book": "《集韻》烏浩切，上晧影。",
                 "meanings": [
                     "马名"
@@ -6739,7 +6736,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩣼qiāng",
+                "pinyin": "qiāng",
                 "rhyme_book": "《集韻》枯江切，平江溪。",
                 "meanings": [
                     "马行貌"
@@ -6791,10 +6788,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤁qūn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qūn",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音囷。",
                 "meanings": [
-                    "《搜真玉鏡》音囷",
                     "马"
                 ]
             }
@@ -6817,7 +6813,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤈què",
+                "pinyin": "què",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩤈，音鵲"
@@ -6834,18 +6830,14 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "huá",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《搜真玉鏡》音驊"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音驊。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "táo",
-                "rhyme_book": "《改併四聲篇海·馬部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩤉，音桃"
-                ]
+                "rhyme_book": "《改併四聲篇海·馬部》引《搜真玉鏡》：“𩤉，音桃。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -6881,7 +6873,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤋kùn",
+                "pinyin": "kùn",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《類篇》：“𩤋，音困"
@@ -6915,7 +6907,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤏cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《集韻》七醉切，去至清。",
                 "meanings": [
                     "马卒"
@@ -6949,7 +6941,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤒yí",
+                "pinyin": "yí",
                 "rhyme_book": "《集韻》魚羈切，平支疑。",
                 "meanings": [
                     "马名"
@@ -6975,9 +6967,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "chī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》丑飢切。",
                 "meanings": [
-                    "《奚韻》丑飢切",
                     "大貌"
                 ]
             },
@@ -6997,7 +6988,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤘nǎo",
+                "pinyin": "nǎo",
                 "rhyme_book": "《集韻》乃老切，上晧泥。",
                 "meanings": [
                     "〔褭𩤘〕马名"
@@ -7013,7 +7004,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤙chéng",
+                "pinyin": "chéng",
                 "rhyme_book": "《集韻》除庚切，平庚澄。",
                 "meanings": [
                     "马停步"
@@ -7029,7 +7020,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤚duān",
+                "pinyin": "duān",
                 "rhyme_book": "《集韻》多官切，平桓端。",
                 "meanings": [
                     "马名"
@@ -7061,7 +7052,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸𩤜zhě",
+                "pinyin": "zhě",
                 "rhyme_book": "《集韻》止野切，上馬章。",
                 "meanings": [
                     "马名"
@@ -7086,10 +7077,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤞tàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tàn",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音探。",
                 "meanings": [
-                    "《類篇》音探",
                     "马行步向前"
                 ]
             }
@@ -7103,7 +7093,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤟yáng",
+                "pinyin": "yáng",
                 "rhyme_book": "《集韻》余章切，平陽以。",
                 "meanings": [
                     "马名"
@@ -7135,7 +7125,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤡xuān",
+                "pinyin": "xuān",
                 "rhyme_book": "《廣韻》須緣切，平仙心。",
                 "meanings": [
                     "〔𩤡𩤩〕也作“𩤡額”"
@@ -7160,7 +7150,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤣duàn",
+                "pinyin": "duàn",
                 "rhyme_book": "《集韻》徒玩切，去换定。",
                 "meanings": [
                     "〔款𩤣〕也作“款段”"
@@ -7176,7 +7166,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤤shuǎ",
+                "pinyin": "shuǎ",
                 "rhyme_book": "《龍龕手鑑》所瓦反。",
                 "meanings": [
                     "所言不当"
@@ -7243,7 +7233,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤩é",
+                "pinyin": "é",
                 "rhyme_book": "《字彙補》鄂格切。",
                 "meanings": [
                     "〔𩤡𩤩〕见“𩤡”"
@@ -7295,7 +7285,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤲lā",
+                "pinyin": "lā",
                 "rhyme_book": null,
                 "meanings": [
                     "〔虎𩤲〕马名"
@@ -7338,10 +7328,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤹yōu",
-                "rhyme_book": "《改併四聲篇海·馬部》引",
+                "pinyin": "yōu",
+                "rhyme_book": "《改併四聲篇海·馬部》引《餘文》音幽。",
                 "meanings": [
-                    "《餘文》音幽",
                     "马行"
                 ]
             }
@@ -7355,7 +7344,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩤺yú",
+                "pinyin": "yú",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩤺，音余"
@@ -7440,7 +7429,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥁táng",
+                "pinyin": "táng",
                 "rhyme_book": "《集韻》徒郎切，平唐定。",
                 "meanings": [
                     "马的毛色"
@@ -7456,7 +7445,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥂qí",
+                "pinyin": "qí",
                 "rhyme_book": "《龍龕手鑑》渠脂反。",
                 "meanings": [
                     "马鬣"
@@ -7481,7 +7470,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥄diān",
+                "pinyin": "diān",
                 "rhyme_book": "《廣韻》都年切，平先端。",
                 "meanings": [
                     "额上带白星的马"
@@ -7513,7 +7502,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥆lǜ",
+                "pinyin": "lǜ",
                 "rhyme_book": "《廣韻》良倨切，去御來。",
                 "meanings": [
                     "驿传所用的马"
@@ -7529,7 +7518,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥇zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《廣韻》陟扇切，去線知。",
                 "meanings": [
                     "马卧地上打滚"
@@ -7545,7 +7534,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥈wēn",
+                "pinyin": "wēn",
                 "rhyme_book": "《廣韻》烏渾切，平魂影。",
                 "meanings": [
                     "〔𩥈驪〕骏马",
@@ -7609,7 +7598,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥌qià",
+                "pinyin": "qià",
                 "rhyme_book": "《類篇》丘瞎切，入鎋溪。",
                 "meanings": [
                     "马色驳杂"
@@ -7652,7 +7641,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥐shī",
+                "pinyin": "shī",
                 "rhyme_book": "《集韻》霜夷切，平脂生。",
                 "meanings": [
                     "野马"
@@ -7668,7 +7657,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥑tǎ",
+                "pinyin": "tǎ",
                 "rhyme_book": "《廣韻》吐盍切，入盍透。",
                 "meanings": [
                     "〔𩧆𩥑〕见“𩧆”"
@@ -7702,7 +7691,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥔mò",
+                "pinyin": "mò",
                 "rhyme_book": "《駢雅訓纂》音陌。",
                 "meanings": [
                     "〔騰𩥔〕马父驴母所生"
@@ -7745,7 +7734,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥘yóu",
+                "pinyin": "yóu",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩥘𩥘〕也作“峳峳”"
@@ -7788,7 +7777,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥠zhá",
+                "pinyin": "zhá",
                 "rhyme_book": "《集韻》竹洽切，入洽知。",
                 "meanings": [
                     "马行貌"
@@ -7822,7 +7811,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥣yáo",
+                "pinyin": "yáo",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩧓𩥣〕马名"
@@ -7874,7 +7863,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𩥫chōng",
+                "pinyin": "chōng",
                 "rhyme_book": "《集韻》書容切，平鍾書。",
                 "meanings": [
                     "〔𩥫𩤛〕驽马"
@@ -7890,7 +7879,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥬lí",
+                "pinyin": "lí",
                 "rhyme_book": "《集韻》鄰知切，平支來。",
                 "meanings": [
                     "驴子"
@@ -7906,7 +7895,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥭yú",
+                "pinyin": "yú",
                 "rhyme_book": "《集韻》牛居切，平魚疑。",
                 "meanings": [
                     "环眼马"
@@ -7938,7 +7927,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥯yī",
+                "pinyin": "yī",
                 "rhyme_book": "《集韻》煙奚切，平齊影。",
                 "meanings": [
                     "黑色马",
@@ -7973,7 +7962,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥲chì",
+                "pinyin": "chì",
                 "rhyme_book": "《字彙》音遫。",
                 "meanings": [
                     "〔𩥲𩥲〕马快跑"
@@ -7998,7 +7987,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥴lí",
+                "pinyin": "lí",
                 "rhyme_book": "《集韻》憐題切，平齊來。",
                 "meanings": [
                     "〔駣𩥴〕也作“駣𩧋”"
@@ -8032,7 +8021,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥽tú",
+                "pinyin": "tú",
                 "rhyme_book": "《龍龕手鑑·馬部》：“𩥽，音徒。”",
                 "meanings": [
                     "《字彙補·馬部》：“𩥽，同盧切，音徒"
@@ -8057,7 +8046,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩥿zú",
+                "pinyin": "zú",
                 "rhyme_book": "《篇海類編·鳥獸類·馬部》：“𩥿，子六切，音足。”",
                 "meanings": []
             }
@@ -8141,7 +8130,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦇xì",
+                "pinyin": "xì",
                 "rhyme_book": "《集韻》迄力切，入職曉。",
                 "meanings": [
                     "马奔跑"
@@ -8166,7 +8155,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦉bié",
+                "pinyin": "bié",
                 "rhyme_book": "《篇海類編》并結切。",
                 "meanings": [
                     "马名"
@@ -8205,7 +8194,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦋qí",
+                "pinyin": "qí",
                 "rhyme_book": "《玉篇》巨希切。",
                 "meanings": [
                     "马"
@@ -8368,7 +8357,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦠bàng",
+                "pinyin": "bàng",
                 "rhyme_book": "《廣韻》毗養切，上養並。",
                 "meanings": [
                     "姓"
@@ -8384,7 +8373,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦡yú",
+                "pinyin": "yú",
                 "rhyme_book": "《廣韻》以諸切，平魚以。又羊洳切。",
                 "meanings": [
                     "〔𩦡𩦡〕马行貌"
@@ -8400,7 +8389,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦢yú",
+                "pinyin": "yú",
                 "rhyme_book": "《廣韻》遇俱切，平虞疑。",
                 "meanings": [
                     "〔騶𩦢〕也作“騶虞”"
@@ -8425,7 +8414,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦤jí",
+                "pinyin": "jí",
                 "rhyme_book": "《集韻》仕戢切，入緝崇。",
                 "meanings": [
                     "〔𩦤𩦤〕马行貌"
@@ -8583,7 +8572,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦹xiàn",
+                "pinyin": "xiàn",
                 "rhyme_book": "《集韻》户黤切，上檻匣。",
                 "meanings": [
                     "马走；马走貌"
@@ -8599,7 +8588,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩦺méng",
+                "pinyin": "méng",
                 "rhyme_book": "《廣韻》莫紅切，平東明。",
                 "meanings": [
                     "小驴子"
@@ -8696,7 +8685,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧄zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《集韻》職日切，入質章。",
                 "meanings": [
                     "马名"
@@ -8712,7 +8701,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧅fán",
+                "pinyin": "fán",
                 "rhyme_book": "《集韻》符袁切，平元奉。",
                 "meanings": [
                     "〔𩧅駤〕止；马踌躇不行貌"
@@ -8754,7 +8743,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧇cài",
+                "pinyin": "cài",
                 "rhyme_book": "《玉篇》音蔡。",
                 "meanings": [
                     "马名"
@@ -8770,7 +8759,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧈dú",
+                "pinyin": "dú",
                 "rhyme_book": "《集韻》徒谷切，入屋定。",
                 "meanings": [
                     "马行走貌"
@@ -8786,7 +8775,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧉guāng",
+                "pinyin": "guāng",
                 "rhyme_book": "《廣韻》古黄切，平唐見。",
                 "meanings": [
                     "〔闋𩧉〕也作“決𩧉”"
@@ -8802,10 +8791,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧊xiòng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xiòng",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》休正切。",
                 "meanings": [
-                    "《搜真玉鏡》休正切",
                     "马怒"
                 ]
             }
@@ -8836,7 +8824,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𩧌qì",
+                "pinyin": "qì",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩧌，音訖"
@@ -8870,7 +8858,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧐tuō",
+                "pinyin": "tuō",
                 "rhyme_book": "《廣韻》他各切，入鐸透。又盧各切。",
                 "meanings": [
                     "〔𩧐駝〕即“駱駝”"
@@ -8895,7 +8883,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧒jù",
+                "pinyin": "jù",
                 "rhyme_book": "《改併四聲篇海·馬部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩧒，音聚"
@@ -8911,7 +8899,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧓xiāo",
+                "pinyin": "xiāo",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩧓𩥣〕马名"
@@ -8963,7 +8951,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧘qú",
+                "pinyin": "qú",
                 "rhyme_book": "《集韻》權俱切，平虞羣。",
                 "meanings": [
                     "马行；马行貌"
@@ -9006,11 +8994,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧜zhuǎn",
-                "rhyme_book": "《改併四聲篇海·馬部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩧜，知卷切"
-                ]
+                "pinyin": "zhuǎn",
+                "rhyme_book": "《改併四聲篇海·馬部》引《搜真玉鏡》：“𩧜，知卷切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -9049,7 +9035,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩧡jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》厥縛切，入藥見。",
                 "meanings": [
                     "古代神话传说中的兽名"

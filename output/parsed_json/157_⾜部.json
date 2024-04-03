@@ -5,7 +5,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chēng",
                 "rhyme_book": "chēng　㊀《廣韻》丑庚切，平庚徹。",
                 "meanings": [
@@ -13,7 +13,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chēng",
                 "rhyme_book": "《廣韻》丑貞切，平清徹。",
                 "meanings": [
@@ -126,7 +126,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟙qiè",
+                "pinyin": "qiè",
                 "rhyme_book": "《廣韻》千結切，入屑清。",
                 "meanings": [
                     "跌"
@@ -183,16 +183,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䟜nà",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "nà",
                 "rhyme_book": "",
                 "meanings": [
                     "足伤"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䟜nà",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "nà",
                 "rhyme_book": "《集韻》諾盍切，入盍泥。",
                 "meanings": [
                     "行貌"
@@ -200,7 +200,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟜nà",
+                "pinyin": "nà",
                 "rhyme_book": null,
                 "meanings": [
                     "足伤",
@@ -243,7 +243,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟟cù",
+                "pinyin": "cù",
                 "rhyme_book": "《玉篇》且欲切。",
                 "meanings": [
                     "迫，速"
@@ -359,7 +359,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟧tián",
+                "pinyin": "tián",
                 "rhyme_book": "《廣韻》徒年切，平先定。",
                 "meanings": [
                     "踏地声"
@@ -540,7 +540,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟯kuò",
+                "pinyin": "kuò",
                 "rhyme_book": "《廣韻》苦括切，入末溪。",
                 "meanings": [
                     "蹵"
@@ -556,10 +556,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟰jiǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiǎn",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》古典切。",
                 "meanings": [
-                    "《奚韻》古典切",
                     "行貌"
                 ]
             }
@@ -598,7 +597,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟵qiú",
+                "pinyin": "qiú",
                 "rhyme_book": "《廣韻》巨鳩切，平尤羣。",
                 "meanings": [
                     "䟵踏"
@@ -682,7 +681,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䟹liè",
+                "pinyin": "liè",
                 "rhyme_book": "《廣韻》力輟切，入薛來。",
                 "meanings": [
                     "〔䟹蹶〕也作“蹶䟹”"
@@ -705,7 +704,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pèi",
                 "rhyme_book": "pèi　㊀《廣韻》蒲蓋切，去泰並。",
                 "meanings": [
@@ -713,7 +712,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "pèi",
                 "rhyme_book": "《集韻》普蓋切，去泰滂。",
                 "meanings": [
@@ -755,7 +754,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "䟼wǔ",
+                "pinyin": "wǔ",
                 "rhyme_book": "《集韻》罔甫切，上麌微。",
                 "meanings": [
                     "足迹",
@@ -865,7 +864,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠃liǎng",
+                "pinyin": "liǎng",
                 "rhyme_book": "《篇海類編》良蔣切。",
                 "meanings": [
                     "足踞"
@@ -915,7 +914,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠆cháng",
+                "pinyin": "cháng",
                 "rhyme_book": "《廣韻》直良切，平陽澄。",
                 "meanings": [
                     "〔䠆𨂣〕跪拜"
@@ -1042,7 +1041,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠎wò",
+                "pinyin": "wò",
                 "rhyme_book": "《集韻》乙角切，入覺影。",
                 "meanings": [
                     "〔䠎𪘏〕也作“齷𪘏”、“齷齪”"
@@ -1079,16 +1078,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䠐qù",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "qù",
                 "rhyme_book": "",
                 "meanings": [
                     "踞貌"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "䠐qù",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "qù",
                 "rhyme_book": "《集韻》弃役切，入昔溪。",
                 "meanings": [
                     "〔踧䠐〕屈伸貌"
@@ -1096,7 +1095,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠐qù",
+                "pinyin": "qù",
                 "rhyme_book": null,
                 "meanings": [
                     "踞貌",
@@ -1146,7 +1145,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠒hú",
+                "pinyin": "hú",
                 "rhyme_book": "《集韻》洪孤切，平模匣。",
                 "meanings": [
                     "〔䠒跪〕1.古代少数民族一种屈膝的礼节"
@@ -1187,7 +1186,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠔suì",
+                "pinyin": "suì",
                 "rhyme_book": "《龍龕手鑑》音遂。",
                 "meanings": [
                     "深"
@@ -1263,7 +1262,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠙páng",
+                "pinyin": "páng",
                 "rhyme_book": "《廣韻》步光切，平唐並。",
                 "meanings": [
                     "〔踉䠙〕见“踉”"
@@ -1342,10 +1341,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠝xūn",
-                "rhyme_book": "《康熙字典》引",
+                "pinyin": "xūn",
+                "rhyme_book": "《康熙字典》引《篇韻》音塤。又《字彙補》居履切。",
                 "meanings": [
-                    "《篇韻》音塤",
                     "立"
                 ]
             }
@@ -1519,7 +1517,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠨chàn",
+                "pinyin": "chàn",
                 "rhyme_book": "《廣韻》昌豔切，去豔昌。",
                 "meanings": [
                     "马急行"
@@ -1587,7 +1585,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䠬téng",
+                "pinyin": "téng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𧄼瞢〕也作“䠬瞢”"
@@ -1774,7 +1772,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "kù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》口故切。",
                 "meanings": [
                     "踏"
                 ]
@@ -1795,7 +1793,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "趷kē",
+                "pinyin": "kē",
                 "rhyme_book": null,
                 "meanings": [
                     "〔趷蹬蹬〕象声词"
@@ -1865,7 +1863,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "趻chěn",
+                "pinyin": "chěn",
                 "rhyme_book": "《集韻》丑甚切，上寑徹。侵部。",
                 "meanings": [
                     "〔趻踔〕也作“踸踔”"
@@ -2018,7 +2016,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "bà",
                 "rhyme_book": "bà　㊀《廣韻》傍下切，上馬並。",
                 "meanings": [
@@ -2214,16 +2212,16 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "跉líng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "líng",
                 "rhyme_book": "",
                 "meanings": [
                     "〔跉䟓〕见“䟓”"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "跉líng",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "líng",
                 "rhyme_book": "《廣韻》郎丁切，平青來。",
                 "meanings": [
                     "徐行不正貌"
@@ -2231,7 +2229,7 @@
             },
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跉líng",
+                "pinyin": "líng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔跉䟓〕见“䟓”",
@@ -2249,7 +2247,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跊mèi",
+                "pinyin": "mèi",
                 "rhyme_book": "《集韻》莫佩切，去隊明。",
                 "meanings": [
                     "践"
@@ -2330,7 +2328,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跍kū",
+                "pinyin": "kū",
                 "rhyme_book": "《廣韻》苦胡切，平模溪。",
                 "meanings": [
                     "蹲"
@@ -2452,7 +2450,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跒qiǎ",
+                "pinyin": "qiǎ",
                 "rhyme_book": "《廣韻》苦下切，上馬溪。",
                 "meanings": [
                     "〔跁跒〕见“跁”"
@@ -2714,7 +2712,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跜ní",
+                "pinyin": "ní",
                 "rhyme_book": "《廣韻》女夷切，平脂娘。",
                 "meanings": [
                     "〔躨跜〕见“躨”"
@@ -2778,7 +2776,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跠yí",
+                "pinyin": "yí",
                 "rhyme_book": "《廣韻》以脂切，平脂以。",
                 "meanings": [
                     "踞，蹲踞"
@@ -3008,7 +3006,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "kuǎ",
                 "rhyme_book": "kuǎ　㊀《廣韻》苦瓦切，上馬溪。",
                 "meanings": [
@@ -3016,7 +3014,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "kuǎ",
                 "rhyme_book": "《集韻》苦買切，上蟹溪。",
                 "meanings": [
@@ -3118,7 +3116,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "跭xiáng",
+                "pinyin": "xiáng",
                 "rhyme_book": "《廣韻》下江切，平江匣。",
                 "meanings": [
                     "〔跭𨇯〕1.竖立"
@@ -3142,7 +3140,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chì",
                 "rhyme_book": "《廣韻》丑栗切，入質徹。",
                 "meanings": [
@@ -3467,9 +3465,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "chuò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》丑略切。",
                 "meanings": [
-                    "《龍龕手鑑》丑略切",
                     "乍前乍后"
                 ]
             }
@@ -3928,7 +3925,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chuō",
                 "rhyme_book": "《廣韻》敕角切，入覺徹。",
                 "meanings": [
@@ -3973,7 +3970,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_rhyme_multi_meaning",
-                "pinyin": "踕jié",
+                "pinyin": "jié",
                 "rhyme_book": "jié　㊀《廣韻》疾葉切，入葉從。",
                 "meanings": [
                     "古代人名用字",
@@ -3981,8 +3978,8 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "踕jié",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "jié",
                 "rhyme_book": "《集韻》疾協切，入帖從。",
                 "meanings": [
                     "行貌"
@@ -4006,7 +4003,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jí",
                 "rhyme_book": "jí　㊀《廣韻》資昔切，入昔精。鐸部。",
                 "meanings": [
@@ -4051,7 +4048,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "踗niè",
+                "pinyin": "niè",
                 "rhyme_book": "《集韻》諾叶切，入帖泥。",
                 "meanings": [
                     "行轻"
@@ -4093,7 +4090,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "踚lún",
+                "pinyin": "lún",
                 "rhyme_book": "《廣韻》力迍切，平諄來。又",
                 "meanings": [
                     "《集韻》盧昆切",
@@ -4194,7 +4191,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "踟chí",
+                "pinyin": "chí",
                 "rhyme_book": "《廣韻》直離切，平支澄。支部。",
                 "meanings": [
                     "〔踟蹰〕也作“歭䠧”、“踟躇”"
@@ -4450,9 +4447,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "kuí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音葵。",
                 "meanings": [
-                    "《搜真玉鏡》音葵",
                     "跳"
                 ]
             },
@@ -5412,7 +5408,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹蹖chōng",
+                "pinyin": "chōng",
                 "rhyme_book": "《廣韻》書容切，平鍾書。",
                 "meanings": [
                     "踏"
@@ -5725,7 +5721,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "蹥lián",
+                "pinyin": "lián",
                 "rhyme_book": "《龍龕手鑑》音連。",
                 "meanings": [
                     "〔蹥蹇〕也作“連蹇”"
@@ -5821,7 +5817,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "蹪tuí",
+                "pinyin": "tuí",
                 "rhyme_book": "《廣韻》杜回切，平灰定。",
                 "meanings": [
                     "颠仆，跌倒"
@@ -5937,7 +5933,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "蹰chú",
+                "pinyin": "chú",
                 "rhyme_book": "《篇海類編》音𢊍。",
                 "meanings": [
                     "〔踟蹰〕见“踟”"
@@ -6205,7 +6201,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "qiāo",
                 "rhyme_book": "《集韻》牽幺切，平蕭溪。",
                 "meanings": []
@@ -6277,7 +6273,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "蹼pǔ",
+                "pinyin": "pǔ",
                 "rhyme_book": "《廣韻》博木切，入屋幫。屋部。",
                 "meanings": [
                     "水鸟脚趾间相连的皮膜"
@@ -6398,7 +6394,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "躄bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》必益切，入昔幫。錫部。",
                 "meanings": [
                     "瘸腿；足不能行"
@@ -6482,7 +6478,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "躈qiào",
+                "pinyin": "qiào",
                 "rhyme_book": "《集韻》詰弔切，去嘯溪。",
                 "meanings": [
                     "脊骨的末端，肛门"
@@ -6821,7 +6817,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "躝lán",
+                "pinyin": "lán",
                 "rhyme_book": "《廣韻》落干切，平寒來。",
                 "meanings": [
                     "越过"
@@ -6854,7 +6850,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "躟rǎng",
+                "pinyin": "rǎng",
                 "rhyme_book": "《廣韻》如兩切，上養日。又汝陽切。",
                 "meanings": [
                     "疾行貌"
@@ -7013,7 +7009,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "躨kuí",
+                "pinyin": "kuí",
                 "rhyme_book": "《廣韻》渠追切，平脂羣。",
                 "meanings": [
                     "〔躨跜〕兽动貌"
@@ -7115,7 +7111,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𧾽jì",
+                "pinyin": "jì",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧾽，俗，音計。”",
                 "meanings": [
                     "《字彙補·足部》：“𧾽，姑器切，音計"
@@ -7131,7 +7127,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧾾jǐ",
+                "pinyin": "jǐ",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧾾，俗，音几。”",
                 "meanings": [
                     "《字彙補·足部》：“𧾾，公起切，音几"
@@ -7192,7 +7188,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿅xí",
+                "pinyin": "xí",
                 "rhyme_book": "《廣韻》先立切，入緝心。",
                 "meanings": [
                     "屈膝坐"
@@ -7257,7 +7253,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿌zhà",
+                "pinyin": "zhà",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧿌，音吒。”",
                 "meanings": [
                     "《字彙補·足部》：“𧿌，丑亞切，音吒"
@@ -7291,7 +7287,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿏bà",
+                "pinyin": "bà",
                 "rhyme_book": "《玉篇》蒲瓦切。",
                 "meanings": [
                     "〔𧿏跒〕不肯前"
@@ -7307,7 +7303,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿒chěn",
+                "pinyin": "chěn",
                 "rhyme_book": "《集韻》丑甚切，上寑徹。",
                 "meanings": [
                     "〔𧿒踔〕也作“踸踔”"
@@ -7323,7 +7319,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿓hù",
+                "pinyin": "hù",
                 "rhyme_book": "《龍龕手鑑》胡故反。",
                 "meanings": [
                     "〔𧿓跪〕双膝着地"
@@ -7339,7 +7335,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿔nǜ",
+                "pinyin": "nǜ",
                 "rhyme_book": "《集韻》女六切，入屋娘。",
                 "meanings": [
                     "行"
@@ -7355,7 +7351,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿕é",
+                "pinyin": "é",
                 "rhyme_book": "《龍龕手鑑》五禾反。",
                 "meanings": [
                     "大跛"
@@ -7380,7 +7376,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿗dǔn",
+                "pinyin": "dǔn",
                 "rhyme_book": "《篇海類編》丁本切。",
                 "meanings": [
                     "收钱完毕"
@@ -7405,7 +7401,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿙wán",
+                "pinyin": "wán",
                 "rhyme_book": "《集韻》吾官切，平桓疑。",
                 "meanings": [
                     "〔𨇃𧿙〕蹲"
@@ -7421,7 +7417,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿚fēn",
+                "pinyin": "fēn",
                 "rhyme_book": "《集韻》敷文切，平文敷。",
                 "meanings": []
             }
@@ -7464,10 +7460,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿝xī",
-                "rhyme_book": "《康熙字典》引",
+                "pinyin": "xī",
+                "rhyme_book": "《康熙字典》引《篇韻》音兮。",
                 "meanings": [
-                    "《篇韻》音兮",
                     "迹"
                 ]
             }
@@ -7539,7 +7534,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿥bié",
+                "pinyin": "bié",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧿥，俗。蒲結反。”",
                 "meanings": [
                     "《篇海類編·身體類·足部》：“𧿥，避列切，音别"
@@ -7573,7 +7568,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿨bǎn",
+                "pinyin": "bǎn",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -7589,7 +7584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿩gé",
+                "pinyin": "gé",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧿩，俗，古麦反。”",
                 "meanings": [
                     "《字彙補·足部》：“𧿩，古麥切，音格"
@@ -7614,7 +7609,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿫kē",
+                "pinyin": "kē",
                 "rhyme_book": "《龍龕手鑑·足部》：“𧿫，俗。音科。”",
                 "meanings": [
                     "《字彙補·足部》：“𧿫，口戈切，音科"
@@ -7701,7 +7696,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿴mò",
+                "pinyin": "mò",
                 "rhyme_book": "《集韻》莫葛切，入末明。",
                 "meanings": [
                     "行过"
@@ -7744,7 +7739,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𧿷yù",
+                "pinyin": "yù",
                 "rhyme_book": "《集韻》虞欲切，入燭疑。",
                 "meanings": [
                     "行不正"
@@ -7786,7 +7781,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿺jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》九勿切，入迄見。",
                 "meanings": [
                     "走貌"
@@ -7802,7 +7797,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿻jú",
+                "pinyin": "jú",
                 "rhyme_book": "《廣韻》居六切，入屋見。",
                 "meanings": [
                     "足"
@@ -7835,7 +7830,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧿽pǒ",
+                "pinyin": "pǒ",
                 "rhyme_book": "《龍龕手鑑》普火反。",
                 "meanings": [
                     "〔𧿽躃〕跛足"
@@ -7909,10 +7904,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀅yǎn",
-                "rhyme_book": "《中華大字典》引",
+                "pinyin": "yǎn",
+                "rhyme_book": "《中華大字典》引《龍龕手鑑》以冉反。",
                 "meanings": [
-                    "《龍龕手鑑》以冉反",
                     "疾行貌"
                 ]
             }
@@ -7953,10 +7947,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀔chǒu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chǒu",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音丑。",
                 "meanings": [
-                    "《川篇》音丑",
                     "脚指"
                 ]
             }
@@ -7970,7 +7963,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𨀕kuāng",
+                "pinyin": "kuāng",
                 "rhyme_book": "《集韻》曲王切，平陽溪。",
                 "meanings": [
                     "〔𨀕躟〕行遽貌",
@@ -8014,7 +8007,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀘xiáng",
+                "pinyin": "xiáng",
                 "rhyme_book": "《廣韻》似羊切，平陽邪。",
                 "meanings": [
                     "趋行"
@@ -8030,7 +8023,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀙xī",
+                "pinyin": "xī",
                 "rhyme_book": "《玉篇》許吉切。",
                 "meanings": [
                     "行"
@@ -8071,7 +8064,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀜tōng",
+                "pinyin": "tōng",
                 "rhyme_book": "《廣韻》他紅切，平東透。",
                 "meanings": [
                     "走貌"
@@ -8087,7 +8080,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀝ruò",
+                "pinyin": "ruò",
                 "rhyme_book": "《廣韻》而灼切，入藥日。",
                 "meanings": [
                     "足掌上的纹理"
@@ -8121,7 +8114,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀠chè",
+                "pinyin": "chè",
                 "rhyme_book": "《集韻》充夜切，去禡昌。",
                 "meanings": [
                     "歧道"
@@ -8199,10 +8192,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀧zhěng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhěng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音拯。",
                 "meanings": [
-                    "《川篇》音拯",
                     "足"
                 ]
             }
@@ -8216,7 +8208,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀨zuǒ",
+                "pinyin": "zuǒ",
                 "rhyme_book": "《集韻》子末切，入末精。",
                 "meanings": [
                     "〔蹙𨀨〕行貌"
@@ -8250,10 +8242,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀫kāng",
-                "rhyme_book": "《康熙字典》引",
+                "pinyin": "kāng",
+                "rhyme_book": "《康熙字典》引《篇韻》音康。",
                 "meanings": [
-                    "《篇韻》音康",
                     "〔𨀫跒〕蹀足"
                 ]
             }
@@ -8267,10 +8258,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀬zài",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zài",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音在。",
                 "meanings": [
-                    "《搜真玉鏡》音在",
                     "足"
                 ]
             }
@@ -8294,9 +8284,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yuān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》於玄切。",
                 "meanings": [
-                    "《龍龕手鑑》於玄切",
                     "绊倒"
                 ]
             },
@@ -8318,7 +8307,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀯qióng",
+                "pinyin": "qióng",
                 "rhyme_book": "《改併四聲篇海·足部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𨀯，渠弓切"
@@ -8352,7 +8341,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀴xún",
+                "pinyin": "xún",
                 "rhyme_book": "《龍龕手鑑·足部》：“跔，俗，音旬。”",
                 "meanings": [
                     "《字彙補·足部》：“𨀴，徐屯切，音旬"
@@ -8377,11 +8366,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀶jì",
-                "rhyme_book": "《改併四聲篇海·足部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𨀶，音旡"
-                ]
+                "pinyin": "jì",
+                "rhyme_book": "《改併四聲篇海·足部》引《搜真玉鏡》：“𨀶，音旡。”《字彙補·足部》：“𨀶，音旡。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -8402,7 +8389,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨀸chā",
+                "pinyin": "chā",
                 "rhyme_book": "《龍龕手鑑·足部》：“𨀸，俗，知革反。”",
                 "meanings": [
                     "《字彙補·足部》：“𨀸，丑加切，音叉"
@@ -8440,7 +8427,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁁xuàn",
+                "pinyin": "xuàn",
                 "rhyme_book": "《集韻》隨戀切，去線邪。",
                 "meanings": [
                     "慢走"
@@ -8456,7 +8443,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁂xié",
+                "pinyin": "xié",
                 "rhyme_book": "《集韻》奚結切，入屑匣。",
                 "meanings": [
                     "〔𨁂跌〕复姓"
@@ -8472,7 +8459,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁃tī",
+                "pinyin": "tī",
                 "rhyme_book": "《廣韻》土雞切，平齊透。",
                 "meanings": [
                     "践踏"
@@ -8488,7 +8475,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁄hàn",
+                "pinyin": "hàn",
                 "rhyme_book": "《集韻》下罕切，上旱匣。",
                 "meanings": [
                     "偏立"
@@ -8504,10 +8491,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁅xiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xiān",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音先。",
                 "meanings": [
-                    "《奚韻》音先",
                     "行"
                 ]
             }
@@ -8521,7 +8507,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁆shān",
+                "pinyin": "shān",
                 "rhyme_book": "《集韻》尸連切，平仙書。",
                 "meanings": [
                     "行"
@@ -8537,7 +8523,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁇tùn",
+                "pinyin": "tùn",
                 "rhyme_book": "《集韻》佗恨切，去恨透。",
                 "meanings": [
                     "踏"
@@ -8598,7 +8584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁋dōu",
+                "pinyin": "dōu",
                 "rhyme_book": "《集韻》當侯切，平侯端。",
                 "meanings": [
                     "跌，跌𨁋"
@@ -8631,7 +8617,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁍yàn",
+                "pinyin": "yàn",
                 "rhyme_book": "《廣韻》吾甸切，去霰疑。",
                 "meanings": [
                     "行不正"
@@ -8716,10 +8702,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁒fū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fū",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音趺。",
                 "meanings": [
-                    "《川篇》音趺",
                     "脚"
                 ]
             }
@@ -8760,7 +8745,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁗tǐng",
+                "pinyin": "tǐng",
                 "rhyme_book": "《〈南齊書〉注》音挺。",
                 "meanings": [
                     "震动"
@@ -8785,7 +8770,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁝bó",
+                "pinyin": "bó",
                 "rhyme_book": null,
                 "meanings": [
                     "蹦"
@@ -8828,7 +8813,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁡tuǒ",
+                "pinyin": "tuǒ",
                 "rhyme_book": "《龍龕手鑑·足部》：“𨁡，俗，他果反。”",
                 "meanings": [
                     "《字彙補·足部》：“𨁡，他果切，音妥"
@@ -8922,7 +8907,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁷zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《集韻》直吏切，去志澄。",
                 "meanings": [
                     "立"
@@ -8962,7 +8947,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁹yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《廣韻》以冉切，上琰以。",
                 "meanings": [
                     "疾行，疾趋"
@@ -9005,7 +8990,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨁽dé",
+                "pinyin": "dé",
                 "rhyme_book": "《廣韻》多則切，入德端。",
                 "meanings": [
                     "行貌"
@@ -9054,7 +9039,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂀zǔ",
+                "pinyin": "zǔ",
                 "rhyme_book": "《集韻》壯所切，上語莊。",
                 "meanings": [
                     "马伤足病"
@@ -9109,7 +9094,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂃péng",
+                "pinyin": "péng",
                 "rhyme_book": "《集韻》蒲登切，平登並。",
                 "meanings": [
                     "走"
@@ -9134,7 +9119,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂅biē",
+                "pinyin": "biē",
                 "rhyme_book": "《集韻》必結切，入屑幫。",
                 "meanings": [
                     "跳"
@@ -9159,10 +9144,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂇dǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "dǐ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音底。",
                 "meanings": [
-                    "《川篇》音底",
                     "行走"
                 ]
             }
@@ -9185,7 +9169,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂊zhōu",
+                "pinyin": "zhōu",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -9210,7 +9194,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂐lái",
+                "pinyin": "lái",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -9235,7 +9219,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂒yè",
+                "pinyin": "yè",
                 "rhyme_book": "《改併四聲篇海·足部》引",
                 "meanings": [
                     "《川篇》：“𨂒，音夜"
@@ -9295,7 +9279,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂞tàn",
+                "pinyin": "tàn",
                 "rhyme_book": "《篇海類編》音炭。",
                 "meanings": [
                     "〔𨂝𨂞〕不能行"
@@ -9311,10 +9295,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂟kāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "kāng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》口郎切。",
                 "meanings": [
-                    "《川篇》口郎切",
                     "𨁐，顿足"
                 ]
             }
@@ -9367,7 +9350,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂢jí",
+                "pinyin": "jí",
                 "rhyme_book": "《廣韻》子力切，入職精。",
                 "meanings": [
                     "〔𨂢蹙〕也作“蹙𨂢”"
@@ -9383,7 +9366,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂣wù",
+                "pinyin": "wù",
                 "rhyme_book": "《廣韻》亡遇切，去遇微。又",
                 "meanings": [
                     "《集韻》莫候切",
@@ -9418,7 +9401,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂦chuàn",
+                "pinyin": "chuàn",
                 "rhyme_book": "《集韻》寵戀切，去線徹。",
                 "meanings": [
                     "行"
@@ -9469,7 +9452,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂪yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《集韻》語限切，上産疑。",
                 "meanings": [
                     "迹"
@@ -9503,7 +9486,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂭dú",
+                "pinyin": "dú",
                 "rhyme_book": "《集韻》徒沃切，入沃定。",
                 "meanings": [
                     "行不正"
@@ -9528,7 +9511,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂯pián",
+                "pinyin": "pián",
                 "rhyme_book": "《集韻》毗連切，平仙並。",
                 "meanings": [
                     "行，行貌"
@@ -9544,7 +9527,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "𨂰chì",
+                "pinyin": "chì",
                 "rhyme_book": "《廣韻》丑例切，去祭徹。",
                 "meanings": [
                     "渡"
@@ -9560,7 +9543,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂱hùn",
+                "pinyin": "hùn",
                 "rhyme_book": "《玉篇》胡困切。",
                 "meanings": [
                     "行走"
@@ -9576,7 +9559,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂲pīng",
+                "pinyin": "pīng",
                 "rhyme_book": "《字彙》疋丁切。",
                 "meanings": [
                     "〔跉𨂲〕也作“竛竮”"
@@ -9601,7 +9584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂴cōng",
+                "pinyin": "cōng",
                 "rhyme_book": "《集韻》麤叢切，平東清。",
                 "meanings": [
                     "〔𨇘𨂴〕见“𨇘”"
@@ -9617,7 +9600,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨂵zhǎ",
+                "pinyin": "zhǎ",
                 "rhyme_book": "《集韻》側洽切，入洽莊。",
                 "meanings": [
                     "足动貌"
@@ -9696,7 +9679,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃃è",
+                "pinyin": "è",
                 "rhyme_book": "《龍龕手鑑》音遏。",
                 "meanings": [
                     "〔𨃃蹬〕屈一脚起舞貌"
@@ -9712,7 +9695,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃄wèi",
+                "pinyin": "wèi",
                 "rhyme_book": null,
                 "meanings": [
                     "人坐着扭动"
@@ -9728,7 +9711,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃅bāi",
+                "pinyin": "bāi",
                 "rhyme_book": null,
                 "meanings": [
                     "跛"
@@ -9753,7 +9736,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃇jiāng",
+                "pinyin": "jiāng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𨃇𨆾〕用砖或石砌成有棱角的慢坡"
@@ -9795,7 +9778,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃕chù",
+                "pinyin": "chù",
                 "rhyme_book": "《集韻》勅六切，入屋徹。",
                 "meanings": [
                     "足"
@@ -9867,7 +9850,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃙lì",
+                "pinyin": "lì",
                 "rhyme_book": "《篇海類編》力質切。",
                 "meanings": [
                     "踩，踏"
@@ -9936,7 +9919,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃞pán",
+                "pinyin": "pán",
                 "rhyme_book": "《集韻》蒲官切，平桓並。",
                 "meanings": [
                     "屈足，盘腿坐"
@@ -9993,7 +9976,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃣sào",
+                "pinyin": "sào",
                 "rhyme_book": "《集韻》先到切，去号心。",
                 "meanings": [
                     "跳"
@@ -10067,7 +10050,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃭zú",
+                "pinyin": "zú",
                 "rhyme_book": "《字彙補·足部》：“𨃭，子六切，音足。見",
                 "meanings": [
                     "《篇韻》"
@@ -10101,7 +10084,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃰yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《龍龕手鑑》魚撿反。",
                 "meanings": [
                     "〔𨃰斯〕古代指善玩蹴鞠戏的杂技艺人"
@@ -10135,7 +10118,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨃳néng",
+                "pinyin": "néng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𨃳𨃳〕脚立未稳，身体摇晃"
@@ -10234,7 +10217,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄈liáng",
+                "pinyin": "liáng",
                 "rhyme_book": "《集韻》吕張切，平陽來。",
                 "meanings": [
                     "〔跳𨄈〕也作“跳踉”、“跳梁”"
@@ -10276,7 +10259,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄋lòu",
+                "pinyin": "lòu",
                 "rhyme_book": "《集韻》郎豆切，去候來。",
                 "meanings": [
                     "踏"
@@ -10312,7 +10295,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄍cuī",
+                "pinyin": "cuī",
                 "rhyme_book": "《集韻》倉回切，平灰清。",
                 "meanings": [
                     "〔躟𨄍〕急甚"
@@ -10346,7 +10329,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄐jǐ",
+                "pinyin": "jǐ",
                 "rhyme_book": "《集韻》子禮切，上薺精。",
                 "meanings": [
                     "走，走貌"
@@ -10380,7 +10363,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄓cháo",
+                "pinyin": "cháo",
                 "rhyme_book": "《集韻》鋤交切，平肴崇。",
                 "meanings": [
                     "行捷"
@@ -10405,7 +10388,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄕zú",
+                "pinyin": "zú",
                 "rhyme_book": "《集韻》作木切，入屋精。",
                 "meanings": [
                     "〔𨄕𨄕〕曲足貌"
@@ -10430,8 +10413,8 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄗kāng",
-                "rhyme_book": "《龍龕手鑑》呼剛反。",
+                "pinyin": "kāng",
+                "rhyme_book": "《康熙字典·足部》引《篇韻》：“𨄗，音伉。跰也。”",
                 "meanings": [
                     "跰"
                 ]
@@ -10472,10 +10455,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄛lí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lí",
+                "rhyme_book": "《改併四聲篇海》引《類篇》力兮切。",
                 "meanings": [
-                    "《類篇》力兮切",
                     "疾行貌"
                 ]
             }
@@ -10561,7 +10543,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄯yù",
+                "pinyin": "yù",
                 "rhyme_book": "《改併四聲篇海·足部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𨄯，子六切"
@@ -10577,10 +10559,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨄰zhāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhāng",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音張。",
                 "meanings": [
-                    "《搜真玉鏡》音張",
                     "方言"
                 ]
             }
@@ -10612,7 +10593,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅅pó",
+                "pinyin": "pó",
                 "rhyme_book": "《字彙補》朋弗切。",
                 "meanings": [
                     "足蹶"
@@ -10666,7 +10647,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅋xiào",
+                "pinyin": "xiào",
                 "rhyme_book": "《集韻》先弔切，去嘯心。",
                 "meanings": [
                     "行貌"
@@ -10691,7 +10672,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅍tǎn",
+                "pinyin": "tǎn",
                 "rhyme_book": "《字彙》丑犯切，音毯。",
                 "meanings": [
                     "以脚踏地而歌"
@@ -10707,7 +10688,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅎cuì",
+                "pinyin": "cuì",
                 "rhyme_book": "《廣韻》麤最切，去泰清。",
                 "meanings": [
                     "行貌"
@@ -10723,7 +10704,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅏lán",
+                "pinyin": "lán",
                 "rhyme_book": "《集韻》盧含切，平覃來。",
                 "meanings": [
                     "急行；急行貌"
@@ -10801,7 +10782,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅔cán",
+                "pinyin": "cán",
                 "rhyme_book": "《廣韻》昨含切，平覃從。又徂合切。",
                 "meanings": [
                     "止"
@@ -10835,7 +10816,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅗bǐ",
+                "pinyin": "bǐ",
                 "rhyme_book": "《廣韻》鄙密切，入質幫。",
                 "meanings": [
                     "走；走貌"
@@ -10851,7 +10832,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅘pèng",
+                "pinyin": "pèng",
                 "rhyme_book": "《篇海類編》匹正切。",
                 "meanings": [
                     "〔𨆱𨅘〕见“𨆱”"
@@ -10957,7 +10938,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅣qiáo",
+                "pinyin": "qiáo",
                 "rhyme_book": "《玉篇》巨皎切。",
                 "meanings": [
                     "行"
@@ -10973,7 +10954,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅤jī",
+                "pinyin": "jī",
                 "rhyme_book": "《集韻》居之切，平之見。",
                 "meanings": [
                     "踞"
@@ -11034,10 +11015,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨅪zhāi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhāi",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音摘。",
                 "meanings": [
-                    "《類篇》音摘",
                     "谨"
                 ]
             }
@@ -11136,7 +11116,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆂sà",
+                "pinyin": "sà",
                 "rhyme_book": "《廣韻》私盍切。入盍心。",
                 "meanings": [
                     "〔𨆂𨆂〕行貌"
@@ -11211,10 +11191,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆇chà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chà",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》丑狎切。",
                 "meanings": [
-                    "《玉篇》丑狎切",
                     "跂足"
                 ]
             }
@@ -11246,7 +11225,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆊bèng",
+                "pinyin": "bèng",
                 "rhyme_book": "《集韻》蒲孟切，去映並。又普孟切。",
                 "meanings": [
                     "〔𨆱𨆊〕见“𨆱”"
@@ -11294,7 +11273,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆎zéi",
+                "pinyin": "zéi",
                 "rhyme_book": "《集韻》疾則切，入德從。",
                 "meanings": [
                     "践害"
@@ -11310,7 +11289,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆏suì",
+                "pinyin": "suì",
                 "rhyme_book": "《龍龕手鑑》音遂。",
                 "meanings": [
                     "深"
@@ -11344,7 +11323,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𨆙sè",
+                "pinyin": "sè",
                 "rhyme_book": "《龍龕手鑑·足部》：“𨆙，俗。音瑟。”",
                 "meanings": [
                     "《字彙補·足部》：“𨆙，審必切，音瑟"
@@ -11405,10 +11384,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆨tuí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tuí",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音魋。",
                 "meanings": [
-                    "《川篇》音魋",
                     "在后"
                 ]
             }
@@ -11422,7 +11400,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆪qīng",
+                "pinyin": "qīng",
                 "rhyme_book": "《廣韻》去盈切，平清溪。又苦定切。",
                 "meanings": [
                     "一足行貌"
@@ -11507,7 +11485,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆱bìng",
+                "pinyin": "bìng",
                 "rhyme_book": "《集韻》皮孕切，去證並。",
                 "meanings": [
                     "〔𨆱𨆊〕也作“𨆱𨅘”"
@@ -11550,7 +11528,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆵pǒ",
+                "pinyin": "pǒ",
                 "rhyme_book": "《龍龕手鑑》普火反。",
                 "meanings": [
                     "跛足不正"
@@ -11566,7 +11544,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆽mó",
+                "pinyin": "mó",
                 "rhyme_book": null,
                 "meanings": [
                     "〔獨𨆽〕也作“篤麽”、“突磨”"
@@ -11582,7 +11560,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨆾cā",
+                "pinyin": "cā",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𨃇𨆾〕见“𨃇”"
@@ -11643,7 +11621,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇄rǎo",
+                "pinyin": "rǎo",
                 "rhyme_book": "《集韻》爾紹切，上小日。",
                 "meanings": [
                     "〔𨇄躟〕足动"
@@ -11659,7 +11637,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇅bào",
+                "pinyin": "bào",
                 "rhyme_book": "《集韻》薄報切，去号並。",
                 "meanings": [
                     "行急貌"
@@ -11675,7 +11653,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇆lài",
+                "pinyin": "lài",
                 "rhyme_book": "《廣韻》落蓋切，去泰來。",
                 "meanings": [
                     "跛行"
@@ -11709,7 +11687,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𨇍niǎn",
+                "pinyin": "niǎn",
                 "rhyme_book": null,
                 "meanings": [
                     "追赶"
@@ -11725,7 +11703,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇎lí",
+                "pinyin": "lí",
                 "rhyme_book": "《改併四聲篇海·足部》引",
                 "meanings": [
                     "《餘文》：“𨇎，音鄽"
@@ -11768,10 +11746,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇕jiǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiǎo",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音脚。",
                 "meanings": [
-                    "《川篇》音脚",
                     "超走"
                 ]
             }
@@ -11785,7 +11762,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇖lú",
+                "pinyin": "lú",
                 "rhyme_book": "《集韻》凌如切，平魚來。",
                 "meanings": [
                     "传"
@@ -11801,7 +11778,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇗lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "经历；经过"
@@ -11817,7 +11794,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇘lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《集韻》盧東切，平東來。",
                 "meanings": [
                     "〔𨇘𨂴〕1.行貌"
@@ -11859,7 +11836,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇝chǎn",
+                "pinyin": "chǎn",
                 "rhyme_book": "《集韻》丑犯切，上范徹。",
                 "meanings": [
                     "企足望"
@@ -11928,7 +11905,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇦chàn",
+                "pinyin": "chàn",
                 "rhyme_book": "《集韻》叉鑑切，去鑑初。",
                 "meanings": [
                     "行貌"
@@ -11962,7 +11939,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇩zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《集韻》仕懺切，去鑑崇。",
                 "meanings": [
                     "行；行貌"
@@ -12067,7 +12044,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇻mǐ",
+                "pinyin": "mǐ",
                 "rhyme_book": "《廣韻》文彼切，上紙明。",
                 "meanings": [
                     "行；行貌"
@@ -12083,7 +12060,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇼luán",
+                "pinyin": "luán",
                 "rhyme_book": "《集韻》閭員切，平仙來。",
                 "meanings": [
                     "〔𨇼踞〕足病"
@@ -12099,7 +12076,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨇽luò",
+                "pinyin": "luò",
                 "rhyme_book": "《集韻》郎佐切，去箇來。",
                 "meanings": [
                     "〔𨇽䟶〕犹“蹭蹬”"
@@ -12177,7 +12154,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨈈dié",
+                "pinyin": "dié",
                 "rhyme_book": "《廣韻》徒協切，入帖定。",
                 "meanings": [
                     "行走声"
@@ -12193,7 +12170,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨈊wān",
+                "pinyin": "wān",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𨈊跧〕弯曲（身体）"
@@ -12209,7 +12186,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "³𨈋yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《廣韻》以灼切，入藥以。",
                 "meanings": [
                     "出走；出走貌"
@@ -12225,7 +12202,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨈌luán",
+                "pinyin": "luán",
                 "rhyme_book": "《龍龕手鑑》力員反。",
                 "meanings": [
                     "〔𨈌踡〕弯曲身体"
@@ -12241,7 +12218,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³⁰𨈎luán",
+                "pinyin": "luán",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𨈎跧〕（身体）弯曲"
@@ -12309,7 +12286,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𫏗duàn",
+                "pinyin": "duàn",
                 "rhyme_book": null,
                 "meanings": [
                     "名号用字"
@@ -12352,7 +12329,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𬦰bó",
+                "pinyin": "bó",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
