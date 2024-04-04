@@ -186,12 +186,53 @@ class BasicDataCollector:
             return text[index_fan-2:index_fan+1]
         
         return None
+    
+    def data_to_csv(self):
+        print('data_to_csv')
+        #获取根目录
+        root = os.getcwd()
+        #拼接parsed_json文件夹路径
+        root = os.path.join(root, 'output')
+        #转路径\\为/
+        root = root.replace('\\', '/')
+        #检查是否有data_csv文件夹，没有则创建
+        if not os.path.exists(f'{root}/data_csv'):
+            os.makedirs(f'{root}/data_csv')
+        #保存到output的data_csv文件夹中
+        for key in self.data:
+            with open(f'{root}/data_csv/{key}_{self.data[key]["部首"]}.csv', 'w') as f:
+                f.write('汉字,笔画,反切,拼音,释义总个数\n')
+                for word in self.data[key]['汉字']:
+                    #反切和拼音可能有多个，所以要以数组形式存储，但是写入csv文件时数组元素之间只能用空格分隔
+                    #不能直接{self.data[key]["汉字"][word]["反切"]},这样多个反切会以数组形式写入csv文件,会以逗号分隔,而不是空格,但也要注意反切和拼音为空的情况
+                    f.write(f'{word},{self.data[key]["汉字"][word]["笔画"]},')
+                    if self.data[key]["汉字"][word]["反切"] != None:
+                        if len(self.data[key]["汉字"][word]["反切"]) == 1:
+                            f.write(self.data[key]["汉字"][word]["反切"][0])
+                        else:
+                            f.write(' '.join(self.data[key]["汉字"][word]["反切"]))
+                    else:
+                        f.write(' ')
+                    if self.data[key]["汉字"][word]["拼音"] != None:
+                        if len(self.data[key]["汉字"][word]["拼音"]) == 1:
+                            f.write(f',{self.data[key]["汉字"][word]["拼音"][0]}')
+                        else:
+                            filtered_pinyin_list = [item for item in self.data[key]["汉字"][word]["拼音"] if item is not None]
+                            f.write(',')
+                            f.write(' '.join(filtered_pinyin_list))
+                    else:
+                        f.write(' ')
+                    f.write(f',{self.data[key]["汉字"][word]["释义总个数"]}\n')
+        print('data_to_csv end')
+
 #end
 
 #start
 if __name__ == '__main__':
     collector = BasicDataCollector()
-    UnihanIRGs = UnihanIRGs()
-    data = collector.collect_data(UnihanIRGs)
+    unihanIRGs = UnihanIRGs()
+    data = collector.collect_data(unihanIRGs)
+    collector.data_to_csv()
     collector.save_data()
+    
 #end

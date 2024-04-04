@@ -47,6 +47,7 @@ def test_run():
     unihanIRGs = UnihanIRGs()
     basicDataCollector.collect_data(unihanIRGs)
     basicDataCollector.save_data()
+    basicDataCollector.data_to_csv()
 
 if __name__ == '__main__':
     test_run()
