@@ -146,6 +146,9 @@ class BasicDataCollector:
                             if concepts['rhyme_book'] != None:
                                 rhyme_book_notNone += 1
                     character_utf8 = hex(ord(word['character']))
+                    if total_meanings == 0:
+                        continue
+                    
                     self.data[key]['汉字'][word['character']] = {
                         '笔画': UnihanIRGs.query_unihan_irg_sources(f'U+{character_utf8[2:].upper()}', 'kTotalStrokes'),
                         '反切': fanqies,
