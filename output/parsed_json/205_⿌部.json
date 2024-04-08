@@ -148,7 +148,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼁qù",
+                "pinyin": "qù",
                 "rhyme_book": "《廣韻》丘倨切，去御溪。魚部。",
                 "meanings": [
                     "〔鼁𪓰〕蟾蜍"
@@ -294,7 +294,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鼊bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》北激切，入錫幫。",
                 "meanings": [
                     "〔𪓟鼊〕龟属"
@@ -382,7 +382,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓘rán",
+                "pinyin": "rán",
                 "rhyme_book": "《集韻》汝甘切，平談日。",
                 "meanings": [
                     "龟甲边"
@@ -407,7 +407,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓚rán",
+                "pinyin": "rán",
                 "rhyme_book": "《集韻》汝甘切，平談日。",
                 "meanings": [
                     "龟甲边"
@@ -423,7 +423,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓛yāng",
+                "pinyin": "yāng",
                 "rhyme_book": "《集韻》於郎切，平唐影。",
                 "meanings": [
                     "龟的一种"
@@ -439,7 +439,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓜bǒ",
+                "pinyin": "bǒ",
                 "rhyme_book": "《集韻》補火切，上果幫。",
                 "meanings": [
                     "蟾蜍"
@@ -482,10 +482,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓡cù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "cù",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》七宿切。",
                 "meanings": [
-                    "《俗字背篇》七宿切",
                     "蟾蝫"
                 ]
             }
@@ -562,7 +561,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓬mí",
+                "pinyin": "mí",
                 "rhyme_book": "《廣韻》莫兮切，平齊明。",
                 "meanings": [
                     "〔𪓬𪓹〕龟属"
@@ -699,7 +698,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪓹má",
+                "pinyin": "má",
                 "rhyme_book": "《廣韻》莫霞切，平麻明。",
                 "meanings": [
                     "〔𪓬𪓹〕见“𪓬”"
@@ -715,7 +714,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𪓼diān",
+                "pinyin": "diān",
                 "rhyme_book": "《集韻》多年切，平先端。",
                 "meanings": [
                     "〔𪓼𪓷〕蛙类"

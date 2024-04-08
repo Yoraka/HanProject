@@ -182,7 +182,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hù",
                 "rhyme_book": "",
                 "meanings": [
@@ -190,7 +190,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hù",
                 "rhyme_book": "《廣韻》侯古切，上姥匣。",
                 "meanings": [
@@ -378,7 +378,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "diàn",
                 "rhyme_book": "《集韻》徒念切，去㮇定。",
                 "meanings": [
@@ -611,10 +611,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lì",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢨨，音例"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢨨，音例。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -654,10 +652,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yī",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢨮，音衣"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢨮，音衣。”《字彙補·户部》：“𢨮，音衣。義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -686,10 +682,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xū",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢨰，香於切"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢨰，香於切。”《字彙補·户部》：“𢨰，音虚。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -727,10 +721,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yì",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢨳，音抑"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢨳，音抑。”《字彙補·户部》：“𢨳，音抑。見《金鏡》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -813,10 +805,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiǎn",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩀，古典切"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩀，古典切。”《字彙補·户部》：“𢩀，音減。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -856,9 +846,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音杼。",
                 "meanings": [
-                    "《川篇》音杼",
                     "户𢩄"
                 ]
             }
@@ -900,9 +889,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》烏古切。",
                 "meanings": [
-                    "《川篇》烏古切",
                     "屋舍"
                 ]
             }
@@ -935,10 +923,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kè",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩏，苦合切"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩏，苦合切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -951,10 +937,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kě",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩐，口荅切"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩐，口荅切。”《字彙補·户部》：“𢩐，音渴。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -967,9 +951,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》力計切。",
                 "meanings": [
-                    "《川篇》力計切",
                     "不正"
                 ]
             }
@@ -1060,10 +1043,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "líng",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩗，音零"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩗，音零。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1119,10 +1100,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bó",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩞，音伯"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩞，音伯。”《字彙補·户部》：“𢩞，卜則切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1135,10 +1114,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "biān",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩟，音編"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩟，音編。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1168,10 +1145,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qí",
-                "rhyme_book": "《改併四聲篇海·户部》引",
-                "meanings": [
-                    "《川篇》：“𢩡，音祈"
-                ]
+                "rhyme_book": "《改併四聲篇海·户部》引《川篇》：“𢩡，音祈。”《字彙補·户部》：“𢩡，求奚切。義無考。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1208,7 +1183,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐳zuò",
+                "pinyin": "zuò",
                 "rhyme_book": "《改併四聲篇海·户部》引",
                 "meanings": [
                     "《川篇》：“𨐳，音作"

@@ -114,7 +114,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴䬧yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《廣韻》愚袁切，平元疑。又五丸切。",
                 "meanings": [
                     "圆形糕点"
@@ -148,7 +148,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬪bó",
+                "pinyin": "bó",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䬪飥〕也作“餺飥”、“不托”"
@@ -164,7 +164,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬫tí",
+                "pinyin": "tí",
                 "rhyme_book": "《廣韻》杜奚切，平齊定。又都奚切。",
                 "meanings": [
                     "〔䬫餬〕1.也作“醍醐”"
@@ -248,7 +248,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬱bèn",
+                "pinyin": "bèn",
                 "rhyme_book": "《集韻》部本切，上混並。",
                 "meanings": [
                     "粗食"
@@ -280,7 +280,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬳bǎn",
+                "pinyin": "bǎn",
                 "rhyme_book": "《廣韻》博管切，上緩幫。",
                 "meanings": [
                     "用米粉或麦粉做成的饼"
@@ -329,7 +329,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬶èn",
+                "pinyin": "èn",
                 "rhyme_book": "《集韻》丑恨切，去恨疑。",
                 "meanings": [
                     "馁"
@@ -445,7 +445,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䬾tí",
+                "pinyin": "tí",
                 "rhyme_book": "《廣韻》杜奚切，平齊定。",
                 "meanings": [
                     "〔餹䬾〕1.糕饼类食品"
@@ -485,7 +485,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭀xùn",
+                "pinyin": "xùn",
                 "rhyme_book": "《字彙》思晋切。",
                 "meanings": [
                     "〔青䭀飯〕或称“青䭀”，即青精饭，又名乌饭"
@@ -501,7 +501,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷䭁zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《廣韻》征例切，去祭章。",
                 "meanings": [
                     "臭败的气味"
@@ -517,7 +517,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭂yì",
+                "pinyin": "yì",
                 "rhyme_book": "《廣韻》於汲切，入緝影。",
                 "meanings": [
                     "食物湿臭"
@@ -684,7 +684,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭎yè",
+                "pinyin": "yè",
                 "rhyme_book": "《集韻》弋涉切，入葉以。",
                 "meanings": [
                     "饼类食品"
@@ -700,7 +700,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭐yàng",
+                "pinyin": "yàng",
                 "rhyme_book": "《廣韻》餘亮切，去漾以。",
                 "meanings": [
                     "糕饼"
@@ -780,7 +780,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭔duī",
+                "pinyin": "duī",
                 "rhyme_book": "《廣韻》都回切，平灰端。",
                 "meanings": [
                     "饼类食品"
@@ -813,7 +813,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䭖zhù",
+                "pinyin": "zhù",
                 "rhyme_book": "《廣韻》章恕切，去御章。",
                 "meanings": [
                     "猪狗吃的食物"
@@ -1021,7 +1021,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶䭦bó",
+                "pinyin": "bó",
                 "rhyme_book": "《廣韻》傍各切，入鐸並。",
                 "meanings": [
                     "饼类"
@@ -1145,7 +1145,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²飣dìng",
+                "pinyin": "dìng",
                 "rhyme_book": "《廣韻》丁定切，去徑端。",
                 "meanings": [
                     "〔飣餖〕将食品堆叠于器皿中，一般只供陈设"
@@ -1335,7 +1335,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "fàn",
                 "rhyme_book": "《廣韻》符万切，去願奉。",
                 "meanings": [
@@ -1379,10 +1379,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "sūn",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音孫"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音孫。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1514,7 +1512,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "飷jiě",
+                "pinyin": "jiě",
                 "rhyme_book": "《廣韻》兹野切，上馬精。",
                 "meanings": [
                     "食无味"
@@ -1771,7 +1769,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餆yáo",
+                "pinyin": "yáo",
                 "rhyme_book": "《廣韻》餘昭切，平宵以。",
                 "meanings": [
                     "糕饼类食品"
@@ -1787,7 +1785,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餇tóng",
+                "pinyin": "tóng",
                 "rhyme_book": "《玉篇》徒紅切。",
                 "meanings": [
                     "食"
@@ -2100,7 +2098,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餖dòu",
+                "pinyin": "dòu",
                 "rhyme_book": "《廣韻》田候切，去候定。",
                 "meanings": [
                     "〔飣餖〕也单用作“餖”"
@@ -2309,7 +2307,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餢bù",
+                "pinyin": "bù",
                 "rhyme_book": "《集韻》薄口切，上厚並。",
                 "meanings": [
                     "〔餢飳〕也作“䴺𪌘”、“餢𩜶”"
@@ -2445,7 +2443,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餩è",
+                "pinyin": "è",
                 "rhyme_book": "《廣韻》愛黑切，入德影。",
                 "meanings": [
                     "噎，打嗝声"
@@ -2530,7 +2528,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餭huáng",
+                "pinyin": "huáng",
                 "rhyme_book": "《廣韻》胡光切，平唐匣。",
                 "meanings": [
                     "〔餦餭〕见“餦”"
@@ -2546,7 +2544,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餮tiè",
+                "pinyin": "tiè",
                 "rhyme_book": "《廣韻》他結切，入屑透。月部。",
                 "meanings": []
             }
@@ -2560,7 +2558,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餯huì",
+                "pinyin": "huì",
                 "rhyme_book": "《廣韻》許穢切，去廢曉。微部。",
                 "meanings": [
                     "食物腐败发臭"
@@ -2598,7 +2596,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餱hóu",
+                "pinyin": "hóu",
                 "rhyme_book": "《廣韻》户鉤切，平侯匣。侯部。",
                 "meanings": [
                     "干粮"
@@ -2722,7 +2720,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餸sòng",
+                "pinyin": "sòng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -2738,7 +2736,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "餹táng",
+                "pinyin": "táng",
                 "rhyme_book": "《廣韻》徒郎切，平唐定。",
                 "meanings": [
                     "原指饴糖"
@@ -2953,7 +2951,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "饆bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》卑吉切，入質幫。",
                 "meanings": [
                     "〔饆饠〕1.古代的一种饼类食品"
@@ -3100,7 +3098,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "饏dàn",
+                "pinyin": "dàn",
                 "rhyme_book": "《集韻》杜覽切，上敢定。",
                 "meanings": [
                     "食无味"
@@ -3392,7 +3390,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹饠luó",
+                "pinyin": "luó",
                 "rhyme_book": "《廣韻》魯何切，平歌來。",
                 "meanings": [
                     "〔饆饠〕也单用作“饠”"
@@ -3908,10 +3906,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡓷duò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "duò",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》徒果切。",
                 "meanings": [
-                    "《龍龕手鑑》徒果切",
                     "落"
                 ]
             }
@@ -3961,7 +3958,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚄yù",
+                "pinyin": "yù",
                 "rhyme_book": "《集韻》牛據切，去御疑。",
                 "meanings": [
                     "饯行"
@@ -3986,10 +3983,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚇yí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yí",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音恰〔怡〕。",
                 "meanings": [
-                    "《類篇》音恰〔怡〕",
                     "粥"
                 ]
             }
@@ -4003,7 +3999,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚈yuē",
+                "pinyin": "yuē",
                 "rhyme_book": "《集韻》乙却切，入藥影。",
                 "meanings": [
                     "节制饮食"
@@ -4019,7 +4015,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚉chí",
+                "pinyin": "chí",
                 "rhyme_book": "《集韻》陳知切，平支澄。",
                 "meanings": [
                     "用米、麦芽熬成的糖浆"
@@ -4152,7 +4148,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚗rǒng",
+                "pinyin": "rǒng",
                 "rhyme_book": "《玉篇》而勇切。",
                 "meanings": [
                     "食"
@@ -4195,7 +4191,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚛nà",
+                "pinyin": "nà",
                 "rhyme_book": "《廣韻》奴盍切，入盍泥。",
                 "meanings": [
                     "〔𩚛𩚛〕食貌"
@@ -4274,7 +4270,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚥bā",
+                "pinyin": "bā",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -4324,10 +4320,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚫zhēng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhēng",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》諸精切。",
                 "meanings": [
-                    "《俗字背篇》諸精切",
                     "𩚫饼"
                 ]
             }
@@ -4358,7 +4353,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚭póu",
+                "pinyin": "póu",
                 "rhyme_book": "《廣韻》薄侯切，平侯並。",
                 "meanings": [
                     "〔𩚭饇〕饱食"
@@ -4373,13 +4368,13 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jī",
                 "rhyme_book": "jī　㊀《集韻》居狋切，平脂見。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "jī",
                 "rhyme_book": "《集韻》居希切，平微見。",
                 "meanings": []
@@ -4400,7 +4395,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚯ní",
+                "pinyin": "ní",
                 "rhyme_book": "《廣韻》女夷切，平脂娘。",
                 "meanings": [
                     "饵𩚯"
@@ -4425,7 +4420,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚱jiǒng",
+                "pinyin": "jiǒng",
                 "rhyme_book": "《廣韻》古迥切，上迥見。",
                 "meanings": [
                     "饱"
@@ -4512,7 +4507,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚹líng",
+                "pinyin": "líng",
                 "rhyme_book": "《廣韻》郎丁切，平青來。",
                 "meanings": [
                     "饵；糕饼"
@@ -4537,7 +4532,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚻zuì",
+                "pinyin": "zuì",
                 "rhyme_book": "《字彙補》子尉切。",
                 "meanings": [
                     "装饰"
@@ -4553,7 +4548,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩚾bèi",
+                "pinyin": "bèi",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩚾，補昧、蒲昧二反。”",
                 "meanings": []
             }
@@ -4586,7 +4581,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "shì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》時吏切。",
                 "meanings": [
                     "粔籹，古代蜜和米粉制成的一种食品",
                     "食物名"
@@ -4602,7 +4597,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛆yǐ",
+                "pinyin": "yǐ",
                 "rhyme_book": "《字彙補》移爾切。",
                 "meanings": [
                     "用油和稻米粉制成的粥状食品"
@@ -4618,7 +4613,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛇pāi",
+                "pinyin": "pāi",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䭔𩛇〕也作“䭔拍”"
@@ -4652,7 +4647,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛋nǎo",
+                "pinyin": "nǎo",
                 "rhyme_book": "《玉篇》奴倒切。",
                 "meanings": [
                     "熟食"
@@ -4668,7 +4663,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛌shì",
+                "pinyin": "shì",
                 "rhyme_book": "《廣韻》鉏吏切，去志崇。",
                 "meanings": [
                     "贪吃"
@@ -4693,7 +4688,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛎mǎn",
+                "pinyin": "mǎn",
                 "rhyme_book": "《廣韻》謨敢切，上敢明。",
                 "meanings": [
                     "喂小儿"
@@ -4709,7 +4704,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛏shì",
+                "pinyin": "shì",
                 "rhyme_book": "《集韻》仕吏切，去志崇。",
                 "meanings": [
                     "妆饰"
@@ -4734,10 +4729,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛑tí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "tí",
+                "rhyme_book": "《改併四聲篇海》引《類篇》徒兮切。",
                 "meanings": [
-                    "《類篇》徒兮切",
                     "寄食"
                 ]
             }
@@ -4882,7 +4876,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛠zuō",
+                "pinyin": "zuō",
                 "rhyme_book": "《廣韻》子𩨷切，平戈精。",
                 "meanings": [
                     "骨𩛠"
@@ -4899,9 +4893,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "láng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音郎。",
                 "meanings": [
-                    "《搜真玉鏡》音郎",
                     "羹"
                 ]
             },
@@ -4923,7 +4916,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛢xiū",
+                "pinyin": "xiū",
                 "rhyme_book": "《廣韻》息流切，平尤心。",
                 "meanings": [
                     "蒸饭"
@@ -5001,7 +4994,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛨mào",
+                "pinyin": "mào",
                 "rhyme_book": "《集韻》眉教切，去效明。",
                 "meanings": [
                     "饱懑"
@@ -5017,7 +5010,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛩jiá",
+                "pinyin": "jiá",
                 "rhyme_book": "《集韻》訖洽切，入洽見。",
                 "meanings": [
                     "饼类食品"
@@ -5033,10 +5026,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛪yù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》烏域切。",
                 "meanings": [
-                    "《搜真玉鏡》烏域切",
                     "饥饿声"
                 ]
             }
@@ -5095,7 +5087,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛲māng",
+                "pinyin": "māng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩛲𩛲〕方言"
@@ -5142,11 +5134,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛵zhuì",
-                "rhyme_book": "《改併四聲篇海·食部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𩛵，音綴"
-                ]
+                "pinyin": "zhuì",
+                "rhyme_book": "《改併四聲篇海·食部》引《搜真玉鏡》：“𩛵，音綴。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5176,7 +5166,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛺jú",
+                "pinyin": "jú",
                 "rhyme_book": "《廣韻》居六切，入屋見。",
                 "meanings": [
                     "厚粥"
@@ -5222,7 +5212,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩛼lù",
+                "pinyin": "lù",
                 "rhyme_book": "《玉篇》力谷切。",
                 "meanings": [
                     "食"
@@ -5320,7 +5310,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜃jù",
+                "pinyin": "jù",
                 "rhyme_book": "《集韻》衢遇切，去遇羣。",
                 "meanings": [
                     "〔寒𩜃〕也作“寒具”"
@@ -5410,7 +5400,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜊zī",
+                "pinyin": "zī",
                 "rhyme_book": "《集韻》莊持切，平之莊。",
                 "meanings": [
                     "饘名"
@@ -5435,7 +5425,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜌yuē",
+                "pinyin": "yuē",
                 "rhyme_book": "《廣韻》於月切，入月影。",
                 "meanings": [
                     "糖与豆屑合成的食品，即豆沙"
@@ -5451,7 +5441,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜍dōng",
+                "pinyin": "dōng",
                 "rhyme_book": "《廣韻》德紅切，平東端。",
                 "meanings": [
                     "*东郡*馆名"
@@ -5548,7 +5538,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜖chóng",
+                "pinyin": "chóng",
                 "rhyme_book": "《龍龕手鑑》鋤弓反。",
                 "meanings": [
                     "〔𩜖饞〕贪食"
@@ -5582,7 +5572,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜟àng",
+                "pinyin": "àng",
                 "rhyme_book": "《集韻》魚浪切，去宕疑。",
                 "meanings": [
                     "食无廉"
@@ -5634,7 +5624,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜥bō",
+                "pinyin": "bō",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩜥𩜥〕即“餑餑”"
@@ -5650,7 +5640,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜦dìng",
+                "pinyin": "dìng",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩜦勝〕糕点类的食品"
@@ -5700,10 +5690,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜬quán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "quán",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音泉。",
                 "meanings": [
-                    "《川篇》音泉",
                     "懒惰"
                 ]
             }
@@ -5717,7 +5706,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜭kē",
+                "pinyin": "kē",
                 "rhyme_book": "《集韻》苦禾切，平戈溪。",
                 "meanings": [
                     "〔𩜭斗〕也作“𪍎斗”"
@@ -5742,7 +5731,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜰pì",
+                "pinyin": "pì",
                 "rhyme_book": "《廣韻》芳逼切（",
                 "meanings": [
                     "《集韻》拍逼切），入職滂"
@@ -5780,7 +5769,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜲fú",
+                "pinyin": "fú",
                 "rhyme_book": "《集韻》方六切，入屋非。",
                 "meanings": [
                     "食"
@@ -5796,7 +5785,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜳yǒng",
+                "pinyin": "yǒng",
                 "rhyme_book": "《集韻》尹竦切，上腫以。",
                 "meanings": [
                     "食"
@@ -5838,7 +5827,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜶tǒu",
+                "pinyin": "tǒu",
                 "rhyme_book": "《龍龕手鑑》天口反。",
                 "meanings": [
                     "〔餢𩜶〕《龍龕手鑑·食部》：“餢𩜶，餅也"
@@ -5876,7 +5865,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜸yāo",
+                "pinyin": "yāo",
                 "rhyme_book": "《集韻》於喬切，平宵影。",
                 "meanings": [
                     "饧"
@@ -5928,7 +5917,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩜽yàn",
+                "pinyin": "yàn",
                 "rhyme_book": "《字彙補》五健切。",
                 "meanings": [
                     "饴糖"
@@ -5998,7 +5987,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝈xián",
+                "pinyin": "xián",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩝈，音咸。”",
                 "meanings": []
             }
@@ -6021,7 +6010,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝊tí",
+                "pinyin": "tí",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩝊餬〕酪酥"
@@ -6037,7 +6026,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝋qiū",
+                "pinyin": "qiū",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩝋剗子〕食品名"
@@ -6053,7 +6042,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝌suì",
+                "pinyin": "suì",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩝌，音遂。”",
                 "meanings": [
                     "《字彙補·食部》：“𩝌，見《篇韻》"
@@ -6096,7 +6085,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝐cí",
+                "pinyin": "cí",
                 "rhyme_book": null,
                 "meanings": [
                     "糍粑"
@@ -6112,7 +6101,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝑xuān",
+                "pinyin": "xuān",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -6164,7 +6153,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝖cān",
+                "pinyin": "cān",
                 "rhyme_book": "《改併四聲篇海·食部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩝖，音飡"
@@ -6198,7 +6187,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝚chǎn",
+                "pinyin": "chǎn",
                 "rhyme_book": "《集韻》丑展切，上獮徹。",
                 "meanings": [
                     "长味"
@@ -6214,7 +6203,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝛xiá",
+                "pinyin": "xiá",
                 "rhyme_book": "《廣韻》胡瞎切，入鎋匣。",
                 "meanings": [
                     "食饱"
@@ -6259,7 +6248,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝞cāng",
+                "pinyin": "cāng",
                 "rhyme_book": "《集韻》千剛切，平唐清。",
                 "meanings": [
                     "食"
@@ -6275,7 +6264,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝟chā",
+                "pinyin": "chā",
                 "rhyme_book": "《集韻》測洽切，入洽初。",
                 "meanings": []
             }
@@ -6375,7 +6364,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝨huā",
+                "pinyin": "huā",
                 "rhyme_book": "《廣韻》火媧切，平佳曉。",
                 "meanings": [
                     "消食"
@@ -6454,7 +6443,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝷wū",
+                "pinyin": "wū",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩝷，安姑反。”",
                 "meanings": []
             }
@@ -6468,7 +6457,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝸yuān",
+                "pinyin": "yuān",
                 "rhyme_book": "《集韻》於袁切，平元影。",
                 "meanings": [
                     "贪"
@@ -6511,7 +6500,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩝿zhāi",
+                "pinyin": "zhāi",
                 "rhyme_book": "《集韻》陟革切，入麥知。",
                 "meanings": [
                     "日月𩝿蚀"
@@ -6628,7 +6617,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞅suī",
+                "pinyin": "suī",
                 "rhyme_book": "《集韻》蘇回切，平灰心。",
                 "meanings": [
                     "饭"
@@ -6644,7 +6633,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞆chuáng",
+                "pinyin": "chuáng",
                 "rhyme_book": "《集韻》鉏江切，平江崇。",
                 "meanings": [
                     "爱食；贪饱"
@@ -6686,7 +6675,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞉chóng",
+                "pinyin": "chóng",
                 "rhyme_book": "《廣韻》鋤弓切，平東崇。",
                 "meanings": [
                     "〔饞𩞉〕贪食"
@@ -6702,7 +6691,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞊jì",
+                "pinyin": "jì",
                 "rhyme_book": "《集韻》居氣切，去未見。",
                 "meanings": [
                     "赠送生食"
@@ -6718,7 +6707,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞋chóng",
+                "pinyin": "chóng",
                 "rhyme_book": "《集韻》常容切，平鍾禪。",
                 "meanings": [
                     "〔饞𩞋〕不廉"
@@ -6788,7 +6777,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞙lián",
+                "pinyin": "lián",
                 "rhyme_book": "《集韻》陵延切，平仙來。",
                 "meanings": [
                     "〔𩞙饋〕古代馓子之类的面食品"
@@ -6831,7 +6820,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞞hài",
+                "pinyin": "hài",
                 "rhyme_book": "《字彙補》呼泰切。",
                 "meanings": [
                     "臭气"
@@ -6874,7 +6863,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞤dūn",
+                "pinyin": "dūn",
                 "rhyme_book": "《集韻》都昆切，平魂端。",
                 "meanings": [
                     "贪食"
@@ -6899,7 +6888,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞦chēng",
+                "pinyin": "chēng",
                 "rhyme_book": "《篇海類編》丑庚切。",
                 "meanings": [
                     "〔𩞦䬷〕过饱，胀"
@@ -6931,7 +6920,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞨lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》令益切，入昔來。",
                 "meanings": [
                     "〔𩞨𩝿〕食相箸"
@@ -7036,7 +7025,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞶zā",
+                "pinyin": "zā",
                 "rhyme_book": "《改併四聲篇海·食部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𩞶，祖葛切"
@@ -7088,7 +7077,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞻lín",
+                "pinyin": "lín",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩞻，吕珎反。”",
                 "meanings": []
             }
@@ -7143,7 +7132,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩞿hàn",
+                "pinyin": "hàn",
                 "rhyme_book": "《廣韻》呼紺切，去勘曉。",
                 "meanings": [
                     "食不饱"
@@ -7203,7 +7192,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟂guò",
+                "pinyin": "guò",
                 "rhyme_book": "《廣韻》古卧切，去過見。",
                 "meanings": [
                     "食"
@@ -7219,7 +7208,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟃líng",
+                "pinyin": "líng",
                 "rhyme_book": "《廣韻》郎丁切，平青來。",
                 "meanings": [
                     "食饱"
@@ -7244,7 +7233,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟅liǎn",
+                "pinyin": "liǎn",
                 "rhyme_book": "《龍龕手鑑》良冉反。",
                 "meanings": [
                     "食无味"
@@ -7269,7 +7258,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟇ào",
+                "pinyin": "ào",
                 "rhyme_book": "《廣韻》烏到切，去号影。",
                 "meanings": [
                     "妒食"
@@ -7285,10 +7274,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟈dāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "dāng",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音當。",
                 "meanings": [
-                    "《類篇》音當",
                     "食"
                 ]
             }
@@ -7302,7 +7290,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟉yì",
+                "pinyin": "yì",
                 "rhyme_book": "《玉篇》於利切。",
                 "meanings": [
                     "饱"
@@ -7318,7 +7306,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟊nóng",
+                "pinyin": "nóng",
                 "rhyme_book": "《廣韻》奴冬切，平冬泥。又女江切。",
                 "meanings": [
                     "〔䭢𩟊〕也单用作“𩟊”"
@@ -7352,10 +7340,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟍xìn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xìn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》許譖切。",
                 "meanings": [
-                    "《川篇》許譖切",
                     "食物未熟而腐败发臭"
                 ]
             }
@@ -7369,7 +7356,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟐dà",
+                "pinyin": "dà",
                 "rhyme_book": null,
                 "meanings": [
                     "〔䬣𩟐〕也作“䬣☀”"
@@ -7385,11 +7372,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟑yù",
-                "rhyme_book": "《改併四聲篇海·食部》引",
-                "meanings": [
-                    "《類篇》：“𩟑，音飫"
-                ]
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海·食部》引《類篇》：“𩟑，音飫。”《字彙補·食部》：“𩟑，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7401,10 +7386,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟒cān",
-                "rhyme_book": "《康熙字典·食部》引",
+                "pinyin": "cān",
+                "rhyme_book": "《康熙字典·食部》引《海篇》：“𩟒，音餐。”",
                 "meanings": [
-                    "《海篇》：“𩟒，音餐",
                     "¹⁴𩟚鼓声"
                 ]
             }
@@ -7418,7 +7402,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟓wò",
+                "pinyin": "wò",
                 "rhyme_book": "《廣韻》烏郭切，入鐸影。",
                 "meanings": [
                     "无味；味薄"
@@ -7434,10 +7418,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟔chá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chá",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音察。",
                 "meanings": [
-                    "《類篇》音察",
                     "添食"
                 ]
             }
@@ -7451,7 +7434,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟕bó",
+                "pinyin": "bó",
                 "rhyme_book": "《玉篇》蒲突切。",
                 "meanings": [
                     "〔𩟕饇〕饱"
@@ -7521,11 +7504,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟞mēng",
-                "rhyme_book": "《改併四聲篇海·食部》引",
-                "meanings": [
-                    "《川篇》：“𩟞，莫紅切"
-                ]
+                "pinyin": "mēng",
+                "rhyme_book": "《改併四聲篇海·食部》引《川篇》：“𩟞，莫紅切。”按：疑为“饛”的俗字。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7537,7 +7518,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟟wěi",
+                "pinyin": "wěi",
                 "rhyme_book": "《類篇》鄔賄切，上賄影。",
                 "meanings": [
                     "食后复吐"
@@ -7553,7 +7534,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟠mó",
+                "pinyin": "mó",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩟠𩟠〕也作“饃饃”"
@@ -7598,7 +7579,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟦jié",
+                "pinyin": "jié",
                 "rhyme_book": "《廣韻》昨結切，入屑從。",
                 "meanings": [
                     "食"
@@ -7650,7 +7631,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟭lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《廣韻》盧紅切，平東來。",
                 "meanings": [
                     "饼属"
@@ -7684,7 +7665,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟰tuō",
+                "pinyin": "tuō",
                 "rhyme_book": "《集韻》闥各切，入鐸透。",
                 "meanings": [
                     "〔餺𩟰〕也作“餺飥”"
@@ -7718,11 +7699,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩟳yú",
-                "rhyme_book": "《改併四聲篇海·食部》引",
-                "meanings": [
-                    "《川篇》：“𩟳，音余"
-                ]
+                "pinyin": "yú",
+                "rhyme_book": "《改併四聲篇海·食部》引《川篇》：“𩟳，音余。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7785,7 +7764,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁷𩟺lǎn",
+                "pinyin": "lǎn",
                 "rhyme_book": "《龍龕手鑑·食部》：“𩟺，盧敢反。”",
                 "meanings": [
                     "《字彙補·食部》：“𩟺，見《篇韻》"
@@ -7801,7 +7780,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁴𩟽líng",
+                "pinyin": "líng",
                 "rhyme_book": null,
                 "meanings": [
                     "鬼求食"

@@ -864,9 +864,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》居穴切。",
                 "meanings": [
-                    "《川篇》居穴切",
                     "死"
                 ]
             }
@@ -1777,10 +1776,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dié",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣧈，度列切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》：“𣧈，度列切。”《字彙補·歹部》：“𣧈，音耋。義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1914,7 +1911,7 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "mò",
-                "rhyme_book": null,
+                "rhyme_book": "《康熙字典·歹部》引《五音篇海》：“𣧒，與殁同。”",
                 "meanings": []
             }
         ],
@@ -2013,10 +2010,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shí",
-                "rhyme_book": "《改併四聲篇海·歹部》引",
-                "meanings": [
-                    "《類篇》：“𣧚，音食"
-                ]
+                "rhyme_book": "《改併四聲篇海·歹部》引《類篇》：“𣧚，音食。”《字彙補·歹部》：“𣧚，乘力切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2045,10 +2040,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "pā",
-                "rhyme_book": "《改併四聲篇海·歹部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣧜，普加切"
-                ]
+                "rhyme_book": "《改併四聲篇海·歹部》引《搜真玉鏡》：“𣧜，普加切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2177,9 +2170,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音矯。",
                 "meanings": [
-                    "《類篇》音矯",
                     "夭"
                 ]
             }
@@ -2408,9 +2400,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "miǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》弥兖切。",
                 "meanings": [
-                    "《龍龕手鑑》弥兖切",
                     "矜"
                 ]
             }
@@ -2441,9 +2432,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "luàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音乱。",
                 "meanings": [
-                    "《俗字背篇》音乱",
                     "临死之时迷离没乱之意"
                 ]
             }
@@ -2574,9 +2564,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音拆。",
                 "meanings": [
-                    "《川篇》音拆",
                     "裂"
                 ]
             }
@@ -2781,9 +2770,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "mà",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》名夜切。",
                 "meanings": [
-                    "《搜真玉鏡》名夜切",
                     "无"
                 ]
             }
@@ -2902,9 +2890,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiàng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》其亮切。",
                 "meanings": [
-                    "《搜真玉鏡》其亮切",
                     "尸僵"
                 ]
             }
@@ -2953,10 +2940,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "luǒ",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》：“𣨪，郎果切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》：“𣨪，郎果切。”《字彙補·歹部》：“𣨪，音裸。義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3019,7 +3004,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "iàng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》胡降切。",
                 "meanings": [
                     "死衖",
                     "死腐"
@@ -3131,9 +3116,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xīng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音星。",
                 "meanings": [
-                    "《搜真玉鏡》音星",
                     "惺"
                 ]
             }
@@ -3620,7 +3604,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣩭zhài",
+                "pinyin": "zhài",
                 "rhyme_book": "《篇海類編》士賣切。",
                 "meanings": [
                     "〔𣩭𣨀〕临死时神智不清"
@@ -3816,9 +3800,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "diān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音顛。",
                 "meanings": [
-                    "《川篇》音顛",
                     "殒"
                 ]
             }

@@ -203,7 +203,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "辣là",
+                "pinyin": "là",
                 "rhyme_book": "《篇海類編》郎達切。",
                 "meanings": [
                     "姜、蒜、辣椒等带刺激性的味道",
@@ -498,7 +498,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐐yǐn",
+                "pinyin": "yǐn",
                 "rhyme_book": "《字彙補》以忍切。",
                 "meanings": [
                     "进"
@@ -514,10 +514,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐑jiè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jiè",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音介。",
                 "meanings": [
-                    "《川篇》音介",
                     "杂"
                 ]
             }
@@ -577,7 +576,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐖sǎ",
+                "pinyin": "sǎ",
                 "rhyme_book": "《廣韻》桑割切，入曷心。",
                 "meanings": [
                     "辣味"
@@ -593,10 +592,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐛xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xì",
+                "rhyme_book": "《改併四聲篇海》引《川篇》灰義切。",
                 "meanings": [
-                    "《川篇》灰義切",
                     "伯名"
                 ]
             }
@@ -655,7 +653,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐡kù",
+                "pinyin": "kù",
                 "rhyme_book": "《集韻》苦故切，去暮溪。",
                 "meanings": [
                     "茱萸酱"
@@ -680,7 +678,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐣qú",
+                "pinyin": "qú",
                 "rhyme_book": "《龍龕手鑑·辛部》：“𨐣，音渠。”",
                 "meanings": [
                     "《字彙補·辛部》：“𨐣，其余切，音渠"
@@ -696,7 +694,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𨐥gé",
+                "pinyin": "gé",
                 "rhyme_book": "《龍龕手鑑·辛部》：“𨐥，音革。”",
                 "meanings": [
                     "《字彙補·辛部》：“𨐥，姑客切，音革"
@@ -712,7 +710,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐦bàn",
+                "pinyin": "bàn",
                 "rhyme_book": "《改併四聲篇海·辛部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𨐦，白限切"
@@ -746,7 +744,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𨐩qiān",
+                "pinyin": "qiān",
                 "rhyme_book": "《集韻》苦兼切，平添溪。",
                 "meanings": [
                     "艰苦"
@@ -780,7 +778,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐰bīn",
+                "pinyin": "bīn",
                 "rhyme_book": "《集韻》悲巾切，平真幫。",
                 "meanings": [
                     "斑驳"
@@ -796,7 +794,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐱bàn",
+                "pinyin": "bàn",
                 "rhyme_book": "《集韻》皮莧切，去襇並。",
                 "meanings": [
                     "两股之间"
@@ -830,7 +828,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𨐶huò",
+                "pinyin": "huò",
                 "rhyme_book": "《廣韻》呼麥切，入麥曉。",
                 "meanings": [
                     "味辣"

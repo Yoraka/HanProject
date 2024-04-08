@@ -146,7 +146,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰臲niè",
+                "pinyin": "niè",
                 "rhyme_book": "《廣韻》五結切，入屑疑。月部。",
                 "meanings": [
                     "〔臲尯〕不安"
@@ -218,10 +218,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³𦣾wǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wǎn",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音綰。",
                 "meanings": [
-                    "《俗字背篇》音綰",
                     "姓"
                 ]
             }
@@ -253,7 +252,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤂shū",
+                "pinyin": "shū",
                 "rhyme_book": "《廣韻》市朱切，平虞禪。",
                 "meanings": [
                     "八觚杖"
@@ -287,7 +286,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤇guī",
+                "pinyin": "guī",
                 "rhyme_book": "《龍龕手鑑》音歸。",
                 "meanings": [
                     "归"
@@ -303,7 +302,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤈xī",
+                "pinyin": "xī",
                 "rhyme_book": "《龍龕手鑑》音息。",
                 "meanings": [
                     "佛经译音用字，无实义"
@@ -328,7 +327,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤊nǜ",
+                "pinyin": "nǜ",
                 "rhyme_book": "《字彙補》而六切。",
                 "meanings": [
                     "鼻出血"
@@ -344,7 +343,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤋yào",
+                "pinyin": "yào",
                 "rhyme_book": "《類篇》倪吊切，去嘯疑。",
                 "meanings": [
                     "卧息"
@@ -414,7 +413,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤕yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《集韻》一決切，入屑影。",
                 "meanings": [
                     "殠貌"
@@ -524,7 +523,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤟xìn",
+                "pinyin": "xìn",
                 "rhyme_book": "《集韻》思晋切，去震心。",
                 "meanings": [
                     "狐臭"
@@ -566,7 +565,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𦤣bó",
+                "pinyin": "bó",
                 "rhyme_book": "《集韻》薄没切，入没並。",
                 "meanings": [
                     "腐臭之气"
@@ -612,7 +611,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "³𦤧zhài",
+                "pinyin": "zhài",
                 "rhyme_book": "《廣韻》除邁切，去夬澄。",
                 "meanings": [
                     "臭气大",
@@ -629,7 +628,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤨wò",
+                "pinyin": "wò",
                 "rhyme_book": "《類篇》烏没切，入没影。",
                 "meanings": [
                     "臭气"
@@ -645,7 +644,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦤪yè",
+                "pinyin": "yè",
                 "rhyme_book": "《集韻》於歇切，入月影。",
                 "meanings": [
                     "物体腐败发出的臭气"
@@ -670,9 +669,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "bí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《餘文》音鼻。",
                 "meanings": [
-                    "《餘文》音鼻",
                     "首"
                 ]
             }
@@ -686,7 +684,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𦤬hài",
+                "pinyin": "hài",
                 "rhyme_book": "《廣韻》火犗切，去夬曉。",
                 "meanings": [
                     "〔𦤬𦤧〕臭"

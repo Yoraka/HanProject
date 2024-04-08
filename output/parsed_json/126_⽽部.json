@@ -84,7 +84,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "shuǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音儍。又《字彙》沙雅切。",
                 "meanings": [
                     "戏耍；玩耍",
                     "戏弄；捉弄",
@@ -216,10 +216,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦓐jué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "jué",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音玨。",
                 "meanings": [
-                    "《類篇》音玨",
                     "邑"
                 ]
             }
@@ -273,10 +272,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xū",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《併了部頭》相俞切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》相俞切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -288,7 +285,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𦓕nǘ",
+                "pinyin": "nǘ",
                 "rhyme_book": "《龍龕手鑑·而部》：“𦓕，尼于反。”",
                 "meanings": []
             }
@@ -302,7 +299,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𦓖nǜ",
+                "pinyin": "nǜ",
                 "rhyme_book": "《字彙補》乃谷切。",
                 "meanings": [
                     "忧愁貌"
@@ -397,7 +394,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𦓢nuò",
+                "pinyin": "nuò",
                 "rhyme_book": "《改併四聲篇海·而部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𦓢，奴卧切"

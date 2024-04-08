@@ -3,7 +3,6 @@ import hpsrc.data_processing.checkpointOne as checkpointOne
 import hpsrc.data_processing.json2vec as json2vec
 import hpsrc.data_processing.RadicalCollector as RadicalCollector
 from hpsrc.indexing.UnihanIRGs import UnihanIRGs
-from hpsrc.data_collector.basicDataCollector import BasicDataCollector
 import sys
 
 def run(argv):
@@ -43,11 +42,22 @@ def run(argv):
     print('All done.')
 
 def test_run():
+    from hpsrc.data_collector.basicDataCollector import BasicDataCollector
     basicDataCollector = BasicDataCollector()
     unihanIRGs = UnihanIRGs()
     basicDataCollector.collect_data(unihanIRGs)
     basicDataCollector.save_data()
+    basicDataCollector.data_to_csv()
+
+def test_run2():
+    from hpsrc.data_collector.strokes import Strokes
+    dataA = Strokes()
+    unihan_irgs = UnihanIRGs()
+    dataA.get_basic_data(unihan_irgs=unihan_irgs)
+    dataA.sort_by_strokes()
+    dataA.save_data()
+    dataA.plot_strokes_and_meanings_dict_normal(dataA.data)
 
 if __name__ == '__main__':
-    test_run()
+    test_run2()
     #run(sys.argv)

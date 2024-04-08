@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶔chí",
+                "pinyin": "chí",
                 "rhyme_book": "《廣韻》直離切，平支澄。",
                 "meanings": [
                     "牙龈外露"
@@ -22,7 +22,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶕bā",
+                "pinyin": "bā",
                 "rhyme_book": "《集韻》邦加切，平麻幫。又步化切。",
                 "meanings": [
                     "〔䶕齖〕牙齿不齐而外露貌"
@@ -165,7 +165,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸䶞qí",
+                "pinyin": "qí",
                 "rhyme_book": "《廣韻》渠之切，平之羣。又去其切。",
                 "meanings": [
                     "咬"
@@ -181,7 +181,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶟xiàn",
+                "pinyin": "xiàn",
                 "rhyme_book": "《集韻》乎韽切，去陷匣。",
                 "meanings": [
                     "怒齿"
@@ -207,9 +207,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "shí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》士乙切。",
                 "meanings": [
-                    "《川篇》士乙切",
                     "咬物声"
                 ]
             },
@@ -350,7 +349,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䶨zhān",
+                "pinyin": "zhān",
                 "rhyme_book": "《字彙》側咸切。",
                 "meanings": [
                     "〔䶨齺〕无牙而咀嚼之状"
@@ -383,7 +382,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁴䶪chà",
+                "pinyin": "chà",
                 "rhyme_book": "《集韻》初戛切，入黠初。",
                 "meanings": [
                     "齿利断物",
@@ -527,7 +526,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yǐn",
                 "rhyme_book": "yǐn　㊀《廣韻》宜引切，上軫疑。又《集韻》擬引切。",
                 "meanings": [
@@ -535,7 +534,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "yǐn",
                 "rhyme_book": "《集韻》語近切，上隱疑。",
                 "meanings": [
@@ -1053,15 +1052,15 @@
         "definitions": [
             {
                 "type": "single_sound_multi_rhyme_multi_meaning",
-                "pinyin": "齴yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "yǎn　㊀《廣韻》魚蹇切，上獮疑。",
                 "meanings": [
                     "笑"
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "齴yǎn",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "yǎn",
                 "rhyme_book": "《集韻》語限切，上産疑。",
                 "meanings": [
                     "〔棧齴〕高峻貌"
@@ -1206,7 +1205,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "齻diān",
+                "pinyin": "diān",
                 "rhyme_book": "《廣韻》都年切，平先端。真部。",
                 "meanings": [
                     "牙床末端最后长出的两对磨牙，医名第三恒磨牙，旧称智牙、真牙、牙末"
@@ -1426,7 +1425,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗔pà",
+                "pinyin": "pà",
                 "rhyme_book": "《廣韻》普八切，入黠滂。",
                 "meanings": [
                     "齿声"
@@ -1451,7 +1450,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗖jū",
+                "pinyin": "jū",
                 "rhyme_book": "《龍龕手鑑·齒部》：“𪗖，俗，音居。”",
                 "meanings": [
                     "《字彙補·齒部》：“𪗖，古於切，音居"
@@ -1510,7 +1509,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗜háng",
+                "pinyin": "háng",
                 "rhyme_book": "《篇海類編》胡郎切。",
                 "meanings": [
                     "啮"
@@ -1526,7 +1525,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_rhyme_multi_meaning",
-                "pinyin": "𪗝nà",
+                "pinyin": "nà",
                 "rhyme_book": "nà　㊀《集韻》諾盍切，入盍泥。",
                 "meanings": [
                     "啮",
@@ -1534,8 +1533,8 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
-                "pinyin": "𪗝nà",
+                "type": "single_sound_multi_rhyme_single_meaning",
+                "pinyin": "nà",
                 "rhyme_book": "《集韻》昵洽切，入洽泥。",
                 "meanings": [
                     "〔𪘾𪗝〕齿动貌"
@@ -1614,10 +1613,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗤yǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǎn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》五板切。",
                 "meanings": [
-                    "《川篇》五板切",
                     "𪗤齿不齐"
                 ]
             }
@@ -1640,7 +1638,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗦zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《集韻》陟陷切，去陷知。",
                 "meanings": [
                     "剔齿"
@@ -1656,10 +1654,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗧shǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shǐ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音史。",
                 "meanings": [
-                    "《川篇》音史",
                     "齿好"
                 ]
             }
@@ -1771,10 +1768,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗵zhā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhā",
+                "rhyme_book": "《改併四聲篇海》引《川篇》陟加切。",
                 "meanings": [
-                    "《川篇》陟加切",
                     "大齿"
                 ]
             }
@@ -1797,7 +1793,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗷yì",
+                "pinyin": "yì",
                 "rhyme_book": "《集韻》研計切，去霽疑。",
                 "meanings": [
                     "〔䶩𪗷〕见“䶩”"
@@ -1813,7 +1809,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗸míng",
+                "pinyin": "míng",
                 "rhyme_book": "《玉篇》莫丁切。",
                 "meanings": [
                     "牙齿"
@@ -1829,7 +1825,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗹yá",
+                "pinyin": "yá",
                 "rhyme_book": "《集韻》宜佳切，平佳疑。",
                 "meanings": [
                     "〔𪗶𪗹〕也作“𪗶𪘲”"
@@ -1929,7 +1925,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘀pián",
+                "pinyin": "pián",
                 "rhyme_book": "《集韻》蒲眠切，平先並。",
                 "meanings": [
                     "并齿；重牙"
@@ -1970,7 +1966,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘃yǐ",
+                "pinyin": "yǐ",
                 "rhyme_book": "《龍龕手鑑·齒部》：“𪘃，俗，于彼反。”",
                 "meanings": [
                     "《字彙補·齒部》：“𪘃，于彼切，音以"
@@ -2004,7 +2000,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘆xiū",
+                "pinyin": "xiū",
                 "rhyme_book": "《改併四聲篇海·齒部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𪘆，音休"
@@ -2020,7 +2016,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘇zhāi",
+                "pinyin": "zhāi",
                 "rhyme_book": "《改併四聲篇海·齒部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𪘇，知皆切"
@@ -2045,7 +2041,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘊è",
+                "pinyin": "è",
                 "rhyme_book": "《六書故》五各切。",
                 "meanings": [
                     "断齿貌"
@@ -2108,7 +2104,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘐è",
+                "pinyin": "è",
                 "rhyme_book": "《集韻》牛箇切，去箇疑。",
                 "meanings": [
                     "〔䶗𪘐〕见“䶗”"
@@ -2124,7 +2120,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘑suān",
+                "pinyin": "suān",
                 "rhyme_book": "《集韻》蘇官切，平桓心。",
                 "meanings": [
                     "齿酸"
@@ -2181,7 +2177,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘕tuó",
+                "pinyin": "tuó",
                 "rhyme_book": "《集韻》唐何切，平歌定。",
                 "meanings": [
                     "马齿长"
@@ -2206,7 +2202,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘗tuó",
+                "pinyin": "tuó",
                 "rhyme_book": "《龍龕手鑑》音陁。",
                 "meanings": [
                     "齿不正"
@@ -2240,7 +2236,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘛chuò",
+                "pinyin": "chuò",
                 "rhyme_book": null,
                 "meanings": [
                     "〔握𪘛〕也作“齷齪”"
@@ -2265,7 +2261,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘝suān",
+                "pinyin": "suān",
                 "rhyme_book": "《改併四聲篇海·齒部》引",
                 "meanings": [
                     "《類篇》：“𪘝，音酸"
@@ -2353,7 +2349,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘦qiǎn",
+                "pinyin": "qiǎn",
                 "rhyme_book": "《集韻》牽典切，上銑溪。",
                 "meanings": [
                     "〔𪘦齞〕齿露貌"
@@ -2425,7 +2421,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘪zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《廣韻》士板切，上潸崇。",
                 "meanings": [
                     "〔𪘪𪗙〕牙齿不正"
@@ -2564,7 +2560,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘳yuē",
+                "pinyin": "yuē",
                 "rhyme_book": "《改併四聲篇海·齒部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𪘳，於角切"
@@ -2616,7 +2612,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘹hé",
+                "pinyin": "hé",
                 "rhyme_book": "《集韻》何葛切，入曷匣。",
                 "meanings": [
                     "〔𪘼𪘹〕啮物声"
@@ -2632,7 +2628,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘺qià",
+                "pinyin": "qià",
                 "rhyme_book": "《集韻》丘駕切，去禡溪。",
                 "meanings": [
                     "〔𪘺齖〕齿出貌"
@@ -2675,7 +2671,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪘾chā",
+                "pinyin": "chā",
                 "rhyme_book": "《集韻》測洽切，入洽初。",
                 "meanings": [
                     "〔𪘾𪗝〕齿动貌"
@@ -2727,7 +2723,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙃óu",
+                "pinyin": "óu",
                 "rhyme_book": "《字彙補》五侯切。",
                 "meanings": [
                     "不平"
@@ -2986,7 +2982,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𪙛nì",
+                "pinyin": "nì",
                 "rhyme_book": "《集韻》昵力切，入職泥。",
                 "meanings": [
                     "齿疾"
@@ -3020,7 +3016,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙞chǎn",
+                "pinyin": "chǎn",
                 "rhyme_book": "《玉篇》初産切。",
                 "meanings": [
                     "小儿齿"
@@ -3036,7 +3032,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙟qǐn",
+                "pinyin": "qǐn",
                 "rhyme_book": "《集韻》口謹切，上隱溪。",
                 "meanings": [
                     "〔𪙟齗〕齿貌"
@@ -3052,7 +3048,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙡zāo",
+                "pinyin": "zāo",
                 "rhyme_book": null,
                 "meanings": [
                     "〔鏖𪙡〕也作“鏖糟”"
@@ -3112,7 +3108,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙦chuài",
+                "pinyin": "chuài",
                 "rhyme_book": "《集韻》楚快切，去夬初。",
                 "meanings": [
                     "剔牙齿"
@@ -3128,7 +3124,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙧qí",
+                "pinyin": "qí",
                 "rhyme_book": "《廣韻》渠希切，平微羣。",
                 "meanings": [
                     "齿危"
@@ -3173,7 +3169,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙫xū",
+                "pinyin": "xū",
                 "rhyme_book": "《龍龕手鑑》羌魚反。",
                 "meanings": [
                     "齿所居"
@@ -3198,7 +3194,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙭zèng",
+                "pinyin": "zèng",
                 "rhyme_book": "《龍龕手鑑·齒部》：“𪙭，",
                 "meanings": [
                     "《隨函》音繒"
@@ -3259,10 +3255,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙳zū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zū",
+                "rhyme_book": "《改併四聲篇海》引《餘文》側魚切。",
                 "meanings": [
-                    "《餘文》側魚切",
                     "齿不齐貌"
                 ]
             }
@@ -3321,7 +3316,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𪙹zhí",
+                "pinyin": "zhí",
                 "rhyme_book": "《玉篇》丁立切。又",
                 "meanings": [
                     "《五音集韻》陟立切",
@@ -3338,7 +3333,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙺lì",
+                "pinyin": "lì",
                 "rhyme_book": "《龍龕手鑑·齒部》：“𪙺，俗，力制反。”",
                 "meanings": [
                     "《字彙補·齒部》：“𪙺，力制切，音吏"
@@ -3363,7 +3358,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪙽lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》郎擊切，入錫來。",
                 "meanings": [
                     "齿病"
@@ -3415,7 +3410,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚃chán",
+                "pinyin": "chán",
                 "rhyme_book": "《集韻》鋤咸切，平咸崇。",
                 "meanings": [
                     "〔𪚃䶫〕齿高貌"
@@ -3440,7 +3435,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚅jué",
+                "pinyin": "jué",
                 "rhyme_book": "《〈孔子家語〉王肅注》疾雀反。",
                 "meanings": [
                     "〔齟𪚅〕即“齟嚼”"
@@ -3465,7 +3460,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪚇zá",
+                "pinyin": "zá",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𩖁𪚇〕1.龃龉"
@@ -3535,11 +3530,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁵𪚎zhāi",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《搜真玉鏡》知皆切"
-                ]
+                "pinyin": "zhāi",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》知皆切。齿生。《字彙補·齒部》：“𪚎，齒生也。”",
+                "meanings": []
             }
         ],
         "special_entries": []

@@ -51,7 +51,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "曱yuē",
+                "pinyin": "yuē",
                 "rhyme_book": "《字彙補》烏謔切。",
                 "meanings": [
                     "取物"
@@ -199,7 +199,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "hé",
                 "rhyme_book": "《集韻》丘葛切，入曷溪。",
                 "meanings": [
@@ -318,7 +318,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "màn",
                 "rhyme_book": "《集韻》莫半切，去换明。",
                 "meanings": [
@@ -326,7 +326,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "màn",
                 "rhyme_book": "《集韻》母伴切，上緩明。",
                 "meanings": [
@@ -511,7 +511,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "朄yǐn",
+                "pinyin": "yǐn",
                 "rhyme_book": "《廣韻》羊晋切，去震以。又",
                 "meanings": [
                     "《集韻》以忍切",
@@ -639,7 +639,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣌨xún",
+                "pinyin": "xún",
                 "rhyme_book": "《玉篇》音荀。",
                 "meanings": [
                     "均匀"
@@ -718,7 +718,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣌾tōng",
+                "pinyin": "tōng",
                 "rhyme_book": "《集韻》他東切，平東透。",
                 "meanings": [
                     "鼓声远闻"
@@ -769,7 +769,7 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qǔ（又读jù）",
-                "rhyme_book": null,
+                "rhyme_book": "《改併四聲篇海》引《玉篇》子覷、子與二切。",
                 "meanings": [
                     "〔𣍏𣍇〕见“𣍏”"
                 ]
@@ -802,7 +802,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣍏chà",
+                "pinyin": "chà",
                 "rhyme_book": "《篇海類編》丑亞切。",
                 "meanings": [
                     "〔𣍏𣍇〕地名"

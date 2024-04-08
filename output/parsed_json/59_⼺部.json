@@ -534,9 +534,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《併了部頭》音陝。",
                 "meanings": [
-                    "《併了部頭》音陝",
                     "姓"
                 ]
             }
@@ -697,9 +696,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "diū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》丁幽切。",
                 "meanings": [
-                    "《搜真玉鏡》丁幽切",
                     "採"
                 ]
             }
@@ -950,7 +948,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "óu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》步侯切。",
                 "meanings": [
                     "短须",
                     "发白"

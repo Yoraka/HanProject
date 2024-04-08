@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²䜪qiú",
+                "pinyin": "qiú",
                 "rhyme_book": "《廣韻》巨鳩切，平尤羣。",
                 "meanings": [
                     "〔䜱䜪〕见“䜱”"
@@ -97,7 +97,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䜯jú",
+                "pinyin": "jú",
                 "rhyme_book": "《廣韻》渠竹切，入屋羣。",
                 "meanings": [
                     "谷名"
@@ -122,7 +122,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䜱mán",
+                "pinyin": "mán",
                 "rhyme_book": "《廣韻》母官切，平桓明。",
                 "meanings": [
                     "〔䜱䜪〕古亭名"
@@ -209,7 +209,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "谹hóng",
+                "pinyin": "hóng",
                 "rhyme_book": "《玉篇》胡萌切。",
                 "meanings": [
                     "谷空貌",
@@ -226,7 +226,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "谺xiā",
+                "pinyin": "xiā",
                 "rhyme_book": "《廣韻》許加切，平麻曉。",
                 "meanings": [
                     "〔𧮰谺〕见“𧮰”"
@@ -259,7 +259,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "谼hóng",
+                "pinyin": "hóng",
                 "rhyme_book": "《廣韻》户公切，平東匣。",
                 "meanings": [
                     "大谷；深沟",
@@ -277,7 +277,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "谽hān",
+                "pinyin": "hān",
                 "rhyme_book": "《廣韻》火含切，平覃曉。",
                 "meanings": [
                     "〔谽谺〕1.山谷空大貌"
@@ -553,7 +553,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "qiān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音千。",
                 "meanings": [
                     "山名"
                 ]
@@ -577,7 +577,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮰hān",
+                "pinyin": "hān",
                 "rhyme_book": "《廣韻》許咸切，平咸曉。",
                 "meanings": [
                     "〔𧮰谺〕也作“谽谺”"
@@ -593,7 +593,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮱fén",
+                "pinyin": "fén",
                 "rhyme_book": "《廣韻》符分切，平文奉。",
                 "meanings": [
                     "谷名"
@@ -618,7 +618,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵𧮳hān",
+                "pinyin": "hān",
                 "rhyme_book": "《韻會》呼甘切。",
                 "meanings": [
                     "〔𧮳閜〕陵谷之形"
@@ -634,11 +634,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮴hóng",
-                "rhyme_book": "《改併四聲篇海·谷部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧮴，胡萌切"
-                ]
+                "pinyin": "hóng",
+                "rhyme_book": "《改併四聲篇海·谷部》引《搜真玉鏡》：“𧮴，胡萌切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -650,7 +648,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮵hé",
+                "pinyin": "hé",
                 "rhyme_book": "《篇海類編》音合。",
                 "meanings": [
                     "两山相合"
@@ -666,7 +664,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮶hóu",
+                "pinyin": "hóu",
                 "rhyme_book": "《廣韻》户鈎切，平侯匣。",
                 "meanings": [
                     "谷名"
@@ -700,7 +698,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮺zhàn",
+                "pinyin": "zhàn",
                 "rhyme_book": "《集韻》仕諫切，去諫崇。",
                 "meanings": [
                     "谷名"
@@ -740,7 +738,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮼tàl",
+                "pinyin": "tàl",
                 "rhyme_book": "《列子釋文》音泰。",
                 "meanings": [
                     "〔𧮼𠱛〕即“泰丙”"
@@ -756,7 +754,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮽qiàn",
+                "pinyin": "qiàn",
                 "rhyme_book": "《集韻》口陷切，去陷溪。",
                 "meanings": [
                     "虎怒貌"
@@ -772,11 +770,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧮿shè",
-                "rhyme_book": "《改併四聲篇海·谷部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“谽，音舍"
-                ]
+                "pinyin": "shè",
+                "rhyme_book": "《改併四聲篇海·谷部》引《搜真玉鏡》：“谽，音舍。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -788,7 +784,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸𧯀yīng",
+                "pinyin": "yīng",
                 "rhyme_book": "《集韻》於驚切，平庚影。",
                 "meanings": [
                     "山谷名"
@@ -822,10 +818,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹𧯃qīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qīn",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音欽。",
                 "meanings": [
-                    "《類篇》音欽",
                     "〔谺𧯃〕谷空貌"
                 ]
             }
@@ -884,7 +879,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧯌hāo",
+                "pinyin": "hāo",
                 "rhyme_book": "《廣韻》呼毛切，平豪曉。",
                 "meanings": [
                     "〔𧯌䜮〕1.深谷貌"
@@ -900,7 +895,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧯍lào",
+                "pinyin": "lào",
                 "rhyme_book": "《集韻》郎到切，去号來。",
                 "meanings": [
                     "谷空貌"
@@ -925,7 +920,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𧯏lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "谷名"
@@ -977,7 +972,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁴𧯖jùn",
+                "pinyin": "jùn",
                 "rhyme_book": "《集韻》須閏切，去稕心。",
                 "meanings": [
                     "深谷"
@@ -993,11 +988,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁸𧯗xī",
-                "rhyme_book": "《改併四聲篇海·谷部》引",
-                "meanings": [
-                    "《類篇》：“𧯗，音奚"
-                ]
+                "pinyin": "xī",
+                "rhyme_book": "《改併四聲篇海·谷部》引《類篇》：“𧯗，音奚。”",
+                "meanings": []
             }
         ],
         "special_entries": []

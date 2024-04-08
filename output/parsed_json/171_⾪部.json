@@ -86,11 +86,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𨽷lián",
-                "rhyme_book": "《改併四聲篇海·隶部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𨽷，良賢切"
-                ]
+                "pinyin": "lián",
+                "rhyme_book": "《改併四聲篇海·隶部》引《搜真玉鏡》：“𨽷，良賢切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -120,10 +118,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "lì",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》郎計切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》郎計切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -198,7 +194,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𨾂wèi",
+                "pinyin": "wèi",
                 "rhyme_book": "《廣韻》于貴切，去未云。",
                 "meanings": [
                     "兽名"

@@ -51,7 +51,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "亠tóu",
+                "pinyin": "tóu",
                 "rhyme_book": "《龍龕手鑑·亠部》：“亠，徒侯反。”",
                 "meanings": [
                     "《正字通·亠部》：“亠字，六書不用為字母，本無音義"
@@ -438,7 +438,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "亴yòu",
+                "pinyin": "yòu",
                 "rhyme_book": "《字彙補》魚救切。",
                 "meanings": [
                     "飞"
@@ -547,7 +547,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³𠅂jié",
+                "pinyin": "jié",
                 "rhyme_book": "《字彙補·亠部》：“𠅂，古折切，音結。出",
                 "meanings": [
                     "《西江賦》"
@@ -590,7 +590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𠅌yí",
+                "pinyin": "yí",
                 "rhyme_book": "《龍龕手鑑》音夷。",
                 "meanings": [
                     "花名"
@@ -633,7 +633,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠅚qí",
+                "pinyin": "qí",
                 "rhyme_book": "《改併四聲篇海·亠部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠅚，音畦"
@@ -855,11 +855,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𠆐xù",
-                "rhyme_book": "《改併四聲篇海·亠部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠆐，血役切"
-                ]
+                "pinyin": "xù",
+                "rhyme_book": "《改併四聲篇海·亠部》引《搜真玉鏡》：“𠆐，血役切。”",
+                "meanings": []
             }
         ],
         "special_entries": []

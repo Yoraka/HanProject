@@ -33,7 +33,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㿠huàng",
+                "pinyin": "huàng",
                 "rhyme_book": null,
                 "meanings": [
                     "面部因气血虚少而发白的病色"
@@ -67,7 +67,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㿣hè",
+                "pinyin": "hè",
                 "rhyme_book": "《廣韻》許葛切，入曷曉。",
                 "meanings": [
                     "白色"
@@ -83,7 +83,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁹㿤chǔn",
+                "pinyin": "chǔn",
                 "rhyme_book": "《玉篇》昌尹切。",
                 "meanings": [
                     "白"
@@ -115,7 +115,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㿦nìng",
+                "pinyin": "nìng",
                 "rhyme_book": "《集韻》乃定切，去徑泥。",
                 "meanings": [
                     "告"
@@ -156,7 +156,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "⁰㿩tǎng",
+                "pinyin": "tǎng",
                 "rhyme_book": "《廣韻》他朗切，上蕩透。",
                 "meanings": [
                     "明"
@@ -539,7 +539,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵皌mò",
+                "pinyin": "mò",
                 "rhyme_book": "《集韻》莫葛切，入末明。",
                 "meanings": [
                     "〔𤽌皌〕见“𤽌”"
@@ -584,7 +584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "皏pěng",
+                "pinyin": "pěng",
                 "rhyme_book": "《廣韻》普幸切，上耿滂。",
                 "meanings": [
                     "浅白色"
@@ -618,7 +618,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "皒é",
+                "pinyin": "é",
                 "rhyme_book": "《集韻》牛河切，平歌疑。",
                 "meanings": [
                     "〔皒皒〕白色"
@@ -662,7 +662,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "皔hàn",
+                "pinyin": "hàn",
                 "rhyme_book": "《廣韻》胡笴切，上旱匣。",
                 "meanings": []
             }
@@ -735,7 +735,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁸皘qiàn",
+                "pinyin": "qiàn",
                 "rhyme_book": "《集韻》倉甸切，去霰清。",
                 "meanings": [
                     "白色"
@@ -819,7 +819,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰皝huàng",
+                "pinyin": "huàng",
                 "rhyme_book": "《廣韻》胡廣切，上蕩匣。",
                 "meanings": [
                     "人名用字"
@@ -853,7 +853,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "¹皟zé",
+                "pinyin": "zé",
                 "rhyme_book": "《廣韻》楚革切，入麥初。又",
                 "meanings": [
                     "洁净",
@@ -1096,11 +1096,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠌟sǒu",
-                "rhyme_book": "《改併四聲篇海·白部》引",
-                "meanings": [
-                    "《類篇》：“𠌟，音叟"
-                ]
+                "pinyin": "sǒu",
+                "rhyme_book": "《改併四聲篇海·白部》引《類篇》：“𠌟，音叟。”《字彙補·白部》：“𠌟，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1139,7 +1137,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𤽁zhī",
+                "pinyin": "zhī",
                 "rhyme_book": "《字彙補》照基切。",
                 "meanings": [
                     "白"
@@ -1164,7 +1162,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽃mèi",
+                "pinyin": "mèi",
                 "rhyme_book": "《集韻》彌蔽切，去祭明。",
                 "meanings": [
                     "布帛幅边"
@@ -1180,7 +1178,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽅huàn",
+                "pinyin": "huàn",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤽅，胡貫切"
@@ -1223,7 +1221,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽉pā",
+                "pinyin": "pā",
                 "rhyme_book": "《字彙》普巴切。",
                 "meanings": [
                     "分明貌"
@@ -1239,7 +1237,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽊bǐ",
+                "pinyin": "bǐ",
                 "rhyme_book": "《廣韻》補米切，上薺幫。",
                 "meanings": [
                     "明白"
@@ -1264,7 +1262,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽌pō",
+                "pinyin": "pō",
                 "rhyme_book": "《集韻》普活切，入末滂。",
                 "meanings": [
                     "〔𤽌皌〕浅白色"
@@ -1316,7 +1314,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽕huàn",
+                "pinyin": "huàn",
                 "rhyme_book": "《字彙補·白部》：“𤽕，呼貫切，音唤。出",
                 "meanings": [
                     "《海篇》"
@@ -1386,7 +1384,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽣chàng",
+                "pinyin": "chàng",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤽣，音暢"
@@ -1418,7 +1416,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽦fǒu",
+                "pinyin": "fǒu",
                 "rhyme_book": "《集韻》俯九切，上有非。",
                 "meanings": [
                     "白"
@@ -1470,7 +1468,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽱zú",
+                "pinyin": "zú",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤽱，足、拍二音"
@@ -1486,7 +1484,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽲nán",
+                "pinyin": "nán",
                 "rhyme_book": "《龍龕手鑑·白部》：“𤽲，音男。”",
                 "meanings": [
                     "《字彙補·白部》：“𤽲，乃凡切，音男"
@@ -1502,7 +1500,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽳xiǎo",
+                "pinyin": "xiǎo",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤽳，音曉"
@@ -1518,7 +1516,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽹bài",
+                "pinyin": "bài",
                 "rhyme_book": "《集韻》旁卦切，去卦並。",
                 "meanings": [
                     "白皮"
@@ -1534,7 +1532,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽺lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》盧谷切，入屋來。",
                 "meanings": [
                     "白兽"
@@ -1594,7 +1592,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤽿niàn",
+                "pinyin": "niàn",
                 "rhyme_book": "《字彙補》乃店切。",
                 "meanings": [
                     "船木"
@@ -1619,11 +1617,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾄zhù",
-                "rhyme_book": "《改併四聲篇海·白部》引",
-                "meanings": [
-                    "《類篇》：“𤾄，音柱"
-                ]
+                "pinyin": "zhù",
+                "rhyme_book": "《改併四聲篇海·白部》引《類篇》：“𤾄，音柱。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1635,7 +1631,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾅hú",
+                "pinyin": "hú",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𤾅，胡谷切"
@@ -1669,7 +1665,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾈huī",
+                "pinyin": "huī",
                 "rhyme_book": "《龍龕手鑑》音暉。",
                 "meanings": [
                     "白"
@@ -1685,7 +1681,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾉tǎng",
+                "pinyin": "tǎng",
                 "rhyme_book": "《集韻》坦朗切，上蕩透。",
                 "meanings": [
                     "白色"
@@ -1719,7 +1715,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾑huáng",
+                "pinyin": "huáng",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤾑，音皇"
@@ -1735,7 +1731,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾒dōu",
+                "pinyin": "dōu",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤾒，音兜"
@@ -1769,7 +1765,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾛miào",
+                "pinyin": "miào",
                 "rhyme_book": "《集韻》彌笑切，去笑明。又",
                 "meanings": [
                     "《玉篇》毗照切",
@@ -1795,7 +1791,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾝bó",
+                "pinyin": "bó",
                 "rhyme_book": "《玉篇》傍伯切。",
                 "meanings": [
                     "麻白"
@@ -1838,7 +1834,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾢děng",
+                "pinyin": "děng",
                 "rhyme_book": "《集韻》得肯切，上等端。",
                 "meanings": [
                     "白",
@@ -1855,7 +1851,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾣pū",
+                "pinyin": "pū",
                 "rhyme_book": "《集韻》普木切，入屋滂。",
                 "meanings": [
                     "物气蒸白"
@@ -1880,7 +1876,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾥sōng",
+                "pinyin": "sōng",
                 "rhyme_book": "《集韻》蘇叢切，平東心。",
                 "meanings": [
                     "素白"
@@ -1932,7 +1928,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾫yào",
+                "pinyin": "yào",
                 "rhyme_book": "《集韻》弋笑切，去笑以。",
                 "meanings": [
                     "白色"
@@ -1948,7 +1944,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾬měng",
+                "pinyin": "měng",
                 "rhyme_book": "《廣韻》莫孔切，上董明。又",
                 "meanings": [
                     "《集韻》謨蓬切",
@@ -1965,7 +1961,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾭lóng",
+                "pinyin": "lóng",
                 "rhyme_book": "《字彙補》盧窮切。",
                 "meanings": [
                     "〔𤾭歷〕古代宫庭内左右小门名"
@@ -1981,10 +1977,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾲lián",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lián",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音廉。",
                 "meanings": [
-                    "《類篇》音廉",
                     "白光"
                 ]
             }
@@ -2016,7 +2011,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾵bié",
+                "pinyin": "bié",
                 "rhyme_book": "《龍龕手鑑·白部》并滅反。",
                 "meanings": [
                     "莹白"
@@ -2050,7 +2045,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁶𤾺lǚ",
+                "pinyin": "lǚ",
                 "rhyme_book": "《改併四聲篇海·白部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𤾺，力拒切"
@@ -2093,7 +2088,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𤾿sè",
+                "pinyin": "sè",
                 "rhyme_book": "《字彙補·白部》：“𤾿，山責切，音色。見",
                 "meanings": [
                     "《金鏡》"
@@ -2109,7 +2104,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𤿀zā",
+                "pinyin": "zā",
                 "rhyme_book": "《集韻》子末切，入末精。",
                 "meanings": []
             }
@@ -2132,7 +2127,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁴𤿅líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "白色"

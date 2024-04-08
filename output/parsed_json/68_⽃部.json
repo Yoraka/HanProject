@@ -7,9 +7,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》訖黠切。",
                 "meanings": [
-                    "《川篇》訖黠切",
                     "量"
                 ]
             }
@@ -165,9 +164,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shēng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音升。",
                 "meanings": [
-                    "《龍龕手鑑》音升",
                     "登"
                 ]
             }
@@ -441,10 +439,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "liáo",
-                "rhyme_book": "《改併四聲篇海·斤部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣁰，音寮"
-                ]
+                "rhyme_book": "《改併四聲篇海·斤部》引《搜真玉鏡》：“𣁰，音寮。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -498,9 +494,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dǒu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音斗。",
                 "meanings": [
-                    "《搜真玉鏡》音斗",
                     "古代酒器"
                 ]
             }
@@ -524,9 +519,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "liè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音劣。",
                 "meanings": [
-                    "《川篇》音劣",
                     "量"
                 ]
             }
@@ -565,10 +559,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "luō",
-                "rhyme_book": "《改併四聲篇海·斗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣁻，音捋"
-                ]
+                "rhyme_book": "《改併四聲篇海·斗部》引《搜真玉鏡》：“𣁻，音捋。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -664,10 +656,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qiāo",
-                "rhyme_book": "《改併四聲篇海·斗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𣂇，七遥切"
-                ]
+                "rhyme_book": "《改併四聲篇海·斗部》引《搜真玉鏡》：“𣂇，七遥切。”",
+                "meanings": []
             }
         ],
         "special_entries": []

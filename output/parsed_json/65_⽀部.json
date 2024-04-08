@@ -299,10 +299,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jì",
-                "rhyme_book": "《改併四聲篇海·支部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢺼，音忌"
-                ]
+                "rhyme_book": "《改併四聲篇海·支部》引《搜真玉鏡》：“𢺼，音忌。”《字彙補·支部》：“𢺼，渠替切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -360,10 +358,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fǔ",
-                "rhyme_book": "《改併四聲篇海·支部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢻀，音府"
-                ]
+                "rhyme_book": "《改併四聲篇海·支部》引《搜真玉鏡》：“𢻀，音府。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -384,7 +380,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢻂guī",
+                "pinyin": "guī",
                 "rhyme_book": "《集韻》俱為切，平支見。",
                 "meanings": [
                     "器名"
@@ -444,10 +440,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hāo",
-                "rhyme_book": "《改併四聲篇海·支部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𢻇，呼高切"
-                ]
+                "rhyme_book": "《改併四聲篇海·支部》引《龍龕手鑑》：“𢻇，呼高切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -460,10 +454,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gǎi",
-                "rhyme_book": "《改併四聲篇海·支部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢻉，音改"
-                ]
+                "rhyme_book": "《改併四聲篇海·支部》引《搜真玉鏡》：“𢻉，音改。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -485,10 +477,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qí",
-                "rhyme_book": "《改併四聲篇海·支部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢻋，音歧"
-                ]
+                "rhyme_book": "《改併四聲篇海·支部》引《搜真玉鏡》：“𢻋，音歧。”《字彙補·支部》：“𢻋，渠時切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []

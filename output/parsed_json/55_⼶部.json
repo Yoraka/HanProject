@@ -156,7 +156,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "弅fèn",
+                "pinyin": "fèn",
                 "rhyme_book": "《廣韻》房吻切，上吻奉。諄部。",
                 "meanings": [
                     "山丘高起貌"
@@ -354,7 +354,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢌲yìn",
+                "pinyin": "yìn",
                 "rhyme_book": "《龍龕手鑑·山部》：“𢌲，古文，音印。”",
                 "meanings": [
                     "《風俗通·愆禮》：“瓊薨既葬，負𥭊𢌲涉，齎一盤醊，哭於墳前"
@@ -404,7 +404,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢌷qū",
+                "pinyin": "qū",
                 "rhyme_book": null,
                 "meanings": [
                     "山湾的最后部"
@@ -429,7 +429,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢌹fú",
+                "pinyin": "fú",
                 "rhyme_book": "《龍龕手鑑·廾部》：“𢌹，福、四二音。”",
                 "meanings": [
                     "《字彙補·廾部》：“𢌹，夫卜切，音福"
@@ -584,7 +584,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍇jì",
+                "pinyin": "jì",
                 "rhyme_book": "《龍龕手鑑·廾部》：“𢍇，音忌。”",
                 "meanings": [
                     "《字彙補·廾部》：“𢍇，其詣切"
@@ -684,7 +684,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍑qí",
+                "pinyin": "qí",
                 "rhyme_book": "《改併四聲篇海·廾部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𢍑，音其"
@@ -709,11 +709,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍓gǎi",
-                "rhyme_book": "《改併四聲篇海·廾部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢍓，音改"
-                ]
+                "pinyin": "gǎi",
+                "rhyme_book": "《改併四聲篇海·廾部》引《搜真玉鏡》：“𢍓，音改。”《字彙補·廾部》：“𢍓，古藹切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -734,7 +732,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍕quàn",
+                "pinyin": "quàn",
                 "rhyme_book": "《字彙》去願切。",
                 "meanings": [
                     "穿在牛鼻上用以连接牛绳的环状物"
@@ -883,7 +881,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢍧zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《玉篇》猪利切。",
                 "meanings": [
                     "置"

@@ -7,9 +7,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhòng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》職衆切。",
                 "meanings": [
-                    "《龍龕手鑑》職衆切",
                     "心气"
                 ]
             }
@@ -602,9 +601,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音因。",
                 "meanings": [
-                    "《龍龕手鑑》音因",
                     "〔𣱜氣〕元气"
                 ]
             }
@@ -678,10 +676,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gǔ",
-                "rhyme_book": "《改併四聲篇海·气部》引",
-                "meanings": [
-                    "《俗字背篇》：“𣱫，音汩"
-                ]
+                "rhyme_book": "《改併四聲篇海·气部》引《俗字背篇》：“𣱫，音汩。”《字彙補·气部》：“𣱫，古託切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []

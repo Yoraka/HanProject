@@ -196,10 +196,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yāo",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《俗字背篇》伊雕切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》伊雕切。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -369,7 +367,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "乒pī",
+                "pinyin": "pī",
                 "rhyme_book": null,
                 "meanings": [
                     "象声词"
@@ -385,7 +383,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "乓pāng",
+                "pinyin": "pāng",
                 "rhyme_book": null,
                 "meanings": [
                     "象声词"
@@ -567,7 +565,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂈jié",
+                "pinyin": "jié",
                 "rhyme_book": "《字彙補》居竭切。",
                 "meanings": [
                     "〔𡳾𠂈〕动貌"
@@ -601,7 +599,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂑zōu",
+                "pinyin": "zōu",
                 "rhyme_book": "《通志·六書略》則侯切。",
                 "meanings": [
                     "古时符信的左半部"
@@ -687,11 +685,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂟jī",
-                "rhyme_book": "《改併四聲篇海·丿部》引",
-                "meanings": [
-                    "《俗字背篇》：“𠂟，音今"
-                ]
+                "pinyin": "jī",
+                "rhyme_book": "《改併四聲篇海·丿部》引《俗字背篇》：“𠂟，音今。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -746,7 +742,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂥cóng",
+                "pinyin": "cóng",
                 "rhyme_book": "《五音集韻》藏宗切。",
                 "meanings": [
                     "从"
@@ -771,7 +767,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠂧shèn",
+                "pinyin": "shèn",
                 "rhyme_book": "《字彙補·丿部》：“𠂧，時印切，音慎，義闕。”",
                 "meanings": []
             }

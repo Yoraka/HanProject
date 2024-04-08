@@ -112,7 +112,7 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "shēng",
-                "rhyme_book": null,
+                "rhyme_book": "《改併四聲篇海·士部》引《併了部頭》：“声，音聲。俗用。”按：今为“聲”的简化字。",
                 "meanings": []
             },
             {
@@ -308,7 +308,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "壾mǎng",
+                "pinyin": "mǎng",
                 "rhyme_book": "《廣韻》模朗切，上蕩明。",
                 "meanings": [
                     "人名用字",
@@ -343,7 +343,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡅕xǐ",
+                "pinyin": "xǐ",
                 "rhyme_book": null,
                 "meanings": [
                     "喜庆用字，俗称双喜"
@@ -368,11 +368,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡔜yáo",
-                "rhyme_book": "《改併四聲篇海·士部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𡔜，音堯"
-                ]
+                "pinyin": "yáo",
+                "rhyme_book": "《改併四聲篇海·士部》引《龍龕手鑑》：“𡔜，音堯。”《字彙補·士部》：“𡔜，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -454,7 +452,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡔪shù",
+                "pinyin": "shù",
                 "rhyme_book": "《龍龕手鑑·雜部》：“𡔪，古文，音樹。”按：疑为“壴”的古文。",
                 "meanings": []
             }
@@ -531,11 +529,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡔴yù",
-                "rhyme_book": "《改併四聲篇海·士部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𡔴，音育字"
-                ]
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海·士部》引《龍龕手鑑》：“𡔴，音育字。”《字彙補·士部》：“𡔴，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -610,11 +606,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡕁zhān",
-                "rhyme_book": "《改併四聲篇海·士部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𡕁，音占"
-                ]
+                "pinyin": "zhān",
+                "rhyme_book": "《改併四聲篇海·士部》引《龍龕手鑑》：“𡕁，音占。”《字彙補·士部》：“𡕁，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -680,11 +674,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡕉āng",
-                "rhyme_book": "《改併四聲篇海·士部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𡕉，於旁切"
-                ]
+                "pinyin": "āng",
+                "rhyme_book": "《改併四聲篇海·士部》引《龍龕手鑑》：“𡕉，於旁切。”《字彙補·士部》：“𡕉，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -714,7 +706,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡕏sǎng",
+                "pinyin": "sǎng",
                 "rhyme_book": "《集韻》寫朗切，上蕩心。",
                 "meanings": [
                     "鼓材；鼓匡木"
@@ -730,7 +722,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡕐chóu",
+                "pinyin": "chóu",
                 "rhyme_book": "《改併四聲篇海·士部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𡕐，音紬"

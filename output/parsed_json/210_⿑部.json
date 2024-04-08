@@ -250,7 +250,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𪗅qí",
+                "pinyin": "qí",
                 "rhyme_book": "《玉篇》音齊。",
                 "meanings": [
                     "病"
@@ -384,10 +384,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²³𪗐zī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zī",
+                "rhyme_book": "《改併四聲篇海》引《類篇》即移切。",
                 "meanings": [
-                    "《類篇》即移切",
                     "盛黍稷的器具"
                 ]
             }

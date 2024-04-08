@@ -457,7 +457,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xiàn",
                 "rhyme_book": "",
                 "meanings": [
@@ -465,7 +465,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xiàn",
                 "rhyme_book": "《集韻》乎韽切，去陷曉。",
                 "meanings": [
@@ -742,10 +742,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lǒu",
-                "rhyme_book": "《改併四聲篇海·豆部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𧯨，力斗切"
-                ]
+                "rhyme_book": "《改併四聲篇海·豆部》引《搜真玉鏡》：“𧯨，力斗切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -940,10 +938,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧯼shòu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "shòu",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音授。",
                 "meanings": [
-                    "《川篇》音授",
                     "德"
                 ]
             }
@@ -957,7 +954,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧯾dōng",
+                "pinyin": "dōng",
                 "rhyme_book": "《集韻》都籠切，平東端。",
                 "meanings": [
                     "〔𧯾𧯾〕鼓声"
@@ -1066,10 +1063,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰇yǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǔ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音庾。",
                 "meanings": [
-                    "《川篇》音庾",
                     "量"
                 ]
             }
@@ -1106,7 +1102,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰊tián",
+                "pinyin": "tián",
                 "rhyme_book": "《集韻》亭年切，平先定。",
                 "meanings": [
                     "〔𧰊𧰊〕鼓声"
@@ -1183,7 +1179,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰒guó",
+                "pinyin": "guó",
                 "rhyme_book": "《集韻》古獲切，入麥見。",
                 "meanings": [
                     "〔𧰒𧰡〕鼓声"
@@ -1217,7 +1213,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰘tán",
+                "pinyin": "tán",
                 "rhyme_book": "《集韻》徒南切，平覃定。",
                 "meanings": [
                     "鼓声"
@@ -1271,7 +1267,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰠liè",
+                "pinyin": "liè",
                 "rhyme_book": "《集韻》力涉切，入葉來。",
                 "meanings": [
                     "鼓声"
@@ -1287,7 +1283,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧰡lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "〔𧰒𧰡〕见“𧰒”"
@@ -1312,7 +1308,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²³𧰣xūn",
+                "pinyin": "xūn",
                 "rhyme_book": "《集韻》許云切，平文曉。",
                 "meanings": [
                     "鼓鸣"

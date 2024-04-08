@@ -318,11 +318,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢀕shī",
-                "rhyme_book": "《改併四聲篇海·工部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢀕，音虱"
-                ]
+                "pinyin": "shī",
+                "rhyme_book": "《改併四聲篇海·工部》引《搜真玉鏡》：“𢀕，音虱。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -334,7 +332,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢀗wàn",
+                "pinyin": "wàn",
                 "rhyme_book": "《字彙補》文飯切。",
                 "meanings": [
                     "*如来*胸前吉祥标识“卍”或“卐”的变体"
@@ -350,7 +348,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𢀘yě",
+                "pinyin": "yě",
                 "rhyme_book": "《改併四聲篇海·工部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𢀘，音也"
@@ -459,7 +457,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𢀪ěr",
+                "pinyin": "ěr",
                 "rhyme_book": "《龍龕手鑑·雜部》：“𢀪，音尔。”",
                 "meanings": [
                     "《字彙補·工部》：“𢀪，人里切，音爾"

@@ -182,9 +182,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "píng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》皮榮切。",
                 "meanings": [
-                    "《奚韻》皮榮切",
                     "玉名"
                 ]
             }
@@ -783,9 +782,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xuān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》許緣切。",
                 "meanings": [
-                    "《類篇》許緣切",
                     "空隙"
                 ]
             }
@@ -1003,9 +1001,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qiú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音虬。",
                 "meanings": [
-                    "《奚韻》音虬",
                     "玉名"
                 ]
             }
@@ -1523,9 +1520,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音亶。",
                 "meanings": [
-                    "《川篇》音亶",
                     "玉名"
                 ]
             }
@@ -2735,9 +2731,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jùn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》居峻切。",
                 "meanings": [
-                    "《奚韻》居峻切",
                     "美玉"
                 ]
             }
@@ -2805,7 +2800,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xiàn",
                 "rhyme_book": "《集韻》胡典切，上銑匣。",
                 "meanings": [
@@ -3914,7 +3909,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "",
                 "meanings": [
@@ -3923,7 +3918,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mào",
                 "rhyme_book": "《廣韻》莫佩切，去隊明。又莫沃切。",
                 "meanings": [
@@ -5795,9 +5790,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tián",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音田。",
                 "meanings": [
-                    "《類篇》音田",
                     "玉光"
                 ]
             }
@@ -6278,7 +6272,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音歷。",
                 "meanings": []
             }
         ],
@@ -6525,10 +6519,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wū",
-                "rhyme_book": "《改併四聲篇海·玉部》引",
-                "meanings": [
-                    "《類篇》：“𤣬，音污"
-                ]
+                "rhyme_book": "《改併四聲篇海·玉部》引《類篇》：“𤣬，音污。”《字彙補·玉部》：“𤣬，音污。見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -6617,9 +6609,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "sī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音私。",
                 "meanings": [
-                    "《奚韻》音私",
                     "玉名"
                 ]
             }
@@ -6634,10 +6625,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jīn",
-                "rhyme_book": "《改併四聲篇海·玉部》引",
-                "meanings": [
-                    "《類篇》：“𤣶，音金"
-                ]
+                "rhyme_book": "《改併四聲篇海·玉部》引《類篇》：“𤣶，音金。”《字彙補·玉部》：“𤣶，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -6650,9 +6639,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音八。",
                 "meanings": [
-                    "《奚韻》音八",
                     "玉"
                 ]
             }
@@ -6667,9 +6655,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fǎ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音法。",
                 "meanings": [
-                    "《川篇》音法",
                     "玉名"
                 ]
             }
@@ -6693,9 +6680,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "ruò",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》仁劣切。",
                 "meanings": [
-                    "《奚韻》仁劣切",
                     "〔𤣼𤣼〕动貌"
                 ]
             }
@@ -6828,9 +6814,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qióng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音卭。",
                 "meanings": [
-                    "《川篇》音卭",
                     "玉环"
                 ]
             }
@@ -6983,9 +6968,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音徙。",
                 "meanings": [
-                    "《川篇》音徙",
                     "玉印"
                 ]
             }
@@ -7000,9 +6984,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音孔。",
                 "meanings": [
-                    "《川篇》音孔",
                     "玉"
                 ]
             }
@@ -7135,10 +7118,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xī",
-                "rhyme_book": "《改併四聲篇海·玉部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𤥒，音西"
-                ]
+                "rhyme_book": "《改併四聲篇海·玉部》引《搜真玉鏡》：“𤥒，音西。”《字彙補·玉部》：“𤥒，松奇切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7357,9 +7338,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "quán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》全、旋二音。",
                 "meanings": [
-                    "《龍龕手鑑》全、旋二音",
                     "似玉的石"
                 ]
             }
@@ -7615,9 +7595,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音治。",
                 "meanings": [
-                    "《川篇》音治",
                     "玉"
                 ]
             }
@@ -7729,10 +7708,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "líng",
-                "rhyme_book": "《改併四聲篇海·玉部》引",
-                "meanings": [
-                    "《類篇》：“𤧘，音苓"
-                ]
+                "rhyme_book": "《改併四聲篇海·玉部》引《類篇》：“𤧘，音苓。”《字彙補·玉部》：“𤧘，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -7811,9 +7788,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "ruǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音阮。",
                 "meanings": [
-                    "《類篇》音阮",
                     "光"
                 ]
             }
@@ -7880,9 +7856,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "jīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》將鄰切。",
                 "meanings": [
-                    "《奚韻》將鄰切",
                     "次于玉的美石"
                 ]
             },
@@ -8027,10 +8002,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tāo",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》他刀切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》他刀切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -8102,9 +8075,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "luǒ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》郎佐切。",
                 "meanings": [
-                    "《奚韻》郎佐切",
                     "玉华"
                 ]
             }
@@ -8217,9 +8189,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lìng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音令。",
                 "meanings": [
-                    "《類篇》音令",
                     "以玉事人"
                 ]
             }
@@ -8410,9 +8381,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音号。",
                 "meanings": [
-                    "《川篇》音号",
                     "玉"
                 ]
             }
@@ -8510,10 +8480,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "tiàn",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《餘文》堂練切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《餘文》堂練切。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -8612,9 +8580,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》胡戛切。",
                 "meanings": [
-                    "《川篇》胡戛切",
                     "美玉"
                 ]
             }

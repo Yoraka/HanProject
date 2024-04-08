@@ -40,7 +40,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㚓lǎi",
+                "pinyin": "lǎi",
                 "rhyme_book": "《龍龕手鑑》音來。",
                 "meanings": [
                     "小船梢木"
@@ -156,7 +156,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㚙jiā",
+                "pinyin": "jiā",
                 "rhyme_book": "《龍龕手鑑·大部》：“㚙，音加。”",
                 "meanings": [
                     "《字彙補·大部》：“㚙，義未詳"
@@ -246,7 +246,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㚞shěn",
+                "pinyin": "shěn",
                 "rhyme_book": "《龍龕手鑑》所錦反。",
                 "meanings": [
                     "恐怖"
@@ -289,7 +289,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㚡jǐ",
+                "pinyin": "jǐ",
                 "rhyme_book": "《字彙補》居倚切。",
                 "meanings": [
                     "站立不正"
@@ -567,7 +567,7 @@
             {
                 "type": "multi_sound_multi_meaning",
                 "pinyin": "hāng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》呼講切。",
                 "meanings": [
                     "用力扛东西",
                     "砸实地基",
@@ -771,7 +771,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "kuā",
                 "rhyme_book": "《集韻》匈于切，平虞曉。",
                 "meanings": [
@@ -822,7 +822,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "夼kuǎng",
+                "pinyin": "kuǎng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -1061,7 +1061,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "奆juàn",
+                "pinyin": "juàn",
                 "rhyme_book": "《玉篇》求阮切。",
                 "meanings": [
                     "甚大"
@@ -1221,10 +1221,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "kǎng",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《餘文》古朗切"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《餘文》古朗切。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1323,7 +1321,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "qì",
                 "rhyme_book": "《廣韻》去訖切，入迄溪。",
                 "meanings": [
@@ -1366,7 +1364,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "奒kāi",
+                "pinyin": "kāi",
                 "rhyme_book": "《廣韻》苦哀切，平咍溪。",
                 "meanings": [
                     "大貌"
@@ -1855,7 +1853,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "奦wù",
+                "pinyin": "wù",
                 "rhyme_book": "《玉篇》音務。",
                 "meanings": [
                     "大",
@@ -2222,7 +2220,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡗤guì",
+                "pinyin": "guì",
                 "rhyme_book": "《字彙補》古惠切。",
                 "meanings": [
                     "姓"
@@ -2312,7 +2310,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡗳xī",
+                "pinyin": "xī",
                 "rhyme_book": "《改併四聲篇海·大部》引",
                 "meanings": [
                     "《搜真玉鏡》音兮"
@@ -2337,7 +2335,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡗵kū",
+                "pinyin": "kū",
                 "rhyme_book": "《龍龕手鑑·大部》：“𡗵，俗。口孤反。”",
                 "meanings": [
                     "《字彙補·大部》：“𡗵，音枯"
@@ -2589,10 +2587,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘏niǎo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "niǎo",
+                "rhyme_book": "《改併四聲篇海》引《川篇》奴了切。",
                 "meanings": [
-                    "《川篇》奴了切",
                     "软美"
                 ]
             }
@@ -2641,7 +2638,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘛cū",
+                "pinyin": "cū",
                 "rhyme_book": "《龍龕手鑑·大部》：“𡘛，千奴反。”",
                 "meanings": [
                     "《字彙補·大部》：“𡘛，千盧切，音粗"
@@ -2666,7 +2663,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘝gǔn",
+                "pinyin": "gǔn",
                 "rhyme_book": "《龍龕手鑑》古本反。",
                 "meanings": [
                     "大束"
@@ -2709,7 +2706,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘡xī",
+                "pinyin": "xī",
                 "rhyme_book": "《字彙補·大部》：“𡘡，呼基切，音希。見釋典。”",
                 "meanings": []
             }
@@ -2758,7 +2755,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘪māng",
+                "pinyin": "māng",
                 "rhyme_book": null,
                 "meanings": [
                     "方言"
@@ -2792,7 +2789,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘭zhé",
+                "pinyin": "zhé",
                 "rhyme_book": null,
                 "meanings": [
                     "人名用字"
@@ -2808,10 +2805,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡘰juàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "juàn",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》求玩切。",
                 "meanings": [
-                    "《搜真玉鏡》求玩切",
                     "大"
                 ]
             }
@@ -2931,7 +2927,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙀biē",
+                "pinyin": "biē",
                 "rhyme_book": "《集韻》必結切，入屑幫。",
                 "meanings": [
                     "〔尬𡙀〕行不正"
@@ -3019,7 +3015,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙋xì",
+                "pinyin": "xì",
                 "rhyme_book": "《集韻》迄力切，入職曉。",
                 "meanings": [
                     "〔𡙋𡙋〕肥"
@@ -3080,7 +3076,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙑zhǐ",
+                "pinyin": "zhǐ",
                 "rhyme_book": "《字彙補·大部》：“𡙑，知雉切，智上聲。出",
                 "meanings": [
                     "《藏釋疑字函》"
@@ -3096,7 +3092,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙒tiān",
+                "pinyin": "tiān",
                 "rhyme_book": "《字彙補·大部》：“𡙒，通顛切，音天。見",
                 "meanings": [
                     "《金鏡》"
@@ -3112,11 +3108,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙓kāi",
-                "rhyme_book": "《改併四聲篇海·大部》引",
-                "meanings": [
-                    "《川篇》：“𡙓，音開字"
-                ]
+                "pinyin": "kāi",
+                "rhyme_book": "《改併四聲篇海·大部》引《川篇》：“𡙓，音開字。”《字彙補·大部》：“𡙓，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3137,7 +3131,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙖jué",
+                "pinyin": "jué",
                 "rhyme_book": "《字彙補》古月切。",
                 "meanings": [
                     "小兔"
@@ -3202,10 +3196,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙛zī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zī",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》音兹。",
                 "meanings": [
-                    "《玉篇》音兹",
                     "不正"
                 ]
             }
@@ -3282,7 +3275,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹²𡙪bié",
+                "pinyin": "bié",
                 "rhyme_book": "《字彙補》朋舌切。",
                 "meanings": [
                     "行不正"
@@ -3316,7 +3309,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𡙭zuī",
+                "pinyin": "zuī",
                 "rhyme_book": "《玉篇》子隨切。",
                 "meanings": [
                     "大"
@@ -3359,10 +3352,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡙶yǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǎn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音掩。",
                 "meanings": [
-                    "《川篇》音掩",
                     "古代小国君主名"
                 ]
             }
@@ -3448,7 +3440,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡚅guāi",
+                "pinyin": "guāi",
                 "rhyme_book": "《字彙補》苦乖切。",
                 "meanings": [
                     "不正"
@@ -3524,7 +3516,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𡚌hào",
+                "pinyin": "hào",
                 "rhyme_book": "《改併四聲篇海·天部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𡚌，結、皓二音"
@@ -3567,7 +3559,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𡚑gōng",
+                "pinyin": "gōng",
                 "rhyme_book": "《字彙補》古東切。",
                 "meanings": [
                     "无私"
@@ -3592,11 +3584,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡚔méng",
-                "rhyme_book": "《改併四聲篇海·大部》引",
-                "meanings": [
-                    "《類篇》：“𡚔，音萌"
-                ]
+                "pinyin": "méng",
+                "rhyme_book": "《改併四聲篇海·大部》引《類篇》：“𡚔，音萌。”《字彙補·大部》：“𡚔，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3626,7 +3616,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡚗lěi",
+                "pinyin": "lěi",
                 "rhyme_book": "《集韻》魯猥切，上賄來。",
                 "meanings": [
                     "大"
@@ -3664,7 +3654,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𡚟wā",
+                "pinyin": "wā",
                 "rhyme_book": "《改併四聲篇海·大部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𡚟，烏刮切"
@@ -3680,7 +3670,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡚠jué",
+                "pinyin": "jué",
                 "rhyme_book": "《廣韻》居縛切，入藥見。又具籰切。",
                 "meanings": [
                     "健貌"

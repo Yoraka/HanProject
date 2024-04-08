@@ -288,7 +288,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "髇g",
+                "pinyin": "g",
                 "rhyme_book": null,
                 "meanings": [
                     "精液的俗称",
@@ -744,7 +744,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》音替。",
                 "meanings": [
                     "鞍屉，马鞍垫子",
                     "抽屉，安装在桌、柜等家具中可以抽出推进用以盛物的器具",
@@ -1475,10 +1475,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dāng",
-                "rhyme_book": "《改併四聲篇海·尸部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡰨，音當"
-                ]
+                "rhyme_book": "《改併四聲篇海·尸部》引《搜真玉鏡》：“𡰨，音當。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1553,10 +1551,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "shǐ",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《川篇》音豕"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《川篇》音豕。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1689,9 +1685,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "ài",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》五大切。",
                 "meanings": [
-                    "《川篇》五大切",
                     "尾"
                 ]
             }
@@ -1807,9 +1802,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "diān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》丁廉切。",
                 "meanings": [
-                    "《搜真玉鏡》丁廉切",
                     "尼"
                 ]
             }
@@ -1832,7 +1826,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𡱉xiǎo",
+                "pinyin": "xiǎo",
                 "rhyme_book": "《字彙補·尸部》：“𡱉，心巧切，音小。見",
                 "meanings": [
                     "《篇韻·雜部》"
@@ -1998,10 +1992,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhào",
-                "rhyme_book": "《改併四聲篇海·尸部》引",
-                "meanings": [
-                    "《川篇》：“𡱜，兆、逃二音"
-                ]
+                "rhyme_book": "《改併四聲篇海·尸部》引《川篇》：“𡱜，兆、逃二音。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2172,10 +2164,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "suǒ",
-                "rhyme_book": "《改併四聲篇海·尸部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡱳，桑可切"
-                ]
+                "rhyme_book": "《改併四聲篇海·尸部》引《搜真玉鏡》：“𡱳，桑可切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2746,9 +2736,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kài",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》口代切。",
                 "meanings": [
-                    "《川篇》口代切",
                     "茎"
                 ]
             }
@@ -2860,7 +2849,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "ué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》渠物切。",
                 "meanings": [
                     "短貌",
                     "曲"

@@ -439,9 +439,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gē",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》各合切。",
                 "meanings": [
-                    "《搜真玉鏡》各合切",
                     "地名"
                 ]
             }
@@ -1078,7 +1077,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠎶zǎi",
+                "pinyin": "zǎi",
                 "rhyme_book": "《字彙補》子乃切。",
                 "meanings": [
                     "人名"
@@ -1111,10 +1110,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dǒu",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢦍，音斗"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢦍，音斗。”按：疑即“斗”的篆文隶变字。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1438,10 +1435,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuè",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢦰，音越"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢦰，音越。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1470,10 +1465,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "sī",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢦲，音思"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢦲，音思。”《字彙補·戈部》：“𢦲，心茲切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1595,10 +1588,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "qī",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《類篇》音戚"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《類篇》音戚。",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1853,10 +1844,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "fèn",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢧝，夫問切"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢧝，夫問切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1955,9 +1944,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》胡黯切。",
                 "meanings": [
-                    "《川篇》胡黯切",
                     "健"
                 ]
             }
@@ -2025,10 +2013,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "cán",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢧮，音殘"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢧮，音殘。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2177,10 +2163,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xì",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢧽，許寄切"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢧽，許寄切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2412,10 +2396,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jié",
-                "rhyme_book": "《改併四聲篇海·戈部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢨜，音節"
-                ]
+                "rhyme_book": "《改併四聲篇海·戈部》引《搜真玉鏡》：“𢨜，音節。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2446,18 +2428,16 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音希。",
                 "meanings": [
-                    "《川篇》音希",
                     "古兵器名"
                 ]
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》許寄切。",
                 "meanings": [
-                    "《川篇》許寄切",
                     "𢨟笑"
                 ]
             }

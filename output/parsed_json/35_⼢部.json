@@ -128,7 +128,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xià",
                 "rhyme_book": "《廣韻》胡駕切，去禡匣。",
                 "meanings": [
@@ -247,7 +247,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠌞sǒu",
+                "pinyin": "sǒu",
                 "rhyme_book": "《字彙補·攵部》：“𠌞，心走切，音叟。”",
                 "meanings": []
             }

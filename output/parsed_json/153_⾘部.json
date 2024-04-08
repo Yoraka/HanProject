@@ -50,7 +50,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝚ní",
+                "pinyin": "ní",
                 "rhyme_book": "《廣韻》女夷切，平脂娘。",
                 "meanings": [
                     "兽名，毛皮可做衣"
@@ -66,7 +66,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝛bō",
+                "pinyin": "bō",
                 "rhyme_book": "《龍龕手鑑·豸部》：“䝛，俗音波。”",
                 "meanings": [
                     "《字彙補·豸部》：“䝛，邦多切，音波"
@@ -82,7 +82,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝜suān",
+                "pinyin": "suān",
                 "rhyme_book": "《廣韻》素官切，平桓心。",
                 "meanings": [
                     "〔䝜貎〕也作“狻猊”"
@@ -107,7 +107,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝞hào",
+                "pinyin": "hào",
                 "rhyme_book": null,
                 "meanings": [
                     "〔禺䝞〕也作“禺號”"
@@ -166,7 +166,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝣qú",
+                "pinyin": "qú",
                 "rhyme_book": "《廣韻》强魚切，平魚羣。",
                 "meanings": [
                     "〔䝣𧳶〕也作“䝣獀”、“渠叟”"
@@ -213,7 +213,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䝦zhōng",
+                "pinyin": "zhōng",
                 "rhyme_book": "《廣韻》職戎切，平東章。",
                 "meanings": [
                     "兽名"
@@ -324,7 +324,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "豾pī",
+                "pinyin": "pī",
                 "rhyme_book": "《廣韻》敷悲切，平脂滂。",
                 "meanings": [
                     "狸子"
@@ -660,7 +660,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "貏bǐ",
+                "pinyin": "bǐ",
                 "rhyme_book": "《集韻》補靡切，上紙幫。",
                 "meanings": [
                     "〔貏豸〕山势渐平貌"
@@ -692,7 +692,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "貑jiā",
+                "pinyin": "jiā",
                 "rhyme_book": "《廣韻》古牙切，平麻見。",
                 "meanings": [
                     "〔貑羆〕熊的一种"
@@ -823,7 +823,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "chū",
                 "rhyme_book": "",
                 "meanings": [
@@ -901,7 +901,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²𧲡lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》林直切，入職來。",
                 "meanings": [
                     "*辽东*犬名"
@@ -917,7 +917,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲢zhé",
+                "pinyin": "zhé",
                 "rhyme_book": "《集韻》陟格切，入陌知。",
                 "meanings": [
                     "〔𧲢𩢷〕兽名"
@@ -933,7 +933,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲤yóng",
+                "pinyin": "yóng",
                 "rhyme_book": "《玉篇》魚容切。",
                 "meanings": [
                     "兽，似豕"
@@ -949,7 +949,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲥hú",
+                "pinyin": "hú",
                 "rhyme_book": "《玉篇》音鶻。",
                 "meanings": [
                     "兽名"
@@ -1039,7 +1039,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲭zuǒ",
+                "pinyin": "zuǒ",
                 "rhyme_book": "《玉篇》作可切。",
                 "meanings": [
                     "兽名"
@@ -1055,7 +1055,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲮zhǎn",
+                "pinyin": "zhǎn",
                 "rhyme_book": "《玉篇》中板切。",
                 "meanings": [
                     "豸"
@@ -1071,7 +1071,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲯bō",
+                "pinyin": "bō",
                 "rhyme_book": "《玉篇》博末切。",
                 "meanings": [
                     "豸"
@@ -1109,7 +1109,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲱yāng",
+                "pinyin": "yāng",
                 "rhyme_book": "《廣韻》烏郎切，平唐影。",
                 "meanings": [
                     "狸类动物名"
@@ -1143,7 +1143,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲴dōng",
+                "pinyin": "dōng",
                 "rhyme_book": "《廣韻》都宗切，平冬端。",
                 "meanings": [
                     "兽名，似豹有角"
@@ -1159,10 +1159,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲵qú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "qú",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音渠。",
                 "meanings": [
-                    "《類篇》音渠",
                     "猛"
                 ]
             }
@@ -1194,7 +1193,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲺pí",
+                "pinyin": "pí",
                 "rhyme_book": "《改併四聲篇海·豸部》引",
                 "meanings": [
                     "《川篇》：“𧲺，音皮"
@@ -1210,10 +1209,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲻zhǎi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhǎi",
+                "rhyme_book": "《改併四聲篇海》引《川篇》側買切。",
                 "meanings": [
-                    "《川篇》側買切",
                     "豹犬"
                 ]
             }
@@ -1276,7 +1274,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳂fú",
+                "pinyin": "fú",
                 "rhyme_book": "《篇海類編》房六切。",
                 "meanings": [
                     "狐"
@@ -1292,10 +1290,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳃chóng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chóng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》直弓切。",
                 "meanings": [
-                    "《川篇》直弓切",
                     "虫，豸"
                 ]
             }
@@ -1309,7 +1306,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳄xìn",
+                "pinyin": "xìn",
                 "rhyme_book": "《集韻》思晋切，去震心。",
                 "meanings": [
                     "兽名"
@@ -1378,10 +1375,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳉dīng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "dīng",
+                "rhyme_book": "《改併四聲篇海》引《川篇》丁林切。",
                 "meanings": [
-                    "《川篇》丁林切",
                     "兽名"
                 ]
             }
@@ -1413,7 +1409,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳌tū",
+                "pinyin": "tū",
                 "rhyme_book": "《玉篇》音秃。",
                 "meanings": [
                     "兽名"
@@ -1429,7 +1425,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳍xiāo",
+                "pinyin": "xiāo",
                 "rhyme_book": "《玉篇》相邀切。",
                 "meanings": [
                     "山魈"
@@ -1445,10 +1441,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𧳎wú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wú",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音吾。",
                 "meanings": [
-                    "《類篇》音吾",
                     "兽名"
                 ]
             }
@@ -1462,7 +1457,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳏péi",
+                "pinyin": "péi",
                 "rhyme_book": "《集韻》貧悲切，平脂並。",
                 "meanings": [
                     "貔"
@@ -1547,7 +1542,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳙sì",
+                "pinyin": "sì",
                 "rhyme_book": "《廣韻》息利切，去至心。又渠記切。",
                 "meanings": [
                     "貍子"
@@ -1563,7 +1558,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳚cuǐ",
+                "pinyin": "cuǐ",
                 "rhyme_book": "《玉篇》此觜切。",
                 "meanings": [
                     "兽名"
@@ -1579,7 +1574,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳛shà",
+                "pinyin": "shà",
                 "rhyme_book": "《廣韻》山洽切，入洽生。",
                 "meanings": [
                     "兽名"
@@ -1595,7 +1590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳜zhǒu",
+                "pinyin": "zhǒu",
                 "rhyme_book": "《廣韻》之九切，上有章。",
                 "meanings": [
                     "传说中的兽名"
@@ -1611,7 +1606,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳝zhào",
+                "pinyin": "zhào",
                 "rhyme_book": "《玉篇》張皃切。",
                 "meanings": [
                     "豸"
@@ -1627,7 +1622,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳞wéi",
+                "pinyin": "wéi",
                 "rhyme_book": "《玉篇》音惟。",
                 "meanings": [
                     "兽名"
@@ -1643,7 +1638,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳟lái",
+                "pinyin": "lái",
                 "rhyme_book": "《廣韻》落哀切，平咍來。又",
                 "meanings": [
                     "《集韻》陵之切",
@@ -1709,7 +1704,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳦nǎo",
+                "pinyin": "nǎo",
                 "rhyme_book": "《集韻》乃老切，上皓泥。",
                 "meanings": [
                     "兽名"
@@ -1725,7 +1720,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳧xiē",
+                "pinyin": "xiē",
                 "rhyme_book": "《集韻》休皆切，平皆曉。",
                 "meanings": [
                     "兽名"
@@ -1741,7 +1736,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳨rǎo",
+                "pinyin": "rǎo",
                 "rhyme_book": "《廣韻》而沼切，上小日。",
                 "meanings": [
                     "兽名"
@@ -1766,7 +1761,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳪wèi",
+                "pinyin": "wèi",
                 "rhyme_book": "《集韻》于貴切，去未云。",
                 "meanings": [
                     "有毛刺似毫猪的兽"
@@ -1818,7 +1813,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳬méi",
+                "pinyin": "méi",
                 "rhyme_book": "《字彙補》命皮切，音眉。",
                 "meanings": [
                     "兽名"
@@ -1896,7 +1891,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳶sōu",
+                "pinyin": "sōu",
                 "rhyme_book": "《集韻》踈鳩切，平尤生。",
                 "meanings": [
                     "〔䝣𧳶〕见“䝣”"
@@ -1921,7 +1916,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳸gǔ",
+                "pinyin": "gǔ",
                 "rhyme_book": "《集韻》古忽切，入没見。",
                 "meanings": [
                     "〔𧳸貀〕兽名"
@@ -1937,7 +1932,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳹shào",
+                "pinyin": "shào",
                 "rhyme_book": "《玉篇》市照切。又音鄒。",
                 "meanings": [
                     "兽名"
@@ -1971,10 +1966,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧳼pí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "pí",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音毗。",
                 "meanings": [
-                    "《類篇》音毗",
                     "猛"
                 ]
             }
@@ -2006,7 +2000,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴁chī",
+                "pinyin": "chī",
                 "rhyme_book": "《類篇》抽知切，平支徹。",
                 "meanings": [
                     "猛兽名"
@@ -2022,7 +2016,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴂péng",
+                "pinyin": "péng",
                 "rhyme_book": "《玉篇》步紅切。",
                 "meanings": [
                     "兽名"
@@ -2038,7 +2032,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴃chán",
+                "pinyin": "chán",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𧴃胡〕也作“獑猢”"
@@ -2070,7 +2064,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴅shuǎng",
+                "pinyin": "shuǎng",
                 "rhyme_book": "《字彙》疏兩切。",
                 "meanings": [
                     "兽名"
@@ -2095,10 +2089,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴇wǔ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wǔ",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音伍。",
                 "meanings": [
-                    "《川篇》音伍",
                     "兽"
                 ]
             }
@@ -2112,10 +2105,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴊huàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "huàn",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音患。",
                 "meanings": [
-                    "《類篇》音患",
                     "兽名"
                 ]
             }
@@ -2129,10 +2121,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴌fú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "fú",
+                "rhyme_book": "《改併四聲篇海》引《川篇》孚玉切。",
                 "meanings": [
-                    "《川篇》孚玉切",
                     "兽名"
                 ]
             }
@@ -2209,10 +2200,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴖wèi",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "wèi",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音獩。",
                 "meanings": [
-                    "《川篇》音獩",
                     "古时对少数民族的蔑称"
                 ]
             }
@@ -2226,7 +2216,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴗yōng",
+                "pinyin": "yōng",
                 "rhyme_book": "《廣韻》於容切，平鍾影。",
                 "meanings": [
                     "兽名，猿属"
@@ -2260,8 +2250,8 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴚guài",
-                "rhyme_book": "《龍龕手鑑》古快反。",
+                "pinyin": "guài",
+                "rhyme_book": "《龍龕手鑑·豸部》：“𧴚，俗。”《康熙字典·豸部》引《篇海》：“𧴚，音怪。獸也。”",
                 "meanings": [
                     "兽名"
                 ]
@@ -2303,7 +2293,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴠lì",
+                "pinyin": "lì",
                 "rhyme_book": "《集韻》狼狄切，入錫來。",
                 "meanings": [
                     "兽名"
@@ -2328,7 +2318,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧴢xìn",
+                "pinyin": "xìn",
                 "rhyme_book": "《字彙補·豸部》：“𧴢，香靳切，音釁。義闕。”",
                 "meanings": []
             }
@@ -2342,7 +2332,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𧴣yán",
+                "pinyin": "yán",
                 "rhyme_book": "《玉篇》音嚴。",
                 "meanings": [
                     "兽名"

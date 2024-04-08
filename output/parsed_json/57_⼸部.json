@@ -1432,7 +1432,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "mí",
                 "rhyme_book": "《集韻》緜批切，平齊明。",
                 "meanings": [
@@ -1804,10 +1804,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "bīng",
-                "rhyme_book": "《改併四聲篇海·弓部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𢎴，音冰"
-                ]
+                "rhyme_book": "《改併四聲篇海·弓部》引《搜真玉鏡》：“𢎴，音冰。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2031,9 +2029,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chuí",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》是為切。",
                 "meanings": [
-                    "《搜真玉鏡》是為切",
                     "草名"
                 ]
             }
@@ -2230,9 +2227,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xuān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》許袁切。",
                 "meanings": [
-                    "《川篇》許袁切",
                     "弓曲貌"
                 ]
             }
@@ -2304,9 +2300,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "hú",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音胡。",
                 "meanings": [
-                    "《龍龕手鑑》音胡",
                     "弓"
                 ]
             },
@@ -2416,9 +2411,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jué",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》巨勿切。",
                 "meanings": [
-                    "《川篇》巨勿切",
                     "勇貌"
                 ]
             }
@@ -2610,10 +2604,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhuàn",
-                "rhyme_book": "《改併四聲篇海·弓部》引",
-                "meanings": [
-                    "《類篇》：“𢐎，音賺"
-                ]
+                "rhyme_book": "《改併四聲篇海·弓部》引《類篇》：“𢐎，音賺。”",
+                "meanings": []
             }
         ],
         "special_entries": []

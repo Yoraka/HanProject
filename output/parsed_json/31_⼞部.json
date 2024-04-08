@@ -50,9 +50,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wěng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》五猛切。",
                 "meanings": [
-                    "《川篇》五猛切",
                     "圆穴"
                 ]
             }
@@ -182,9 +181,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nín",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》女鄰切。",
                 "meanings": [
-                    "《類篇》女鄰切",
                     "贤"
                 ]
             }
@@ -568,9 +566,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tōng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》他琮切。",
                 "meanings": [
-                    "《搜真玉鏡》他琮切",
                     "策"
                 ]
             }
@@ -846,9 +843,9 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "lún",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音倫。",
                 "meanings": [
-                    "《俗字背篇》音倫",
+                    "lún　《改併四聲篇海》引《俗字背篇》音倫",
                     "〔囫圇〕见“囫”"
                 ]
             }
@@ -1364,10 +1361,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nǎn",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡆤，女減切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡆤，女減切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1472,10 +1467,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nǎn",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《川篇》：“𡆱，女減切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《川篇》：“𡆱，女減切。”《字彙補·囗部》：“𡆱，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1488,10 +1481,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "nǎn",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡆲，女減切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡆲，女減切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1621,10 +1612,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yóu",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇀，羊舟切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇀，羊舟切。”《字彙補·囗部》：“𡇀，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1671,10 +1660,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "guó",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇄，音囯"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇄，音囯。”",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1794,9 +1781,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhēn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音真。",
                 "meanings": [
-                    "《搜真玉鏡》音真",
                     "光"
                 ]
             }
@@ -1895,10 +1881,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kuā",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡇚，音誇"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡇚，音誇。”《字彙補·囗部》：“𡇚，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1954,10 +1938,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jī",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇟，居衣切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇟，居衣切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2003,7 +1985,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡇤bǐng",
+                "pinyin": "bǐng",
                 "rhyme_book": "《字彙補》補皿切。耕部。",
                 "meanings": [
                     "〔𡇷𡇤〕见“𡇷”"
@@ -2020,10 +2002,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wéi",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇦，王危切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇦，王危切。”《字彙補·囗部》：“𡇦，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2061,10 +2041,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "tú",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇩，音途"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇩，音途。”《字彙補·囗部》：“𡇩，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2111,10 +2089,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "quán",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡇮，音全"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡇮，音全。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2233,7 +2209,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡇷tài",
+                "pinyin": "tài",
                 "rhyme_book": "《字彙補》通奈切。月部。",
                 "meanings": [
                     "〔𡇷𡇤〕人名"
@@ -2275,10 +2251,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yù",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡇺，音菀字"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡇺，音菀字。”《字彙補·囗部》：“𡇺，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2325,9 +2299,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "wān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》烏還切。",
                 "meanings": [
-                    "《川篇》烏還切",
                     "水湾"
                 ]
             }
@@ -2342,9 +2315,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qūn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》丘倫切。",
                 "meanings": [
-                    "《川篇》丘倫切",
                     "圆形谷仓"
                 ]
             }
@@ -2359,10 +2331,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jué",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《俗字背篇》：“𡈅，居縛切"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《俗字背篇》：“𡈅，居縛切。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2477,9 +2447,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xìn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》許譖切。",
                 "meanings": [
-                    "《類篇》許譖切",
                     "气恶"
                 ]
             }
@@ -2494,10 +2463,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dá",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡈐，音答"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《搜真玉鏡》：“𡈐，音答。”《字彙補·囗部》：“𡈐，義無考。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2535,10 +2502,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yuàn",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡈓，音苑"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡈓，音苑。”《字彙補·囗部》：“𡈓，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2646,10 +2611,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhāng",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡈠，音章"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡈠，音章。”《字彙補·囗部》：“𡈠，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2698,10 +2661,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yù",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡈨，音玉"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡈨，音玉。”《字彙補·囗部》：“𡈨，見《金鏡》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2741,9 +2702,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiá",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音狎。",
                 "meanings": [
-                    "《俗字背篇》音狎",
                     "穴"
                 ]
             }
@@ -2774,10 +2734,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yóu",
-                "rhyme_book": "《改併四聲篇海·囗部》引",
-                "meanings": [
-                    "《類篇》：“𡈰，音由"
-                ]
+                "rhyme_book": "《改併四聲篇海·囗部》引《類篇》：“𡈰，音由。”《字彙補·囗部》：“𡈰，義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []

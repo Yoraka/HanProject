@@ -426,7 +426,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "fú",
                 "rhyme_book": "《集韻》房尤切，平尤奉。",
                 "meanings": [
@@ -1133,10 +1133,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shǔ",
-                "rhyme_book": "《改併四聲篇海·子部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡤽，音署"
-                ]
+                "rhyme_book": "《改併四聲篇海·子部》引《搜真玉鏡》：“𡤽，音署。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1189,10 +1187,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yì",
-                "rhyme_book": "《改併四聲篇海·子部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡥁，音義"
-                ]
+                "rhyme_book": "《改併四聲篇海·子部》引《搜真玉鏡》：“𡥁，音義。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -1268,9 +1264,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》火校切。",
                 "meanings": [
-                    "《川篇》火校切",
                     "养"
                 ]
             }
@@ -1379,10 +1374,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "jì",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《龍龕手鑑》音季"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音季。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -1831,9 +1824,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xiāo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》呼交切。",
                 "meanings": [
-                    "《俗字背篇》呼交切",
                     "哮喊"
                 ]
             }
@@ -1917,7 +1909,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𡦨dǎn",
+                "pinyin": "dǎn",
                 "rhyme_book": "《改併四聲篇海·享部》引",
                 "meanings": [
                     "《類篇》：“𡦨，都敢切"
@@ -1943,10 +1935,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jí",
-                "rhyme_book": "《改併四聲篇海·子部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡦪，音笈"
-                ]
+                "rhyme_book": "《改併四聲篇海·子部》引《搜真玉鏡》：“𡦪，音笈。”《字彙補·子部》：“𡦪，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []

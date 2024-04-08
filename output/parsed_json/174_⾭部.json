@@ -6,7 +6,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䨼hù",
+                "pinyin": "hù",
                 "rhyme_book": "《廣韻》胡誤切，去暮匣。",
                 "meanings": [
                     "石青之类的颜料"
@@ -66,10 +66,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵靕zhēn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhēn",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音真。",
                 "meanings": [
-                    "《俗字背篇》音真",
                     "品行纯正，不染邪曲"
                 ]
             }
@@ -209,7 +208,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "靛diàn",
+                "pinyin": "diàn",
                 "rhyme_book": "《集韻》堂練切，去霰定。",
                 "meanings": [
                     "靛青",
@@ -252,7 +251,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁴𩇖chēn",
+                "pinyin": "chēn",
                 "rhyme_book": "《改併四聲篇海·元部》引",
                 "meanings": [
                     "《類篇》：“𩇖，赤真切"
@@ -350,10 +349,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𩇣sè",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "sè",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》音瑟。",
                 "meanings": [
-                    "《玉篇》音瑟",
                     "赤青色"
                 ]
             }

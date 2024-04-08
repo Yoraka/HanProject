@@ -258,7 +258,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "鬺shāng",
+                "pinyin": "shāng",
                 "rhyme_book": "《集韻》尸羊切，平陽書。",
                 "meanings": [
                     "烹煮"
@@ -307,7 +307,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩍻yuán",
+                "pinyin": "yuán",
                 "rhyme_book": "《改併四聲篇海·鬲部》引",
                 "meanings": [
                     "《龍龕手鑑》：“𩍻，音垣"
@@ -352,7 +352,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩰭guō",
+                "pinyin": "guō",
                 "rhyme_book": "《集韻》古禾切，平戈見。",
                 "meanings": [
                     "〔𩰭𨰠〕也作“鍋𨰠”"
@@ -426,7 +426,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁶𩰳xié",
+                "pinyin": "xié",
                 "rhyme_book": "《廣韻》户圭切，平齊匣。",
                 "meanings": [
                     "甑下孔"
@@ -494,7 +494,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩰹jìng",
+                "pinyin": "jìng",
                 "rhyme_book": "《廣韻》古定切，去徑見。",
                 "meanings": [
                     "隔绝"
@@ -519,7 +519,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁷𩰻kè",
+                "pinyin": "kè",
                 "rhyme_book": "《改併四聲篇海·鬲部》引",
                 "meanings": [
                     "《餘文》：“𩰻，口革切"
@@ -616,10 +616,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱆xián",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xián",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》形鹽切。",
                 "meanings": [
-                    "《搜真玉鏡》形鹽切",
                     "釜"
                 ]
             }
@@ -668,17 +667,14 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "ér",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《龍龕手鑑》音而"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音而。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xiàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音涀。",
                 "meanings": [
-                    "《龍龕手鑑》音涀",
                     "服貌"
                 ]
             }
@@ -712,10 +708,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱌yù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音育。",
                 "meanings": [
-                    "《川篇》音育",
                     "粥"
                 ]
             }
@@ -810,7 +805,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "³𩱘kè",
+                "pinyin": "kè",
                 "rhyme_book": "《集韻》克革切，入麥溪。",
                 "meanings": [
                     "裘里",
@@ -1002,7 +997,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱨rù",
+                "pinyin": "rù",
                 "rhyme_book": "《集韻》儒欲切，入燭日。",
                 "meanings": [
                     "大鼎"
@@ -1027,7 +1022,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱪yuè",
+                "pinyin": "yuè",
                 "rhyme_book": "《改併四聲篇海·𩰲部》引",
                 "meanings": [
                     "《川篇》：“𩱪，音瀹"
@@ -1173,7 +1168,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𩱷miè",
+                "pinyin": "miè",
                 "rhyme_book": "《廣韻》莫結切，入屑明。又莫撥切。月部。",
                 "meanings": [
                     "粥类"

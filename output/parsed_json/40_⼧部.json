@@ -634,13 +634,13 @@
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dù",
                 "rhyme_book": "dù　㊀《集韻》徒故切，去暮定。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dù",
                 "rhyme_book": "《集韻》都故切，去暮端。",
                 "meanings": []
@@ -920,9 +920,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhūn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音迍。",
                 "meanings": [
-                    "《川篇》音迍",
                     "棺貌"
                 ]
             }
@@ -1960,7 +1959,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "sù",
                 "rhyme_book": "《集韻》所六切，入屋生。",
                 "meanings": [
@@ -3099,9 +3098,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "rǒng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》而勇切。",
                 "meanings": [
-                    "《川篇》而勇切",
                     "长毛"
                 ]
             }
@@ -3262,10 +3260,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xiáo",
-                "rhyme_book": "《改併四聲篇海·宀部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡧕，胡交切"
-                ]
+                "rhyme_book": "《改併四聲篇海·宀部》引《搜真玉鏡》：“𡧕，胡交切。”",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -3318,9 +3314,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "pào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音奅。",
                 "meanings": [
-                    "《川篇》音奅",
                     "醉起"
                 ]
             }
@@ -3371,10 +3366,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "hū",
-                "rhyme_book": "《改併四聲篇海·宀部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡧥，音忽"
-                ]
+                "rhyme_book": "《改併四聲篇海·宀部》引《搜真玉鏡》：“𡧥，音忽。”《字彙補·宀部》：“𡧥，許兀切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3936,9 +3929,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《俗字背篇》音饇。",
                 "meanings": [
-                    "《俗字背篇》音饇",
                     "假寐"
                 ]
             }
@@ -4338,10 +4330,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "jiā",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《玉篇》音家"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《玉篇》音家。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -4419,7 +4409,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "suǒ",
                 "rhyme_book": "《集韻》昔各切，入鐸心。",
                 "meanings": [
@@ -4602,9 +4592,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yáo",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》魚嬌切。",
                 "meanings": [
-                    "《搜真玉鏡》魚嬌切",
                     "房屋"
                 ]
             }
@@ -4818,10 +4807,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "è",
-                "rhyme_book": "《改併四聲篇海·宀部》引",
-                "meanings": [
-                    "《俗字背篇》：“𡪑，五各切"
-                ]
+                "rhyme_book": "《改併四聲篇海·宀部》引《俗字背篇》：“𡪑，五各切。”《字彙補·宀部》：“𡪑，見《篇韻》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4834,10 +4821,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zǐ",
-                "rhyme_book": "《改併四聲篇海·宀部》引",
-                "meanings": [
-                    "《類篇》：“𡪒，音子"
-                ]
+                "rhyme_book": "《改併四聲篇海·宀部》引《類篇》：“𡪒，音子。”《字彙補·宀部》：“𡪒，義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5067,10 +5052,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qí",
-                "rhyme_book": "《改併四聲篇海·宀部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𡪵，音岐"
-                ]
+                "rhyme_book": "《改併四聲篇海·宀部》引《搜真玉鏡》：“𡪵，音岐。”《字彙補·宀部》：“𡪵，渠基切。義闕。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -5192,10 +5175,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "qī",
-                "rhyme_book": "《改併四聲篇海》引",
-                "meanings": [
-                    "《搜真玉鏡》音戚"
-                ]
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音戚。",
+                "meanings": []
             },
             {
                 "type": "multi_sound_single_meaning",
@@ -5706,9 +5687,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "jiào",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》革孝切。",
                 "meanings": [
-                    "《類篇》革孝切",
                     "睡醒"
                 ]
             }

@@ -945,9 +945,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "gèng",
-                "rhyme_book": "《康熙字典》引",
+                "rhyme_book": "《康熙字典》引《海篇》古嶝切。",
                 "meanings": [
-                    "《海篇》古嶝切",
                     "聚"
                 ]
             }
@@ -1103,9 +1102,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》火目切。",
                 "meanings": [
-                    "《川篇》火目切",
                     "猪叫声"
                 ]
             }
@@ -1118,7 +1116,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dū",
                 "rhyme_book": "dū　㊀《集韻》都毒切，入沃端。屋部。",
                 "meanings": [
@@ -1126,7 +1124,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "dū",
                 "rhyme_book": "《集韻》都木切，入屋端。",
                 "meanings": [
@@ -1802,9 +1800,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhuō",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音卓。",
                 "meanings": [
-                    "《川篇》音卓",
                     "行"
                 ]
             }
@@ -1843,7 +1840,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧱳huài",
+                "pinyin": "huài",
                 "rhyme_book": "《廣韻》火怪切，去怪曉。",
                 "meanings": [
                     "〔𧱘𧱳〕顽恶"
@@ -2287,7 +2284,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𧲜bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》北激切，入錫幫。",
                 "meanings": [
                     "〔𧲜邪〕古代传说中的一种神兽"

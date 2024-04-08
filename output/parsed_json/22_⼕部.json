@@ -70,10 +70,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "㔵xuǎn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xuǎn",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音選。",
                 "meanings": [
-                    "《川篇》音選",
                     "器名"
                 ]
             }
@@ -284,7 +283,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "⁵匤qū",
+                "pinyin": "qū",
                 "rhyme_book": "《廣韻》丘玉切，入燭溪。",
                 "meanings": [
                     "匣子"
@@ -596,7 +595,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠤮hán",
+                "pinyin": "hán",
                 "rhyme_book": "《集韻》胡南切，平覃匣。",
                 "meanings": [
                     "受物器"
@@ -663,7 +662,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠤴xì",
+                "pinyin": "xì",
                 "rhyme_book": "《集韻》乞逆切，入陌溪。",
                 "meanings": [
                     "物曲"
@@ -706,7 +705,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠤹quán",
+                "pinyin": "quán",
                 "rhyme_book": "《集韻》從緣切，平仙從。",
                 "meanings": [
                     "箕"
@@ -722,7 +721,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠤺tiáo",
+                "pinyin": "tiáo",
                 "rhyme_book": "《龍龕手鑑》徒聊反。",
                 "meanings": [
                     "田器"
@@ -773,7 +772,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠤾hán",
+                "pinyin": "hán",
                 "rhyme_book": "《玉篇》胡耽切。",
                 "meanings": [
                     "船沉没"
@@ -841,10 +840,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "yě",
-                "rhyme_book": "《改併四聲篇海·匸部》引",
-                "meanings": [
-                    "《奚韻》：“𠥇，音也"
-                ]
+                "rhyme_book": "《改併四聲篇海·匸部》引《奚韻》：“𠥇，音也。”《字彙補·匸部》：“𠥇，義闕。見《海篇》。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -883,7 +880,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠥍ē",
+                "pinyin": "ē",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𠥍匼〕也作“阿匼”"
@@ -956,7 +953,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁰𠥕è",
+                "pinyin": "è",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𠥕匝〕也作“溘币”、“㕉匝”、“鞈匝”"
@@ -972,7 +969,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹¹𠥖dì",
+                "pinyin": "dì",
                 "rhyme_book": "《集韻》大計切，去霽定。",
                 "meanings": [
                     "刀鞘"
@@ -997,7 +994,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠥘suǎn",
+                "pinyin": "suǎn",
                 "rhyme_book": "《改併四聲篇海·匚部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𠥘，思管切"
@@ -1013,7 +1010,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠥙quán",
+                "pinyin": "quán",
                 "rhyme_book": "《廣韻》此緣切，平仙清。",
                 "meanings": [
                     "〔𠥙璇〕古代整顿博戏的竹器"
@@ -1047,7 +1044,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠥜è",
+                "pinyin": "è",
                 "rhyme_book": "《廣韻》烏葛切，入曷影。",
                 "meanings": [
                     "大呼用力"
@@ -1085,10 +1082,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹³𠥞xuán",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "xuán",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音旋。",
                 "meanings": [
-                    "《川篇》音旋",
                     "器名"
                 ]
             }
@@ -1102,7 +1098,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁴𠥢wǔ",
+                "pinyin": "wǔ",
                 "rhyme_book": "《集韻》罔甫切，上麌微。",
                 "meanings": [
                     "刀鞘"
@@ -1152,11 +1148,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𠥨móu",
-                "rhyme_book": "《改併四聲篇海·匚部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𠥨，莫侯切"
-                ]
+                "pinyin": "móu",
+                "rhyme_book": "《改併四聲篇海·匚部》引《搜真玉鏡》：“𠥨，莫侯切。”《字彙補·匚部》：“𠥨，義無考。”",
+                "meanings": []
             }
         ],
         "special_entries": []

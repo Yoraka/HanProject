@@ -141,7 +141,7 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xì",
                 "rhyme_book": "xì　㊀《廣韻》呼計切，去霽曉。",
                 "meanings": [
@@ -149,7 +149,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "xì",
                 "rhyme_book": "《集韻》呼世切，去祭曉。",
                 "meanings": [
@@ -829,9 +829,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "què",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》苦角切。",
                 "meanings": [
-                    "《川篇》苦角切",
                     "高"
                 ]
             }
@@ -957,7 +956,7 @@
                 ]
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "cì",
                 "rhyme_book": "《集韻》資四切，去至精。",
                 "meanings": [
@@ -2556,9 +2555,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xì",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》許計切。",
                 "meanings": [
-                    "《奚韻》許計切",
                     "气起貌"
                 ]
             }
@@ -2589,10 +2587,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "qiàn",
-                "rhyme_book": "《改併四聲篇海·欠部》引",
-                "meanings": [
-                    "《類篇》：“𣢖，音欠"
-                ]
+                "rhyme_book": "《改併四聲篇海·欠部》引《類篇》：“𣢖，音欠。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2784,10 +2780,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zhān",
-                "rhyme_book": "《改併四聲篇海·欠部》引",
-                "meanings": [
-                    "《川篇》：“𣢤，音占"
-                ]
+                "rhyme_book": "《改併四聲篇海·欠部》引《川篇》：“𣢤，音占。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -2892,7 +2886,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "iān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《玉篇》丘凡切。",
                 "meanings": [
                     "多智慧",
                     "含笑"
@@ -2985,9 +2979,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "dìng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》丁孕切。",
                 "meanings": [
-                    "《川篇》丁孕切",
                     "余声"
                 ]
             }
@@ -3002,9 +2995,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "kēng",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音坑。",
                 "meanings": [
-                    "《川篇》音坑",
                     "咳"
                 ]
             }
@@ -3287,10 +3279,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "àn",
-                "rhyme_book": "《改併四聲篇海·欠部》引",
-                "meanings": [
-                    "《川篇》：“𣣚，於淡切"
-                ]
+                "rhyme_book": "《改併四聲篇海·欠部》引《川篇》：“𣣚，於淡切。”《字彙補·欠部》：“𣣚，音按。義未詳。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -3876,10 +3866,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𣤎yǒu",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yǒu",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》与糾切。",
                 "meanings": [
-                    "《奚韻》与糾切",
                     "言意"
                 ]
             }
@@ -4114,10 +4103,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "yì",
-                "rhyme_book": "《改併四聲篇海·欠部》引",
-                "meanings": [
-                    "《龍龕手鑑》：“𣤪，音亦"
-                ]
+                "rhyme_book": "《改併四聲篇海·欠部》引《龍龕手鑑》：“𣤪，音亦。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4148,10 +4135,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "shú",
-                "rhyme_book": "《改併四聲篇海·欠部》引",
-                "meanings": [
-                    "《川篇》：“𣤯，音贖，又音樹"
-                ]
+                "rhyme_book": "《改併四聲篇海·欠部》引《川篇》：“𣤯，音贖，又音樹。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4187,9 +4172,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "xī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音西。",
                 "meanings": [
-                    "《類篇》音西",
                     "吹气"
                 ]
             }
@@ -4269,9 +4253,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "zā",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音𠯗。",
                 "meanings": [
-                    "《川篇》音𠯗",
                     "鸣"
                 ]
             }

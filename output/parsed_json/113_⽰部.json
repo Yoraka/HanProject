@@ -76,7 +76,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄁yì",
+                "pinyin": "yì",
                 "rhyme_book": "《玉篇》翌制切。",
                 "meanings": [
                     "祭祀"
@@ -160,7 +160,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄇chéng",
+                "pinyin": "chéng",
                 "rhyme_book": "《字彙》直貞切。",
                 "meanings": [
                     "姓"
@@ -260,7 +260,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄍zhà",
+                "pinyin": "zhà",
                 "rhyme_book": "《廣韻》鋤駕切，去禡崇。",
                 "meanings": [
                     "年终祭名"
@@ -312,7 +312,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄓huáng",
+                "pinyin": "huáng",
                 "rhyme_book": "《廣韻》户盲切，平庚匣。又",
                 "meanings": [
                     "《玉篇》户光切",
@@ -356,7 +356,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄘péng",
+                "pinyin": "péng",
                 "rhyme_book": "《廣韻》薄庚切，平庚並。",
                 "meanings": [
                     "〔䄘䄓〕祭名"
@@ -372,7 +372,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄙míng",
+                "pinyin": "míng",
                 "rhyme_book": "《集韻》忙經切，平青明。",
                 "meanings": [
                     "福"
@@ -438,7 +438,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "¹䄝chuāng",
+                "pinyin": "chuāng",
                 "rhyme_book": "《廣韻》丑江切，平江徹。",
                 "meanings": [
                     "祭祀不恭敬",
@@ -481,7 +481,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "䄡dān",
+                "pinyin": "dān",
                 "rhyme_book": "《集韻》都甘切，平談端。",
                 "meanings": [
                     "〔䄡𥜓〕古代北方少数民族名"
@@ -530,7 +530,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "²⁴䄥líng",
+                "pinyin": "líng",
                 "rhyme_book": "《集韻》郎丁切，平青來。",
                 "meanings": [
                     "神名"
@@ -936,7 +936,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祑zhì",
+                "pinyin": "zhì",
                 "rhyme_book": "《集韻》直質切，入質澄。",
                 "meanings": [
                     "祭有次序"
@@ -952,7 +952,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祒tiáo",
+                "pinyin": "tiáo",
                 "rhyme_book": "《集韻》田聊切，平蕭定。",
                 "meanings": [
                     "人名用字"
@@ -1307,7 +1307,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祣lǚ",
+                "pinyin": "lǚ",
                 "rhyme_book": "《廣韻》力舉切，上語來。",
                 "meanings": [
                     "祭名"
@@ -1323,7 +1323,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祤yǔ",
+                "pinyin": "yǔ",
                 "rhyme_book": "《廣韻》王矩切，上麌云。又況羽切。",
                 "meanings": [
                     "〔祋祤〕*汉*县名"
@@ -1360,7 +1360,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祦wú",
+                "pinyin": "wú",
                 "rhyme_book": "《廣韻》五乎切，平模疑。",
                 "meanings": [
                     "福"
@@ -1551,13 +1551,13 @@
         "synonyms": [],
         "definitions": [
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shuì",
                 "rhyme_book": "shuì　㊀《集韻》式瑞切，去寘書。",
                 "meanings": []
             },
             {
-                "type": "single_sound_multi_rhyme_single_meaing",
+                "type": "single_sound_multi_rhyme_single_meaning",
                 "pinyin": "shuì",
                 "rhyme_book": "《集韻》輸芮切，去祭書。",
                 "meanings": [
@@ -1721,7 +1721,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "祽zuì",
+                "pinyin": "zuì",
                 "rhyme_book": "《廣韻》子對切，去隊精。",
                 "meanings": [
                     "月祭名"
@@ -1817,7 +1817,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禃zhí",
+                "pinyin": "zhí",
                 "rhyme_book": "《集韻》承職切，入職禪。",
                 "meanings": [
                     "专一"
@@ -1908,7 +1908,7 @@
         "definitions": [
             {
                 "type": "single_sound_multi_meaning",
-                "pinyin": "禊xì",
+                "pinyin": "xì",
                 "rhyme_book": "《廣韻》胡計切，去霽匣。",
                 "meanings": [
                     "古俗春秋两季于水滨设祭祓除不祥",
@@ -1943,7 +1943,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禌zī",
+                "pinyin": "zī",
                 "rhyme_book": "《龍龕手鑑》音兹。",
                 "meanings": [
                     "息"
@@ -2025,7 +2025,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禐yuàn",
+                "pinyin": "yuàn",
                 "rhyme_book": "《龍龕手鑑》王眷反。",
                 "meanings": [
                     "佩"
@@ -2132,7 +2132,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禗sī",
+                "pinyin": "sī",
                 "rhyme_book": "《廣韻》息兹切，平之心。",
                 "meanings": [
                     "〔禗禗〕不安而欲去之貌"
@@ -2232,7 +2232,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禟táng",
+                "pinyin": "táng",
                 "rhyme_book": "《集韻》徒郎切，平唐定。",
                 "meanings": [
                     "福祐"
@@ -2281,7 +2281,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禢tà",
+                "pinyin": "tà",
                 "rhyme_book": "《龍龕手鑑》他合反。",
                 "meanings": [
                     "姓"
@@ -2306,7 +2306,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禤xuān",
+                "pinyin": "xuān",
                 "rhyme_book": "《字彙》呼淵切。",
                 "meanings": [
                     "姓"
@@ -2521,7 +2521,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禯nóng",
+                "pinyin": "nóng",
                 "rhyme_book": "《玉篇》尼龍切。",
                 "meanings": [
                     "厚祭"
@@ -2590,7 +2590,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禲lì",
+                "pinyin": "lì",
                 "rhyme_book": "《廣韻》力制切，去祭來。",
                 "meanings": [
                     "厉鬼，指死无后人葬祭之鬼"
@@ -2640,7 +2640,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "禶zàn",
+                "pinyin": "zàn",
                 "rhyme_book": "《廣韻》藏旱切，上旱從。",
                 "meanings": [
                     "祭祀"
@@ -2727,7 +2727,7 @@
             {
                 "type": "single_sound_multi_meaning",
                 "pinyin": "yīn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《類篇》音因。",
                 "meanings": [
                     "敬",
                     "塞"
@@ -2788,7 +2788,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘊jiào",
+                "pinyin": "jiào",
                 "rhyme_book": "《海篇》音呌。",
                 "meanings": [
                     "祝"
@@ -2804,7 +2804,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘋qín",
+                "pinyin": "qín",
                 "rhyme_book": "《龍龕手鑑·礻部》：“𥘋，俗，音勤。”",
                 "meanings": []
             }
@@ -2827,7 +2827,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "³𥘏gǎn",
+                "pinyin": "gǎn",
                 "rhyme_book": "《龍龕手鑑·示部》：“𥘏，古旱反。”",
                 "meanings": []
             }
@@ -2859,7 +2859,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘒yì",
+                "pinyin": "yì",
                 "rhyme_book": "《海篇》音亦。",
                 "meanings": [
                     "祀"
@@ -2920,7 +2920,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘠yì",
+                "pinyin": "yì",
                 "rhyme_book": "《龍龕手鑑》羊制反。",
                 "meanings": [
                     "祭名"
@@ -2980,7 +2980,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘥shēng",
+                "pinyin": "shēng",
                 "rhyme_book": "《海篇》音升。",
                 "meanings": [
                     "享"
@@ -3043,7 +3043,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘫hē",
+                "pinyin": "hē",
                 "rhyme_book": "《集韻》虎何切，平歌曉。",
                 "meanings": [
                     "祭名"
@@ -3077,7 +3077,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥘮jū",
+                "pinyin": "jū",
                 "rhyme_book": "《集韻》恭于切，平虞見。",
                 "meanings": [
                     "〔禰𥘮〕山名"
@@ -3138,7 +3138,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙁yí",
+                "pinyin": "yí",
                 "rhyme_book": "《海篇》音移。又音迤。",
                 "meanings": [
                     "弯曲"
@@ -3182,9 +3182,8 @@
             {
                 "type": "multi_sound_single_meaning",
                 "pinyin": "xiàn",
-                "rhyme_book": "《改併四聲篇海》引",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》音現。",
                 "meanings": [
-                    "《搜真玉鏡》音現",
                     "人名用字"
                 ]
             },
@@ -3204,7 +3203,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙇yí",
+                "pinyin": "yí",
                 "rhyme_book": "《海篇》音迤。又音移。",
                 "meanings": [
                     "弯曲"
@@ -3260,7 +3259,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙋chuì",
+                "pinyin": "chuì",
                 "rhyme_book": "《集韻》尺類切，去至昌。",
                 "meanings": [
                     "祟"
@@ -3285,7 +3284,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙎mò",
+                "pinyin": "mò",
                 "rhyme_book": "《玉篇》莫伯切。",
                 "meanings": [
                     "神"
@@ -3346,7 +3345,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙡zhān",
+                "pinyin": "zhān",
                 "rhyme_book": "《龍龕手鑑》之延反。",
                 "meanings": []
             }
@@ -3360,7 +3359,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙣xún",
+                "pinyin": "xún",
                 "rhyme_book": "《〈史記〉司馬貞索隱》音荀。",
                 "meanings": [
                     "*汉**东海*地名"
@@ -3385,7 +3384,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙦rú",
+                "pinyin": "rú",
                 "rhyme_book": "《改併四聲篇海·示部》引",
                 "meanings": [
                     "《搜真玉鏡》：“𥙦，祭、如二音"
@@ -3410,7 +3409,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙬shāo",
+                "pinyin": "shāo",
                 "rhyme_book": "《玉篇》所交切。",
                 "meanings": [
                     "福"
@@ -3453,7 +3452,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙰shòu",
+                "pinyin": "shòu",
                 "rhyme_book": "《集韻》承咒切，去宥禪。又是酉切。",
                 "meanings": [
                     "祈久年之祭"
@@ -3505,7 +3504,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙾yòu",
+                "pinyin": "yòu",
                 "rhyme_book": "《龍龕手鑑·礻部》：“𥙾，相承。音誘。”按：“䅎”字",
                 "meanings": [
                     "《廣韻·有韻》有“與久切”一音，疑“𥙾”即“䅎”的俗字"
@@ -3521,10 +3520,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥙿yù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "yù",
+                "rhyme_book": "《改併四聲篇海》引《川篇》弋注切。",
                 "meanings": [
-                    "《川篇》弋注切",
                     "祭祀"
                 ]
             }
@@ -3556,7 +3554,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚂jùn",
+                "pinyin": "jùn",
                 "rhyme_book": "《海篇》音浚。",
                 "meanings": [
                     "禘祀"
@@ -3581,10 +3579,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚉zī",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zī",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音淄。",
                 "meanings": [
-                    "《川篇》音淄",
                     "安"
                 ]
             }
@@ -3598,7 +3595,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚊lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》力竹切，入屋來。",
                 "meanings": [
                     "见"
@@ -3641,10 +3638,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚚chǐ",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "chǐ",
+                "rhyme_book": "《改併四聲篇海》引《搜真玉鏡》丑礼切。又丑弟切。",
                 "meanings": [
-                    "《搜真玉鏡》丑礼切",
                     "祭名"
                 ]
             }
@@ -3658,7 +3654,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚛kūn",
+                "pinyin": "kūn",
                 "rhyme_book": "《龍龕手鑑》音昆。",
                 "meanings": [
                     "祭名"
@@ -3746,7 +3742,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚦hóu",
+                "pinyin": "hóu",
                 "rhyme_book": "《集韻》胡溝切，平侯匣。",
                 "meanings": [
                     "祭神求福"
@@ -3840,7 +3836,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚻duān",
+                "pinyin": "duān",
                 "rhyme_book": "《龍龕手鑑》音端。",
                 "meanings": [
                     "人名用字"
@@ -3874,7 +3870,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚾zōng",
+                "pinyin": "zōng",
                 "rhyme_book": "《海篇》音宗。",
                 "meanings": [
                     "神祇"
@@ -3890,7 +3886,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥚿yìng",
+                "pinyin": "yìng",
                 "rhyme_book": "《海篇》音媵。",
                 "meanings": [
                     "祭祀"
@@ -3924,10 +3920,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛂zhū",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "zhū",
+                "rhyme_book": "《改併四聲篇海》引《川篇》音朱。",
                 "meanings": [
-                    "《川篇》音朱",
                     "诅咒之名"
                 ]
             }
@@ -3993,7 +3988,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛑nù",
+                "pinyin": "nù",
                 "rhyme_book": "《龍龕手鑑》奴沃反。",
                 "meanings": [
                     "爱小儿"
@@ -4045,7 +4040,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛘bì",
+                "pinyin": "bì",
                 "rhyme_book": "《廣韻》卑吉切，入質幫。",
                 "meanings": [
                     "祭灶"
@@ -4070,7 +4065,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛚chì",
+                "pinyin": "chì",
                 "rhyme_book": "《廣韻》丑歷切，入錫徹。",
                 "meanings": [
                     "福"
@@ -4109,7 +4104,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛝féng",
+                "pinyin": "féng",
                 "rhyme_book": "《廣韻》符容切，平鍾奉。",
                 "meanings": [
                     "传说中的山神名"
@@ -4125,7 +4120,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛞lù",
+                "pinyin": "lù",
                 "rhyme_book": "《廣韻》盧谷切，入屋來。",
                 "meanings": [
                     "祭名"
@@ -4141,7 +4136,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛟pǔ",
+                "pinyin": "pǔ",
                 "rhyme_book": "《廣韻》匹角切，入覺滂。",
                 "meanings": [
                     "久视"
@@ -4193,7 +4188,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛨shī",
+                "pinyin": "shī",
                 "rhyme_book": "《龍龕手鑑》所宜反。",
                 "meanings": [
                     "〔襳𥛨〕毛羽入貌"
@@ -4209,7 +4204,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛩yǔ",
+                "pinyin": "yǔ",
                 "rhyme_book": "《海篇》音庾。",
                 "meanings": [
                     "祭器"
@@ -4225,10 +4220,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛪lù",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "lù",
+                "rhyme_book": "《改併四聲篇海》引《奚韻》力谷切。",
                 "meanings": [
-                    "《奚韻》力谷切",
                     "祭名"
                 ]
             }
@@ -4242,11 +4236,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛫liáng",
-                "rhyme_book": "《改併四聲篇海·示部》引",
-                "meanings": [
-                    "《搜真玉鏡》：“𥛫，音梁"
-                ]
+                "pinyin": "liáng",
+                "rhyme_book": "《改併四聲篇海·示部》引《搜真玉鏡》：“𥛫，音梁。”",
+                "meanings": []
             }
         ],
         "special_entries": []
@@ -4276,7 +4268,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥛯jué",
+                "pinyin": "jué",
                 "rhyme_book": "《集韻》古穴切，入屑見。",
                 "meanings": [
                     "不祥"
@@ -4382,7 +4374,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜃yì",
+                "pinyin": "yì",
                 "rhyme_book": "《廣韻》羊益切，入昔以。",
                 "meanings": [
                     "*周*代祭名"
@@ -4398,10 +4390,9 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜄guān",
-                "rhyme_book": "《改併四聲篇海》引",
+                "pinyin": "guān",
+                "rhyme_book": "《改併四聲篇海》引《龍龕手鑑》音官。",
                 "meanings": [
-                    "《龍龕手鑑》音官",
                     "古县名"
                 ]
             }
@@ -4433,7 +4424,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜏guì",
+                "pinyin": "guì",
                 "rhyme_book": "《改併四聲篇海·示部》引",
                 "meanings": [
                     "《類篇》：“𥜏，古文"
@@ -4449,7 +4440,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜐mǐn",
+                "pinyin": "mǐn",
                 "rhyme_book": null,
                 "meanings": [
                     "〔𥜐免〕也作“閔免”、“黽免”"
@@ -4474,7 +4465,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜒yǎn",
+                "pinyin": "yǎn",
                 "rhyme_book": "《廣韻》於琰切，上琰影。",
                 "meanings": [
                     "除灾求福之祭"
@@ -4490,7 +4481,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜓lán",
+                "pinyin": "lán",
                 "rhyme_book": "《集韻》盧甘切，平談來。",
                 "meanings": [
                     "〔䄡𥜓〕古代北方少数民族名"
@@ -4515,7 +4506,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜖bó",
+                "pinyin": "bó",
                 "rhyme_book": "《龍龕手鑑·示部》：“𥜖，或作。蒲北反，又音逼。”",
                 "meanings": [
                     "《字彙補·示部》：“𥜖，蒲北切，音跋"
@@ -4540,7 +4531,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜙zàn",
+                "pinyin": "zàn",
                 "rhyme_book": "《龍龕手鑑·示部》：“𥜙，才敢反。”",
                 "meanings": []
             }
@@ -4554,7 +4545,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁵𥜚yǒu",
+                "pinyin": "yǒu",
                 "rhyme_book": "《集韻》於九切，上有影。",
                 "meanings": [
                     "福"
@@ -4691,7 +4682,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜭guǒ",
+                "pinyin": "guǒ",
                 "rhyme_book": "《海篇》音椁。",
                 "meanings": [
                     "神享"
@@ -4725,7 +4716,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "¹⁹𥜰shī",
+                "pinyin": "shī",
                 "rhyme_book": "《集韻》山宜切，平支生。",
                 "meanings": [
                     "祭名"
@@ -4774,7 +4765,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜴qiān",
+                "pinyin": "qiān",
                 "rhyme_book": "《玉篇》去言切。",
                 "meanings": [
                     "祭"
@@ -4790,7 +4781,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜵què",
+                "pinyin": "què",
                 "rhyme_book": "《海篇》音卻。",
                 "meanings": [
                     "除灾祭"
@@ -4806,7 +4797,7 @@
         "definitions": [
             {
                 "type": "single_sound_single_meaning",
-                "pinyin": "𥜶kuí",
+                "pinyin": "kuí",
                 "rhyme_book": "《海篇》音葵。",
                 "meanings": [
                     "祭夫"

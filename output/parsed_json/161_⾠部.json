@@ -222,10 +222,8 @@
             {
                 "type": "single_sound_single_meaning",
                 "pinyin": "chén",
-                "rhyme_book": "《改併四聲篇海·田部》引",
-                "meanings": [
-                    "《類篇》：“𨑌，音辰"
-                ]
+                "rhyme_book": "《改併四聲篇海·田部》引《類篇》：“𨑌，音辰。",
+                "meanings": []
             }
         ],
         "special_entries": []
