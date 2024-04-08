@@ -2,8 +2,10 @@ import os
 import json
 
 class Strokes:
-    def __init__(self):
+    def __init__(self, mode=0):
         self.data = {}
+        self.strokes_character_counts = {}
+        self.mode = mode
     
     def get_basic_data(self, unihan_irgs):
         root = os.getcwd()
@@ -11,6 +13,9 @@ class Strokes:
         root = root.replace('\\', '/')
         # 遍历文件夹
         for file in os.listdir(root):
+            if self.mode == 1:
+                if not file.startswith('a'):
+                    continue
             # 获取文件路径
             file_path = os.path.join(root, file)
             # 打开文件
@@ -21,6 +26,7 @@ class Strokes:
                     character = character_properties['character']
                     character_utf8 = hex(ord(character))
                     stroke_count = unihan_irgs.query_unihan_irg_sources(f'U+{character_utf8[2:].upper()}', 'kTotalStrokes')
+
                     total_meanings = 0
                     for concepts in character_properties['definitions']:
                         total_meanings += len(concepts['meanings'])
@@ -29,10 +35,18 @@ class Strokes:
                     # 在stroke_count的value中增加(直接加法)
                     self.data[stroke_count] += total_meanings
 
+                    if self.strokes_character_counts.get(stroke_count) is None:
+                        self.strokes_character_counts[stroke_count] = 0
+                    if total_meanings != 0:
+                        self.strokes_character_counts[stroke_count] += 1
+
     def sort_by_strokes(self):
         # 对data进行排序, 根据stroke_count排序，而不是total_meanings
         sorted_data = {k: v for k, v in sorted(self.data.items(), key=lambda item: item[0])}
         self.data = sorted_data
+
+        sorted_strokes_character_counts = {k: v for k, v in sorted(self.strokes_character_counts.items(), key=lambda item: item[0])}
+        self.strokes_character_counts = sorted_strokes_character_counts
 
         print(self.data)
 
@@ -127,42 +141,135 @@ class Strokes:
         x = x[y > 0]
         y = y[y > 0]
 
-        print(x, y)
+        #print(x, y)
+
+        data_ratio = {k: results_dict[k] / self.strokes_character_counts[k] if self.strokes_character_counts[k] else 0 for k in results_dict.keys()}
+        x_data_ratio = np.array(list(map(int, data_ratio.keys())))
+        y_data_ratio = np.array(list(data_ratio.values()))
+
+        # 把y为0的数据去掉
+        x_data_ratio = x_data_ratio[y_data_ratio > 0]
+        y_data_ratio = y_data_ratio[y_data_ratio > 0]
+
+        # 打印升序sort后的数据，以x:y的形式
+        data1 = dict(results_dict)
+        data1 = {int(k): v for k, v in data1.items()}
+        data1 = sorted(data1.items())
+        print('Data1:', data1)
+        data2 = dict(self.strokes_character_counts)
+        # 将key转为int
+        data2 = {int(k): v for k, v in data2.items()}
+        data2 = sorted(data2.items())
+        print('Data2:', data2)
+        print('Data ratio:', dict(zip(x_data_ratio, y_data_ratio)))
+
+        print(x_data_ratio, y_data_ratio)
 
         # Plotting the scatter plot
-        plt.scatter(x, y, marker='x', color='blue', label='Data points')
+        # 分别为左右轴
+        # Plotting the scatter plot
+        # Set up the figure and the left axis
+        fig, ax1 = plt.subplots()
 
+        # Plot the total meanings on the left axis
+        ax1.scatter(x, y, marker='x', color='blue', label='总释义数 数据点')
+        ax1.set_xlabel('笔画数')
+        # Set the label for the left y-axis
+        ax1.set_ylabel('总释义数', color='blue')
+        ax1.tick_params(axis='y', labelcolor='blue')
+        #plt.scatter(x, y, marker='x', color='blue', label='Data points')
+        #plt.scatter(x_data_ratio, y_data_ratio, marker='o', color='green', label='Meaning points')
+        ax2 = ax1.twinx()
+        ax2.scatter(x_data_ratio, y_data_ratio, marker='o', color='green', label='平均每字释义数 数据点')
+        ax2.set_ylabel('平均每字释义数', color='green')
+        ax2.tick_params(axis='y', labelcolor='green')
+
+        # 使用幂律分布绘制笔画-释义关系图，要有最佳拟合函数与相关系数
+        # 注意！要求拟合达到的相关系数为0.9以上
+        def power_law_fit(x, y, threshold=0.8):
+        # 注意！要求拟合达到的相关系数为0.9以上
+            import numpy as np
+            from scipy.optimize import curve_fit
+
+            def power_law(x, a, b):
+                return a * x ** b
+
+            popt, _ = curve_fit(power_law, x, y)
+            a, b = popt
+
+            # 相关系数
+            correlation_coef_power = np.corrcoef(y, power_law(x, *popt))[0, 1]
+
+            if correlation_coef_power < threshold:
+                a = b = 0
+
+            return a, b, correlation_coef_power
+        
+        a, b, correlation_coef_power = power_law_fit(x_data_ratio, y_data_ratio)
+        x_fit_power = np.linspace(min(x_data_ratio), max(x_data_ratio), 100)
+        y_fit_power = a * x_fit_power ** b
+        # 设置竖轴为右轴（分开显示）
+        ax2.plot(x_fit_power, y_fit_power, 'g--', label='幂律拟合 (a={:.2f}, b={:.2f}, r^2={:.2f})'.format(a, b, correlation_coef_power))
+        
         # Finding the best fit
         mu, sigma, a = self.find_best_fit_normal(x, y)
         #fit_distributions(x, y)
         #best_dist, best_popt, best_dist_func = self.fit_distributions(x, y)
         x_fit = np.linspace(min(x), max(x), 100)
         y_fit = a * np.exp(-0.5 * ((x_fit - mu) / sigma) ** 2)
-        plt.plot(x_fit, y_fit, 'r-', label=f'Best fit (mu={mu:.2f}, sigma={sigma:.2f})')
+        ax1.plot(x_fit, y_fit, 'b--', label='正态分布拟合 (mu={:.2f}, sigma={:.2f})'.format(mu, sigma))
 
         # Setting the font
         plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']
         plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
+        if self.mode == 0:
+            # Set the left y-axis limit
+            ax1.set_ylim(0, 7500)
+
+            # Set the right y-axis limit based on its own data range
+            ax2.set_ylim(0, 5)
+
+            ax1.set_xlim(0, 65)
+            ax2.set_xlim(0, 65)
+        else:
+            # Set the left y-axis limit
+            ax1.set_ylim(0, 1000)
+
+            # Set the right y-axis limit based on its own data range
+            ax2.set_ylim(0, 16)
+
+            ax1.set_xlim(0, 32)
+            ax2.set_xlim(0, 32)
+
         # Adding labels, title, and legend
-        plt.xlabel('笔画数')
-        plt.ylabel('释义数')
-        plt.title('笔画-释义关系图')
-        plt.legend()
+        if self.mode == 0:
+            fig.suptitle('全部部首笔画-释义关系图')
+        else:
+            fig.suptitle('五部首笔画-释义关系图')
+        # 在ax1上添加图例
+        ax1.legend(loc='upper left', bbox_to_anchor=(0.75, 0.95), borderaxespad=0.)
 
-        # Adding 虚线网格
-        plt.grid(True, linestyle='--', alpha=0.6)
+        # 在ax2上添加图例
+        ax2.legend(loc='upper left', bbox_to_anchor=(0.75, 0.85), borderaxespad=0.)
 
-        # 取消掉图的框，只留数轴
-        plt.box(False)
-        # 要有数轴
-        plt.axhline(0, color='black', linewidth=0.5)
-        plt.axvline(0, color='black', linewidth=0.5)
+        # Adding dashed grid lines
+        ax1.grid(True, linestyle='--', alpha=0.6)
+
+        # Removing the plot frame while keeping the axes
+        ax1.spines['top'].set_visible(False)
+        ax2.spines['top'].set_visible(False)
+
+        # Display the axes
+        ax1.axhline(0, color='black', linewidth=0.5)
+        ax1.axvline(0, color='black', linewidth=0.5)
 
         # Displaying the plot
         plt.show()
 
     def save_data(self):
+        if self.mode == 1:
+            return
         # 将笔画-释义数据保存到json文件
         root = os.getcwd()
         root = os.path.join(root, 'output')
