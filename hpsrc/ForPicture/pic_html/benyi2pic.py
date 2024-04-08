@@ -80,17 +80,18 @@ def plot_graph(vectors, labels, meanings):
         annot.set_text(text)
         annot.get_bbox_patch().set_alpha(0.4)
         annot.set_fontproperties(chinese_font)
-        annot.set_position((0,10))  # Change this to control the position of the annotation box
-        print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
+        annot.set_position((0,10))  # 节点标签位置设置
+        print(f'Annotation position: {annot.get_position()}, text: {text}')  # 用于检测bug
 
     def hover(event):
         vis = annot.get_visible()
         if event.inaxes == ax:
-            print('Hovering')  # For debugging
+            print('Hovering')  # 用于检测bug
             for node in G.nodes:
                 x, y = pos[node]
                 dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
-                if dist < 1:  # Adjust this value as needed
+                if dist < 1:  # 用于设置鼠标悬停处与节点相距位置
+                    #设置太大的话无法精确显示每个节点的标签，所以最好设置为小于节点半径
                     update_annot(node)
                     annot.set_visible(True)
                     fig.canvas.draw_idle()
@@ -136,6 +137,7 @@ def main():
 
     print("正在降维...")
     reduction_start = time.time()
+    #numpy的concatenate函数用于合并数组
     vectors = np.concatenate(all_vectors, axis=0)
     reduced_vectors = reduce_dimensions(vectors)
     reduction_end = time.time()

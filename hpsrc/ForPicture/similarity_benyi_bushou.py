@@ -1,3 +1,4 @@
+import csv
 import json
 import numpy as np
 import os
@@ -6,7 +7,7 @@ def cosine_similarity(vec1, vec2):
     norm_vec1 = np.linalg.norm(vec1)
     norm_vec2 = np.linalg.norm(vec2)
     if norm_vec1 == 0 or norm_vec2 == 0:  # 检查任一向量是否为零向量
-        return 0  # 如果有一个是零向量，则返回None
+        return 0  # 如果有一个是零向量，则返回0
     else:
         dot_product = np.dot(vec1, vec2)
         return dot_product / (norm_vec1 * norm_vec2)
@@ -38,9 +39,10 @@ for radical, filename in radical_files.items():
     radical_vec = np.array(radicals_vectors[radical])
     file_path = os.path.join(base_dir, f'{filename}.json')
     
-    # 准备结果字典
-    results = {}
-    
+    # 准备结果列表和相似度列表
+    results = []
+    similarities = []
+
     # 读取文件中的所有字及其向量
     with open(file_path, 'r', encoding='utf-8') as file:
         characters_data = json.load(file)
@@ -56,13 +58,26 @@ for radical, filename in radical_files.items():
                 # 计算余弦相似度
                 similarity = cosine_similarity(char_vec, radical_vec)
             else:
-                similarity = 0  # vec不存在或为空时设置相似度为None
-            results[f"{character}({pinyin})"] = similarity
+                similarity = 0  # vec不存在或为空时设置相似度为0
+
+            results.append({'character': character, 'pinyin': pinyin, 'similarity': similarity})
+            similarities.append(similarity)
+
+    # 计算相似度的平均值
+    avg_similarity = np.mean(similarities)
+
+    # 按相似度降序排列结果
+    sorted_results = sorted(results, key=lambda x: x['similarity'], reverse=True)
 
     # 将结果保存到新文件中
-    output_file_path = os.path.join(output_dir, f'{filename}.json')
-    with open(output_file_path, 'w', encoding='utf-8') as output_file:
-        json.dump(results, output_file, ensure_ascii=False, indent=4)
+    output_file_path = os.path.join(output_dir, f'{filename}.csv')
+    with open(output_file_path, 'w', newline='', encoding='utf-8') as output_file:
+        fieldnames = ['character', 'pinyin', 'similarity']
+        writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerow({'character': '平均相似度', 'pinyin': '', 'similarity': avg_similarity})
+        for result in sorted_results:
+            writer.writerow(result)
 
     print(f"部首 '{radical}' 的相似度计算结果已保存到 {output_file_path}")
 
