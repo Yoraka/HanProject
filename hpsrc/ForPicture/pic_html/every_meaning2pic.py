@@ -52,21 +52,36 @@ def load_vectors_and_meanings(json_path):
 def plot_graph(vectors, labels, meanings):
     x, y = zip(*vectors)
     trace = go.Scatter(x=x, y=y, mode='markers', marker=dict(color=labels), text=meanings)
-    
+
     layout = go.Layout(
         title="所有释义聚类图",
         hovermode='closest',
         xaxis=dict(title='x轴'),
         yaxis=dict(title='y轴'),
-        showlegend=False
+        showlegend=False,
+        annotations=[
+            dict(
+                text=
+                     "<span style='color:red;'>■</span> 口部    "
+                     "<span style='color:green;'>■</span> 欠部    "
+                     "<span style='color:blue;'>■</span> 人部   "
+                     "<span style='color:orange;'>■</span> 心部    "
+                     "<span style='color:purple;'>■</span> 言部    ",
+                x=0.10, y=1.08,
+                xref='paper', yref='paper',
+                showarrow=False,
+                align='left',
+                font=dict(size=16)
+            )
+        ]
     )
 
     fig = go.Figure(data=[trace], layout=layout)
 
     output_dir = 'hpsrc/ForPicture/pic_html'
-    os.makedirs(output_dir, exist_ok=True)  
-    fig.write_html(f'{output_dir}/everymeaning.html') #生成html文件
-    
+    os.makedirs(output_dir, exist_ok=True)
+    fig.write_html(f'{output_dir}/everymeaning.html')  # 生成html文件
+
     G = nx.Graph()
     for i, vector in enumerate(vectors):
         G.add_node(i, pos=vector, label=meanings[i], color=labels[i])
@@ -75,7 +90,7 @@ def plot_graph(vectors, labels, meanings):
     fig, ax = plt.subplots(figsize=(50, 50))
     nx.draw(G, pos, ax=ax, with_labels=False, node_color=[G.nodes[node]['color'] for node in G], node_size=10)
 
-    annot = ax.annotate("", xy=(0,0), xytext=(20,20), textcoords="offset points",
+    annot = ax.annotate("", xy=(0, 0), xytext=(20, 20), textcoords="offset points",
                         bbox=dict(boxstyle="round", fc="w"),
                         arrowprops=dict(arrowstyle="->"))
     annot.set_visible(False)
@@ -87,7 +102,7 @@ def plot_graph(vectors, labels, meanings):
         annot.set_text(text)
         annot.get_bbox_patch().set_alpha(0.4)
         annot.set_fontproperties(chinese_font)
-        annot.set_position((0,10))  # Change this to control the position of the annotation box
+        annot.set_position((0, 10))  # Change this to control the position of the annotation box
         print(f'Annotation position: {annot.get_position()}, text: {text}')  # For debugging
 
     def hover(event):
@@ -96,7 +111,7 @@ def plot_graph(vectors, labels, meanings):
             print('Hovering')  # For debugging
             for node in G.nodes:
                 x, y = pos[node]
-                dist = np.sqrt((x - event.xdata)**2 + (y - event.ydata)**2)
+                dist = np.sqrt((x - event.xdata) ** 2 + (y - event.ydata) ** 2)
                 if dist < 1:  # Adjust this value as needed
                     update_annot(node)
                     annot.set_visible(True)
@@ -106,10 +121,11 @@ def plot_graph(vectors, labels, meanings):
                     annot.set_visible(False)
                     fig.canvas.draw_idle()
 
-
     fig.canvas.mpl_connect("motion_notify_event", hover)
     fig.tight_layout()  # This will make the annotation box resize based on its content
-    plt.show()
+    #plt.show()
+
+
 
 
 def main():
