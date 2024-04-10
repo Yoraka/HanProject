@@ -1,2 +1,3 @@
 利用检索txt将索引载入后批量处理所有部首
 字典里还有大量corner case，需要另外处理
+deal with rebase
