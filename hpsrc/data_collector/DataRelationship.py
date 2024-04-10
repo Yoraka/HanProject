@@ -20,6 +20,7 @@ def get_basic_data():
 #从basic_data里获得每个汉字的笔画，释义总个数，存入data数组
 def get_basic_data_by_key(data, key):
     result = []
+    strokes_character_count = {}
     #遍历data数组
     for character, properties in data[key]['汉字'].items():
         temp = []
@@ -28,7 +29,13 @@ def get_basic_data_by_key(data, key):
         temp.append(stroke_count)
         temp.append(meaning_count)
         result.append(temp)
-    return result
+
+        if stroke_count not in strokes_character_count:
+            strokes_character_count[stroke_count] = 0
+        #在strokes_character_count的value中增加(直接加法)
+        strokes_character_count[stroke_count] += 1
+
+    return result, strokes_character_count
 
 #按照笔画升序排序result数组
 def sort_by_strokes(result):
@@ -181,9 +188,25 @@ def plot_strokes_and_meanings_dict(results_dict, max_degree=10, threshold=0.98):
     # Displaying the plot
     plt.show()
 
+# 使用幂律分布绘制笔画-释义关系图，要有最佳拟合函数与相关系数
+def power_law_fit(x, y):
+    import numpy as np
+    from scipy.optimize import curve_fit
+
+    def power_law(x, a, b):
+        return a * x ** b
+
+    popt, _ = curve_fit(power_law, x, y)
+    a, b = popt
+
+    # 相关系数
+    correlation_coef_power = np.corrcoef(y, power_law(x, *popt))[0, 1]
+
+    return a, b, correlation_coef_power
+
 # 使用正态分布绘制笔画-释义关系图
 
-def plot_strokes_and_meanings_dict_normal(results_dict):
+def plot_strokes_and_meanings_dict_normal(results_dict, strokes_character_counts):
     import matplotlib.pyplot as plt
     import numpy as np
 
@@ -191,28 +214,51 @@ def plot_strokes_and_meanings_dict_normal(results_dict):
     counts = {}
     for strokes, meanings in results_dict.items():
         strokes = int(strokes)
-        key = (strokes, meanings)
+        key = strokes
+        value = meanings
         if key not in counts:
             counts[key] = 0
-        counts[key] += 1
+        counts[key] += value
+
+    # 将strokes_character_counts转为字典，笔画数作为key唯一，字数合并作为value，key为int类型
+    strokes_character_counts = {int(k): v for k, v in strokes_character_counts.items()}
+
+    # 升序sort
+    counts = dict(sorted(counts.items()))
+    strokes_character_counts = dict(sorted(strokes_character_counts.items()))
+
+    print(strokes_character_counts)
+    print(counts)
+
+    # 将y替换为与character_counts相除的值（每个笔画数的释义总数/字数总数）
+    for strokes in counts.keys():
+        counts[strokes] /= strokes_character_counts[strokes]
+
+    print(counts)
 
     # Prepare data for plotting
     x = []
     y = []
     sizes = []
-    for (strokes, meanings), count in counts.items():
+    for strokes in counts.keys():
         x.append(strokes)
-        y.append(meanings)
-        sizes.append(count * 20)  # Adjust the size multiplier as needed
+        y.append(counts[strokes])
+        #sizes.append(strokes_character_counts[strokes] * 20)  # Adjust the size multiplier as needed
 
     # Plotting the scatter plot
-    plt.scatter(x, y, s=sizes, label='Data points')
+    plt.scatter(x, y, label='Data points')
 
     # Finding the best fit
-    mu, sigma, a = find_best_fit_normal(x, y)
-    x_fit = np.linspace(min(x), max(x), 100)
-    y_fit = a * np.exp(-0.5 * ((x_fit - mu) / sigma) ** 2)
-    plt.plot(x_fit, y_fit, 'r-', label=f'Best fit (mu={mu:.2f}, sigma={sigma:.2f})')
+    if 0 == 1:
+        mu, sigma, a = find_best_fit_normal(x, y)
+        x_fit = np.linspace(min(x), max(x), 100)
+        y_fit = a * np.exp(-0.5 * ((x_fit - mu) / sigma) ** 2)
+        plt.plot(x_fit, y_fit, 'r-', label=f'Best fit (mu={mu:.2f}, sigma={sigma:.2f})')
+    else:
+        a, b, r2 = power_law_fit(x, y)
+        x_fit = np.linspace(min(x), max(x), 100)
+        y_fit = a * x_fit ** b
+        plt.plot(x_fit, y_fit, 'r-', label=f'Best fit (a={a:.2f}, b={b:.2f}, R²={r2:.2f})')
 
     # Setting the font
     plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']
@@ -220,7 +266,7 @@ def plot_strokes_and_meanings_dict_normal(results_dict):
 
     # Adding labels, title, and legend
     plt.xlabel('笔画数')
-    plt.ylabel('释义数')
+    plt.ylabel('平均妹子释义数')
     plt.title('笔画-释义关系图')
     plt.legend()
 
@@ -233,9 +279,14 @@ def plot_strokes_and_meanings_dict_normal(results_dict):
 if __name__ == '__main__':
     data = get_basic_data()
     results = []
+    strokes_character_counts = {}
     for key in keys:
-        result = get_basic_data_by_key(data, key)
+        result, strokes_character_count = get_basic_data_by_key(data, key)
         results.extend(result)
+        for strokes, count in strokes_character_count.items():
+            if strokes not in strokes_character_counts:
+                strokes_character_counts[strokes] = 0
+            strokes_character_counts[strokes] += count
     results = sort_by_strokes(results)
     plot_strokes_and_meanings(results)
     # 直接将results转为字典，笔画数作为key唯一，释义数合并作为value
@@ -245,4 +296,4 @@ if __name__ == '__main__':
             results_dict[strokes] = 0
         results_dict[strokes] += meanings
     plot_strokes_and_meanings_dict(results_dict)
-    plot_strokes_and_meanings_dict_normal(results_dict)
+    plot_strokes_and_meanings_dict_normal(results_dict, strokes_character_counts=strokes_character_counts)

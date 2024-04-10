@@ -49,9 +49,9 @@ def test_run():
     basicDataCollector.save_data()
     basicDataCollector.data_to_csv()
 
-def test_run2():
+def strokes(mode):
     from hpsrc.data_collector.strokes import Strokes
-    dataA = Strokes()
+    dataA = Strokes(mode=mode)
     unihan_irgs = UnihanIRGs()
     dataA.get_basic_data(unihan_irgs=unihan_irgs)
     dataA.sort_by_strokes()
@@ -59,5 +59,5 @@ def test_run2():
     dataA.plot_strokes_and_meanings_dict_normal(dataA.data)
 
 if __name__ == '__main__':
-    test_run2()
+    strokes(mode=1)
     #run(sys.argv)
