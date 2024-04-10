@@ -41,7 +41,7 @@ def load_vectors_and_meanings(json_path):
 
     return vectors, display_texts
 
-def plot_graph(vectors, labels, meanings):
+def plot_graph(vectors, labels, meanings, color_mapping):
     x, y = zip(*vectors)
     trace = go.Scatter(x=x, y=y, mode='markers', marker=dict(color=labels), text=meanings)
 
@@ -50,14 +50,45 @@ def plot_graph(vectors, labels, meanings):
         hovermode='closest',
         xaxis=dict(title='x轴'),
         yaxis=dict(title='y轴'),
-        showlegend=False
+        showlegend=False,
+        # 定义注释列表，以后将在这里添加颜色-部首注释
+        annotations=[]
     )
 
     fig = go.Figure(data=[trace], layout=layout)
 
+    # 自定义文本内容
+    custom_texts = {
+        'kou': '口部',
+        'qian': '欠部',
+        'ren': '人部',
+        'xin': '心部',
+        'yan': '言部'
+    }
+    # 添加每个颜色-部首配对作为注释
+    annotations = []
+    x_start =0.08  # 初始x位置
+    x_offset = 0.05  # x位置的偏移量
+    for part, color in color_mapping.items():
+        # 使用自定义文本内容
+        custom_text = custom_texts.get(part, part)  # 如果part不在custom_texts中，回退到使用part作为文本
+        annotations.append(dict(
+            text=f"<span style='color:{color};'>■</span> {custom_text}",  # 注释文本
+            x=x_start, y=1.09,  # 注释的位置
+            xref='paper', yref='paper',
+            showarrow=False,
+            font=dict(color=color,size=16), # 设置字体属性，包括颜色和大小
+            align='left'
+        ))
+        x_start += x_offset  # 更新x位置以水平排列注释
+
+    # 将注释添加到图表布局中
+    fig.update_layout(annotations=annotations)
+
     output_dir = 'hpsrc/ForPicture/pic_html'
     os.makedirs(output_dir, exist_ok=True)  
     fig.write_html(f'{output_dir}/benyi.html') #生成html文件
+
 
 
     G = nx.Graph()
@@ -103,7 +134,7 @@ def plot_graph(vectors, labels, meanings):
 
     fig.canvas.mpl_connect("motion_notify_event", hover)
     fig.tight_layout()  # This will make the annotation box resize based on its content
-    plt.show()
+    #plt.show()
 
 
 def main():
@@ -145,7 +176,7 @@ def main():
 
     print("正在绘制图形...")
     plot_start = time.time()
-    plot_graph(reduced_vectors, all_labels, all_meanings)
+    plot_graph(reduced_vectors, all_labels, all_meanings,color_mapping)
     plot_end = time.time()
     print(f"绘图耗时 {plot_end - plot_start} 秒。")
 
