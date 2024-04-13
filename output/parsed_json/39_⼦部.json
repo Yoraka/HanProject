@@ -1,6 +1,8 @@
 [
     {
         "character": "㜽",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "子"
@@ -10,6 +12,8 @@
     },
     {
         "character": "㜾",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "孩"
@@ -19,6 +23,8 @@
     },
     {
         "character": "㜿",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -36,6 +42,8 @@
     },
     {
         "character": "㝀",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "好"
@@ -45,6 +53,8 @@
     },
     {
         "character": "㝁",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -68,6 +78,8 @@
     },
     {
         "character": "㝂",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -92,6 +104,8 @@
     },
     {
         "character": "㝃",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "娩"
@@ -101,6 +115,8 @@
     },
     {
         "character": "㝄",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "純"
@@ -110,6 +126,8 @@
     },
     {
         "character": "㝅",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -129,6 +147,8 @@
     },
     {
         "character": "㝇",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "鶉"
@@ -138,6 +158,8 @@
     },
     {
         "character": "㝈",
+        "radical": "⼦",
+        "strokes": "25",
         "variants": [],
         "synonyms": [
             "孿"
@@ -147,6 +169,8 @@
     },
     {
         "character": "子",
+        "radical": "⼦",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -205,6 +229,8 @@
     },
     {
         "character": "孑",
+        "radical": "⼦",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -230,6 +256,8 @@
     },
     {
         "character": "孒",
+        "radical": "⼦",
+        "strokes": "3",
         "variants": [],
         "synonyms": [
             "孓"
@@ -239,6 +267,8 @@
     },
     {
         "character": "孓",
+        "radical": "⼦",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -256,6 +286,8 @@
     },
     {
         "character": "孔",
+        "radical": "⼦",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -283,6 +315,8 @@
     },
     {
         "character": "孕",
+        "radical": "⼦",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -305,6 +339,8 @@
     },
     {
         "character": "孖",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -330,6 +366,8 @@
     },
     {
         "character": "字",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -363,6 +401,8 @@
     },
     {
         "character": "存",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -391,6 +431,8 @@
     },
     {
         "character": "孙",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [
             "“孫”"
         ],
@@ -400,6 +442,8 @@
     },
     {
         "character": "孚",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -438,6 +482,8 @@
     },
     {
         "character": "孛",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -466,6 +512,8 @@
     },
     {
         "character": "孜",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -485,6 +533,8 @@
     },
     {
         "character": "孝",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -508,6 +558,8 @@
     },
     {
         "character": "孞",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "信"
@@ -517,6 +569,8 @@
     },
     {
         "character": "孟",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -544,6 +598,8 @@
     },
     {
         "character": "孠",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "嗣"
@@ -553,6 +609,8 @@
     },
     {
         "character": "孡",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "胎"
@@ -562,6 +620,8 @@
     },
     {
         "character": "孢",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -578,6 +638,8 @@
     },
     {
         "character": "季",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -604,6 +666,8 @@
     },
     {
         "character": "孤",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -633,6 +697,8 @@
     },
     {
         "character": "孥",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -650,6 +716,8 @@
     },
     {
         "character": "学",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [
             "“學”"
         ],
@@ -659,6 +727,8 @@
     },
     {
         "character": "孧",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "孺"
@@ -668,6 +738,8 @@
     },
     {
         "character": "孨",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -693,6 +765,8 @@
     },
     {
         "character": "孩",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -713,6 +787,8 @@
     },
     {
         "character": "孪",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [
             "“孿”"
         ],
@@ -722,6 +798,8 @@
     },
     {
         "character": "孫",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -749,6 +827,8 @@
     },
     {
         "character": "孬",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -766,6 +846,8 @@
     },
     {
         "character": "孭",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -782,6 +864,8 @@
     },
     {
         "character": "孮",
+        "radical": "⼦",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -798,6 +882,8 @@
     },
     {
         "character": "孯",
+        "radical": "⼦",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "掔"
@@ -807,6 +893,8 @@
     },
     {
         "character": "孰",
+        "radical": "⼦",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -824,6 +912,8 @@
     },
     {
         "character": "孱",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -872,6 +962,8 @@
     },
     {
         "character": "孲",
+        "radical": "⼦",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -888,6 +980,8 @@
     },
     {
         "character": "孳",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -907,6 +1001,8 @@
     },
     {
         "character": "孴",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -939,6 +1035,8 @@
     },
     {
         "character": "孵",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -955,6 +1053,8 @@
     },
     {
         "character": "孷",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -971,6 +1071,8 @@
     },
     {
         "character": "學",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1013,6 +1115,8 @@
     },
     {
         "character": "孹",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "擘"
@@ -1022,6 +1126,8 @@
     },
     {
         "character": "孺",
+        "radical": "⼦",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1041,6 +1147,8 @@
     },
     {
         "character": "孻",
+        "radical": "⼦",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1057,6 +1165,8 @@
     },
     {
         "character": "孼",
+        "radical": "⼦",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "孽"
@@ -1066,6 +1176,8 @@
     },
     {
         "character": "孽",
+        "radical": "⼦",
+        "strokes": "19",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1085,6 +1197,8 @@
     },
     {
         "character": "孾",
+        "radical": "⼦",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "嬰"
@@ -1094,6 +1208,8 @@
     },
     {
         "character": "孿",
+        "radical": "⼦",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1111,6 +1227,8 @@
     },
     {
         "character": "𡉗",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1127,6 +1245,8 @@
     },
     {
         "character": "𡤽",
+        "radical": "⼦",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1141,6 +1261,8 @@
     },
     {
         "character": "𡤾",
+        "radical": "⼦",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "孫"
@@ -1150,6 +1272,8 @@
     },
     {
         "character": "𡤿",
+        "radical": "⼦",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1172,6 +1296,8 @@
     },
     {
         "character": "𡥀",
+        "radical": "⼦",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "保"
@@ -1181,6 +1307,8 @@
     },
     {
         "character": "𡥁",
+        "radical": "⼦",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1195,6 +1323,8 @@
     },
     {
         "character": "𡥃",
+        "radical": "⼦",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "好"
@@ -1204,6 +1334,8 @@
     },
     {
         "character": "𡥆",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1224,6 +1356,8 @@
     },
     {
         "character": "𡥇",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "孛"
@@ -1233,6 +1367,8 @@
     },
     {
         "character": "𡥈",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1249,6 +1385,8 @@
     },
     {
         "character": "𡥉",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "教"
@@ -1258,6 +1396,8 @@
     },
     {
         "character": "𡥍",
+        "radical": "⼦",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1274,6 +1414,8 @@
     },
     {
         "character": "𡥎",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1296,6 +1438,8 @@
     },
     {
         "character": "𡥏",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "悖"
@@ -1305,6 +1449,8 @@
     },
     {
         "character": "𡥐",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "使"
@@ -1314,6 +1460,8 @@
     },
     {
         "character": "𡥑",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "𢧔"
@@ -1323,6 +1471,8 @@
     },
     {
         "character": "𡥗",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [
             "“孕”"
         ],
@@ -1332,6 +1482,8 @@
     },
     {
         "character": "𡥘",
+        "radical": "⼦",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1341,6 +1493,8 @@
     },
     {
         "character": "𡥛",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "殊"
@@ -1350,6 +1504,8 @@
     },
     {
         "character": "𡥜",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "字"
@@ -1359,6 +1515,8 @@
     },
     {
         "character": "𡥝",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "孳"
@@ -1368,6 +1526,8 @@
     },
     {
         "character": "𡥞",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1388,6 +1548,8 @@
     },
     {
         "character": "𡥦",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1410,6 +1572,8 @@
     },
     {
         "character": "𡥧",
+        "radical": "⼦",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1419,6 +1583,8 @@
     },
     {
         "character": "𡥨",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1439,6 +1605,8 @@
     },
     {
         "character": "𡥩",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1455,6 +1623,8 @@
     },
     {
         "character": "𡥪",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "信"
@@ -1464,6 +1634,8 @@
     },
     {
         "character": "𡥭",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "孵"
@@ -1473,6 +1645,8 @@
     },
     {
         "character": "𡥳",
+        "radical": "⼦",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "𠦮（舉）"
@@ -1482,6 +1656,8 @@
     },
     {
         "character": "𡥶",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1504,6 +1680,8 @@
     },
     {
         "character": "𡥷",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "犀"
@@ -1513,6 +1691,8 @@
     },
     {
         "character": "𡥸",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1529,6 +1709,8 @@
     },
     {
         "character": "𡥹",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "𩫠"
@@ -1538,6 +1720,8 @@
     },
     {
         "character": "𡥺",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "姪"
@@ -1547,6 +1731,8 @@
     },
     {
         "character": "𡥽",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "孷孳"
@@ -1556,6 +1742,8 @@
     },
     {
         "character": "𡥾",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1565,6 +1753,8 @@
     },
     {
         "character": "𡥿",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1581,6 +1771,8 @@
     },
     {
         "character": "𡦀",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "朗"
@@ -1590,6 +1782,8 @@
     },
     {
         "character": "𡦁",
+        "radical": "⼦",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1606,6 +1800,8 @@
     },
     {
         "character": "𡦃",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "嬛"
@@ -1615,6 +1811,8 @@
     },
     {
         "character": "𡦄",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1631,6 +1829,8 @@
     },
     {
         "character": "𡦅",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "媰"
@@ -1640,6 +1840,8 @@
     },
     {
         "character": "𡦆",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1656,6 +1858,8 @@
     },
     {
         "character": "𡦊",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1670,6 +1874,8 @@
     },
     {
         "character": "𡦋",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "掔"
@@ -1679,6 +1885,8 @@
     },
     {
         "character": "𡦌",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "晋"
@@ -1688,6 +1896,8 @@
     },
     {
         "character": "𡦍",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1702,6 +1912,8 @@
     },
     {
         "character": "𡦎",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "𢟪"
@@ -1711,6 +1923,8 @@
     },
     {
         "character": "𡦏",
+        "radical": "⼦",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "孴"
@@ -1720,6 +1934,8 @@
     },
     {
         "character": "𡦑",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "槻"
@@ -1729,6 +1945,8 @@
     },
     {
         "character": "𡦔",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1745,6 +1963,8 @@
     },
     {
         "character": "𡦕",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1761,6 +1981,8 @@
     },
     {
         "character": "𡦗",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "孺"
@@ -1770,6 +1992,8 @@
     },
     {
         "character": "𡦘",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "孺"
@@ -1779,6 +2003,8 @@
     },
     {
         "character": "𡦙",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1788,6 +2014,8 @@
     },
     {
         "character": "𡦛",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1802,6 +2030,8 @@
     },
     {
         "character": "𡦜",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1818,6 +2048,8 @@
     },
     {
         "character": "𡦝",
+        "radical": "⼦",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1834,6 +2066,8 @@
     },
     {
         "character": "𡦞",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "㛑"
@@ -1843,6 +2077,8 @@
     },
     {
         "character": "𡦟",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1859,6 +2095,8 @@
     },
     {
         "character": "𡦠",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "季"
@@ -1868,6 +2106,8 @@
     },
     {
         "character": "𡦡",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "堵"
@@ -1877,6 +2117,8 @@
     },
     {
         "character": "𡦢",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "湩"
@@ -1886,6 +2128,8 @@
     },
     {
         "character": "𡦣",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "孽"
@@ -1895,6 +2139,8 @@
     },
     {
         "character": "𡦦",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "熟"
@@ -1904,6 +2150,8 @@
     },
     {
         "character": "𡦨",
+        "radical": "⼦",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1920,6 +2168,8 @@
     },
     {
         "character": "𡦩",
+        "radical": "⼦",
+        "strokes": "17",
         "variants": [
             "“𡦬”"
         ],
@@ -1929,6 +2179,8 @@
     },
     {
         "character": "𡦪",
+        "radical": "⼦",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1943,6 +2195,8 @@
     },
     {
         "character": "𡦬",
+        "radical": "⼦",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "厚"
@@ -1952,6 +2206,8 @@
     },
     {
         "character": "𡦱",
+        "radical": "⼦",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "𡦳"
@@ -1961,6 +2217,8 @@
     },
     {
         "character": "𡦳",
+        "radical": "⼦",
+        "strokes": "20",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1977,6 +2235,8 @@
     },
     {
         "character": "𡦴",
+        "radical": "⼦",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "𡦳"
@@ -1986,6 +2246,8 @@
     },
     {
         "character": "𡦷",
+        "radical": "⼦",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -2002,6 +2264,8 @@
     },
     {
         "character": "𢈲",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -2018,6 +2282,8 @@
     },
     {
         "character": "𨹴",
+        "radical": "⼦",
+        "strokes": "10",
         "variants": [
             "𨹴“𡥭（孵）”"
         ],
@@ -2027,6 +2293,8 @@
     },
     {
         "character": "𪧀",
+        "radical": "⼦",
+        "strokes": "14",
         "variants": [
             "“孾”"
         ],

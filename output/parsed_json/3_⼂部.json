@@ -1,6 +1,8 @@
 [
     {
         "character": "丶",
+        "radical": "⼂",
+        "strokes": "1",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -18,6 +20,8 @@
     },
     {
         "character": "丸",
+        "radical": "⼂",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -39,6 +43,8 @@
     },
     {
         "character": "丹",
+        "radical": "⼂",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -60,6 +66,8 @@
     },
     {
         "character": "为",
+        "radical": "⼂",
+        "strokes": "4",
         "variants": [
             "“爲”"
         ],
@@ -69,6 +77,8 @@
     },
     {
         "character": "主",
+        "radical": "⼂",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -113,6 +123,8 @@
     },
     {
         "character": "丼",
+        "radical": "⼂",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -136,6 +148,8 @@
     },
     {
         "character": "举",
+        "radical": "⼂",
+        "strokes": "9",
         "variants": [
             "⁸举“舉”"
         ],
@@ -145,6 +159,8 @@
     },
     {
         "character": "义",
+        "radical": "⼂",
+        "strokes": "3",
         "variants": [
             "²义“義”"
         ],
@@ -154,6 +170,8 @@
     },
     {
         "character": "𠁼",
+        "radical": "⼂",
+        "strokes": "3",
         "variants": [],
         "synonyms": [
             "伊"
@@ -163,6 +181,8 @@
     },
     {
         "character": "𠁽",
+        "radical": "⼂",
+        "strokes": "3",
         "variants": [],
         "synonyms": [
             "丸"
@@ -172,6 +192,8 @@
     },
     {
         "character": "𠁿",
+        "radical": "⼂",
+        "strokes": "4",
         "variants": [],
         "synonyms": [
             "丹"
@@ -181,6 +203,8 @@
     },
     {
         "character": "𠂁",
+        "radical": "⼂",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "丹"
@@ -190,6 +214,8 @@
     },
     {
         "character": "𠂂",
+        "radical": "⼂",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "終"
@@ -199,6 +225,8 @@
     },
     {
         "character": "𠂄",
+        "radical": "⼂",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [

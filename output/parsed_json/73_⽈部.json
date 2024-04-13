@@ -1,6 +1,8 @@
 [
     {
         "character": "㬰",
+        "radical": "⽈",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "臾"
@@ -10,6 +12,8 @@
     },
     {
         "character": "㬱",
+        "radical": "⽈",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "替"
@@ -19,6 +23,8 @@
     },
     {
         "character": "㬲",
+        "radical": "⽈",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "添"
@@ -28,6 +34,8 @@
     },
     {
         "character": "曰",
+        "radical": "⽈",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -46,6 +54,8 @@
     },
     {
         "character": "曱",
+        "radical": "⽈",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -62,6 +72,8 @@
     },
     {
         "character": "曲",
+        "radical": "⽈",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -100,6 +112,8 @@
     },
     {
         "character": "曳",
+        "radical": "⽈",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -120,6 +134,8 @@
     },
     {
         "character": "更",
+        "radical": "⽈",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -158,6 +174,8 @@
     },
     {
         "character": "曵",
+        "radical": "⽈",
+        "strokes": "7",
         "variants": [
             "“曳”"
         ],
@@ -167,6 +185,8 @@
     },
     {
         "character": "曶",
+        "radical": "⽈",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -186,6 +206,8 @@
     },
     {
         "character": "曷",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -225,6 +247,8 @@
     },
     {
         "character": "書",
+        "radical": "⽈",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -254,6 +278,8 @@
     },
     {
         "character": "曹",
+        "radical": "⽈",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -279,6 +305,8 @@
     },
     {
         "character": "曺",
+        "radical": "⽈",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "曹"
@@ -288,6 +316,8 @@
     },
     {
         "character": "曻",
+        "radical": "⽈",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "昇"
@@ -297,6 +327,8 @@
     },
     {
         "character": "曼",
+        "radical": "⽈",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -355,6 +387,8 @@
     },
     {
         "character": "曾",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -386,6 +420,8 @@
     },
     {
         "character": "替",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -408,6 +444,8 @@
     },
     {
         "character": "朁",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -438,6 +476,8 @@
     },
     {
         "character": "朂",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "勖"
@@ -447,6 +487,8 @@
     },
     {
         "character": "會",
+        "radical": "⽈",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -506,6 +548,8 @@
     },
     {
         "character": "朄",
+        "radical": "⽈",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -523,6 +567,8 @@
     },
     {
         "character": "朅",
+        "radical": "⽈",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -541,6 +587,8 @@
     },
     {
         "character": "朆",
+        "radical": "⽈",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -557,6 +605,8 @@
     },
     {
         "character": "朇",
+        "radical": "⽈",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -573,6 +623,8 @@
     },
     {
         "character": "𠑱",
+        "radical": "⽈",
+        "strokes": "25",
         "variants": [],
         "synonyms": [
             "景"
@@ -582,6 +634,8 @@
     },
     {
         "character": "𣆉",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "厚"
@@ -591,6 +645,8 @@
     },
     {
         "character": "𣌡",
+        "radical": "⽈",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "香"
@@ -600,6 +656,8 @@
     },
     {
         "character": "𣌣",
+        "radical": "⽈",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "良"
@@ -609,6 +667,8 @@
     },
     {
         "character": "𣌦",
+        "radical": "⽈",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "爭"
@@ -618,6 +678,8 @@
     },
     {
         "character": "𣌧",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -634,6 +696,8 @@
     },
     {
         "character": "𣌨",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -650,6 +714,8 @@
     },
     {
         "character": "𣌩",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "良"
@@ -659,6 +725,8 @@
     },
     {
         "character": "𣌬",
+        "radical": "⽈",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -675,6 +743,8 @@
     },
     {
         "character": "𣌭",
+        "radical": "⽈",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -695,6 +765,8 @@
     },
     {
         "character": "𣌼",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "曹"
@@ -704,6 +776,8 @@
     },
     {
         "character": "𣌽",
+        "radical": "⽈",
+        "strokes": "12",
         "variants": [
             "𣌽“簋”"
         ],
@@ -713,6 +787,8 @@
     },
     {
         "character": "𣌾",
+        "radical": "⽈",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -729,6 +805,8 @@
     },
     {
         "character": "𣍃",
+        "radical": "⽈",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "朄"
@@ -738,6 +816,8 @@
     },
     {
         "character": "𣍄",
+        "radical": "⽈",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "韋"
@@ -747,6 +827,8 @@
     },
     {
         "character": "𣍆",
+        "radical": "⽈",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -763,6 +845,8 @@
     },
     {
         "character": "𣍇",
+        "radical": "⽈",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -779,6 +863,8 @@
     },
     {
         "character": "𣍈",
+        "radical": "⽈",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "豐"
@@ -788,6 +874,8 @@
     },
     {
         "character": "𣍎",
+        "radical": "⽈",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "甑"
@@ -797,6 +885,8 @@
     },
     {
         "character": "𣍏",
+        "radical": "⽈",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -813,6 +903,8 @@
     },
     {
         "character": "𣍐",
+        "radical": "⽈",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -829,6 +921,8 @@
     },
     {
         "character": "𣍑",
+        "radical": "⽈",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "僈"
@@ -838,6 +932,8 @@
     },
     {
         "character": "𣍖",
+        "radical": "⽈",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "☀"
@@ -847,6 +943,8 @@
     },
     {
         "character": "𣍘",
+        "radical": "⽈",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "曹"
@@ -856,6 +954,8 @@
     },
     {
         "character": "𣍙",
+        "radical": "⽈",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "㬲"
@@ -865,6 +965,8 @@
     },
     {
         "character": "𣍚",
+        "radical": "⽈",
+        "strokes": "24",
         "variants": [],
         "synonyms": [
             "𢆅"
@@ -874,6 +976,8 @@
     },
     {
         "character": "𣍛",
+        "radical": "⽈",
+        "strokes": "28",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -890,6 +994,8 @@
     },
     {
         "character": "𣍜",
+        "radical": "⽈",
+        "strokes": "35",
         "variants": [],
         "synonyms": [
             "黌"

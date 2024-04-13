@@ -1,6 +1,8 @@
 [
     {
         "character": "䪞",
+        "radical": "⾲",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -17,6 +19,8 @@
     },
     {
         "character": "䪠",
+        "radical": "⾲",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "䪡（齏）"
@@ -26,6 +30,8 @@
     },
     {
         "character": "䪡",
+        "radical": "⾲",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "齏"
@@ -35,6 +41,8 @@
     },
     {
         "character": "䪢",
+        "radical": "⾲",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "虀（齏）"
@@ -44,6 +52,8 @@
     },
     {
         "character": "䪤",
+        "radical": "⾲",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -60,6 +70,8 @@
     },
     {
         "character": "䪥",
+        "radical": "⾲",
+        "strokes": "23",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -77,6 +89,8 @@
     },
     {
         "character": "韭",
+        "radical": "⾲",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -93,6 +107,8 @@
     },
     {
         "character": "韮",
+        "radical": "⾲",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "韭"
@@ -102,6 +118,8 @@
     },
     {
         "character": "韯",
+        "radical": "⾲",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "韱"
@@ -111,6 +129,8 @@
     },
     {
         "character": "韰",
+        "radical": "⾲",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -129,6 +149,8 @@
     },
     {
         "character": "韱",
+        "radical": "⾲",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -145,6 +167,8 @@
     },
     {
         "character": "韲",
+        "radical": "⾲",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "齏"
@@ -154,6 +178,8 @@
     },
     {
         "character": "𩐁",
+        "radical": "⾲",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -171,6 +197,8 @@
     },
     {
         "character": "𩐂",
+        "radical": "⾲",
+        "strokes": "13",
         "variants": [
             "𩐂“韰”"
         ],
@@ -180,6 +208,8 @@
     },
     {
         "character": "𩐄",
+        "radical": "⾲",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -200,6 +230,8 @@
     },
     {
         "character": "𩐅",
+        "radical": "⾲",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -217,6 +249,8 @@
     },
     {
         "character": "𩐆",
+        "radical": "⾲",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -233,6 +267,8 @@
     },
     {
         "character": "𩐇",
+        "radical": "⾲",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "𩐎（𩐆）"
@@ -242,6 +278,8 @@
     },
     {
         "character": "𩐈",
+        "radical": "⾲",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "䪡（齏）"
@@ -251,6 +289,8 @@
     },
     {
         "character": "𩐉",
+        "radical": "⾲",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "薤"
@@ -260,6 +300,8 @@
     },
     {
         "character": "𩐊",
+        "radical": "⾲",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "䪢"
@@ -269,6 +311,8 @@
     },
     {
         "character": "𩐋",
+        "radical": "⾲",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "韲"
@@ -278,6 +322,8 @@
     },
     {
         "character": "𩐌",
+        "radical": "⾲",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -294,6 +340,8 @@
     },
     {
         "character": "𩐍",
+        "radical": "⾲",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "自"
@@ -303,6 +351,8 @@
     },
     {
         "character": "𩐎",
+        "radical": "⾲",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "𩐒"
@@ -312,6 +362,8 @@
     },
     {
         "character": "𩐏",
+        "radical": "⾲",
+        "strokes": "21",
         "variants": [],
         "synonyms": [
             "䪤"
@@ -321,6 +373,8 @@
     },
     {
         "character": "𩐐",
+        "radical": "⾲",
+        "strokes": "21",
         "variants": [],
         "synonyms": [
             "韲"
@@ -330,6 +384,8 @@
     },
     {
         "character": "𩐑",
+        "radical": "⾲",
+        "strokes": "22",
         "variants": [],
         "synonyms": [
             "韲（齏）"
@@ -339,6 +395,8 @@
     },
     {
         "character": "𩐒",
+        "radical": "⾲",
+        "strokes": "22",
         "variants": [],
         "synonyms": [
             "䪡"
@@ -348,6 +406,8 @@
     },
     {
         "character": "𩐔",
+        "radical": "⾲",
+        "strokes": "23",
         "variants": [],
         "synonyms": [
             "𤫧（好）"
@@ -357,6 +417,8 @@
     },
     {
         "character": "𩐕",
+        "radical": "⾲",
+        "strokes": "23",
         "variants": [],
         "synonyms": [
             "𩐌"
@@ -366,6 +428,8 @@
     },
     {
         "character": "𩐖",
+        "radical": "⾲",
+        "strokes": "25",
         "variants": [],
         "synonyms": [
             "季"

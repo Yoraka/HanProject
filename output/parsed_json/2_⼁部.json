@@ -1,6 +1,8 @@
 [
     {
         "character": "㐄",
+        "radical": "⼁",
+        "strokes": "3",
         "variants": [
             "㐄“𡕒”"
         ],
@@ -10,6 +12,8 @@
     },
     {
         "character": "丨",
+        "radical": "⼁",
+        "strokes": "1",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -26,6 +30,8 @@
     },
     {
         "character": "丩",
+        "radical": "⼁",
+        "strokes": "2",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -42,6 +48,8 @@
     },
     {
         "character": "个",
+        "radical": "⼁",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -67,6 +75,8 @@
     },
     {
         "character": "丫",
+        "radical": "⼁",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -84,6 +94,8 @@
     },
     {
         "character": "中",
+        "radical": "⼁",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -129,6 +141,8 @@
     },
     {
         "character": "丮",
+        "radical": "⼁",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -145,6 +159,8 @@
     },
     {
         "character": "丯",
+        "radical": "⼁",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -161,6 +177,8 @@
     },
     {
         "character": "丰",
+        "radical": "⼁",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -181,6 +199,8 @@
     },
     {
         "character": "丱",
+        "radical": "⼁",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -204,6 +224,8 @@
     },
     {
         "character": "串",
+        "radical": "⼁",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -234,6 +256,8 @@
     },
     {
         "character": "丳",
+        "radical": "⼁",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -250,6 +274,8 @@
     },
     {
         "character": "临",
+        "radical": "⼁",
+        "strokes": "9",
         "variants": [
             "临“臨”"
         ],
@@ -259,6 +285,8 @@
     },
     {
         "character": "丵",
+        "radical": "⼁",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -275,6 +303,8 @@
     },
     {
         "character": "𠁡",
+        "radical": "⼁",
+        "strokes": "2",
         "variants": [],
         "synonyms": [
             "卜"
@@ -284,6 +314,8 @@
     },
     {
         "character": "𠁣",
+        "radical": "⼁",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -293,6 +325,8 @@
     },
     {
         "character": "𠁦",
+        "radical": "⼁",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "中"
@@ -302,6 +336,8 @@
     },
     {
         "character": "𠁧",
+        "radical": "⼁",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "中"
@@ -311,6 +347,8 @@
     },
     {
         "character": "𠁩",
+        "radical": "⼁",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "中"
@@ -320,6 +358,8 @@
     },
     {
         "character": "𠁬",
+        "radical": "⼁",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "乖"
@@ -329,6 +369,8 @@
     },
     {
         "character": "𠁭",
+        "radical": "⼁",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -345,6 +387,8 @@
     },
     {
         "character": "𠁮",
+        "radical": "⼁",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "叔"
@@ -354,6 +398,8 @@
     },
     {
         "character": "𠁰",
+        "radical": "⼁",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "乖"
@@ -363,6 +409,8 @@
     },
     {
         "character": "𠁱",
+        "radical": "⼁",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "事"
@@ -372,6 +420,8 @@
     },
     {
         "character": "𠁴",
+        "radical": "⼁",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "龜"

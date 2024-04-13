@@ -16,7 +16,8 @@ def run(argv):
     choice = input('Start parsing...(Y/N):')
     if choice == 'Y' or choice == 'y':
         parse.recursion_count = 0
-        if parse.run(argv) == 1:
+        unihans = UnihanIRGs()
+        if parse.run(argv, unihans) == 1:
             print('Parsing completed.')
             print('Please check the checkpoint folder for the loop_synonym.txt')
             print('Please check the parsed_json folder for the parsed json files.')
@@ -59,5 +60,5 @@ def strokes(mode):
     dataA.plot_strokes_and_meanings_dict_normal(dataA.data)
 
 if __name__ == '__main__':
-    strokes(mode=1)
-    #run(sys.argv)
+    #strokes(mode=1)
+    run(sys.argv)

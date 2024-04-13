@@ -1,6 +1,8 @@
 [
     {
         "character": "䂏",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -18,6 +20,8 @@
     },
     {
         "character": "䂐",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -32,6 +36,8 @@
     },
     {
         "character": "䂑",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -48,6 +54,8 @@
     },
     {
         "character": "䂒",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -64,6 +72,8 @@
     },
     {
         "character": "䂓",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "規"
@@ -73,6 +83,8 @@
     },
     {
         "character": "䂔",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -89,6 +101,8 @@
     },
     {
         "character": "䂕",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -105,6 +119,8 @@
     },
     {
         "character": "矢",
+        "radical": "⽮",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -132,6 +148,8 @@
     },
     {
         "character": "矣",
+        "radical": "⽮",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -156,6 +174,8 @@
     },
     {
         "character": "矤",
+        "radical": "⽮",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "矧"
@@ -165,6 +185,8 @@
     },
     {
         "character": "知",
+        "radical": "⽮",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -204,6 +226,8 @@
     },
     {
         "character": "矦",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "侯"
@@ -213,6 +237,8 @@
     },
     {
         "character": "矧",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -233,6 +259,8 @@
     },
     {
         "character": "矨",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -249,6 +277,8 @@
     },
     {
         "character": "矩",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -279,6 +309,8 @@
     },
     {
         "character": "矪",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -295,6 +327,8 @@
     },
     {
         "character": "矫",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [
             "矫“矯”"
         ],
@@ -304,6 +338,8 @@
     },
     {
         "character": "矬",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -323,6 +359,8 @@
     },
     {
         "character": "短",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -348,6 +386,8 @@
     },
     {
         "character": "矮",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -367,6 +407,8 @@
     },
     {
         "character": "矯",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -410,6 +452,8 @@
     },
     {
         "character": "矰",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -427,6 +471,8 @@
     },
     {
         "character": "矱",
+        "radical": "⽮",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -443,6 +489,8 @@
     },
     {
         "character": "矲",
+        "radical": "⽮",
+        "strokes": "20",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -459,6 +507,8 @@
     },
     {
         "character": "𠅰",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "彘"
@@ -468,6 +518,8 @@
     },
     {
         "character": "𥎦",
+        "radical": "⽮",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "矦（侯）"
@@ -477,6 +529,8 @@
     },
     {
         "character": "𥎧",
+        "radical": "⽮",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "矧"
@@ -486,6 +540,8 @@
     },
     {
         "character": "𥎨",
+        "radical": "⽮",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "矢"
@@ -495,6 +551,8 @@
     },
     {
         "character": "𥎩",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "族"
@@ -504,6 +562,8 @@
     },
     {
         "character": "𥎪",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "矧"
@@ -513,6 +573,8 @@
     },
     {
         "character": "𥎫",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "鏃"
@@ -522,6 +584,8 @@
     },
     {
         "character": "𥎬",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [
             "𥎬“䂑”"
         ],
@@ -531,6 +595,8 @@
     },
     {
         "character": "𥎭",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "𥏆（短）"
@@ -540,6 +606,8 @@
     },
     {
         "character": "𥎮",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -556,6 +624,8 @@
     },
     {
         "character": "𥎯",
+        "radical": "⽮",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "矧"
@@ -565,6 +635,8 @@
     },
     {
         "character": "𥎰",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -581,6 +653,8 @@
     },
     {
         "character": "𥎱",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -598,6 +672,8 @@
     },
     {
         "character": "𥎲",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "疑"
@@ -607,6 +683,8 @@
     },
     {
         "character": "𥎵",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "知"
@@ -616,6 +694,8 @@
     },
     {
         "character": "𥎶",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "短"
@@ -625,6 +705,8 @@
     },
     {
         "character": "𥎷",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "𥏆（短）"
@@ -634,6 +716,8 @@
     },
     {
         "character": "𥎸",
+        "radical": "⽮",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -650,6 +734,8 @@
     },
     {
         "character": "𥎹",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -666,6 +752,8 @@
     },
     {
         "character": "𥎺",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -682,6 +770,8 @@
     },
     {
         "character": "𥎻",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "矪"
@@ -691,6 +781,8 @@
     },
     {
         "character": "𥎼",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "族"
@@ -700,6 +792,8 @@
     },
     {
         "character": "𥎽",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "族"
@@ -709,6 +803,8 @@
     },
     {
         "character": "𥎾",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "尯"
@@ -718,6 +814,8 @@
     },
     {
         "character": "𥎿",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "知"
@@ -727,6 +825,8 @@
     },
     {
         "character": "𥏀",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "鏃"
@@ -736,6 +836,8 @@
     },
     {
         "character": "𥏁",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "族"
@@ -745,6 +847,8 @@
     },
     {
         "character": "𥏂",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "疾"
@@ -754,6 +858,8 @@
     },
     {
         "character": "𥏄",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -770,6 +876,8 @@
     },
     {
         "character": "𥏅",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -786,6 +894,8 @@
     },
     {
         "character": "𥏆",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "短"
@@ -795,6 +905,8 @@
     },
     {
         "character": "𥏇",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "豢"
@@ -804,6 +916,8 @@
     },
     {
         "character": "𥏈",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -820,6 +934,8 @@
     },
     {
         "character": "𥏉",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "彘"
@@ -829,6 +945,8 @@
     },
     {
         "character": "𥏊",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -845,6 +963,8 @@
     },
     {
         "character": "𥏎",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -861,6 +981,8 @@
     },
     {
         "character": "𥏏",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [
             "𥏏“殹”"
         ],
@@ -870,6 +992,8 @@
     },
     {
         "character": "𥏒",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -886,6 +1010,8 @@
     },
     {
         "character": "𥏓",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -902,6 +1028,8 @@
     },
     {
         "character": "𥏔",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [
             "𥏔“䂔”"
         ],
@@ -911,6 +1039,8 @@
     },
     {
         "character": "𥏕",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -927,6 +1057,8 @@
     },
     {
         "character": "𥏖",
+        "radical": "⽮",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "矧"
@@ -936,6 +1068,8 @@
     },
     {
         "character": "𥏘",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -952,6 +1086,8 @@
     },
     {
         "character": "𥏙",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -968,6 +1104,8 @@
     },
     {
         "character": "𥏚",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "肄"
@@ -977,6 +1115,8 @@
     },
     {
         "character": "𥏛",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "熾"
@@ -986,6 +1126,8 @@
     },
     {
         "character": "𥏜",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1002,6 +1144,8 @@
     },
     {
         "character": "𥏝",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1018,6 +1162,8 @@
     },
     {
         "character": "𥏞",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "𠭴"
@@ -1027,6 +1173,8 @@
     },
     {
         "character": "𥏟",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "㢼"
@@ -1036,6 +1184,8 @@
     },
     {
         "character": "𥏠",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1052,6 +1202,8 @@
     },
     {
         "character": "𥏢",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "䂔"
@@ -1061,6 +1213,8 @@
     },
     {
         "character": "𥏣",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [
             "𥏣“𥏢（䂔）”"
         ],
@@ -1070,6 +1224,8 @@
     },
     {
         "character": "𥏤",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1086,6 +1242,8 @@
     },
     {
         "character": "𥏥",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1102,6 +1260,8 @@
     },
     {
         "character": "𥏦",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "疾"
@@ -1111,6 +1271,8 @@
     },
     {
         "character": "𥏧",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "矬"
@@ -1120,6 +1282,8 @@
     },
     {
         "character": "𥏨",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1136,6 +1300,8 @@
     },
     {
         "character": "𥏩",
+        "radical": "⽮",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "弧"
@@ -1145,6 +1311,8 @@
     },
     {
         "character": "𥏪",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1161,6 +1329,8 @@
     },
     {
         "character": "𥏫",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1177,6 +1347,8 @@
     },
     {
         "character": "𥏬",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "唐"
@@ -1186,6 +1358,8 @@
     },
     {
         "character": "𥏭",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "堞"
@@ -1195,6 +1369,8 @@
     },
     {
         "character": "𥏮",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1211,6 +1387,8 @@
     },
     {
         "character": "𥏯",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1227,6 +1405,8 @@
     },
     {
         "character": "𥏰",
+        "radical": "⽮",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1243,6 +1423,8 @@
     },
     {
         "character": "𥏲",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "𥏫"
@@ -1252,6 +1434,8 @@
     },
     {
         "character": "𥏳",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "俟"
@@ -1261,6 +1445,8 @@
     },
     {
         "character": "𥏴",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "疾"
@@ -1270,6 +1456,8 @@
     },
     {
         "character": "𥏵",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "瘤"
@@ -1279,6 +1467,8 @@
     },
     {
         "character": "𥏷",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1295,6 +1485,8 @@
     },
     {
         "character": "𥏸",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "𥎷（短）"
@@ -1304,6 +1496,8 @@
     },
     {
         "character": "𥏹",
+        "radical": "⽮",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "矯"
@@ -1313,6 +1507,8 @@
     },
     {
         "character": "𥏻",
+        "radical": "⽮",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "𥏫"
@@ -1322,6 +1518,8 @@
     },
     {
         "character": "𥏼",
+        "radical": "⽮",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "智"
@@ -1331,6 +1529,8 @@
     },
     {
         "character": "𥏾",
+        "radical": "⽮",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "𥏼（智）"
@@ -1340,6 +1540,8 @@
     },
     {
         "character": "𥐀",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1356,6 +1558,8 @@
     },
     {
         "character": "𥐁",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1372,6 +1576,8 @@
     },
     {
         "character": "𥐂",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1386,6 +1592,8 @@
     },
     {
         "character": "𥐃",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [
             "𥐃“𥏴（疾）”"
         ],
@@ -1395,6 +1603,8 @@
     },
     {
         "character": "𥐄",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "韋"
@@ -1404,6 +1614,8 @@
     },
     {
         "character": "𥐅",
+        "radical": "⽮",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "𥐄（韋）"
@@ -1413,6 +1625,8 @@
     },
     {
         "character": "𥐊",
+        "radical": "⽮",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "繳"
@@ -1422,6 +1636,8 @@
     },
     {
         "character": "𥐎",
+        "radical": "⽮",
+        "strokes": "19",
         "variants": [
             "¹⁴𥐎“𥎘”"
         ],
@@ -1431,6 +1647,8 @@
     },
     {
         "character": "𥐑",
+        "radical": "⽮",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1447,6 +1665,8 @@
     },
     {
         "character": "𥐓",
+        "radical": "⽮",
+        "strokes": "23",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1463,6 +1683,8 @@
     },
     {
         "character": "𪿊",
+        "radical": "⽮",
+        "strokes": "11",
         "variants": [
             "𪿊“𥏝”"
         ],

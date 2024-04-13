@@ -1,6 +1,8 @@
 [
     {
         "character": "艮",
+        "radical": "⾉",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -38,6 +40,8 @@
     },
     {
         "character": "良",
+        "radical": "⾉",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -82,6 +86,8 @@
     },
     {
         "character": "艰",
+        "radical": "⾉",
+        "strokes": "8",
         "variants": [
             "²艰“艱”"
         ],
@@ -91,6 +97,8 @@
     },
     {
         "character": "艱",
+        "radical": "⾉",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -112,6 +120,8 @@
     },
     {
         "character": "𦫋",
+        "radical": "⾉",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "氓"
@@ -121,6 +131,8 @@
     },
     {
         "character": "𦫍",
+        "radical": "⾉",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "剆"
@@ -130,6 +142,8 @@
     },
     {
         "character": "𦫎",
+        "radical": "⾉",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -146,6 +160,8 @@
     },
     {
         "character": "𦫒",
+        "radical": "⾉",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "艱"

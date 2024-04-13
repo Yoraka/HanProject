@@ -45,8 +45,6 @@ def convert_vector(vector):
 
 print('begin')
 
-# 假设 data 是原始数据集，包含所有部首的字的向量
-# 假设 radical_info 是一个字典，键为字，值为该字所属的部首
 # 设置文件夹路径
 directory = './output/vec'
 # 获取所有包含 'characters' 的 CSV 文件
@@ -81,7 +79,7 @@ structured_data = []
 for character, vector in data.items():
     structured_data.append({"character": character, "vector": vector})
 
-#直接聚出50个类，不根据部首聚类
+# 聚50个类，不根据部首聚类
 # preData是一个列表，包含所有的向量
 # 设置DBSCAN的参数
 """epsilon = 0.5  # 邻域半径

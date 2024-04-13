@@ -32,7 +32,6 @@ def get_google_font(fontname):
         matplotlib.font_manager.fontManager.addfont(f.name)
         print(f"Added new font as {font_family_name}")
 
-# 从谷歌字体API获取字体
 get_google_font('Cinzel')
 
 def convert_vector(vector):
@@ -45,8 +44,6 @@ def convert_vector(vector):
 
 print('begin')
 
-# 假设 data 是原始数据集，包含所有部首的字的向量
-# 假设 radical_info 是一个字典，键为字，值为该字所属的部首
 # 设置文件夹路径
 directory = './output/vec'
 # 获取所有包含 'characters' 的 CSV 文件

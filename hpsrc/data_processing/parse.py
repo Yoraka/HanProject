@@ -11,6 +11,7 @@ import pickle
 from collections import OrderedDict
 
 from .. import indexing
+
 '''
 please open this file with utf-8 encoding
 '''
@@ -19,8 +20,10 @@ global recursion_count
 recursion_count = 0
 
 class DictionaryEntry:
-    def __init__(self, character, variants=None, synonyms=None, definitions=None, special_entries=None):
+    def __init__(self, character, radical, strokes, variants=None, synonyms=None, definitions=None, special_entries=None):
         self.character = character
+        self.radical = radical
+        self.strokes = strokes
         self.variants = variants or []
         self.synonyms = synonyms or []
         self.definitions = definitions or []
@@ -29,6 +32,8 @@ class DictionaryEntry:
     def to_dict(self):
         return {
             'character': self.character,
+            'radical': self.radical,
+            'strokes': self.strokes,
             'variants': self.variants,
             'synonyms': self.synonyms,
             'definitions': self.definitions,
@@ -36,7 +41,7 @@ class DictionaryEntry:
         }
 
     def __repr__(self):
-        return f"DictionaryEntry(character={self.character}, variants={self.variants}, synonyms={self.synonyms}, definitions={self.definitions}, special_entries={self.special_entries})"
+        return f"DictionaryEntry(character={self.character}, radical={self.radical}, strokes={self.strokes}, variants={self.variants}, synonyms={self.synonyms}, definitions={self.definitions}, special_entries={self.special_entries})"
 
 
 def load_index_from_file(file_path):
@@ -122,7 +127,7 @@ def meanings_process(meanings, index):
                 if valid_explanations is not None:
                     meanings.extend(valid_explanations)
                 else:
-                    # 递归调用，直到找到没有同“某字”的条目
+                    # 递归调用，直到找到没有通“某字”的条目
                     # 从索引中获取通“某字”的条目
                     entry_text = index.get(synonym)
                     if entry_text is not None:
@@ -147,7 +152,7 @@ def meanings_process(meanings, index):
             meanings.pop(i)
         i += 1  # 移动到下一个meaning处理
 
-def parse_multiple_entries(text, index):
+def parse_multiple_entries(text, index, unihans):
     # 每个条目由两个井号（##）分隔
     entries_text = text.split('##')
     for i in range(len(entries_text)):
@@ -157,20 +162,50 @@ def parse_multiple_entries(text, index):
     for entry_text in entries_text:
         # 确保条目文本不为空
         if entry_text.strip():
-            entry = parse_dictionary_entry(entry_text, index)
+            entry = parse_dictionary_entry(entry_text, index, unihans)
             entries.append(entry)
 
     return entries
 
+def turn_radical_kxnumber_to_utf8(radical_string):
+    radical_kxNumber = None
+    if radical_string is not None:
+        radical_kxNumber = radical_string.split('.')[0]
+    # 检查radical是否为数字
+    if radical_kxNumber.isdigit():
+        pass
+    else:
+        #去掉最后一个字符
+        radical_kxNumber = radical_kxNumber[:-1]
+        if not radical_kxNumber.isdigit():
+            print(f'radical is not digit: {radical_kxNumber}')
+            
+    def kxNumber2unicode(kxNumber):
+        if kxNumber is None:
+            raise ValueError("kxNumber is None")
+        kxNumber = int(kxNumber)
+        if kxNumber < 1 or kxNumber > 214:
+            return None
+        unicode = hex(0x2F00 + kxNumber - 1)
+        return unicode
 
-def parse_dictionary_entry(text, index):
+    return kxNumber2unicode(kxNumber=radical_kxNumber)
+    
+
+def parse_dictionary_entry(text, index, unihans):
     # 分割条目头和条目体 错误处理
     try:
         header, body = text.split('\n', 1)
     except ValueError:
         print(f"Error: Failed to split text: {text}")
     character = header.strip()
-    entry = DictionaryEntry(character=character)
+    # 提取部首和笔画数
+    character_hex = hex(ord(character))[2:].upper()
+    radical_string = unihans.query_unihan_irg_sources(f'U+{character_hex}', 'kRSUnicode')
+    radical_unicode = turn_radical_kxnumber_to_utf8(radical_string)
+    radical = chr(int(radical_unicode, 16))
+    strokes = unihans.query_unihan_irg_sources(f'U+{character_hex}', 'kTotalStrokes')
+    entry = DictionaryEntry(character=character, radical=radical, strokes=strokes)
 
     # 根据条目的特征判断其类型并调用相应的解析函数
     if not re.search(r'（\d+）|(?<!“)\n\s+（[一二三四五六七八九十]+）(?!”)', body) and re.search(r'的(类推)?简化字', body) or '的讹字' in body:
@@ -428,11 +463,19 @@ def save_as_json(entries, file_path, debug=False):
     dict_entries = [entry.to_dict() for entry in entries]
 
     # 将字典列表转换为json字符串
-    json_str = json.dumps(dict_entries, ensure_ascii=False, indent=4)
+    json_str = None
+    try:
+        json_str = json.dumps(dict_entries, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(e)
+        print("Error: Failed to convert entries to JSON.")
 
     # 将json字符串写入文件
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(json_str)
+    if json_str is not None:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(json_str)
+    else:
+        raise ValueError("json_str is None")
 
 # 读取本地文件
 # text = docx2txt.process("tempA.docx")
@@ -441,7 +484,7 @@ def save_as_json(entries, file_path, debug=False):
 '''
 没有必要用多线程
 '''
-def run(argv):
+def run(argv, unihans):
     print(recursion_count)
     # 加载索引
     index_file_path = '.\output\index\index_file.pkl'
@@ -487,7 +530,7 @@ def run(argv):
             docx_files = glob.glob(os.path.join(file_path, '*.docx'))
             for docx_file in docx_files:
                 text = docx2txt.process(docx_file)
-                parsed_entries = parse_multiple_entries(text, index)
+                parsed_entries = parse_multiple_entries(text, index, unihans)
                 # 处理解析后的条目
                 save_as_json(parsed_entries, os.path.join('.\output\parsed_json', os.path.basename(docx_file) + '.json'))
                 
@@ -496,7 +539,7 @@ def run(argv):
             # 获取文件名
             docx_file_name, docx_file_ext = os.path.splitext(os.path.basename(file_path))
             text = docx2txt.process(file_path)
-            parsed_entries = parse_multiple_entries(text, index)
+            parsed_entries = parse_multiple_entries(text, index, unihans)
             # 处理解析后的条目
             save_as_json(parsed_entries, os.path.join('.\output\parsed_json', docx_file_name + '.json'))
 
@@ -515,7 +558,7 @@ def run(argv):
                     docx_files = glob.glob(os.path.join(path, '*.docx'))
                     for docx_file in docx_files:
                         text = docx2txt.process(docx_file)
-                        parsed_entries = parse_multiple_entries(text, index)
+                        parsed_entries = parse_multiple_entries(text, index, unihans)
                         # 将解析后的条目存为json文件 json文件名为docx文件名 将json存放在本地parsed_json文件夹下
                         save_as_json(parsed_entries, os.path.join('.\output\parsed_json', os.path.basename(docx_file) + '.json'))
 
@@ -524,7 +567,7 @@ def run(argv):
                     docx_file_name, docx_file_ext = os.path.splitext(os.path.basename(path))
                     # 如果是文件，则直接读取文件
                     text = docx2txt.process(path)
-                    parsed_entries = parse_multiple_entries(text, index)
+                    parsed_entries = parse_multiple_entries(text, index, unihans)
                     # 处理解析后的条目
                     save_as_json(parsed_entries, os.path.join('.\output\parsed_json', docx_file_name + '.json'))
 

@@ -1,6 +1,8 @@
 [
     {
         "character": "㱏",
+        "radical": "⽌",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "正"
@@ -10,6 +12,8 @@
     },
     {
         "character": "㱒",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "訶"
@@ -19,6 +23,8 @@
     },
     {
         "character": "㱔",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "些"
@@ -28,6 +34,8 @@
     },
     {
         "character": "㱕",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "歸"
@@ -37,6 +45,8 @@
     },
     {
         "character": "㱖",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -53,6 +63,8 @@
     },
     {
         "character": "㱗",
+        "radical": "⽌",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -69,6 +81,8 @@
     },
     {
         "character": "㱘",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "魘"
@@ -78,6 +92,8 @@
     },
     {
         "character": "止",
+        "radical": "⽌",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -112,6 +128,8 @@
     },
     {
         "character": "正",
+        "radical": "⽌",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -166,6 +184,8 @@
     },
     {
         "character": "此",
+        "radical": "⽌",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -184,6 +204,8 @@
     },
     {
         "character": "步",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -210,6 +232,8 @@
     },
     {
         "character": "武",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -237,6 +261,8 @@
     },
     {
         "character": "歧",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -256,6 +282,8 @@
     },
     {
         "character": "歨",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "步"
@@ -265,6 +293,8 @@
     },
     {
         "character": "歩",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [
             "“步”"
         ],
@@ -274,6 +304,8 @@
     },
     {
         "character": "歪",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -301,6 +333,8 @@
     },
     {
         "character": "歫",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -315,6 +349,8 @@
     },
     {
         "character": "歬",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "前"
@@ -324,6 +360,8 @@
     },
     {
         "character": "歭",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -346,6 +384,8 @@
     },
     {
         "character": "歮",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "澀"
@@ -355,6 +395,8 @@
     },
     {
         "character": "歯",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "齒"
@@ -364,6 +406,8 @@
     },
     {
         "character": "歰",
+        "radical": "⽌",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -384,6 +428,8 @@
     },
     {
         "character": "歱",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -400,6 +446,8 @@
     },
     {
         "character": "歲",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -437,6 +485,8 @@
     },
     {
         "character": "歴",
+        "radical": "⽌",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "歷"
@@ -446,6 +496,8 @@
     },
     {
         "character": "歵",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [
             "“𧶷”的讹字。《康熙字典·止部》：“歵，《玉篇》：‘助革切，音齚。正也，齊也，好也。亦作賾。’”按：《玉篇·正部》作“𧶷”，音义与此全同。《康熙字典》误。一说为“蹟”"
         ],
@@ -455,6 +507,8 @@
     },
     {
         "character": "歶",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [
             "通“魚”。铜鱼，丧车的装饰。《經籍纂詁》卷七：“歶，讀為魚。”《荀子·禮論》：“無帾絲歶縷翣，其䫉以象菲帷幬尉也。”*楊倞*注：“絲歶，未詳。蓋亦喪車之飾也……或曰：絲讀為綏……歶讀為魚。謂以銅魚懸於池下。”一说“𥜿”"
         ],
@@ -464,6 +518,8 @@
     },
     {
         "character": "歷",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -496,6 +552,8 @@
     },
     {
         "character": "歸",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -541,6 +599,8 @@
     },
     {
         "character": "𣥂",
+        "radical": "⽌",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -557,6 +617,8 @@
     },
     {
         "character": "𣥃",
+        "radical": "⽌",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -573,6 +635,8 @@
     },
     {
         "character": "𣥄",
+        "radical": "⽌",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "乏"
@@ -582,6 +646,8 @@
     },
     {
         "character": "𣥅",
+        "radical": "⽌",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "此"
@@ -591,6 +657,8 @@
     },
     {
         "character": "𣥇",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -607,6 +675,8 @@
     },
     {
         "character": "𣥈",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "會"
@@ -616,6 +686,8 @@
     },
     {
         "character": "𣥉",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "咫"
@@ -625,6 +697,8 @@
     },
     {
         "character": "𣥊",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -641,6 +715,8 @@
     },
     {
         "character": "𣥋",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -657,6 +733,8 @@
     },
     {
         "character": "𣥌",
+        "radical": "⽌",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "幻"
@@ -666,6 +744,8 @@
     },
     {
         "character": "𣥍",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "近"
@@ -675,6 +755,8 @@
     },
     {
         "character": "𣥎",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "戰"
@@ -684,6 +766,8 @@
     },
     {
         "character": "𣥏",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "旅"
@@ -693,6 +777,8 @@
     },
     {
         "character": "𣥐",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -713,6 +799,8 @@
     },
     {
         "character": "𣥑",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [
             "“歬（前）”"
         ],
@@ -722,6 +810,8 @@
     },
     {
         "character": "𣥒",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "歰（澀）"
@@ -731,6 +821,8 @@
     },
     {
         "character": "𣥓",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "𣥐"
@@ -740,6 +832,8 @@
     },
     {
         "character": "𣥔",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "正"
@@ -749,6 +843,8 @@
     },
     {
         "character": "𣥕",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "走"
@@ -758,6 +854,8 @@
     },
     {
         "character": "𣥖",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "歧"
@@ -767,6 +865,8 @@
     },
     {
         "character": "𣥗",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "𣥂"
@@ -776,6 +876,8 @@
     },
     {
         "character": "𣥘",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "户"
@@ -785,6 +887,8 @@
     },
     {
         "character": "𣥙",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [
             "“罔”的讹字。《字彙補·止部》：“𣥙，古康切，音岡。《廣雅》：‘鞅𣥙，無賴也。’”按：《方言》卷十：“央亡……獪也。*江*、*湘*之間或謂之無賴。”《廣雅·釋訓》：“鞅罔，無賴也。”*王念孫*疏證：“央亡與鞅罔同。”“𣥙”为“罔”"
         ],
@@ -794,6 +898,8 @@
     },
     {
         "character": "𣥞",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -808,6 +914,8 @@
     },
     {
         "character": "𣥟",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "戰"
@@ -817,6 +925,8 @@
     },
     {
         "character": "𣥠",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "癶"
@@ -826,6 +936,8 @@
     },
     {
         "character": "𣥡",
+        "radical": "⽌",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "𣭻"
@@ -835,6 +947,8 @@
     },
     {
         "character": "𣥢",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [
             "“𣥊”"
         ],
@@ -844,6 +958,8 @@
     },
     {
         "character": "𣥣",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -860,6 +976,8 @@
     },
     {
         "character": "𣥤",
+        "radical": "⽌",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -876,6 +994,8 @@
     },
     {
         "character": "𣥦",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "跟"
@@ -885,6 +1005,8 @@
     },
     {
         "character": "𣥧",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "著"
@@ -894,6 +1016,8 @@
     },
     {
         "character": "𣥨",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -910,6 +1034,8 @@
     },
     {
         "character": "𣥩",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [
             "“𣥿（涉）”"
         ],
@@ -919,6 +1045,8 @@
     },
     {
         "character": "𣥪",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "𣥍（近）"
@@ -928,6 +1056,8 @@
     },
     {
         "character": "𣥫",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "齒"
@@ -937,6 +1067,8 @@
     },
     {
         "character": "𣥬",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -946,6 +1078,8 @@
     },
     {
         "character": "𣥮",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "跬"
@@ -955,6 +1089,8 @@
     },
     {
         "character": "𣥯",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -971,6 +1107,8 @@
     },
     {
         "character": "𣥰",
+        "radical": "⽌",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -987,6 +1125,8 @@
     },
     {
         "character": "𣥳",
+        "radical": "⽌",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1003,6 +1143,8 @@
     },
     {
         "character": "𣥴",
+        "radical": "⽌",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "死"
@@ -1012,6 +1154,8 @@
     },
     {
         "character": "𣥶",
+        "radical": "⽌",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "步"
@@ -1021,6 +1165,8 @@
     },
     {
         "character": "𣥷",
+        "radical": "⽌",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1035,6 +1181,8 @@
     },
     {
         "character": "𣥸",
+        "radical": "⽌",
+        "strokes": "11",
         "variants": [
             "“睿”"
         ],
@@ -1044,6 +1192,8 @@
     },
     {
         "character": "𣥹",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1060,6 +1210,8 @@
     },
     {
         "character": "𣥺",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1077,6 +1229,8 @@
     },
     {
         "character": "𣥻",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1093,6 +1247,8 @@
     },
     {
         "character": "𣥼",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1109,6 +1265,8 @@
     },
     {
         "character": "𣥽",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "𨂭"
@@ -1118,6 +1276,8 @@
     },
     {
         "character": "𣥾",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1134,6 +1294,8 @@
     },
     {
         "character": "𣥿",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "涉"
@@ -1143,6 +1305,8 @@
     },
     {
         "character": "𣦀",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1152,6 +1316,8 @@
     },
     {
         "character": "𣦁",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "諸"
@@ -1161,6 +1327,8 @@
     },
     {
         "character": "𣦂",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "初"
@@ -1170,6 +1338,8 @@
     },
     {
         "character": "𣦃",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "剪"
@@ -1179,6 +1349,8 @@
     },
     {
         "character": "𣦄",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "虚"
@@ -1188,6 +1360,8 @@
     },
     {
         "character": "𣦅",
+        "radical": "⽌",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "祟"
@@ -1197,6 +1371,8 @@
     },
     {
         "character": "𣦇",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1213,6 +1389,8 @@
     },
     {
         "character": "𣦈",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "𣦡（躇）"
@@ -1222,6 +1400,8 @@
     },
     {
         "character": "𣦉",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1238,6 +1418,8 @@
     },
     {
         "character": "𣦌",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1254,6 +1436,8 @@
     },
     {
         "character": "𣦐",
+        "radical": "⽌",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1270,6 +1454,8 @@
     },
     {
         "character": "𣦒",
+        "radical": "⽌",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "睿"
@@ -1279,6 +1465,8 @@
     },
     {
         "character": "𣦔",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "整"
@@ -1288,6 +1476,8 @@
     },
     {
         "character": "𣦕",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "𣂢（斷）"
@@ -1297,6 +1487,8 @@
     },
     {
         "character": "𣦖",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "乾"
@@ -1306,6 +1498,8 @@
     },
     {
         "character": "𣦗",
+        "radical": "⽌",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "齒"
@@ -1315,6 +1509,8 @@
     },
     {
         "character": "𣦜",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "蹺"
@@ -1324,6 +1520,8 @@
     },
     {
         "character": "𣦝",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "蹲"
@@ -1333,6 +1531,8 @@
     },
     {
         "character": "𣦞",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "夔"
@@ -1342,6 +1542,8 @@
     },
     {
         "character": "𣦟",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "歱（踵）"
@@ -1351,6 +1553,8 @@
     },
     {
         "character": "𣦠",
+        "radical": "⽌",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1367,6 +1571,8 @@
     },
     {
         "character": "𣦡",
+        "radical": "⽌",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "躇"
@@ -1376,6 +1582,8 @@
     },
     {
         "character": "𣦢",
+        "radical": "⽌",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1392,6 +1600,8 @@
     },
     {
         "character": "𣦣",
+        "radical": "⽌",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -1401,6 +1611,8 @@
     },
     {
         "character": "𣦦",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1417,6 +1629,8 @@
     },
     {
         "character": "𣦧",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [
             "“𣦬”"
         ],
@@ -1426,6 +1640,8 @@
     },
     {
         "character": "𣦨",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "歸"
@@ -1435,6 +1651,8 @@
     },
     {
         "character": "𣦩",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1451,6 +1669,8 @@
     },
     {
         "character": "𣦪",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1467,6 +1687,8 @@
     },
     {
         "character": "𣦫",
+        "radical": "⽌",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1481,6 +1703,8 @@
     },
     {
         "character": "𣦬",
+        "radical": "⽌",
+        "strokes": "19",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1497,6 +1721,8 @@
     },
     {
         "character": "𣦯",
+        "radical": "⽌",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -1513,6 +1739,8 @@
     },
     {
         "character": "𣦱",
+        "radical": "⽌",
+        "strokes": "23",
         "variants": [],
         "synonyms": [
             "轡"
@@ -1522,6 +1750,8 @@
     },
     {
         "character": "𣦴",
+        "radical": "⽌",
+        "strokes": "24",
         "variants": [],
         "synonyms": [
             "𧾭（𧾜）"
@@ -1531,6 +1761,8 @@
     },
     {
         "character": "𤚜",
+        "radical": "⽌",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [

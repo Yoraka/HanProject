@@ -1,6 +1,8 @@
 [
     {
         "character": "䢃",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -19,6 +21,8 @@
     },
     {
         "character": "䢄",
+        "radical": "⾟",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "枲"
@@ -28,6 +32,8 @@
     },
     {
         "character": "辛",
+        "radical": "⾟",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -54,6 +60,8 @@
     },
     {
         "character": "辜",
+        "radical": "⾟",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -78,6 +86,8 @@
     },
     {
         "character": "辝",
+        "radical": "⾟",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "辤（辭）"
@@ -87,6 +97,8 @@
     },
     {
         "character": "辞",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [
             "⁶辞同“辭”。《正字通·辛部》：“辞，俗辭字。”按：今为“辭”"
         ],
@@ -96,6 +108,8 @@
     },
     {
         "character": "辟",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -162,6 +176,8 @@
     },
     {
         "character": "辠",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "罪"
@@ -171,6 +187,8 @@
     },
     {
         "character": "辡",
+        "radical": "⾟",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -189,6 +207,8 @@
     },
     {
         "character": "辢",
+        "radical": "⾟",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "辣"
@@ -198,6 +218,8 @@
     },
     {
         "character": "辣",
+        "radical": "⾟",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -223,6 +245,8 @@
     },
     {
         "character": "辤",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "辭"
@@ -232,6 +256,8 @@
     },
     {
         "character": "辥",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -255,6 +281,8 @@
     },
     {
         "character": "辦",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -276,6 +304,8 @@
     },
     {
         "character": "辧",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "辨"
@@ -285,6 +315,8 @@
     },
     {
         "character": "辨",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -332,6 +364,8 @@
     },
     {
         "character": "辩",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [
             "辩“辯”"
         ],
@@ -341,6 +375,8 @@
     },
     {
         "character": "辫",
+        "radical": "⾟",
+        "strokes": "17",
         "variants": [
             "辫“辮”"
         ],
@@ -350,6 +386,8 @@
     },
     {
         "character": "辬",
+        "radical": "⾟",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -367,6 +405,8 @@
     },
     {
         "character": "辭",
+        "radical": "⾟",
+        "strokes": "19",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -397,6 +437,8 @@
     },
     {
         "character": "辮",
+        "radical": "⾟",
+        "strokes": "20",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -415,6 +457,8 @@
     },
     {
         "character": "辯",
+        "radical": "⾟",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -457,6 +501,8 @@
     },
     {
         "character": "𨐌",
+        "radical": "⾟",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "辛"
@@ -466,6 +512,8 @@
     },
     {
         "character": "𨐍",
+        "radical": "⾟",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "莘"
@@ -475,6 +523,8 @@
     },
     {
         "character": "𨐎",
+        "radical": "⾟",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "㛙"
@@ -484,6 +534,8 @@
     },
     {
         "character": "𨐏",
+        "radical": "⾟",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "𤗟（新）"
@@ -493,6 +545,8 @@
     },
     {
         "character": "𨐐",
+        "radical": "⾟",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -509,6 +563,8 @@
     },
     {
         "character": "𨐑",
+        "radical": "⾟",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -525,6 +581,8 @@
     },
     {
         "character": "𨐓",
+        "radical": "⾟",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "辟"
@@ -534,6 +592,8 @@
     },
     {
         "character": "𨐔",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -551,6 +611,8 @@
     },
     {
         "character": "𨐕",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -571,6 +633,8 @@
     },
     {
         "character": "𨐖",
+        "radical": "⾟",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -587,6 +651,8 @@
     },
     {
         "character": "𨐛",
+        "radical": "⾟",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -603,6 +669,8 @@
     },
     {
         "character": "𨐜",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "辢（辣）"
@@ -612,6 +680,8 @@
     },
     {
         "character": "𨐝",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "辟"
@@ -621,6 +691,8 @@
     },
     {
         "character": "𨐞",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "嫴"
@@ -630,6 +702,8 @@
     },
     {
         "character": "𨐟",
+        "radical": "⾟",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "𨐡"
@@ -639,6 +713,8 @@
     },
     {
         "character": "𨐠",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "枱"
@@ -648,6 +724,8 @@
     },
     {
         "character": "𨐡",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -664,6 +742,8 @@
     },
     {
         "character": "𨐢",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "𨐨"
@@ -673,6 +753,8 @@
     },
     {
         "character": "𨐣",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -689,6 +771,8 @@
     },
     {
         "character": "𨐥",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -705,6 +789,8 @@
     },
     {
         "character": "𨐦",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -721,6 +807,8 @@
     },
     {
         "character": "𨐧",
+        "radical": "⾟",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "壁"
@@ -730,6 +818,8 @@
     },
     {
         "character": "𨐨",
+        "radical": "⾟",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "辟"
@@ -739,6 +829,8 @@
     },
     {
         "character": "𨐩",
+        "radical": "⾟",
+        "strokes": "17",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -755,6 +847,8 @@
     },
     {
         "character": "𨐫",
+        "radical": "⾟",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "譬"
@@ -764,6 +858,8 @@
     },
     {
         "character": "𨐯",
+        "radical": "⾟",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "劈"
@@ -773,6 +869,8 @@
     },
     {
         "character": "𨐰",
+        "radical": "⾟",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -789,6 +887,8 @@
     },
     {
         "character": "𨐱",
+        "radical": "⾟",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -805,6 +905,8 @@
     },
     {
         "character": "𨐲",
+        "radical": "⾟",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "辭"
@@ -814,6 +916,8 @@
     },
     {
         "character": "𨐵",
+        "radical": "⾟",
+        "strokes": "19",
         "variants": [
             "𨐵“㦚”"
         ],
@@ -823,6 +927,8 @@
     },
     {
         "character": "𨐶",
+        "radical": "⾟",
+        "strokes": "19",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -839,6 +945,8 @@
     },
     {
         "character": "𨐹",
+        "radical": "⾟",
+        "strokes": "19",
         "variants": [],
         "synonyms": [
             "𤒞（炱）"
@@ -848,6 +956,8 @@
     },
     {
         "character": "𨐼",
+        "radical": "⾟",
+        "strokes": "20",
         "variants": [],
         "synonyms": [
             "競"
@@ -857,6 +967,8 @@
     },
     {
         "character": "𨐾",
+        "radical": "⾟",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -877,6 +989,8 @@
     },
     {
         "character": "𨑀",
+        "radical": "⾟",
+        "strokes": "24",
         "variants": [],
         "synonyms": [
             "辜"
@@ -886,6 +1000,8 @@
     },
     {
         "character": "𨑁",
+        "radical": "⾟",
+        "strokes": "29",
         "variants": [],
         "synonyms": [
             "興"
@@ -895,6 +1011,8 @@
     },
     {
         "character": "𨑂",
+        "radical": "⾟",
+        "strokes": "30",
         "variants": [],
         "synonyms": [
             "譶"

@@ -1,6 +1,8 @@
 [
     {
         "character": "䑙",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -31,6 +33,8 @@
     },
     {
         "character": "䑚",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "甜"
@@ -40,6 +44,8 @@
     },
     {
         "character": "䑛",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "舐"
@@ -49,6 +55,8 @@
     },
     {
         "character": "䑜",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -74,6 +82,8 @@
     },
     {
         "character": "舌",
+        "radical": "⾆",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -99,6 +109,8 @@
     },
     {
         "character": "舍",
+        "radical": "⾆",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -152,6 +164,8 @@
     },
     {
         "character": "舏",
+        "radical": "⾆",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -168,6 +182,8 @@
     },
     {
         "character": "舐",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -184,6 +200,8 @@
     },
     {
         "character": "舑",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "䑙"
@@ -193,6 +211,8 @@
     },
     {
         "character": "舒",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -229,6 +249,8 @@
     },
     {
         "character": "舓",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "舓"
@@ -238,6 +260,8 @@
     },
     {
         "character": "舔",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -264,6 +288,8 @@
     },
     {
         "character": "舕",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -280,6 +306,8 @@
     },
     {
         "character": "舖",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "鋪"
@@ -289,6 +317,8 @@
     },
     {
         "character": "舘",
+        "radical": "⾆",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "館"
@@ -298,6 +328,8 @@
     },
     {
         "character": "舙",
+        "radical": "⾆",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -318,6 +350,8 @@
     },
     {
         "character": "舚",
+        "radical": "⾆",
+        "strokes": "19",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -334,6 +368,8 @@
     },
     {
         "character": "𦧇",
+        "radical": "⾆",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "舓（舐）"
@@ -343,6 +379,8 @@
     },
     {
         "character": "𦧈",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -357,6 +395,8 @@
     },
     {
         "character": "𦧉",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -373,6 +413,8 @@
     },
     {
         "character": "𦧊",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "吮"
@@ -382,6 +424,8 @@
     },
     {
         "character": "𦧋",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -396,6 +440,8 @@
     },
     {
         "character": "𦧌",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "𣁳"
@@ -405,6 +451,8 @@
     },
     {
         "character": "𦧍",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -419,6 +467,8 @@
     },
     {
         "character": "𦧎",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "𦧈"
@@ -428,6 +478,8 @@
     },
     {
         "character": "𦧏",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -444,6 +496,8 @@
     },
     {
         "character": "𦧐",
+        "radical": "⾆",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -460,6 +514,8 @@
     },
     {
         "character": "𦧒",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [
             "舌出貌。《龍龕手鑑·舌部》：“𦧒，舌出皃也。”按：疑为“𬜅（舚）”"
         ],
@@ -469,6 +525,8 @@
     },
     {
         "character": "𦧓",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "舓（舐）"
@@ -478,6 +536,8 @@
     },
     {
         "character": "𦧔",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -494,6 +554,8 @@
     },
     {
         "character": "𦧕",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [
             "𦧕“詹”"
         ],
@@ -503,6 +565,8 @@
     },
     {
         "character": "𦧖",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "㐁"
@@ -512,6 +576,8 @@
     },
     {
         "character": "𦧗",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "憩"
@@ -521,6 +587,8 @@
     },
     {
         "character": "𦧘",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -535,6 +603,8 @@
     },
     {
         "character": "𦧙",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -551,6 +621,8 @@
     },
     {
         "character": "𦧚",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -571,6 +643,8 @@
     },
     {
         "character": "𦧛",
+        "radical": "⾆",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -585,6 +659,8 @@
     },
     {
         "character": "𦧝",
+        "radical": "⾆",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -601,6 +677,8 @@
     },
     {
         "character": "𦧞",
+        "radical": "⾆",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -617,6 +695,8 @@
     },
     {
         "character": "𦧟",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -631,6 +711,8 @@
     },
     {
         "character": "𦧠",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -647,6 +729,8 @@
     },
     {
         "character": "𦧡",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -672,6 +756,8 @@
     },
     {
         "character": "𦧢",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -688,6 +774,8 @@
     },
     {
         "character": "𦧤",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -704,6 +792,8 @@
     },
     {
         "character": "𦧥",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -720,6 +810,8 @@
     },
     {
         "character": "𦧦",
+        "radical": "⾆",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "辞（辭）"
@@ -729,6 +821,8 @@
     },
     {
         "character": "𦧧",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "舓（舐）"
@@ -738,6 +832,8 @@
     },
     {
         "character": "𦧩",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "甜"
@@ -747,6 +843,8 @@
     },
     {
         "character": "𦧪",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "舐"
@@ -756,6 +854,8 @@
     },
     {
         "character": "𦧫",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "舐"
@@ -765,6 +865,8 @@
     },
     {
         "character": "𦧬",
+        "radical": "⾆",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "𧱳"
@@ -774,6 +876,8 @@
     },
     {
         "character": "𦧭",
+        "radical": "⾆",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "𦧟"
@@ -783,6 +887,8 @@
     },
     {
         "character": "𦧮",
+        "radical": "⾆",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -799,6 +905,8 @@
     },
     {
         "character": "𦧯",
+        "radical": "⾆",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "憩"
@@ -808,6 +916,8 @@
     },
     {
         "character": "𦧰",
+        "radical": "⾆",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "𦧯（憩）"
@@ -817,6 +927,8 @@
     },
     {
         "character": "𦧱",
+        "radical": "⾆",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "䑜"
@@ -826,6 +938,8 @@
     },
     {
         "character": "𦧴",
+        "radical": "⾆",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -842,6 +956,8 @@
     },
     {
         "character": "𦧵",
+        "radical": "⾆",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "話"
@@ -851,6 +967,8 @@
     },
     {
         "character": "𦧶",
+        "radical": "⾆",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "舍"
@@ -860,6 +978,8 @@
     },
     {
         "character": "𦧸",
+        "radical": "⾆",
+        "strokes": "20",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -876,6 +996,8 @@
     },
     {
         "character": "𦧹",
+        "radical": "⾆",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -892,6 +1014,8 @@
     },
     {
         "character": "𦧺",
+        "radical": "⾆",
+        "strokes": "22",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -908,6 +1032,8 @@
     },
     {
         "character": "𦧻",
+        "radical": "⾆",
+        "strokes": "23",
         "variants": [],
         "synonyms": [
             "舚"
@@ -917,6 +1043,8 @@
     },
     {
         "character": "𦧼",
+        "radical": "⾆",
+        "strokes": "23",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -933,6 +1061,8 @@
     },
     {
         "character": "𬜅",
+        "radical": "⾆",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "舚"

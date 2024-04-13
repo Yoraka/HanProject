@@ -1,6 +1,8 @@
 [
     {
         "character": "㝸",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -17,6 +19,8 @@
     },
     {
         "character": "㝹",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "䨲"
@@ -26,6 +30,8 @@
     },
     {
         "character": "㝺",
+        "radical": "⼩",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -44,6 +50,8 @@
     },
     {
         "character": "㝻",
+        "radical": "⼩",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "僅"
@@ -53,6 +61,8 @@
     },
     {
         "character": "小",
+        "radical": "⼩",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -80,6 +90,8 @@
     },
     {
         "character": "尐",
+        "radical": "⼩",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -105,6 +117,8 @@
     },
     {
         "character": "少",
+        "radical": "⼩",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -140,6 +154,8 @@
     },
     {
         "character": "尒",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "爾"
@@ -149,6 +165,8 @@
     },
     {
         "character": "尓",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "𡭗（爾）"
@@ -158,6 +176,8 @@
     },
     {
         "character": "尔",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [
             "同“爾”。《集韻·紙韻》：“𡭗，亦書作尔。”按：今为“爾”"
         ],
@@ -167,6 +187,8 @@
     },
     {
         "character": "尕",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -183,6 +205,8 @@
     },
     {
         "character": "尖",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -210,6 +234,8 @@
     },
     {
         "character": "尗",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -224,6 +250,8 @@
     },
     {
         "character": "尘",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [
             "尘同“塵”。《字彙補·土部》：“尘，同塵。”按：今为“塵”"
         ],
@@ -233,6 +261,8 @@
     },
     {
         "character": "尚",
+        "radical": "⼩",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -270,6 +300,8 @@
     },
     {
         "character": "尛",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "麼"
@@ -279,6 +311,8 @@
     },
     {
         "character": "尜",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -297,6 +331,8 @@
     },
     {
         "character": "尝",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [
             "“嘗”"
         ],
@@ -306,6 +342,8 @@
     },
     {
         "character": "尞",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -328,6 +366,8 @@
     },
     {
         "character": "尟",
+        "radical": "⼩",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "鮮"
@@ -337,6 +377,8 @@
     },
     {
         "character": "尠",
+        "radical": "⼩",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "鮮"
@@ -346,6 +388,8 @@
     },
     {
         "character": "𠅽",
+        "radical": "⼩",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "𡮎"
@@ -355,6 +399,8 @@
     },
     {
         "character": "𠈤",
+        "radical": "⼩",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "孕"
@@ -364,6 +410,8 @@
     },
     {
         "character": "𡭕",
+        "radical": "⼩",
+        "strokes": "4",
         "variants": [],
         "synonyms": [
             "示"
@@ -373,6 +421,8 @@
     },
     {
         "character": "𡭗",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "爾"
@@ -382,6 +432,8 @@
     },
     {
         "character": "𡭘",
+        "radical": "⼩",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -396,6 +448,8 @@
     },
     {
         "character": "𡭙",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "貴"
@@ -405,6 +459,8 @@
     },
     {
         "character": "𡭚",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "麼"
@@ -414,6 +470,8 @@
     },
     {
         "character": "𡭛",
+        "radical": "⼩",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -430,6 +488,8 @@
     },
     {
         "character": "𡭝",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "米"
@@ -439,6 +499,8 @@
     },
     {
         "character": "𡭞",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -455,6 +517,8 @@
     },
     {
         "character": "𡭟",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "些"
@@ -464,6 +528,8 @@
     },
     {
         "character": "𡭠",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "當"
@@ -473,6 +539,8 @@
     },
     {
         "character": "𡭢",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -487,6 +555,8 @@
     },
     {
         "character": "𡭣",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "劣"
@@ -496,6 +566,8 @@
     },
     {
         "character": "𡭤",
+        "radical": "⼩",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "王"
@@ -505,6 +577,8 @@
     },
     {
         "character": "𡭥",
+        "radical": "⼩",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -521,6 +595,8 @@
     },
     {
         "character": "𡭩",
+        "radical": "⼩",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "筆"
@@ -530,6 +606,8 @@
     },
     {
         "character": "𡭪",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [
             "“㝸”"
         ],
@@ -539,6 +617,8 @@
     },
     {
         "character": "𡭫",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "叔"
@@ -548,6 +628,8 @@
     },
     {
         "character": "𡭭",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -564,6 +646,8 @@
     },
     {
         "character": "𡭮",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -580,6 +664,8 @@
     },
     {
         "character": "𡭯",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "麼"
@@ -589,6 +675,8 @@
     },
     {
         "character": "𡭳",
+        "radical": "⼩",
+        "strokes": "9",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -605,6 +693,8 @@
     },
     {
         "character": "𡭴",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "隙"
@@ -614,6 +704,8 @@
     },
     {
         "character": "𡭶",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "些"
@@ -623,6 +715,8 @@
     },
     {
         "character": "𡭷",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -637,6 +731,8 @@
     },
     {
         "character": "𡭸",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -653,6 +749,8 @@
     },
     {
         "character": "𡭹",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "玅（妙）"
@@ -662,6 +760,8 @@
     },
     {
         "character": "𡭼",
+        "radical": "⼩",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "卑"
@@ -671,6 +771,8 @@
     },
     {
         "character": "𡭽",
+        "radical": "⼩",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "𡭴（隙）"
@@ -680,6 +782,8 @@
     },
     {
         "character": "𡭾",
+        "radical": "⼩",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -696,6 +800,8 @@
     },
     {
         "character": "𡭿",
+        "radical": "⼩",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "鬯罔"
@@ -705,6 +811,8 @@
     },
     {
         "character": "𡮀",
+        "radical": "⼩",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "省"
@@ -714,6 +822,8 @@
     },
     {
         "character": "𡮁",
+        "radical": "⼩",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "卑"
@@ -723,6 +833,8 @@
     },
     {
         "character": "𡮎",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -739,6 +851,8 @@
     },
     {
         "character": "𡮐",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "小"
@@ -748,6 +862,8 @@
     },
     {
         "character": "𡮑",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "𡭾"
@@ -757,6 +873,8 @@
     },
     {
         "character": "𡮕",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "薏"
@@ -766,6 +884,8 @@
     },
     {
         "character": "𡮖",
+        "radical": "⼩",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [],
@@ -775,6 +895,8 @@
     },
     {
         "character": "𡮙",
+        "radical": "⼩",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -791,6 +913,8 @@
     },
     {
         "character": "𡮚",
+        "radical": "⼩",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -807,6 +931,8 @@
     },
     {
         "character": "𡮞",
+        "radical": "⼩",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -823,6 +949,8 @@
     },
     {
         "character": "𡮟",
+        "radical": "⼩",
+        "strokes": "14",
         "variants": [
             "“𢇇”"
         ],
@@ -832,6 +960,8 @@
     },
     {
         "character": "𡮡",
+        "radical": "⼩",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "麼"
@@ -841,6 +971,8 @@
     },
     {
         "character": "𡮢",
+        "radical": "⼩",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "嘗"
@@ -850,6 +982,8 @@
     },
     {
         "character": "𡮦",
+        "radical": "⼩",
+        "strokes": "15",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -866,6 +1000,8 @@
     },
     {
         "character": "𡮧",
+        "radical": "⼩",
+        "strokes": "15",
         "variants": [],
         "synonyms": [
             "臮（暨）"
@@ -875,6 +1011,8 @@
     },
     {
         "character": "𡮰",
+        "radical": "⼩",
+        "strokes": "16",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -891,6 +1029,8 @@
     },
     {
         "character": "𡮱",
+        "radical": "⼩",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "隙"
@@ -900,6 +1040,8 @@
     },
     {
         "character": "𡮻",
+        "radical": "⼩",
+        "strokes": "18",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -916,6 +1058,8 @@
     },
     {
         "character": "𡮿",
+        "radical": "⼩",
+        "strokes": "21",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -932,6 +1076,8 @@
     },
     {
         "character": "𢇔",
+        "radical": "⼩",
+        "strokes": "17",
         "variants": [],
         "synonyms": [
             "有"
@@ -941,6 +1087,8 @@
     },
     {
         "character": "𤯏",
+        "radical": "⼩",
+        "strokes": "18",
         "variants": [],
         "synonyms": [
             "槑（梅）"

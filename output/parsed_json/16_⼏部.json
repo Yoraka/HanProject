@@ -1,6 +1,8 @@
 [
     {
         "character": "㓘",
+        "radical": "⼏",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -17,6 +19,8 @@
     },
     {
         "character": "几",
+        "radical": "⼏",
+        "strokes": "2",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -43,6 +47,8 @@
     },
     {
         "character": "凡",
+        "radical": "⼏",
+        "strokes": "3",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -66,6 +72,8 @@
     },
     {
         "character": "凢",
+        "radical": "⼏",
+        "strokes": "3",
         "variants": [],
         "synonyms": [
             "凡"
@@ -75,6 +83,8 @@
     },
     {
         "character": "凤",
+        "radical": "⼏",
+        "strokes": "4",
         "variants": [
             "凤同“鳳”。《宋元以來俗字譜》：“鳳”，《目連記》作“凤”。按：今为“鳳”"
         ],
@@ -84,6 +94,8 @@
     },
     {
         "character": "凥",
+        "radical": "⼏",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "居"
@@ -93,6 +105,8 @@
     },
     {
         "character": "処",
+        "radical": "⼏",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "處"
@@ -102,6 +116,8 @@
     },
     {
         "character": "凨",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "風"
@@ -111,6 +127,8 @@
     },
     {
         "character": "凫",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [
             "凫“鳬”"
         ],
@@ -120,6 +138,8 @@
     },
     {
         "character": "凬",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "風"
@@ -129,6 +149,8 @@
     },
     {
         "character": "凭",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -146,6 +168,8 @@
     },
     {
         "character": "凮",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "風"
@@ -155,6 +179,8 @@
     },
     {
         "character": "凯",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [
             "凯“凱”"
         ],
@@ -164,6 +190,8 @@
     },
     {
         "character": "凰",
+        "radical": "⼏",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -180,6 +208,8 @@
     },
     {
         "character": "凱",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -200,6 +230,8 @@
     },
     {
         "character": "凲",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "尲"
@@ -209,6 +241,8 @@
     },
     {
         "character": "凳",
+        "radical": "⼏",
+        "strokes": "14",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -225,6 +259,8 @@
     },
     {
         "character": "凴",
+        "radical": "⼏",
+        "strokes": "14",
         "variants": [],
         "synonyms": [
             "凭"
@@ -234,6 +270,8 @@
     },
     {
         "character": "𠁉",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "初"
@@ -243,6 +281,8 @@
     },
     {
         "character": "𠘧",
+        "radical": "⼏",
+        "strokes": "2",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -259,6 +299,8 @@
     },
     {
         "character": "𠘩",
+        "radical": "⼏",
+        "strokes": "4",
         "variants": [],
         "synonyms": [
             "無"
@@ -268,6 +310,8 @@
     },
     {
         "character": "𠘪",
+        "radical": "⼏",
+        "strokes": "4",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -282,6 +326,8 @@
     },
     {
         "character": "𠘯",
+        "radical": "⼏",
+        "strokes": "4",
         "variants": [],
         "synonyms": [
             "禸（蹂）"
@@ -291,6 +337,8 @@
     },
     {
         "character": "𠘱",
+        "radical": "⼏",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -307,6 +355,8 @@
     },
     {
         "character": "𠘲",
+        "radical": "⼏",
+        "strokes": "5",
         "variants": [],
         "synonyms": [
             "大"
@@ -316,6 +366,8 @@
     },
     {
         "character": "𠘳",
+        "radical": "⼏",
+        "strokes": "5",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -332,6 +384,8 @@
     },
     {
         "character": "𠘵",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "夙"
@@ -341,6 +395,8 @@
     },
     {
         "character": "𠘶",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "否"
@@ -350,6 +406,8 @@
     },
     {
         "character": "𠘷",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "永"
@@ -359,6 +417,8 @@
     },
     {
         "character": "𠘸",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "旡"
@@ -368,6 +428,8 @@
     },
     {
         "character": "𠘺",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -384,6 +446,8 @@
     },
     {
         "character": "𠘻",
+        "radical": "⼏",
+        "strokes": "6",
         "variants": [],
         "synonyms": [
             "無"
@@ -393,6 +457,8 @@
     },
     {
         "character": "𠘼",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "𩖷"
@@ -402,6 +468,8 @@
     },
     {
         "character": "𠘽",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "民"
@@ -411,6 +479,8 @@
     },
     {
         "character": "𠘾",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "商"
@@ -420,6 +490,8 @@
     },
     {
         "character": "𠙁",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "長"
@@ -429,6 +501,8 @@
     },
     {
         "character": "𠙂",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "從"
@@ -438,6 +512,8 @@
     },
     {
         "character": "𠙃",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "兕"
@@ -447,6 +523,8 @@
     },
     {
         "character": "𠙄",
+        "radical": "⼏",
+        "strokes": "7",
         "variants": [],
         "synonyms": [
             "𠙈（風）"
@@ -456,6 +534,8 @@
     },
     {
         "character": "𠙆",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -472,6 +552,8 @@
     },
     {
         "character": "𠙇",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "夜"
@@ -481,6 +563,8 @@
     },
     {
         "character": "𠙈",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "風"
@@ -490,6 +574,8 @@
     },
     {
         "character": "𠙉",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "怡"
@@ -499,6 +585,8 @@
     },
     {
         "character": "𠙊",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "風"
@@ -508,6 +596,8 @@
     },
     {
         "character": "𠙋",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "以"
@@ -517,6 +607,8 @@
     },
     {
         "character": "𠙎",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "殊"
@@ -526,6 +618,8 @@
     },
     {
         "character": "𠙏",
+        "radical": "⼏",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "𠙆"
@@ -535,6 +629,8 @@
     },
     {
         "character": "𠙐",
+        "radical": "⼏",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "不"
@@ -544,6 +640,8 @@
     },
     {
         "character": "𠙑",
+        "radical": "⼏",
+        "strokes": "9",
         "variants": [],
         "synonyms": [
             "夜"
@@ -553,6 +651,8 @@
     },
     {
         "character": "𠙒",
+        "radical": "⼏",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "賵"
@@ -562,6 +662,8 @@
     },
     {
         "character": "𠙔",
+        "radical": "⼏",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -576,6 +678,8 @@
     },
     {
         "character": "𠙕",
+        "radical": "⼏",
+        "strokes": "10",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -590,6 +694,8 @@
     },
     {
         "character": "𠙖",
+        "radical": "⼏",
+        "strokes": "10",
         "variants": [],
         "synonyms": [
             "凴"
@@ -599,6 +705,8 @@
     },
     {
         "character": "𠙘",
+        "radical": "⼏",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "爵"
@@ -608,6 +716,8 @@
     },
     {
         "character": "𠙙",
+        "radical": "⼏",
+        "strokes": "11",
         "variants": [],
         "synonyms": [
             "冠"
@@ -617,6 +727,8 @@
     },
     {
         "character": "𠙞",
+        "radical": "⼏",
+        "strokes": "11",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -633,6 +745,8 @@
     },
     {
         "character": "𠙟",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "勝"
@@ -642,6 +756,8 @@
     },
     {
         "character": "𠙠",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "爽"
@@ -651,6 +767,8 @@
     },
     {
         "character": "𠙢",
+        "radical": "⼏",
+        "strokes": "12",
         "variants": [],
         "synonyms": [
             "蘧"
@@ -660,6 +778,8 @@
     },
     {
         "character": "𠙤",
+        "radical": "⼏",
+        "strokes": "13",
         "variants": [],
         "synonyms": [],
         "definitions": [
@@ -676,6 +796,8 @@
     },
     {
         "character": "𠙥",
+        "radical": "⼏",
+        "strokes": "13",
         "variants": [],
         "synonyms": [
             "凴"
@@ -685,6 +807,8 @@
     },
     {
         "character": "𠙭",
+        "radical": "⼏",
+        "strokes": "16",
         "variants": [],
         "synonyms": [
             "子"
@@ -694,6 +818,8 @@
     },
     {
         "character": "𠫮",
+        "radical": "⼏",
+        "strokes": "8",
         "variants": [],
         "synonyms": [
             "徒"
